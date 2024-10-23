@@ -87,10 +87,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-      apiKey: '3a9b2a5eac5a7c54b6b472e1689a4e69',
-      indexName: 'bativolt',
-      appId: 'WZYHMO3A0N',
-    },
+        apiKey: '3a9b2a5eac5a7c54b6b472e1689a4e69',
+        indexName: 'bativolt',
+        appId: 'WZYHMO3A0N',
+        contextualSearch: true, // Active la recherche contextuelle pour les sites multilingues
+      },      
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
