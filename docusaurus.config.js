@@ -30,9 +30,24 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'fr', // Par défaut en français
+    locales: ['fr', 'en', 'nl'], // Langues disponibles : français, anglais, néerlandais
+    localeConfigs: {
+      fr: {
+        label: 'Français',
+        direction: 'ltr', // Texte de gauche à droite
+      },
+      en: {
+        label: 'English',
+        direction: 'ltr',
+      },
+      nl: {
+        label: 'Nederlands',
+        direction: 'ltr',
+      },
+    },
   },
+  
 
   presets: [
     [
@@ -93,10 +108,14 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            type: 'localeDropdown', // Le sélecteur de langue
+            position: 'right', // Place le sélecteur de langue à droite
           },
+          {
+            type: 'search', // Barre de recherche Algolia
+            position: 'right', // À droite également
+          },
+          
         ],
       },
       footer: {
