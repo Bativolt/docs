@@ -11,18 +11,55 @@ const sidebars = {
       type: 'category',
       label: 'Checklist de Conformité',
       items: [
-        'checklist/introduction',
-        'checklist/acces-installation',
-        'checklist/releve-compteurs',
-        'checklist/rapport-conformite',
-        'checklist/plans-schemas-électriques',
-        'checklist/analyse-risques',
-        'checklist/plans-issues-secours',
-        'checklist/documentation-machines',
-        'checklist/dossier-electrique',
+        {
+          type: 'doc',
+          id: 'checklist/introduction',
+          label: 'Introduction',
+        },
+        {
+          type: 'doc',
+          id: 'checklist/acces-installation',
+          label: 'Accès Installation',
+        },
+        {
+          type: 'doc',
+          id: 'checklist/identification-compteurs',
+          label: 'Identification Compteurs',
+        },
+        {
+          type: 'doc',
+          id: 'checklist/rapport-conformite',
+          label: 'Rapport de Conformité',
+        },
+        {
+          type: 'doc',
+          id: 'checklist/plans-schemas-electriques',
+          label: 'Plans Électriques',
+        },
+        {
+          type: 'doc',
+          id: 'checklist/analyse-risques',
+          label: 'Analyse des Risques',
+        },
+        {
+          type: 'doc',
+          id: 'checklist/luminaires-de-secours',
+          label: 'Luminaires de Secours',
+        },
+        {
+          type: 'doc',
+          id: 'checklist/documentation-machines',
+          label: 'Doc Machines',
+        },
+        {
+          type: 'doc',
+          id: 'checklist/dossier-electrique',
+          label: 'Dossier Électrique',
+        },
       ],
     },
   ],
 };
 
+// Exportation de l'objet sidebars
 module.exports = sidebars;
