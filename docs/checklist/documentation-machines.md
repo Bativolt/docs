@@ -93,3 +93,13 @@ Certaines normes peuvent s'appliquer à des types spécifiques de machines, comm
 Bien que la documentation des machines ne soit pas toujours obligatoire selon le RGIE, il est impératif de s'assurer que toutes les prescriptions spécifiques sont respectées. Cela garantit non seulement la conformité, mais aussi la sécurité des utilisateurs.
 
 La prochaine étape de notre checklist de conformité sera le **dossier électrique**, qui servira de conclusion et récapitulera l'ensemble des éléments nécessaires pour assurer la conformité des installations électriques.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

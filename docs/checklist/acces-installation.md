@@ -113,3 +113,13 @@ Dans certains cas, des installations peuvent être protégées pour éviter des 
 ## 3. Conclusion
 
 Assurer un accès adéquat à toutes les parties de l'installation électrique est essentiel pour garantir la conformité avec le RGIE et protéger la sécurité des occupants. Les propriétaires doivent être conscients de ces exigences et prendre les mesures nécessaires pour faciliter l'accès lors des contrôles. Cela inclut la gestion proactive des installations encastrées et la mise en œuvre de procédures d'accès pour les installations protégées, garantissant ainsi la sécurité et la durabilité des systèmes électriques.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

@@ -73,3 +73,14 @@ Avant d'entrer dans les détails concernant les risques associés aux installati
 Les schémas électriques sont un élément essentiel pour garantir la conformité et la sécurité des installations électriques. Ils servent de base pour les contrôles de conformité et permettent d'assurer que toutes les installations respectent les normes du RGIE. 
 
 Pour les particuliers, fournir des schémas bien détaillés est crucial pour passer les contrôles. Pour les entreprises, ces schémas doivent être complétés par une analyse des risques afin de garantir une sécurité maximale dans l'environnement de travail. Nous passerons maintenant à la prochaine étape de la checklist : l'analyse des risques, qui est indispensable pour toute installation électrique en entreprise.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---
+

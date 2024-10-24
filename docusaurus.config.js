@@ -102,7 +102,7 @@ const config = {
         },
         items: [
           {
-            to: '/guide-rgie',  // Updated URL
+            to: '/docs/guide-rgie/introduction',  // Vérifiez que cela correspond au fichier
             label: 'Guide R.G.I.E.',
             position: 'left',
           },
@@ -149,11 +149,11 @@ const config = {
             items: [
               {
                 label: 'Guide R.G.I.E.',
-                to: '/guide-rgie',  // Updated URL
+                to: '/docs/guide-rgie/introduction',  // Updated URL
               },
               {
                 label: 'Checklist Conformité',
-                to: '/checklist',  // Updated URL
+                to: '/docs/checklist/introduction',  // Updated URL
               },
               {
                 label: 'Infractions Fréquentes',
@@ -184,23 +184,37 @@ const config = {
                 label: 'Facebook Bativolt',
                 href: 'https://www.facebook.com/bativolt',  // External link
               },
+              {
+                label: 'Blog de doc.bativolt.com',
+                to: '/blog',  // Lien vers le blog
+              },
             ],
           },
           {
             title: 'Plus',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',  // Blog link remains unchanged
+                label: 'Bativolt.com',
+                href: 'https://www.bativolt.com',  // Lien externe vers le site principal
               },
               {
-                label: 'Bativolt.com',
-                href: 'https://www.bativolt.com',  // External link to the main website
+                label: 'Contactez-nous',
+                href: 'mailto:docs@bativolt.com',  // Lien pour envoyer un e-mail
+              },
+              {
+                label: 'Disclaimer',
+                to: '/disclaimer',  // Lien vers la page de disclaimer
+              },
+              {
+                label: 'Confidentialité',
+                to: '/privacy-policy',  // Lien vers la page de politique de confidentialité
               },
             ],
+            
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés. Contenus protégés par des droits d'auteur.
+`,
       },      
       prism: {
         theme: prismThemes.github,

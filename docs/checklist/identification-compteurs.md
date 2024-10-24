@@ -49,3 +49,13 @@ L'accessibilité au compteur est un aspect essentiel à prendre en compte avant 
 
 ## 2. Conclusion sur l'Identification du Compteur
 En résumé, l'identification adéquate du compteur électrique est essentielle pour garantir la conformité et la sécurité des installations électriques. Il est impératif que les informations relatives au compteur soient facilement accessibles avant l'arrivée du contrôleur, et que l'accès au compteur soit toujours dégagé. Garder en tête l'importance des codes EAN et leur rôle dans la facturation est également crucial pour une gestion efficace de l'énergie.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

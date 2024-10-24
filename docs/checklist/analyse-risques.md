@@ -60,3 +60,13 @@ Les résultats de l'analyse des facteurs de risques doivent être documentés :
 L'analyse des facteurs de risques est essentielle pour garantir la sécurité et la conformité des installations électriques. Sans cette analyse, un contrôle de conformité ne peut pas être complet, ce qui pourrait compromettre la sécurité des utilisateurs.
 
 Une fois l'analyse des risques effectuée et les recommandations mises en œuvre, il est crucial de s'assurer que les luminaires de secours sont installés et fonctionnels. Ces dispositifs jouent un rôle clé dans la sécurité des occupants, surtout en cas de coupure de courant. Nous aborderons ce sujet dans la prochaine section de notre checklist de conformité.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

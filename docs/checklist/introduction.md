@@ -39,3 +39,13 @@ Voici un aperçu des différents points que nous allons aborder dans cette check
 En suivant cette checklist, vous pourrez non seulement assurer la conformité de vos installations, mais également garantir la sécurité des utilisateurs. Chaque point est essentiel pour prévenir les accidents et répondre aux exigences des assureurs, des techniciens et des contrôleurs. 
 
 Nous vous invitons à parcourir chaque section avec attention pour vous assurer que votre installation électrique est conforme et sécurisée.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

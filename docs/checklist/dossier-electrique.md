@@ -54,3 +54,13 @@ Tous les documents doivent toujours être accessibles pour tous les utilisateurs
 Le dossier électrique est essentiel pour garantir la sécurité et la conformité des installations électriques. Il doit être complet et à jour pour répondre aux exigences du RGIE et pour faciliter les interventions en cas de besoin. En distinguant clairement les éléments obligatoires pour les particuliers et les entreprises, nous pouvons nous assurer que chaque installation répond aux normes nécessaires pour la sécurité des utilisateurs.
 
 Cela conclut notre checklist de conformité.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---
