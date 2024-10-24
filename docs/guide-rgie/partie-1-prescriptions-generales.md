@@ -3,7 +3,7 @@ title: Partie 1 - Prescriptions Générales
 sidebar_label: 1. Prescriptions Générales
 ---
 
-# Partie 1 - Prescriptions Générales pour le Matériel et les Installations Électriques
+# Partie 1 - Prescriptions Générales
 
 ## CHAPITRE 1.1. INTRODUCTION
 [Ajoutez ici une introduction qui explique les principes généraux des installations électriques et leur importance.]
@@ -48,3 +48,13 @@ sidebar_label: 1. Prescriptions Générales
 
 ## CHAPITRE 1.5. LIMITES DES INSTALLATIONS
 [Discutez des limites des installations électriques et des cas où ces limites doivent être prises en compte.]
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

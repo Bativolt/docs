@@ -201,14 +201,6 @@ const config = {
                 label: 'Contactez-nous',
                 href: 'mailto:docs@bativolt.com',  // Lien pour envoyer un e-mail
               },
-              {
-                label: 'Disclaimer',
-                to: '/disclaimer',  // Lien vers la page de disclaimer
-              },
-              {
-                label: 'Confidentialité',
-                to: '/privacy-policy',  // Lien vers la page de politique de confidentialité
-              },
             ],
             
           },
