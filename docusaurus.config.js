@@ -95,52 +95,52 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Docs.Bativolt',
+        title: 'Bativolt',
         logo: {
           alt: 'Bativolt Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            to: '/guide-rgie',  // Page du Guide RGIE
+            to: '/guide-rgie',  // Updated URL
             label: 'Guide R.G.I.E.',
             position: 'left',
           },
           {
-            to: '/checklist-conformite',  // Page de la Checklist de Conformité
-            label: 'Checklist de Conformité',
+            to: '/docs/checklist/introduction',  // Lien vers la page introduction de la checklist
+            label: 'Checklist Conformité',
             position: 'left',
           },
           {
-            to: '/infractions-resolutions',  // Page des Infractions et Résolutions
-            label: 'Infractions Fréquentes et Résolutions',
+            to: '/infractions',  // Updated URL
+            label: 'Infractions Fréquentes',
             position: 'left',
           },
           {
-            to: '/trouver-electricien',  // Page pour Trouver un Électricien
+            to: '/electriciens-region',  // Updated URL
             label: 'Trouver un Électricien',
             position: 'left',
           },
           {
-            to: '/agences-agreees',  // Page des Agences Agréées
+            to: '/agences-agreees',  // Updated URL
             label: 'Agences Agréées',
             position: 'left',
           },
           {
-            href: 'https://www.bativolt.com',  // Lien vers le site principal
+            href: 'https://www.bativolt.com',  // External link to the main website
             label: 'Bativolt.com',
             position: 'right',
           },
           {
-            type: 'localeDropdown',  // Sélecteur de langue
+            type: 'localeDropdown',  // Language selector
             position: 'right',
           },
           {
-            type: 'search',  // Barre de recherche Algolia
+            type: 'search',  // Algolia search bar
             position: 'right',
           },
         ],
-      },
+      },      
       footer: {
         style: 'dark',
         links: [
@@ -149,23 +149,23 @@ const config = {
             items: [
               {
                 label: 'Guide R.G.I.E.',
-                to: '/guide-rgie',
+                to: '/guide-rgie',  // Updated URL
               },
               {
-                label: 'Checklist de Conformité',
-                to: '/checklist-conformite',
+                label: 'Checklist Conformité',
+                to: '/checklist',  // Updated URL
               },
               {
-                label: 'Infractions Fréquentes et Résolutions',
-                to: '/infractions-resolutions',
+                label: 'Infractions Fréquentes',
+                to: '/infractions',  // Updated URL
               },
               {
                 label: 'Trouver un Électricien',
-                to: '/trouver-electricien',
+                to: '/electriciens-region',  // Updated URL
               },
               {
                 label: 'Agences Agréées',
-                to: '/agences-agreees',
+                to: '/agences-agreees',  // Updated URL
               },
             ],
           },
@@ -174,15 +174,15 @@ const config = {
             items: [
               {
                 label: 'Instagram Bativolt',
-                href: 'https://www.instagram.com/bativolt/',
+                href: 'https://www.instagram.com/bativolt/',  // External link
               },
               {
                 label: 'LinkedIn Bativolt',
-                href: 'https://www.linkedin.com/company/bativolt',
+                href: 'https://www.linkedin.com/company/bativolt',  // External link
               },
               {
                 label: 'Facebook Bativolt',
-                href: 'https://www.facebook.com/bativolt',
+                href: 'https://www.facebook.com/bativolt',  // External link
               },
             ],
           },
@@ -190,15 +190,18 @@ const config = {
             title: 'Plus',
             items: [
               {
+                label: 'Blog',
+                to: '/blog',  // Blog link remains unchanged
+              },
+              {
                 label: 'Bativolt.com',
-                href: 'https://www.bativolt.com',
+                href: 'https://www.bativolt.com',  // External link to the main website
               },
             ],
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Bativolt. Tous droits réservés.`,
-      },
-      
+      },      
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
