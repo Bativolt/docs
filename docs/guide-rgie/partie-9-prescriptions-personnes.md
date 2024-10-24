@@ -1,3 +1,8 @@
+---
+title: Partie 9 - Prescriptions générales à observer par les personnes
+sidebar_label: 9. Prescriptions générales à observer
+---
+
 # Partie 9. Prescriptions générales à observer par les personnes
 
 ## CHAPITRE 9.1. DEVOIRS DU PROPRIÉTAIRE, GESTIONNAIRE OU EXPLOITANT

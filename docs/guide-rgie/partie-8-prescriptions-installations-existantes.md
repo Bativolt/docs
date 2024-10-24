@@ -1,3 +1,8 @@
+---
+title: Partie 8 - Prescriptions particulières relatives aux installations électriques existantes
+sidebar_label: 8. Prescriptions pour installations électriques existantes
+---
+
 # Partie 8. Prescriptions particulières relatives aux installations électriques existantes
 
 ## CHAPITRE 8.1. INTRODUCTION
@@ -54,6 +59,7 @@
 
 ### Section 8.4.4. Visite de contrôle d’une ancienne installation électrique non-domestique dans des lieux où ne sont pas occupées des personnes visées par l’article 2 de la loi sur le bien-être au travail du 4/08/1996
 [Ajoutez ici des informations sur les visites de contrôle pour les installations non-domestiques.]
+
 
 ---
 
