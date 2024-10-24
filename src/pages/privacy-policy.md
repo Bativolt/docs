@@ -31,4 +31,4 @@ Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autr
 Si vous avez des questions concernant cette Politique de Confidentialité ou si vous souhaitez exercer vos droits, veuillez nous contacter à l'adresse suivante :  
 [docs@bativolt.com](mailto:docs@bativolt.com).
 
-**Date d'entrée en vigueur :** [Date d'entrée en vigueur de la politique]
+**Date d'entrée en vigueur :** 25/10/2024.

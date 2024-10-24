@@ -26,4 +26,4 @@ La reproduction, même partielle, du contenu de ce site est strictement interdit
 
 Pour toute question ou préoccupation relative à ce disclaimer, ou pour demander des autorisations concernant l'utilisation de notre contenu, veuillez nous contacter à l'adresse suivante : [docs@bativolt.com](mailto:docs@bativolt.com).
 
-**Date de mise à jour :** [Date de mise à jour]
+**Date de mise à jour :** 25/10/2024.
