@@ -14,44 +14,42 @@ Le rapport de conformité sert d'attestation que l'installation électrique a é
 
 - **Protection des Usagers** : Un rapport valide indique que les installations sont sécurisées et minimisent les risques d'accidents électriques, tels que les électrocutions ou les incendies.
 
-- **Conformité aux Normes** : Ce document garantit que l'installation respecte les exigences du RGIE, ce qui est fondamental pour la sécurité et la légalité de l'installation.
+- **État lors du Contrôle** : Le rapport doit mentionner ce qui a été contrôlé et l'état de l'installation au moment du contrôle. Cela permet de comprendre les résultats du contrôle et de garantir la sécurité des occupants.
 
 ### 1.2. Obligation Légale
 Dans de nombreux pays, la fourniture d'un rapport de conformité est une obligation légale :
 
 - **Exigence pour les Propriétaires** : Les propriétaires d'immeubles doivent disposer d'un rapport de conformité valide pour prouver que leur installation respecte les normes en vigueur.
 
-- **Documents à Fournir** : Lors d'une vente immobilière ou d'une location, il est souvent demandé de présenter ce rapport aux nouveaux occupants ou aux autorités compétentes.
+- **Issue du Contrôle** : Si le rapport est inexistant, il est impératif d'en réaliser un le plus rapidement possible. En revanche, si un rapport existe, il doit être facilement accessible, accompagné des schémas électriques contrôlés, et être signé par le contrôleur avec la date.
 
-### 1.3. Utilisation du Rapport par les Contrôleurs
+### 1.3. Validité du Rapport
+La validité du rapport dépend de son statut :
+
+- **Conforme** : Si le rapport indique que l'installation est conforme, il est valable pour une durée de 25 ans.
+
+- **Non Conforme** : Si des non-conformités sont identifiées, des délais spécifiques s'appliquent :
+  - **Particuliers** : Les particuliers ont généralement entre 12 et 18 mois à partir de la date de l'acte pour remettre leur installation en conformité. La durée de 18 mois peut être accordée dans des cas particuliers où des travaux plus importants sont nécessaires.
+  
+  - **Entreprises et Espaces Publics** : Pour les entreprises, les délais peuvent être plus stricts en raison des exigences réglementaires. Les installations doivent répondre aux normes de sécurité sans délais excessifs, surtout dans les lieux publics où la sécurité est primordiale.
+
+## 2. Utilisation du Rapport par les Contrôleurs
+
 Les contrôleurs se basent sur le rapport de conformité pour évaluer l'état de l'installation :
 
-- **Vérifications** : Ils examineront le rapport pour s'assurer que toutes les installations, y compris les compteurs, ont été correctement vérifiées et conformes aux exigences.
+### 2.1. Vérifications
+- **Examen des Installations** : Ils examineront le rapport pour s'assurer que toutes les installations, y compris les compteurs, ont été correctement vérifiées et conformes aux exigences.
 
-- **Identifications des Non-Conformités** : En cas de problèmes, le rapport permettra d'identifier rapidement les installations non conformes nécessitant des mises à jour ou des réparations.
+- **Identification des Non-Conformités** : En cas de problèmes, le rapport permettra d'identifier rapidement les installations non conformes nécessitant des mises à jour ou des réparations.
 
-## 2. Éléments Inclus dans le Rapport de Conformité
+### 2.2. Cas Particuliers lors d'une Vente
+En cas de vente ou d'achat d'une habitation, il existe des exigences supplémentaires à respecter :
 
-### 2.1. Détails de l'Installation
-Le rapport doit inclure des informations détaillées sur l'installation :
+- **PV du Contrôle** : Bien que peu de notaires appliquent la règle, il est souvent requis de fournir un procès-verbal (PV) de contrôle datant de moins de 5 ans.
 
-- **Description des Installations** : Cela comprend des détails sur le type d'installation électrique, la date de réalisation, et le nom de l'électricien qui a effectué le travail.
+- **Demande de Contrôle Spécifique** : Si aucun rapport n'est disponible, une demande de contrôle spécifique pour la vente doit être introduite. Il est essentiel d'en informer le contrôleur à l'avance, afin qu'il réalise un contrôle rigoureux.
 
-- **Localisation des Compteurs** : Le rapport doit indiquer où se trouvent les compteurs et leur type, ce qui est essentiel pour la vérification future.
-
-### 2.2. Schémas Électriques
-Les schémas électriques doivent également être joints au rapport :
-
-- **Plans de Répartition** : Ils doivent montrer la répartition des circuits, des prises, des interrupteurs, et d'autres éléments, permettant une compréhension claire de l'installation.
-
-- **Liens vers les Plans** : Pour plus de détails sur les plans électriques, consultez la section suivante de notre checklist de conformité.
-
-### 2.3. Index de Consommation
-Le rapport doit comprendre les relevés d'index des compteurs :
-
-- **Index Jour/Nuit** : Les index de consommation doivent être notés, y compris les relevés jour et nuit, en fonction du type de compteur installé.
-
-- **Analyse des Données** : Cela permet d'évaluer la consommation d'énergie et d'identifier les tendances, ce qui peut être utile pour les futurs audits énergétiques.
+- **Transparence pour l'Acheteur** : Cela permet à l'acheteur d'être au courant de l'état de l'installation au moment de recevoir son bien. Si des non-conformités sont identifiées, l'acheteur doit être informé des délais de mise en conformité.
 
 ## 3. Conclusion
 
