@@ -126,3 +126,13 @@ Les schémas aident également les électriciens à faire des choix éclairés c
 Les schémas électriques sont un élément fondamental pour la sécurité et la conformité des installations. Leur absence ou leur inexactitude peut entraîner des conséquences financières, juridiques, et de sécurité significatives. Il est impératif de s'assurer que des schémas précis sont disponibles et à jour pour chaque installation électrique. Non seulement cela contribue à la sécurité des utilisateurs, mais cela protège également les installateurs et les professionnels de l'électricité contre d'éventuelles responsabilités.
 
 En résumé, un bon schéma électrique est bien plus qu'un simple document technique ; c'est un outil qui garantit la sécurité, la conformité, et une gestion efficace des installations électriques. En cas de doute sur la réalisation ou la mise à jour de schémas, il est fortement recommandé de consulter un professionnel qualifié pour éviter des problèmes futurs.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

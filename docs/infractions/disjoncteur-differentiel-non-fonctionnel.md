@@ -56,3 +56,13 @@ Les installations électriques doivent respecter les normes établies par le Rè
 ## Conclusion
 
 Il est essentiel de s'assurer que les disjoncteurs différentiels fonctionnent correctement pour garantir la sécurité des installations électriques. En effectuant des tests réguliers et en remplaçant les disjoncteurs défectueux, les utilisateurs peuvent prévenir des accidents potentiellement graves. En cas de doute, il est toujours préférable de consulter un électricien qualifié pour les remplacements et les réparations, garantissant ainsi la conformité aux normes de sécurité en vigueur.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

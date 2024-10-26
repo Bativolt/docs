@@ -66,3 +66,13 @@ Il est recommandé de faire installer des disjoncteurs différentiel par un éle
 ## Conclusion
 
 La protection des circuits par un disjoncteur différentiel de 30mA est essentielle pour garantir la sécurité des installations électriques. Les nouvelles exigences réglementaires introduites en juillet 2023 renforcent cette nécessité, bien que des exceptions existent. Il est impératif pour les propriétaires et les professionnels de veiller à ce que toutes les installations soient conformes et que les mesures de protection appropriées soient mises en place pour réduire les risques d'accidents électriques.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

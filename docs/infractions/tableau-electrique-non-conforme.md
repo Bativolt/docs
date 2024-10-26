@@ -72,3 +72,13 @@ Les coûts pour remplacer un tableau électrique non conforme peuvent varier. Vo
 ## Conclusion
 
 Il est impératif de veiller à ce que les tableaux électriques soient conformes aux normes en vigueur pour garantir la sécurité des utilisateurs. Les risques associés aux tableaux non conformes, tels que les incendies, les surtensions, et les défaillances de sécurité, peuvent avoir des conséquences graves. Il est donc recommandé de faire inspecter et, si nécessaire, de remplacer les tableaux électriques par des professionnels qualifiés. Un tableau électrique conforme est non seulement une obligation légale, mais également une nécessité pour assurer la sécurité et le bon fonctionnement des installations électriques.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---
