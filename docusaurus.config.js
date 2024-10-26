@@ -66,7 +66,7 @@ const config = {
       items: [
         { to: '/docs/guide-rgie/introduction', label: 'Guide R.G.I.E.', position: 'left' },
         { to: '/docs/checklist/introduction', label: 'Checklist Conformité', position: 'left' },
-        { to: '/infractions', label: 'Infractions Fréquentes', position: 'left' },
+        { to: '/docs/infractions/introduction', label: 'Infractions & Résolutions', position: 'left' },
         { to: '/electriciens-region', label: 'Trouver un Électricien', position: 'left' },
         { to: '/agences-agreees', label: 'Agences Agréées', position: 'left' },
         { href: 'https://www.bativolt.com', label: 'Bativolt.com', position: 'right' },
@@ -82,7 +82,7 @@ const config = {
           items: [
             { label: 'Guide R.G.I.E.', to: '/docs/guide-rgie/introduction' },
             { label: 'Checklist Conformité', to: '/docs/checklist/introduction' },
-            { label: 'Infractions Fréquentes', to: '/infractions' },
+            { label: 'Infractions Fréquentes', to: '/docs/infractions/introduction' },
             { label: 'Trouver un Électricien', to: '/electriciens-region' },
             { label: 'Agences Agréées', to: '/agences-agreees' },
           ],
