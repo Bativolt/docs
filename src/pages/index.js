@@ -13,14 +13,16 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          docs.bativolt.com - Votre Référence RGIE
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          Bienvenue sur docs.bativolt.com, votre plateforme documentaire dédiée à la conformité électrique en Belgique. Conçu pour éduquer, informer, assister et guider tous les professionnels et particuliers dans la compréhension des normes RGIE.
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            to="https://docs.bativolt.com/docs/guide-rgie/introduction">
+            Accéder au Guide RGIE
           </Link>
         </div>
       </div>
@@ -32,8 +34,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="docs.bativolt.com - Documentation RGIE"
+      description="Votre référence en documentation RGIE pour la conformité électrique en Belgique, un site éducatif, informatif et d'assistance pour les professionnels et les particuliers.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
