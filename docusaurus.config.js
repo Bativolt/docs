@@ -48,13 +48,10 @@ const config = {
       },
     ],
   ],
-  
-  scripts: [
-    {
-      src: '/gtm.js', // Chemin relatif du fichier dans le dossier static
-      async: true,
-    },
-  ],  
+
+  plugins: [
+    require.resolve('./plugins/docusaurus-plugin-gtm'),
+  ],
   
   themeConfig: {
     algolia: {
