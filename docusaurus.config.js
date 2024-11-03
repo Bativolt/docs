@@ -49,10 +49,14 @@ const config = {
     ],
   ],
 
-  plugins: [
-    require.resolve('./plugins/docusaurus-plugin-gtm'),
+  scripts: [
+    {
+      src: '//cdn.cookie-script.com/s/cb9b7cb807b525bb72dd46257d2d4fc0.js',
+      type: 'text/javascript',
+      charset: 'UTF-8',
+    },
   ],
-  
+
   themeConfig: {
     algolia: {
       apiKey: '3a9b2a5eac5a7c54b6b472e1689a4e69',
@@ -65,7 +69,7 @@ const config = {
       title: 'docs.bativolt',
       logo: {
         alt: 'Bativolt Logo',
-        src: 'img/logo.png', // Logo par défaut
+        src: 'img/logo.png',
       },
       items: [
         { to: '/docs/guide-rgie/introduction', label: 'Guide R.G.I.E.', position: 'left' },
