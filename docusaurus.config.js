@@ -32,7 +32,7 @@ const config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: null, // Désactive le lien "Éditer cette page"
         },
         blog: {
           showReadingTime: true,
@@ -48,6 +48,7 @@ const config = {
       },
     ],
   ],
+  
 
   themeConfig: {
     algolia: {
