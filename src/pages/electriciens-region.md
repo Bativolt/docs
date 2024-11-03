@@ -42,3 +42,13 @@ Si vous êtes un électricien agréé souhaitant figurer sur notre liste, veuill
 ## Conclusion
 
 Cette page a pour but de vous aider à trouver des électriciens qualifiés et agréés. En intégrant cette fonctionnalité de recherche par code postal, nous espérons rendre la recherche d'électriciens encore plus simple et efficace. Restez à l'écoute pour des mises à jour sur cette fonctionnalité et d'autres améliorations à venir sur notre site.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

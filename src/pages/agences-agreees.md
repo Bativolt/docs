@@ -56,3 +56,13 @@ Les livres font référence à la classification des installations électriques,
 ## Conclusion
 
 Ces organismes agréés jouent un rôle essentiel dans le contrôle et la certification des installations électriques en Belgique. Il est recommandé de toujours choisir un organisme reconnu pour garantir la conformité et la sécurité de vos installations électriques. Pour plus d'informations sur les agences agréées, vous pouvez consulter la page officielle du **SPF Économie**.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---
