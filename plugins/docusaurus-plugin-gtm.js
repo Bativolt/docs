@@ -7,6 +7,22 @@ module.exports = function (context, options) {
           headTags: [
             {
               tagName: 'script',
+              attributes: {
+                async: true,
+                src: 'https://www.googletagmanager.com/gtag/js?id=G-XL1Q15W2E6',
+              },
+            },
+            {
+              tagName: 'script',
+              innerHTML: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-XL1Q15W2E6');
+              `,
+            },
+            {
+              tagName: 'script',
               innerHTML: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
                 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
                 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -25,5 +41,4 @@ module.exports = function (context, options) {
       },
     };
   };
-
   
