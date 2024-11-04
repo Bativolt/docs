@@ -33,21 +33,13 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: { type: ['rss', 'atom'], xslt: true },
-          editUrl: 'https://github.com/Bativolt/docs/tree/main/',
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
       },
     ],
   ],
-
+  
   scripts: [
     {
       src: '//cdn.cookie-script.com/s/cb9b7cb807b525bb72dd46257d2d4fc0.js',
@@ -104,9 +96,9 @@ const config = {
             { label: 'Instagram Bativolt', href: 'https://www.instagram.com/bativolt/' },
             { label: 'LinkedIn Bativolt', href: 'https://www.linkedin.com/company/bativolt' },
             { label: 'Facebook Bativolt', href: 'https://www.facebook.com/bativolt' },
-            { label: 'Blog de docs.bativolt.com', to: '/blog' },
+            { label: 'Dernières Mises à Jour', to: '/docs/mises-a-jour/dernieres-mises-a-jour' },
           ],
-        },
+        },        
         {
           title: 'Plus',
           items: [
