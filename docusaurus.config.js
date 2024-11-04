@@ -96,7 +96,7 @@ const config = {
             { label: 'Instagram Bativolt', href: 'https://www.instagram.com/bativolt/' },
             { label: 'LinkedIn Bativolt', href: 'https://www.linkedin.com/company/bativolt' },
             { label: 'Facebook Bativolt', href: 'https://www.facebook.com/bativolt' },
-            { label: 'Dernières Mises à Jour', to: '/docs/mises-a-jour/dernieres-mises-a-jour' },
+            { label: 'Dernières Mises à Jour', to: '/dernieres-mises-a-jour' },
           ],
         },        
         {
