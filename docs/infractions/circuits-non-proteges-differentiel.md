@@ -1,7 +1,9 @@
 ---
-title: Circuits Non Protégés par un Disjoncteur Différentiel de 30mA
+title: "Circuits sans Protection par Disjoncteur Différentiel de 30mA - Sécurité RGIE"
 sidebar_label: Circuits Non Protégés
+description: "Apprenez pourquoi un disjoncteur différentiel de 30mA est essentiel pour la sécurité des circuits électriques selon le RGIE. Guide pour comprendre les normes et prévenir les infractions."
 ---
+
 
 # Circuits Non Protégés par un Disjoncteur Différentiel de 30mA
 

@@ -1,7 +1,9 @@
 ---
-title: Circuits Non Conformes avec Mélange de Sections
+title: "Circuits Non Conformes avec Mélange de Sections - Guide de Conformité Électrique"
 sidebar_label: Circuits Non Conformes
+description: "Comprenez les dangers des circuits non conformes avec un mélange de sections. Guide pratique sur les normes RGIE en Belgique pour éviter les infractions électriques."
 ---
+
 
 # Circuits Non Conformes avec Mélange de Sections
 

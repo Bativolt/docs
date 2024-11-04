@@ -1,7 +1,9 @@
 ---
-title: Conclusion sur les Infractions Électriques
+title: "Conclusion sur les Infractions Électriques - Récapitulatif RGIE"
 sidebar_label: Conclusion
+description: "Récapitulatif des infractions électriques et des mesures de conformité selon le RGIE. Points essentiels pour assurer la sécurité et la conformité des installations électriques en Belgique."
 ---
+
 
 # Conclusion sur les Infractions Électriques
 

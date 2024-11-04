@@ -4,7 +4,7 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* Couleurs principales pour les deux modes */
 :root {
   --ifm-color-primary: #ffaa00;
   --ifm-color-primary-dark: #e69900;
@@ -15,41 +15,11 @@
   --ifm-color-primary-lightest: #ffc34d;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Mode sombre : appliquer le fond sombre et adapter les couleurs */
 [data-theme='dark'] {
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
-:root {
-  :root {
-    [data-theme='dark'] {
-      --ifm-color-primary: #ffaa00;
-      --ifm-color-primary-dark: #e69900;
-      --ifm-color-primary-darker: #d99000;
-      --ifm-color-primary-darkest: #b37700;
-      --ifm-color-primary-light: #ffb31a;
-      --ifm-color-primary-lighter: #ffb726;
-      --ifm-color-primary-lightest: #ffc34d;
-    }
-  }
-}
-
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  :root {
-    [data-theme='dark'] {
-      --ifm-color-primary: #ffaa00;
-      --ifm-color-primary-dark: #e69900;
-      --ifm-color-primary-darker: #d99000;
-      --ifm-color-primary-darkest: #b37700;
-      --ifm-color-primary-light: #ffb31a;
-      --ifm-color-primary-lighter: #ffb726;
-      --ifm-color-primary-lightest: #ffc34d;
-    }
-  }
-}
+  --ifm-background-color: #1e1e1e; /* Fond sombre */
+  --ifm-color-primary: #ffaa00; /* Couleur primaire orange */
+  --ifm-navbar-background-color: #1e1e1e; /* Couleur du fond de la navbar */
+  --ifm-color-text: #ffffff; /* Texte blanc pour meilleure lisibilité */
+  --ifm-code-color: #ffaa00; /* Texte du code en orange */
 }

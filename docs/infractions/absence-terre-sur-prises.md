@@ -1,6 +1,7 @@
 ---
-title: Terre Absente sur les Prises
+title: "Terre Absente sur les Prises - Normes de Sécurité RGIE en Belgique"
 sidebar_label: Terre Absente
+description: "Découvrez l'importance de la mise à la terre des prises pour la sécurité électrique selon le RGIE. Apprenez les risques d'absence de terre et les obligations de conformité en Belgique."
 ---
 
 # Terre Absente sur les Prises

@@ -1,6 +1,7 @@
 ---
-title: Introduction aux Infractions Électriques
+title: "Introduction aux Infractions Électriques - Guide RGIE et Conformité en Belgique"
 sidebar_label: Introduction
+description: "Explorez l'introduction aux infractions électriques selon le RGIE. Comprenez les règles de conformité électrique en Belgique, les erreurs courantes, et comment assurer la sécurité des installations électriques."
 ---
 
 # Introduction aux Infractions Électriques

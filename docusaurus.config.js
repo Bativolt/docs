@@ -3,15 +3,15 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Bativolt - Documentation RGIE en Belgique',
+  tagline: 'La référence belge pour la conformité électrique, dédiée aux professionnels et particuliers.',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.bativolt.com',
   baseUrl: '/',
 
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
+  organizationName: 'Bativolt',
+  projectName: 'docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -32,12 +32,11 @@ const config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
-          // Supprimez la ligne `editUrl` complètement
         },
         blog: {
           showReadingTime: true,
           feedOptions: { type: ['rss', 'atom'], xslt: true },
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/Bativolt/docs/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -64,7 +63,11 @@ const config = {
       appId: 'WZYHMO3A0N',
       contextualSearch: true,
     },
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/bativolt-social-card.jpg',
+    metadata: [
+      { name: 'keywords', content: 'RGIE, conformité électrique, Bativolt, documentation, Belgique, ingénieur électricien, étudiant en électricité' },
+      { name: 'description', content: 'Bativolt est la plateforme documentaire de référence en Belgique pour la conformité électrique selon le RGIE, destinée aux électriciens, ingénieurs, étudiants et particuliers.' },
+    ],
     navbar: {
       title: 'docs.bativolt',
       logo: {
@@ -101,7 +104,7 @@ const config = {
             { label: 'Instagram Bativolt', href: 'https://www.instagram.com/bativolt/' },
             { label: 'LinkedIn Bativolt', href: 'https://www.linkedin.com/company/bativolt' },
             { label: 'Facebook Bativolt', href: 'https://www.facebook.com/bativolt' },
-            { label: 'Blog de doc.bativolt.com', to: '/blog' },
+            { label: 'Blog de docs.bativolt.com', to: '/blog' },
           ],
         },
         {
