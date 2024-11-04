@@ -6,26 +6,71 @@ description: "Explorez l'introduction aux infractions électriques selon le RGIE
 
 # Introduction aux Infractions Électriques
 
-Dans le domaine de l'électricité, la sécurité est d'une importance primordiale. Les installations électriques doivent respecter des normes strictes pour protéger les utilisateurs et assurer un fonctionnement fiable des systèmes. Cependant, de nombreuses infractions peuvent survenir lors de l'installation, de la modification ou de l'entretien des systèmes électriques. Ces infractions, bien que parfois considérées comme mineures, peuvent avoir des conséquences graves, tant sur le plan financier que sur la sécurité.
+La sécurité dans les installations électriques est une **priorité essentielle**, tant pour les utilisateurs que pour les professionnels responsables de leur conception, installation et maintenance. Respecter les normes de sécurité définies par le **Règlement Général sur les Installations Électriques (RGIE)** est crucial pour protéger les personnes, les biens et les équipements contre des risques graves, tels que les chocs électriques, les incendies, et les pannes coûteuses. Cependant, des **infractions électriques** peuvent se produire à divers stades : lors de l’installation, pendant la modification ou au cours de l’entretien d’un système. Même les infractions dites "mineures" peuvent avoir des conséquences graves en termes de sécurité et de coût.
 
-Cette série de pages examine en détail dix infractions électriques courantes, chacune ayant des implications significatives pour la sécurité et la conformité. Parmi les infractions abordées, nous trouverons :
+## 1. Objectifs du Guide
 
-1. **Schémas Électriques Absents ou Non Conformes** : L'importance des schémas pour garantir une installation conforme et sécurisée.
-2. **Terre Non Conforme ou Absente** : Les risques associés à une mise à la terre défaillante et les dérogations pour les installations anciennes.
-3. **Tableaux Électriques Non Conformes** : Les dangers liés à l'utilisation de tableaux sans protections adéquates.
-4. **Circuits Non Protégés par un Différentiel de 30 mA** : L'évolution des normes depuis juillet 2023 et les exigences spécifiques pour les locaux humides.
-5. **Différentiels Ne Fonctionnant Pas** : L'importance de la maintenance régulière et des tests pour garantir la sécurité.
-6. **Liaisons Équipotentielles Non Réalisées** : Les implications de l'absence de liaisons équipotentielles dans les installations.
-7. **Circuits Mixtes avec Sections Différentes** : Les dangers de mélanger des câbles de sections différentes dans une même installation.
-8. **Absence de Terre sur les Prises** : Les dérogations pour les installations antérieures à 1981 et leurs conséquences.
-9. **Installations Pas Réalisées Selon les Règles de l'Art** : Les risques associés aux pratiques inadéquates et aux installations non conformes.
-10. **Degrés de Protection Non Respectés** : Les différentes possibilités de non-conformité et leurs conséquences sur la sécurité.
+Ce guide vise à :
+- **Sensibiliser** aux infractions les plus courantes dans les installations électriques,
+- **Éduquer** sur les risques associés et les réglementations du RGIE,
+- **Proposer des solutions** pour la mise en conformité.
 
-Chaque page explorera les détails de ces infractions, y compris leurs implications, les risques associés, les méthodes de détection, les résolutions possibles et les coûts estimés pour remédier à ces problèmes. 
+Nous explorerons **onze infractions électriques courantes**, chacune comportant des implications significatives pour la sécurité et la conformité. Voici les infractions traitées dans ce guide, avec un lien vers chaque page pour plus de détails :
 
-Il est essentiel que tant les professionnels que les particuliers soient conscients de ces infractions et de leurs impacts. La connaissance des normes et des exigences en matière de sécurité est la première étape pour garantir des installations électriques sûres et conformes.
+1. **[Schémas Électriques Absents ou Non Conformes](https://docs.bativolt.com/docs/infractions/schema-electriques-absents)** : L'importance de disposer de schémas à jour pour garantir une installation sécurisée.
+2. **[Résistance à l'Isolation](https://docs.bativolt.com/docs/infractions/perte-electricite-isolation)** : Prévenir les fuites de courant et minimiser les pertes d'électricité grâce à une isolation adéquate.
+3. **[Terre Non Conforme ou Absente](https://docs.bativolt.com/docs/infractions/absence-terre-sur-prises)** : Comprendre les dérogations pour les installations avant 1981 et les risques liés à une mise à la terre insuffisante.
+4. **[Tableaux Électriques Non Conformes](https://docs.bativolt.com/docs/infractions/tableau-electrique-non-conforme)** : Les dangers liés aux tableaux sans protections appropriées.
+5. **[Circuits Non Protégés par un Différentiel de 30mA](https://docs.bativolt.com/docs/infractions/circuits-non-proteges-differentiel)** : Les nouvelles exigences et la protection renforcée dans les zones humides.
+6. **[Différentiels Ne Fonctionnant Pas](https://docs.bativolt.com/docs/infractions/disjoncteur-differentiel-non-fonctionnel)** : La nécessité de tester régulièrement les dispositifs de protection.
+7. **[Liaisons Équipotentielles Non Réalisées](https://docs.bativolt.com/docs/infractions/liaisons-equipotentielles-non-realisees)** : Prévenir les différences de potentiel pour éviter les risques de chocs électriques.
+8. **[Circuits Mixtes avec Sections Différentes](https://docs.bativolt.com/docs/infractions/circuits-mixtes-non-conformes)** : Les dangers de mélanger des câbles de différentes sections.
+9. **[Absence de Terre sur les Prises](https://docs.bativolt.com/docs/infractions/absence-terre-sur-prises)** : Les règles et les exceptions pour les installations avant 1981.
+10. **[Installations Pas Réalisées Selon les Règles de l'Art](https://docs.bativolt.com/docs/infractions/installation-non-realisee-regles-art)** : Les pratiques non conformes et les risques associés.
+11. **[Degrés de Protection Non Respectés](https://docs.bativolt.com/docs/infractions/degres-protection-non-respectes)** : Les risques et les solutions en cas de non-respect des degrés de protection.
 
-En parcourant cette série, nous espérons sensibiliser tous les acteurs concernés à l'importance de la conformité électrique et fournir des informations précieuses pour aider à prévenir les infractions à l'avenir. Ensemble, nous pouvons créer un environnement électrique plus sûr pour tous.
+Chaque page fournit une **analyse détaillée** de l’infraction, des risques associés, des méthodes de détection, des solutions et des coûts estimés pour la mise en conformité.
+
+:::info 💡 Astuce Visuelle
+Pour faciliter la compréhension, nous utiliserons des encadrés colorés pour afficher des **astuces pratiques**, des **mises en garde**, et des **informations techniques**.
+:::
+
+## 2. Pourquoi la Conformité Électrique est-elle Cruciale ?
+
+La conformité électrique, telle que définie par le RGIE, permet :
+- **D'assurer la sécurité** des utilisateurs en évitant les chocs électriques et les incendies,
+- **De protéger les biens** contre les dommages causés par des équipements défectueux,
+- **De garantir la fiabilité** de l’installation pour éviter les interruptions de service et les réparations coûteuses.
+
+:::warning ⚠️ Avertissement
+Les infractions électriques non résolues peuvent entraîner des **sanctions lors des contrôles de conformité**. En cas de non-conformité, des réparations peuvent être exigées pour assurer la sécurité de tous.
+:::
+
+## 3. Comment Détecter et Corriger les Infractions ?
+
+### Méthodes de Détection
+- **Inspection Visuelle** : Certaines infractions, comme les câbles mal protégés, peuvent être identifiées visuellement.
+- **Tests Techniques** : Des appareils comme le **mégohmmètre** pour tester la résistance à l’isolation ou le **testeur de prise** pour vérifier la mise à la terre peuvent détecter des infractions invisibles à l’œil nu.
+- **Contrôles Professionnels** : Faire appel à un électricien qualifié est essentiel pour une évaluation complète et conforme.
+
+### Mise en Conformité
+Pour garantir la conformité, il est recommandé de :
+1. **Consulter un électricien agréé** pour une inspection approfondie.
+2. **Suivre les recommandations du RGIE** pour chaque type d’infraction.
+3. **Utiliser des matériaux de qualité** et conformes aux normes.
+
+## 4. Contributions Communautaires et Photos
+
+Nous encourageons la **communauté Bativolt** à enrichir notre documentation. Si vous avez des photos, des exemples de cas ou des suggestions d’infractions supplémentaires à documenter, contactez-nous. 
+
+:::info 📸 Contribution Visuelle
+Si vous avez des photos de tests ou de procédures de mise en conformité, n'hésitez pas à les partager avec la communauté. Envoyez vos contributions à [docs@bativolt.com](mailto:docs@bativolt.com) pour aider à illustrer les concepts et améliorer l’expérience éducative.
+:::
+
+## 5. Contact pour Ajouter des Infractions
+
+Nous sommes ouverts à l’ajout de nouvelles pages pour couvrir des infractions non listées ici. Si vous identifiez une infraction spécifique qui n'est pas abordée, contactez-nous via [docs.bativolt.com](https://docs.bativolt.com). Nous nous ferons un plaisir d'inclure des solutions et des conseils pour toute infraction supplémentaire afin de soutenir la communauté.
+
 
 ---
 
@@ -36,3 +81,5 @@ Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entrepris
 La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
 
 ---
+
+En suivant ce guide, nous espérons que chaque lecteur, qu'il soit professionnel ou particulier, pourra mieux comprendre les normes de sécurité et s’assurer que ses installations sont **conformes et sécurisées**.

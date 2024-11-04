@@ -53,6 +53,7 @@ const sidebars = {
       items: [
         { type: 'doc', id: 'infractions/introduction', label: 'Introduction' },
         { type: 'doc', id: 'infractions/schema-electriques-absents', label: 'Schémas Électriques Absents ou Non Conformes' },
+        { type: 'doc', id: 'infractions/perte-electricite-isolation', label: 'Pertes d\'Électricité et Résistance à l\'Isolation' },
         { type: 'doc', id: 'infractions/resistance-terre-non-conforme', label: 'Résistance de Terre Non Conforme' },
         { type: 'doc', id: 'infractions/tableau-electrique-non-conforme', label: 'Tableau Électrique Non Conforme' },
         { type: 'doc', id: 'infractions/circuits-non-proteges-differentiel', label: 'Circuits Non Protégés par un Différentiel 30mA' },
