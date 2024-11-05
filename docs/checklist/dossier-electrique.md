@@ -19,7 +19,7 @@ Le dossier électrique est conçu pour garantir la **sécurité des utilisateurs
 - **Validation des Installations** : Le dossier prouve que toutes les parties de l’installation respectent les exigences de sécurité.
 - **Contrôle des Modifications** : En cas de modifications, un rapport de conformité mis à jour assure que les modifications sont réalisées selon les standards actuels.
 
-:::tip 💼 Astuce pour Particuliers et Professionnels
+:::tip Astuce pour Particuliers et Professionnels
 Conservez le dossier électrique près du tableau principal pour un accès rapide. Cette pratique simplifie les inspections et réduit les risques de non-conformité.
 :::
 
@@ -30,7 +30,7 @@ Un dossier complet et à jour permet aux électriciens et contrôleurs de **mieu
 - **Les Interventions** : Les techniciens accèdent rapidement aux informations clés, comme les schémas et rapports de conformité.
 - **La Prévention des Risques** : Les contrôleurs peuvent facilement identifier les potentielles non-conformités et vérifier que les installations sont conformes aux articles du RGIE.
 
-> **🔍 À Savoir** : Un dossier complet est essentiel pour passer les inspections, réduire les risques et garantir la protection des biens et des personnes.
+> **À Savoir** : Un dossier complet est essentiel pour passer les inspections, réduire les risques et garantir la protection des biens et des personnes.
 
 ---
 
@@ -44,7 +44,7 @@ Pour les habitations résidentielles, le **RGIE** impose certaines exigences sp�
 - **Identification du Compteur** : Le compteur doit être identifiable et facilement accessible pour faciliter les contrôles, en accord avec **l'Article 211.2**.
 - **Schémas Électriques** : Ces schémas doivent être présents pour chaque circuit, selon **l'Article 178.3 du RGIE**.
 
-:::info 📘 Exemple Pratique
+:::info Exemple Pratique
 Les schémas électriques unifilaires et de position permettent aux contrôleurs de visualiser les installations et de vérifier rapidement la conformité.
 :::
 
@@ -55,7 +55,7 @@ Dans le cas des entreprises et des espaces communs, des exigences supplémentair
 - **Analyse des Risques** : Conformément à **l'Article 105.4 du RGIE**, une analyse des risques doit être effectuée pour identifier les dangers potentiels.
 - **Documentation des Machines** : Bien que non obligatoire selon le RGIE, elle est fortement recommandée pour les équipements présentant des risques élevés.
 
-> **⚠️ Attention** : Les installations industrielles et commerciales doivent disposer d'une documentation détaillée pour éviter les sanctions en cas de non-conformité.
+> **Attention** : Les installations industrielles et commerciales doivent disposer d'une documentation détaillée pour éviter les sanctions en cas de non-conformité.
 
 ---
 
@@ -73,7 +73,7 @@ Voici une **checklist complète** pour s'assurer que le dossier électrique est 
 | **Luminaires de Secours**           | Non             | ✔️              | Obligatoire pour les entreprises et espaces publics ; ils doivent être installés et entretenus selon l'**Article 104.1 du RGIE** pour assurer la sécurité des évacuations. |
 | **Documentation des Machines**      | Non             | Non (recommandé) | Recommandée pour les équipements à risque, mais non obligatoire selon le RGIE.                           |
 
-> **💡 Conseil pour les Entreprises** : Mettez à jour régulièrement votre analyse des risques pour garantir la sécurité et éviter les interruptions lors des inspections.
+> **Conseil pour les Entreprises** : Mettez à jour régulièrement votre analyse des risques pour garantir la sécurité et éviter les interruptions lors des inspections.
 
 ---
 
@@ -85,7 +85,7 @@ Le dossier électrique est bien plus qu'un simple document de conformité. Il es
 
 En suivant cette checklist et en respectant les articles pertinents du RGIE, votre installation répondra aux standards de conformité les plus élevés, assurant ainsi la sécurité de tous les usagers. Cela conclut notre guide complet de la **checklist de conformité électrique**.
 
-> **📘 Ressource Complémentaire** : Pour plus d'informations sur les infractions courantes en matière de conformité électrique, consultez notre page dédiée aux [Infractions et Résolutions RGIE](https://docs.bativolt.com/docs/infractions/).
+> **Ressource Complémentaire** : Pour plus d'informations sur les infractions courantes en matière de conformité électrique, consultez notre page dédiée aux [Infractions et Résolutions RGIE](https://docs.bativolt.com/docs/infractions/).
 
 ---
 

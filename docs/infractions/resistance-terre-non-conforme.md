@@ -36,7 +36,7 @@ La résistance de terre garantit que les courants de défauts peuvent être éva
 
 ## 2. Matériel Nécessaire : Testeur de Résistance de Terre
 
-Le **testeur de résistance de terre** est un outil essentiel pour vérifier la sécurité et la conformité d'une installation. Bien qu’un modèle comme le **Fluke 1663** soit souvent utilisé, d’autres appareils peuvent également être employés pour des mesures précises de la résistance de terre.
+Le **testeur de résistance de terre** est un outil essentiel pour vérifier la sécurité et la conformité d'une installation. Bien qu’un modèle comme le **Fluke 1663** soit utilisé pour illustrer le test ci-dessus, d’autres appareils peuvent également être employés pour des mesures précises de la résistance de terre.
 
 ### Fonctionnement et Utilisation
 
@@ -86,13 +86,13 @@ Le coût d’un test de résistance de terre dépend du matériel, du temps néc
 
 ### 4.1. Location de Matériel
 
-- **Location du Testeur Fluke 1663** : Environ 50 à 100 € par jour.
-- **Achat du Testeur Fluke 1663** : Entre 800 et 1200 €, selon les options.
+- **Location du Testeur de résistance de terre** : Environ 50 à 100 € par jour.
+- **Achat du Testeur de résistance de terre** : Entre 300 et 1500 €, selon les options.
   
 ### 4.2. Installation et Matériel Supplémentaire
 
 - **Piquets de Terre** : Environ 10 à 30 € par piquet.
-- **Câbles de Connexion** : Variable selon la longueur nécessaire, de 5 à 20 €.
+- **Câbles de Connexion** : Variable selon la longueur/section nécessaire, de 5 à 20 €.
 
 ### 4.3. Intervention Professionnelle
 

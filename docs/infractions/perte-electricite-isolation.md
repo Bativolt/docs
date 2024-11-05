@@ -133,8 +133,6 @@ Le **mégohmmètre** est l'outil standard pour mesurer la résistance à l'isola
 
 ## 5.2 Exemples d'Images : Utilisation d'un Mégohmmètre
 
-![Exemple d'Utilisation d'un Mégohmmètre]
-
 :::info Image d'Exemple 📸
 Une photo illustrative sera ajoutée ici prochainement. En raison de l'ampleur de la documentation, certaines sections peuvent temporairement manquer de visuels.
 
@@ -183,9 +181,10 @@ Le **RGIE** spécifie des valeurs minimales pour la résistance à l'isolation d
 
 Une résistance inférieure à ces seuils est jugée non conforme et requiert des actions correctives pour assurer la sécurité et la conformité de l’installation.
 
-> :::warning
+:::warning
 **Important :** Une résistance en dessous de ces valeurs peut entraîner des fuites de courant importantes, augmentant ainsi les risques de chocs électriques et de dysfonctionnements. Il est impératif d'identifier et de corriger ces faiblesses pour une installation sécurisée.
 :::
+
 
 ### 7.2 Vérifications Périodiques
 
@@ -198,7 +197,6 @@ Le RGIE recommande des tests réguliers de la résistance à l'isolation, surtou
 :::
 
 :::info Image d'Exemple 📸
-
 Une photo illustrative sera ajoutée ici prochainement. Vu l'ampleur de la documentation, il peut y avoir des sections en attente de visuels.
 
 Si vous souhaitez aider la communauté, vous pouvez contribuer avec une photo personnelle en lien avec cette section ! Envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com), et nous l'intégrerons en mentionnant votre nom en tant que contributeur. Ensemble, enrichissons l’expérience éducative de Bativolt !
@@ -224,7 +222,7 @@ Des tests non conformes peuvent exiger des réparations ou le remplacement de c�
 - **Remplacement de câbles** : Les coûts varient entre **100 € et 500 €** selon la longueur et la complexité de l'installation.
 - **Ajout d'isolants supplémentaires** : Environ **50 €** par point de protection, ce qui inclut des gaines isolantes pour renforcer les zones à risque.
 
-> :::warning
+:::warning
 **Sécurité avant tout :** Les réparations liées à une faible résistance à l'isolation ne doivent pas être négligées. Assurez-vous que le professionnel effectue un suivi des réparations avec des tests supplémentaires pour vérifier la conformité des nouvelles installations.
 :::
 
@@ -237,15 +235,18 @@ Maintenir la résistance à l'isolation de votre installation électrique peut p
 - **Protection contre l'humidité** : Envisagez d'utiliser des gaines imperméables dans les zones sujettes à l'humidité pour protéger les câbles et prolonger leur durée de vie.
 - **Surveillez les signes de dégradation** : Si vous remarquez des pannes fréquentes ou des déclenchements aléatoires des disjoncteurs différentiels, faites appel à un professionnel pour tester la résistance à l'isolation.
 
-> :::info Image d'Exemple 📸
-Une photo illustrant une bonne isolation sera ajoutée ici prochainement. En attendant, si vous souhaitez aider, vous pouvez contribuer avec une photo en lien avec cette section à [docs@bativolt.com](mailto:docs@bativolt.com).
+:::info Image d'Exemple 📸
+Une photo illustrative sera ajoutée ici prochainement. Vu l'ampleur de la documentation, il peut y avoir des sections en attente de visuels.
+
+Si vous souhaitez aider la communauté, vous pouvez contribuer avec une photo personnelle en lien avec cette section ! Envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com), et nous l'intégrerons en mentionnant votre nom en tant que contributeur. Ensemble, enrichissons l’expérience éducative de Bativolt !
+
 :::
 
 ## Conclusion
 
 La résistance à l'isolation est un facteur essentiel pour une installation électrique sécurisée et efficace. Elle réduit les risques de fuite de courant, prévient les pertes d'énergie et garantit la protection des utilisateurs contre les chocs électriques. En respectant les valeurs minimales de conformité établies par le RGIE et en réalisant des contrôles réguliers, il est possible de maintenir une installation fiable, conforme et sécurisée.
 
-:::
+:::tip
 **Ensemble, assurons des installations électriques sécurisées !** Respectez les normes d'isolation et faites appel à des professionnels pour garantir la conformité de votre installation.
 :::
 

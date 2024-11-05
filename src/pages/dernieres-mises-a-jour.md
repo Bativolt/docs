@@ -54,6 +54,12 @@ Bienvenue sur la page des mises à jour de la documentation Bativolt. Nous metto
 
 La documentation de Bativolt est en constante évolution pour offrir les meilleures pratiques en matière de conformité électrique et garantir la sécurité des installations selon les normes RGIE. Nous encourageons nos lecteurs à consulter cette page régulièrement pour rester informés des mises à jour et des nouvelles infractions documentées. Pour toute suggestion ou demande d'ajout d'infraction, contactez-nous via [docs@bativolt.com](mailto:docs@bativolt.com).
 
-> **Avertissement :** Cette documentation est fournie par Bativolt et reflète notre interprétation des normes RGIE. Elle est destinée à des fins éducatives uniquement, et nous ne sommes pas responsables de toute mauvaise interprétation. Pour des conseils personnalisés, contactez un électricien agréé.
+---
 
-> **Copyright © 2024 Bativolt. Tous droits réservés.**
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

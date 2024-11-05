@@ -19,7 +19,7 @@ L'analyse des facteurs de risques examine tous les aspects d'une installation po
 - **Charge Électrique** : Analyse de la charge sur chaque circuit pour éviter les surcharges.
 - **Accessibilité** : Vérification de l'accès aux équipements pour les interventions et la maintenance.
 
-:::caution ⚠️ Warning
+:::caution Warning
 Une installation non conforme aux exigences du RGIE peut représenter un danger grave pour les occupants et les travailleurs, exposant les responsables à des sanctions légales.
 :::
 
@@ -34,7 +34,7 @@ L'analyse vise à **assurer la sécurité des utilisateurs** et à prévenir les
 - **Prévention des Accidents** : Identification proactive des risques, réduisant ainsi les incidents d’électrocution ou d'incendie.
 - **Conformité Légale** : Le **RGIE (Article 45.3)** exige une analyse complète des risques pour toute inspection. Un contrôle sans cette analyse est incomplet et peut entraîner des implications légales.
 
-:::tip 💡 Astuce
+:::tip Astuce
 Conservez une copie de votre rapport de conformité près du tableau électrique principal pour une accessibilité optimale lors des contrôles.
 :::
 
@@ -45,7 +45,7 @@ L'analyse des risques est indispensable pour un contrôle de conformité exhaust
 - **Évaluation Globale** : Sans une analyse approfondie, le contrôleur ne peut pas garantir que l'installation respecte toutes les normes.
 - **Détection des Non-Conformités** : Cette étape aide à identifier les défauts nécessitant des réparations pour la mise en conformité de l'installation.
 
-:::info 🔍 Info
+:::info Info
 Toute non-conformité doit être documentée avec des délais de rectification pour garantir la sécurité des installations.
 :::
 
@@ -64,7 +64,7 @@ L’analyse des risques comporte plusieurs étapes essentielles :
 | **Évaluation des Risques** | Utiliser des outils d'évaluation pour quantifier les dangers et établir des priorités de correction.     |
 | **Recommandations**       | Proposer des mesures correctives pour toute non-conformité identifiée.                                   |
 
-:::tip 📘 Conseil
+:::tip Conseil
 Assurez-vous d’avoir des schémas à jour lors de l’inspection visuelle, car des modifications non documentées peuvent entraîner des erreurs coûteuses.
 :::
 
@@ -75,7 +75,7 @@ La documentation de l'analyse des risques est cruciale pour le suivi des install
 - **Rapport d'Analyse** : Résume les conclusions, les risques identifiés, et les actions correctives recommandées.
 - **Mise à Jour des Schémas** : Les schémas doivent être actualisés pour refléter toute modification apportée à l’installation suite aux recommandations.
 
-:::tip 📝 Tip
+:::tip Tip
 Assurez-vous que le rapport et les schémas actualisés sont archivés près du tableau principal pour un accès rapide lors des contrôles ultérieurs.
 :::
 
@@ -87,13 +87,13 @@ L'analyse des facteurs de risques est indispensable pour assurer la sécurité e
 
 Après avoir finalisé l’analyse et appliqué les recommandations, n'oubliez pas de vérifier l'installation des luminaires de secours, surtout pour les bâtiments publics et commerciaux. Ces dispositifs jouent un rôle fondamental en cas de coupure d’électricité.
 
-:::important ⚡ Prochaine Étape
+:::important Prochaine Étape
 Consultez notre section sur les [Luminaires de Secours et leur Importance](https://docs.bativolt.com/docs/checklist/luminaires-secours) pour un complément de sécurité dans votre installation.
 :::
 
 ---
 
-:::note 📢 Rappel Sécurité
+:::note Rappel Sécurité
 Conservez toujours une copie des schémas électriques et du rapport d’analyse de risques dans un endroit facilement accessible pour faciliter les futures inspections et garantir la conformité continue.
 :::
 

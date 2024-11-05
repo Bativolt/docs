@@ -1,5 +1,6 @@
 ---
-title: Partie 7 - Règles pour les Installations et Emplacements Spéciaux
+title: Partie 7 - Règles pour les Installations et Emplacements Spéciaux | RGIE Bativolt Belgique
+description: Règles spécifiques du RGIE pour les installations et emplacements spéciaux. Normes de sécurité pour les environnements à risque.
 sidebar_label: 7. Règles pour les Installations et Emplacements Spéciaux
 ---
 

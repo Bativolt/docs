@@ -38,7 +38,7 @@ Certaines machines, en raison de leur complexité et des risques associés, néc
 | **Équipements Électriques**         | Transformateurs, générateurs                   |
 | **Équipements de Climatisation**    | Systèmes de CVC, chambres froides              |
 
-> **🔍 À Savoir** : Certaines machines peuvent être soumises à des réglementations européennes supplémentaires, telles que la **directive sur la sécurité des machines**.
+> **À Savoir** : Certaines machines peuvent être soumises à des réglementations européennes supplémentaires, telles que la **directive sur la sécurité des machines**.
 
 ---
 
@@ -51,7 +51,7 @@ Le **RGIE** impose une documentation pour les machines dans des situations parti
 - **Machines à Risques Élevés** : Les machines utilisées dans des environnements industriels avec un risque accru (explosions, incendies) doivent disposer d'une documentation conforme, comme spécifié dans **l'Article 105.2 du RGIE**.
 - **Installations avec Réglementations Spécifiques** : Les équipements soumis à des directives de sécurité spécifiques, comme celles liées à la santé et à la sécurité au travail, doivent disposer de documents certifiant leur conformité.
 
-> **⚠️ Important** : Si une machine présente un potentiel de risque élevé, une **analyse des risques** doit être incluse dans sa documentation pour identifier les dangers potentiels et les mesures de prévention.
+> **Important** : Si une machine présente un potentiel de risque élevé, une **analyse des risques** doit être incluse dans sa documentation pour identifier les dangers potentiels et les mesures de prévention.
 
 ### 2.2. Installations à Risque Élevé
 
@@ -95,7 +95,7 @@ Pour les machines considérées comme présentant des risques élevés, la docum
 - **Analyse des Risques** : Une analyse spécifique est requise pour ces machines afin de consigner les mesures de sécurité adoptées.
 - **Suivi et Maintenance** : La documentation doit inclure un programme de maintenance régulière pour assurer la sécurité des équipements.
 
-:::info 📘 Exemple
+:::info Exemple
 Pour les machines de levage, un plan de maintenance incluant des inspections régulières est nécessaire pour garantir la sécurité et le bon fonctionnement, conformément au RGIE.
 :::
 
@@ -103,7 +103,7 @@ Pour les machines de levage, un plan de maintenance incluant des inspections ré
 
 Les machines doivent également se conformer aux directives européennes, en particulier pour les équipements mobiles et les machines de traitement des matériaux, comme le stipule la **directive européenne 2006/42/CE** sur les machines.
 
-> **🔍 Bon à Savoir** : Cette directive impose des exigences de sécurité supplémentaires pour les machines importées ou fabriquées en Europe, renforçant ainsi la conformité et la sécurité.
+> **Bon à Savoir** : Cette directive impose des exigences de sécurité supplémentaires pour les machines importées ou fabriquées en Europe, renforçant ainsi la conformité et la sécurité.
 
 ---
 
@@ -113,7 +113,7 @@ Bien que le **RGIE** ne rende pas systématiquement obligatoire la documentation
 
 La prochaine étape de notre checklist de conformité se concentre sur le **dossier électrique**, qui récapitulera l'ensemble des éléments nécessaires pour assurer la conformité des installations électriques.
 
-> **📢 Rappel Sécurité** : La documentation est une base essentielle pour toute installation industrielle. Conservez-la à jour et accessible pour faciliter les inspections et garantir une sécurité optimale.
+> **Rappel Sécurité** : La documentation est une base essentielle pour toute installation industrielle. Conservez-la à jour et accessible pour faciliter les inspections et garantir une sécurité optimale.
 
 ---
 

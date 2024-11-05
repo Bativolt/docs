@@ -1,5 +1,6 @@
 ---
-title: Partie 5 - Choix et Mise en Œuvre du Matériel
+title: Partie 5 - Choix et Mise en Œuvre du Matériel | RGIE Bativolt Belgique
+description: Guide des meilleures pratiques pour le choix et l'installation du matériel électrique. Normes de qualité, sécurité et conformité RGIE.
 sidebar_label: 5. Choix et Mise en Œuvre
 ---
 

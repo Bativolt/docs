@@ -1,7 +1,9 @@
 ---
-title: Partie 6 - Contrôles des Installations
+title: Partie 6 - Contrôles des Installations | RGIE Bativolt Belgique
+description: Guide complet pour les contrôles des installations électriques selon le RGIE. Procédures de conformité, vérifications et sécurité pour la mise en service.
 sidebar_label: 6. Contrôles des Installations
 ---
+
 
 # Partie 6 - Contrôles des Installations
 
