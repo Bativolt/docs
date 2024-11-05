@@ -1,3 +1,4 @@
+/* Styles pour la bannière principale */
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -10,6 +11,7 @@
   z-index: 0; /* Niveau de la bannière au-dessus de l'animation */
 }
 
+/* Styles pour les particules de fond */
 #particles-js {
   position: absolute;
   top: 0;
@@ -20,6 +22,7 @@
   background-color: transparent; /* Fond transparent pour laisser les particules visibles */
 }
 
+/* Styles pour le conteneur */
 .container {
   position: relative;
   z-index: 1; /* Place le contenu principal au-dessus des particules */
@@ -30,11 +33,13 @@
   height: 100%; /* Centre verticalement le contenu */
 }
 
+/* Styles pour le titre et le sous-titre */
 .hero__title, .hero__subtitle {
   color: #ffffff;
   margin: 0;
 }
 
+/* Styles pour les boutons */
 .buttons {
   display: flex;
   align-items: center;
@@ -43,6 +48,7 @@
   z-index: 1;
 }
 
+/* Styles pour le bouton d'appel à l'action */
 .ctaButton {
   font-size: 1.2rem; /* Taille du texte */
   border: 2px solid #ffaa00; /* Bordure jaune un peu plus épaisse */
@@ -58,6 +64,7 @@
   justify-content: center;
 }
 
+/* Effets au survol du bouton */
 .ctaButton:hover {
   background-color: #ffaa00; /* Fond jaune au survol */
   color: #1e1e1e; /* Texte sombre au survol pour contraste */

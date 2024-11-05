@@ -24,3 +24,25 @@
   --ifm-code-color: #ffaa00; /* Texte du code en orange */
 }
 
+/* Empêcher le retour à la ligne des éléments du menu */
+.navbar__item {
+  white-space: nowrap; /* Empêche le retour à la ligne */
+  overflow: hidden; /* Cache le texte qui dépasse */
+  text-overflow: ellipsis; /* Ajoute des points de suspension (...) pour le texte tronqué */
+}
+
+/* Ajustez le style de la navbar */
+.navbar {
+  display: flex; /* Assure que les éléments sont alignés horizontalement */
+  flex-wrap: nowrap; /* Empêche les éléments de se déplacer à la ligne suivante */
+}
+
+.banner {
+  padding: 4rem;
+}
+/** In mobile view, reduce the padding */
+@media screen and (max-width: 1700px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}

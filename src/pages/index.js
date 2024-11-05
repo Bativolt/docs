@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -8,7 +8,6 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
-  const [menuOpen, setMenuOpen] = useState(false); // État pour gérer l'ouverture du menu
 
   useEffect(() => {
     const script = document.createElement('script');
@@ -100,10 +99,6 @@ function HomepageHeader() {
     document.body.appendChild(script);
   }, []);
 
-  const toggleMenu = () => {
-    setMenuOpen(!menuOpen); // Bascule l'état du menu
-  };
-
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div id="particles-js" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: -1 }}></div>
@@ -122,18 +117,6 @@ function HomepageHeader() {
             Accéder au Guide RGIE
           </Link>
         </div>
-        
-        {/* Navigation */}
-        <nav className={styles.navbar}>
-          <button className={styles.navbarToggle} onClick={toggleMenu}>
-            Menu
-          </button>
-          <ul className={clsx(styles.navLinks, { [styles.active]: menuOpen })}>
-            <li><Link to="/docs/guide-rgie/introduction">Introduction</Link></li>
-            <li><Link to="/docs/guide-rgie/some-other-page">Autre Page</Link></li>
-            <li><Link to="/contact">Contact</Link></li>
-          </ul>
-        </nav>
       </div>
     </header>
   );
@@ -144,7 +127,8 @@ export default function Home() {
   return (
     <Layout
       title="docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique"
-      description="Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.">
+      description="Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement."
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />

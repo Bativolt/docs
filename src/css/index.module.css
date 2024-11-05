@@ -1,42 +1,16 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
- .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
-
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+/* index.module.css */
 
 /* Styles pour la barre de navigation */
 .navbar {
-    display: flex;
-    flex-direction: row;
+    display: flex; /* Toujours afficher la barre de navigation */
+    flex-direction: row; /* Aligner les éléments horizontalement */
     justify-content: space-between;
     align-items: center;
     margin-top: 20px; /* Ajustez si nécessaire */
 }
 
 .navbarToggle {
-    background-color: #ffaa00; /* Couleur de fond du bouton */
-    color: white; /* Couleur du texte */
-    border: none;
-    padding: 10px 15px;
-    cursor: pointer;
+    display: none; /* Ne pas afficher le bouton hamburger */
 }
 
 .navLinks {
@@ -54,31 +28,22 @@
     color: black; /* Couleur des liens */
 }
 
-/* Cacher le menu par défaut sur les petits écrans */
-@media (max-width: 1700px) { /* Changer de 1600px à 1700px */
+/* Styles pour les écrans de 1700px et moins */
+@media screen and (max-width: 1700px) {
+    .navbar {
+        display: flex; /* Toujours afficher la barre de navigation */
+    }
+
     .navLinks {
-        display: none; /* Cacher les liens par défaut */
-        flex-direction: column; /* Passer à une disposition verticale */
-        width: 100%; /* Prendre toute la largeur */
-        position: absolute; /* Positionner le menu en absolu */
-        top: 60px; /* Ajustez cette valeur selon la hauteur de votre barre de navigation */
-        left: 0;
-        background-color: white; /* Couleur de fond du menu */
-        border: 1px solid #cccccc; /* Bordure pour le menu */
-    }
-
-    .navLinks.active {
-        display: flex; /* Afficher le menu lorsque actif */
-    }
-
-    .navbarToggle {
-        display: block; /* Afficher le bouton menu hamburger */
+        display: flex; /* Toujours afficher les liens */
+        flex-direction: row; /* Conserver l'alignement horizontal */
+        margin-left: 0; /* Réinitialiser le margin-left pour les petits écrans */
     }
 }
 
-/* Cacher le bouton hamburger sur les grands écrans */
-@media (min-width: 1701px) {
-    .navbarToggle {
-        display: none; /* Ne pas afficher le bouton hamburger sur les grands écrans */
+/* Styles pour les écrans plus petits (facultatif, pour ajustements) */
+@media screen and (max-width: 1700px) {
+    .navbar {
+        flex-direction: column; /* Vous pouvez également essayer cela pour voir si cela aide */
     }
 }
