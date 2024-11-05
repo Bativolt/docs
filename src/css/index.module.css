@@ -3,7 +3,7 @@
  * and scoped locally.
  */
 
-.heroBanner {
+ .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
@@ -20,4 +20,65 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* Styles pour la barre de navigation */
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px; /* Ajustez si nécessaire */
+}
+
+.navbarToggle {
+    background-color: #ffaa00; /* Couleur de fond du bouton */
+    color: white; /* Couleur du texte */
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.navLinks {
+    list-style: none;
+    display: flex; /* Afficher les liens en ligne par défaut */
+    margin-left: 20px; /* Espacement à gauche des liens */
+}
+
+.navLinks li {
+    margin-left: 15px; /* Espacement entre les liens */
+}
+
+.navLinks a {
+    text-decoration: none;
+    color: black; /* Couleur des liens */
+}
+
+/* Cacher le menu par défaut sur les petits écrans */
+@media (max-width: 1700px) { /* Changer de 1600px à 1700px */
+    .navLinks {
+        display: none; /* Cacher les liens par défaut */
+        flex-direction: column; /* Passer à une disposition verticale */
+        width: 100%; /* Prendre toute la largeur */
+        position: absolute; /* Positionner le menu en absolu */
+        top: 60px; /* Ajustez cette valeur selon la hauteur de votre barre de navigation */
+        left: 0;
+        background-color: white; /* Couleur de fond du menu */
+        border: 1px solid #cccccc; /* Bordure pour le menu */
+    }
+
+    .navLinks.active {
+        display: flex; /* Afficher le menu lorsque actif */
+    }
+
+    .navbarToggle {
+        display: block; /* Afficher le bouton menu hamburger */
+    }
+}
+
+/* Cacher le bouton hamburger sur les grands écrans */
+@media (min-width: 1701px) {
+    .navbarToggle {
+        display: none; /* Ne pas afficher le bouton hamburger sur les grands écrans */
+    }
 }
