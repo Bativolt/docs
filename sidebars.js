@@ -24,23 +24,45 @@ const sidebars = {
     },
   ],
 
-  // Sidebar pour le Guide RGIE
+  // Sidebar pour le Guide RGIE avec plusieurs livres
   guideRGIESidebar: [
     {
       type: 'category',
       label: 'Guide RGIE',
       items: [
-        { type: 'doc', id: 'guide-rgie/introduction', label: 'Introduction' },
-        { type: 'doc', id: 'guide-rgie/partie-1-prescriptions-generales', label: 'Prescriptions Générales' },
-        { type: 'doc', id: 'guide-rgie/partie-2-termes-definitions', label: 'Termes et Définitions' },
-        { type: 'doc', id: 'guide-rgie/partie-3-determination-caracteristiques', label: 'Détermination des Caractéristiques' },
-        { type: 'doc', id: 'guide-rgie/partie-4-mesures-protection', label: 'Mesures de Protection' },
-        { type: 'doc', id: 'guide-rgie/partie-5-choix-mise-en-oeuvre', label: 'Choix et Mise en Œuvre' },
-        { type: 'doc', id: 'guide-rgie/partie-6-controles-installations', label: 'Contrôles des Installations' },
-        { type: 'doc', id: 'guide-rgie/partie-7-regles-installations-emplacements', label: 'Règles pour les Installations et Emplacements Spéciaux' },
-        { type: 'doc', id: 'guide-rgie/partie-8-prescriptions-installations-existantes', label: 'Prescriptions pour Installations Existantes' },
-        { type: 'doc', id: 'guide-rgie/partie-9-prescriptions-personnes', label: 'Prescriptions Générales à Observer' },
-        { type: 'doc', id: 'guide-rgie/conclusion', label: 'Conclusion' },
+        {
+          type: 'category',
+          label: 'Livre 1',
+          items: [
+            { type: 'doc', id: 'guide-rgie/introduction', label: 'Introduction au Livre 1' },
+            { type: 'doc', id: 'guide-rgie/partie-1-prescriptions-generales', label: 'Prescriptions Générales' },
+            { type: 'doc', id: 'guide-rgie/partie-2-termes-definitions', label: 'Termes et Définitions' },
+            { type: 'doc', id: 'guide-rgie/partie-3-determination-caracteristiques', label: 'Détermination des Caractéristiques' },
+            { type: 'doc', id: 'guide-rgie/partie-4-mesures-protection', label: 'Mesures de Protection' },
+            { type: 'doc', id: 'guide-rgie/partie-5-choix-mise-en-oeuvre', label: 'Choix et Mise en Œuvre' },
+            { type: 'doc', id: 'guide-rgie/partie-6-controles-installations', label: 'Contrôles des Installations' },
+            { type: 'doc', id: 'guide-rgie/partie-7-regles-installations-emplacements', label: 'Règles pour les Installations et Emplacements Spéciaux' },
+            { type: 'doc', id: 'guide-rgie/partie-8-prescriptions-installations-existantes', label: 'Prescriptions pour Installations Existantes' },
+            { type: 'doc', id: 'guide-rgie/partie-9-prescriptions-personnes', label: 'Prescriptions Générales à Observer' },
+            { type: 'doc', id: 'guide-rgie/conclusion', label: 'Conclusion' },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Livre 2',
+          items: [
+            { type: 'doc', id: 'guide-rgie-livre2/introduction', label: 'Introduction au Livre 2' },
+            // Ajoutez les autres documents du Livre 2 ici
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Livre 3',
+          items: [
+            { type: 'doc', id: 'guide-rgie-livre3/introduction', label: 'Introduction au Livre 3' },
+            // Ajoutez les autres documents du Livre 2 ici
+          ],
+        },
       ],
     },
   ],
@@ -69,5 +91,4 @@ const sidebars = {
   ],
 };
 
-// Exportation de l'objet sidebars
 module.exports = sidebars;

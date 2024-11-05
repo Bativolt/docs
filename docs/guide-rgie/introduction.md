@@ -1,6 +1,6 @@
 ---
 title: Introduction au Guide RGIE
-sidebar_label: Introduction
+sidebar_label: Introduction au Livre 1
 description: Guide complet du RGIE pour électriciens, particuliers, notaires, et professionnels en Belgique. Découvrez les prescriptions générales, les définitions, et les étapes de conformité électrique en vue de la sécurité et de la conformité.
 ---
 
