@@ -11,6 +11,11 @@ Bienvenue sur la page des mises à jour de la documentation Bativolt. Nous metto
 
 ## Historique des Mises à Jour
 
+### 5 Novembre 2024
+
+- **[Amélioration de l'ensemble des chapitres du guide RGIE](https://docs.bativolt.com/docs/guide-rgie/introduction)**
+  - Tous les chapitres du guide RGIE ont été enrichis et mis à jour pour offrir un contenu plus clair et complet. Les améliorations comprennent des mises à jour structurelles, des ajouts de détails techniques, des exemples concrets et des notes de sécurité pour faciliter la compréhension et assurer la conformité avec les normes en vigueur.
+
 ### 4 Novembre 2024
 
 - **[Ajout de la page sur l'Absence de Terre sur les Prises](https://docs.bativolt.com/docs/infractions/absence-terre-sur-prises)**

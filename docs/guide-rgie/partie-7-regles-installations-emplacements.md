@@ -14,12 +14,13 @@ Les installations électriques dans des **environnements spéciaux**, comme les 
 
 Les règles présentées ici s'appliquent aux **salles de bains, salles de douches**, et tout espace contenant une baignoire ou une douche. Elles visent à prévenir les risques électriques dans des zones où la combinaison d'eau et d'électricité représente un danger accru.
 
-- **Objectif principal** : Protéger les utilisateurs en limitant les installations électriques dans des zones spécifiques autour des sources d’eau.
-- **Importance des zones** : Chaque zone de la salle de bains est classée selon sa proximité avec l'eau, définissant les types d'appareils qui peuvent être installés.
+:::info Objectif Principal 📌
+Protéger les utilisateurs en limitant les installations électriques dans des zones spécifiques autour des sources d’eau.
+:::
 
 ### Section 7.1.2. Termes et définitions
 
-Pour comprendre ces exigences, quelques termes clés :
+Quelques termes clés pour bien comprendre les exigences de cette section :
 
 | Terme                   | Définition                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
@@ -87,7 +88,17 @@ Les systèmes de chauffage au sol dans les salles de bains doivent inclure des p
 
 ### Section 7.1.5. Choix et mise en œuvre des matériels électriques
 
-Le choix des équipements dépend de **l’exposition aux influences externes** comme l’humidité et la vapeur.
+Le choix des équipements dépend de **l’exposition aux influences externes** comme l’humidité et la vapeur. 
+
+:::warning Attention aux Risques de Chocs Électriques ⚠️
+Dans les salles de bains, l’installation des équipements doit respecter les zones de sécurité et les indices de protection IP pour éviter tout risque de choc électrique.
+:::
+
+:::tip Conseil Pratique 💡
+Pour renforcer la sécurité dans les salles de bains, privilégiez des dispositifs de protection TBTS et des équipements avec indice de protection élevé.
+:::
+
+---
 
 #### Sous-section 7.1.5.1. Influences externes
 
@@ -99,6 +110,10 @@ Pour chaque **type de volume** :
 
 Les influences externes, telles que la température et l’humidité, doivent être considérées pour assurer une installation durable et sécurisée. Cela garantit que chaque élément installé résistera aux conditions d’usage dans des lieux contenant de l’eau.
 
+> :::info 💧 **Bon à savoir :** Les salles de bains sont soumises à des niveaux élevés d'humidité et de vapeur. Les matériaux et équipements installés doivent être choisis en fonction de leur résistance aux influences extérieures pour garantir une longue durée de vie et une sécurité continue.
+
+---
+
 #### Sous-section 7.1.5.2. Canalisations électriques
 
 Les **canalisations électriques** dans les salles de bains et les douches doivent respecter des règles strictes de protection contre l'humidité et les éclaboussures. Les canalisations sont souvent installées dans les murs ou au plafond pour minimiser les risques de contact direct avec l'eau. Il est essentiel que les conduits, gaines ou canalisations soient adaptés aux zones dans lesquelles ils sont installés :
@@ -108,6 +123,10 @@ Les **canalisations électriques** dans les salles de bains et les douches doive
 
 De plus, les conduits sont idéalement fabriqués en matériaux résistant à la corrosion pour assurer la longévité de l’installation.
 
+> :::caution ⚠️ **Attention aux matériaux :** Les conduits utilisés pour les canalisations doivent être fabriqués en matériaux anti-corrosion pour prévenir la dégradation à long terme dans un environnement humide.
+
+---
+
 #### Sous-section 7.1.5.3. Matériel électrique
 
 Le **matériel électrique** utilisé dans les salles de bains et douches doit être conçu pour résister aux conditions spécifiques de l'environnement. Cela inclut des dispositifs comme :
@@ -115,7 +134,9 @@ Le **matériel électrique** utilisé dans les salles de bains et douches doit �
 - **Interrupteurs et prises** : Doivent être installés en dehors des zones 0 et 1. Si absolument nécessaires dans les zones proches, seuls les dispositifs à très basse tension de sécurité (TBTS) sont autorisés.
 - **Dispositifs d'éclairage** : Doivent répondre aux normes de protection IP, en particulier pour les luminaires situés dans les volumes 1 et 2 (minimum IPX4).
 
-Ces précautions garantissent que le matériel est sûr et fonctionnel dans les environnements humides des salles de bains.
+> :::example 💡 **Exemple Pratique :** Dans une salle de bain, les luminaires installés près de la douche doivent avoir un indice de protection IP44 au minimum, garantissant une résistance contre les éclaboussures et la vapeur.
+
+---
 
 ### Section 7.1.6. Règles spécifiques pour les salles de bains et salles de douches dans les installations non-domestiques
 
@@ -125,11 +146,19 @@ Les salles de bains dans les **environnements non-domestiques** (hôtels, établ
 - **Équipements spécifiques** : Les équipements doivent avoir des indices de protection plus élevés (souvent IPX5 pour les lieux non domestiques à haute fréquentation).
 - **Liaisons équipotentielles** : Un soin particulier est apporté aux liaisons équipotentielles supplémentaires pour prévenir tout risque de choc.
 
+> :::tip 🔍 **Bonnes pratiques :** Dans les hôtels, des contrôles réguliers des équipements électriques dans les salles de bains permettent de maintenir la sécurité et la conformité aux normes, tout en réduisant le risque d'incidents.
+
+---
+
 ## CHAPITRE 7.2. PISCINES
 
 ### Section 7.2.1. Domaine d'application
 
 Ce chapitre s'applique aux **installations électriques dans les piscines et environnements aquatiques similaires**. L’objectif est de minimiser les risques de choc électrique et de garantir la sécurité des utilisateurs. Les piscines nécessitent des normes de sécurité plus strictes en raison de la conductivité accrue de l'eau.
+
+> :::note 🌊 **Rappel :** Les installations autour des piscines doivent respecter des normes de sécurité renforcées en raison du contact constant avec l'eau.
+
+---
 
 ### Section 7.2.2. Détermination des caractéristiques générales − Classification des volumes
 
@@ -143,6 +172,8 @@ Les installations autour des piscines sont classées en **volumes de sécurité*
 
 Ces classifications aident à définir quel matériel peut être installé et sous quelle protection.
 
+---
+
 ### Section 7.2.3. Protection contre les chocs électriques
 
 #### Sous-section 7.2.3.1. Protection contre les contacts indirects par l'utilisation de la très basse tension de sécurité
@@ -152,6 +183,10 @@ Pour minimiser les risques de choc, l'utilisation de la **très basse tension de
 - **Tension maximale** : Environ 12V en courant alternatif (AC) ou 30V en courant continu (DC).
 - **Applications** : Utilisée pour les luminaires et certains appareils de nettoyage.
 
+> :::example 🔋 **Exemple Pratique :** Les projecteurs de piscine immergés utilisent généralement la TBTS pour minimiser le risque de choc en cas de contact accidentel.
+
+---
+
 #### Sous-section 7.2.3.2. Protection contre les contacts directs − Degré de protection du matériel électrique
 
 Les équipements électriques doivent avoir un **degré de protection IP élevé** pour empêcher l'eau de pénétrer et d'entrer en contact avec les éléments conducteurs. Par exemple :
@@ -159,7 +194,9 @@ Les équipements électriques doivent avoir un **degré de protection IP élevé
 - **Volume 0** : IPX8 requis pour les dispositifs immergés.
 - **Volume 1** : IPX5 minimum pour les appareils installés près des piscines.
 
-Cela garantit que les équipements sont adaptés à l'exposition potentielle à l'eau dans chaque volume.
+> :::warning 🚨 **Important :** L’utilisation de matériel inapproprié, sans protection IP adéquate, peut entraîner des risques graves de court-circuit et de choc électrique.
+
+---
 
 #### Sous-section 7.2.3.3. Séparation de sécurité des circuits
 
@@ -167,6 +204,8 @@ La **séparation de sécurité** des circuits permet d’isoler les circuits él
 
 - **Transformateurs de séparation** : Utilisés pour les appareils de piscine afin d’éviter toute connexion directe avec le réseau principal.
 - **Alimentation indépendante** : Les appareils situés dans les volumes 0 et 1 doivent être alimentés par des circuits distincts.
+
+---
 
 #### Sous-section 7.2.3.4. Liaison équipotentielle supplémentaire
 
@@ -178,6 +217,8 @@ Pour réduire les risques de différence de potentiel, une **liaison équipotent
 | Équipements de filtration | Pompes, systèmes de chauffage              |
 | Parties métalliques proches | Garde-corps, grilles de drainage         |
 
+---
+
 ### Section 7.2.4. Choix et mise en œuvre des matériels électriques
 
 #### Sous-section 7.2.4.1. Influences externes
@@ -188,27 +229,44 @@ Les piscines et leurs alentours sont exposés à diverses **influences externes*
 - **Produits chimiques** : En raison de l'utilisation de produits comme le chlore, le matériel doit être résistant à la corrosion.
 - **Rayonnement UV** : Les installations extérieures autour des piscines doivent être protégées contre les UV pour éviter la dégradation des matériaux.
 
-Les piscines sont des environnements particuliers nécessitant des règles de sécurité renforcées. En appliquant ces principes, les installations électriques autour des piscines restent sûres et fonctionnelles malgré l’exposition aux éléments naturels et aux produits chimiques.
+> :::caution 🛠️ **Conseil de Sécurité :** Utilisez des équipements spécialement conçus pour les environnements de piscine, résistants non seulement à l’eau, mais aussi aux produits chimiques et aux UV, afin de garantir une longue durée de vie et une sécurité accrue.
+
+---
 
 #### Sous-section 7.2.4.2. Canalisations électriques
 
-Les **canalisations électriques** dans les piscines nécessitent des précautions spécifiques pour prévenir tout risque de contact avec l'eau. En raison de l'humidité ambiante élevée, les canalisations doivent être résistantes à la corrosion et être installées de manière à éviter les éclaboussures directes :
+Les **canalisations électriques** dans les piscines nécessitent des précautions spécifiques pour prévenir tout risque de contact avec l'eau. En raison de l'humidité ambiante élevée, les canalisations doivent être résistantes à la corrosion et être installées de manière à éviter les éclaboussures directes.
 
-- **Matériaux résistants** : Utilisation de conduits en PVC ou en acier galvanisé pour limiter l'impact de l'humidité.
-- **Cheminement** : Les canalisations sont préférablement encastrées ou fixées en hauteur pour minimiser l’exposition.
-- **Protection IP** : Les canalisations situées dans les zones proches de la piscine doivent respecter des degrés de protection élevés (IPX4 ou IPX5).
+:::tip Matériaux résistants 🌊
+- Utilisez des conduits en PVC ou en acier galvanisé pour limiter l'impact de l'humidité.
+- Ces matériaux offrent une meilleure longévité et une résistance accrue aux conditions humides de l’environnement piscine.
+:::
 
-Une installation soignée permet de garantir la sécurité des utilisateurs et la durabilité des installations.
+- **Cheminement** : Les canalisations sont préférablement encastrées ou fixées en hauteur pour minimiser l’exposition aux éclaboussures directes.
+
+:::warning Protection IP 🔒
+Les canalisations situées dans les zones proches de la piscine doivent respecter des degrés de protection élevés (IPX4 ou IPX5).
+:::
+
+Une installation soignée assure la sécurité des utilisateurs et prolonge la durabilité des installations électriques autour des piscines.
+
+---
 
 #### Sous-section 7.2.4.3. Matériel électrique
 
-Le **matériel électrique** utilisé autour des piscines doit également répondre à des exigences de protection spécifiques :
+Le **matériel électrique** utilisé autour des piscines doit répondre à des exigences de protection spécifiques :
 
 1. **Matériel étanche** : Tout matériel utilisé dans les volumes 0, 1 et 2 doit être étanche avec un indice de protection adapté (au minimum IPX5 pour les équipements de volume 1).
 2. **Résistance aux produits chimiques** : En raison des produits d’entretien (chlore, sel), le matériel doit être résistant à la corrosion chimique.
 3. **Très basse tension de sécurité (TBTS)** : Recommandée pour les éclairages et dispositifs situés dans les volumes 0 et 1 pour limiter les risques d'électrisation.
 
+:::example Exemple Pratique 🌐
+Pour les éclairages autour de la piscine, privilégiez les luminaires TBTS d'indice IP68. Cela permet d'assurer la sécurité même si le luminaire est immergé ou subit des éclaboussures régulières.
+:::
+
 Ces équipements doivent être conçus pour résister aux conditions spécifiques de l’environnement piscine, garantissant ainsi la sécurité de l’installation.
+
+---
 
 ### Section 7.2.5. Règles spécifiques
 
@@ -220,19 +278,25 @@ Pour les **piscines privées**, les règles de sécurité sont légèrement asso
 - **Liaisons équipotentielles** : Obligation de relier tous les éléments métalliques pour éviter les différences de potentiel dangereuses.
 - **Entretien régulier** : Vérification périodique du bon fonctionnement des dispositifs de protection et de l’intégrité des canalisations.
 
+---
+
 #### Sous-section 7.2.5.2. Installations de balnéothérapie
 
-Les installations de **balnéothérapie** partagent des similarités avec les piscines, mais elles requièrent des protections supplémentaires dues aux équipements spécifiques utilisés :
+Les installations de **balnéothérapie** partagent des similarités avec les piscines, mais elles requièrent des protections supplémentaires dues aux équipements spécifiques utilisés.
 
 - **Degré de protection IP élevé** : Tout matériel doit être au minimum IPX5.
 - **Circuits TBTS** : Utilisation de circuits de très basse tension pour les zones les plus exposées aux éclaboussures.
 - **Dispositifs de chauffage** : Les dispositifs de chauffage de l’eau doivent être surveillés et munis de protections pour prévenir les surchauffes et les fuites.
+
+---
 
 ## CHAPITRE 7.3. SAUNAS
 
 ### Section 7.3.1. Domaine d'application
 
 Les règles dans cette section s'appliquent aux **saunas** installés dans des habitations privées, des installations sportives ou des lieux publics. En raison des températures élevées, ces installations nécessitent des précautions particulières.
+
+---
 
 ### Section 7.3.2. Détermination des caractéristiques générales
 
@@ -247,6 +311,8 @@ Dans un sauna, les installations électriques sont divisées en **volumes** spé
 
 Ces volumes dictent quel type de matériel peut être utilisé et sous quelles protections.
 
+---
+
 #### Sous-section 7.3.2.2. Influences externes
 
 Les **influences externes** dans un sauna incluent :
@@ -254,19 +320,29 @@ Les **influences externes** dans un sauna incluent :
 - **Chaleur intense** : Le matériel électrique doit être conçu pour résister aux températures élevées.
 - **Humidité** : La vapeur augmente le risque de condensation sur les équipements, exigeant une protection renforcée.
 
+---
+
 ### Section 7.3.3. Protection contre les chocs électriques
 
 La **protection contre les chocs électriques** dans les saunas repose sur l'utilisation de circuits de très basse tension (TBTS) et d'une isolation renforcée. Les dispositifs de sécurité sont spécialement conçus pour supporter des températures élevées sans compromettre la protection électrique.
+
+---
 
 ### Section 7.3.4. Choix et mise en œuvre des matériels électriques
 
 #### Sous-section 7.3.4.1. Degré de protection du matériel électrique
 
-Le matériel installé dans les saunas doit avoir un **indice de protection** suffisant pour prévenir l’infiltration de la vapeur et supporter les températures élevées. Par exemple :
+Le matériel installé dans les saunas doit avoir un **indice de protection** suffisant pour prévenir l’infiltration de la vapeur et supporter les températures élevées.
 
-- **Volume 1** : Matériel d'indice IP44 minimum pour garantir la résistance à la chaleur et aux éclaboussures potentielles.
+| Volume        | Indice de Protection Minimum |
+|---------------|------------------------------|
+| **Volume 1**  | IP44 minimum                 |
 
-Les équipements doivent être installés de manière à éviter tout contact direct avec les utilisateurs.
+:::note Important 💡
+Les équipements doivent être installés de manière à éviter tout contact direct avec les utilisateurs, assurant une sécurité accrue lors de l’utilisation du sauna.
+:::
+
+---
 
 ## CHAPITRE 7.4. INSTALLATIONS DE CHANTIERS ET INSTALLATIONS EXTÉRIEURES
 
@@ -279,6 +355,8 @@ Ce chapitre concerne les **installations électriques temporaires sur les chanti
 
 Ces installations doivent être conçues pour garantir la sécurité des travailleurs et du public, tout en facilitant une maintenance rapide et efficace.
 
+---
+
 ### Section 7.4.2. Protection contre les chocs électriques
 
 #### Sous-section 7.4.2.1. Protection contre les chocs électriques par contacts indirects par coupure automatique de l'alimentation
@@ -289,30 +367,45 @@ La **protection par coupure automatique de l'alimentation** est essentielle dans
 - **Mise à la terre** : Les équipements doivent être mis à la terre efficacement pour diriger les courants de défaut vers la terre en cas de défaillance.
 - **Tests réguliers** : Les dispositifs de coupure automatique doivent être vérifiés périodiquement pour garantir leur bon fonctionnement.
 
+---
+
 #### Sous-section 7.4.2.2. Protection contre les chocs électriques par contacts indirects par la très basse tension de sécurité
 
-Dans certains cas, le recours à la **très basse tension de sécurité (TBTS)** peut offrir une alternative intéressante, surtout dans les espaces où l'eau et l'humidité sont présents. La TBTS réduit les risques d'électrisation même en cas de contact avec des parties sous tension :
+Dans certains cas, le recours à la **très basse tension de sécurité (TBTS)** peut offrir une alternative intéressante, surtout dans les espaces où l'eau et l'humidité sont présents. La TBTS réduit les risques d'électrisation même en cas de contact avec des parties sous tension.
 
 - **TBTS ≤ 50V AC** : Ce niveau de tension est généralement utilisé pour les éclairages de chantier et certains petits appareils, afin de minimiser le risque de choc.
 - **Isolation renforcée** : Les installations TBTS doivent être bien isolées pour prévenir toute fuite de courant, même minime.
+
+---
 
 ### Section 7.4.3. Choix et mise en œuvre des matériels électriques
 
 #### Sous-section 7.4.3.1. Conditions d'influences externes
 
-Les **influences externes** sur un chantier peuvent inclure l'humidité, la poussière, les variations de température, ainsi que les chocs physiques. Ces conditions doivent être prises en compte dans le choix des matériaux :
+Les **influences externes** sur un chantier peuvent inclure l'humidité, la poussière, les variations de température, ainsi que les chocs physiques. Ces conditions doivent être prises en compte dans le choix des matériaux.
 
-- **Indice de protection IP** : Privilégier un IP élevé (par exemple, IP44 ou IP65) pour les équipements exposés.
+:::info Indice de protection IP 🔒
+- Privilégiez un IP élevé (par exemple, IP44 ou IP65) pour les équipements exposés.
+- Garantit la durabilité face aux conditions rigoureuses du chantier.
+:::
+
 - **Robustesse** : Les matériaux utilisés doivent résister aux chocs et aux contraintes mécaniques fréquentes dans ce type d'environnement.
 - **Résistance aux produits chimiques** : En cas de chantier industriel, les équipements peuvent être exposés à des substances corrosives.
 
+---
+
 #### Sous-section 7.4.3.2. Canalisations électriques
 
-Les **canalisations électriques** sur les chantiers doivent être suffisamment robustes pour éviter les dommages liés aux mouvements constants et à la manipulation fréquente des équipements :
+Les **canalisations électriques** sur les chantiers doivent être suffisamment robustes pour éviter les dommages liés aux mouvements constants et à la manipulation fréquente des équipements.
 
+:::caution Précautions pour les Canalisations 🚧
 - **Canalisations armées ou protégées** : Recommandées pour éviter les écrasements et les perforations.
 - **Câblage souterrain** : Lorsque cela est possible, le câblage souterrain avec gaines protectrices peut réduire les risques de dommages.
+:::
+
 - **Couleur vive** : Les câbles doivent être visibles, souvent de couleur vive, pour éviter qu’ils soient accidentellement coupés ou endommagés.
+
+---
 
 #### Sous-section 7.4.3.3. Matériel électrique
 
@@ -322,27 +415,40 @@ Le **matériel électrique** doit être choisi avec soin pour assurer sa fiabili
 2. **Disjoncteurs différentiels mobiles** : Utilisés pour protéger les travailleurs des contacts accidentels.
 3. **Résistance aux vibrations** : Dans certains chantiers, le matériel doit également pouvoir résister aux vibrations et aux secousses.
 
+---
+
 ## CHAPITRE 7.6. ENCEINTES CONDUCTRICES EXIGUËS
 
 ### Section 7.6.1. Domaine d'application
 
 Les **enceintes conductrices exiguës** se réfèrent à des espaces de travail étroits et entièrement ou partiellement constitués de matériaux conducteurs (comme les cuves métalliques ou réservoirs). Ces lieux présentent des risques accrus d’électrisation et nécessitent des précautions spécifiques.
 
+---
+
 ### Section 7.6.2. Termes et définitions
 
 Dans le cadre des enceintes conductrices exiguës, les termes suivants sont essentiels :
 
-- **Contact direct** : Contact physique avec une partie sous tension.
-- **Contact indirect** : Contact avec une masse métallique sous tension à la suite d’un défaut d’isolation.
-- **Liaisons équipotentielles** : Connexion de toutes les parties conductrices pour éviter les différences de potentiel.
+| Terme                   | Définition                                                                                      |
+|-------------------------|-------------------------------------------------------------------------------------------------|
+| **Contact direct**      | Contact physique avec une partie sous tension.                                                  |
+| **Contact indirect**    | Contact avec une masse métallique sous tension à la suite d’un défaut d’isolation.              |
+| **Liaisons équipotentielles** | Connexion de toutes les parties conductrices pour éviter les différences de potentiel.       |
+
+---
 
 ### Section 7.6.3. Protection contre les chocs électriques
 
-La **protection contre les chocs électriques** dans les enceintes conductrices exiguës repose principalement sur la coupure automatique de l’alimentation et l’utilisation de la très basse tension de sécurité (TBTS) :
+La **protection contre les chocs électriques** dans les enceintes conductrices exiguës repose principalement sur la coupure automatique de l’alimentation et l’utilisation de la très basse tension de sécurité (TBTS).
 
+:::tip Protection TBTS 🛡️
 - **TBTS recommandée** : Utilisation de circuits TBTS (24V DC ou 50V AC) pour éviter les risques liés aux contacts directs.
 - **Dispositifs de protection différentielle** : Mise en place de dispositifs différentiels très sensibles (≤ 30 mA) pour détecter rapidement tout courant de fuite.
+:::
+
 - **Liaisons équipotentielles** : Toutes les parties métalliques doivent être reliées entre elles pour prévenir les différences de potentiel dangereuses.
+
+---
 
 ### Section 7.6.4. Choix et mise en œuvre des matériels électriques
 
@@ -354,21 +460,31 @@ Dans les enceintes exiguës, les **influences externes** incluent :
 - **Chaleur excessive** : Certains espaces peuvent présenter des températures élevées, nécessitant des équipements résistants.
 - **Humidité** : La présence d'humidité constante peut nécessiter un indice de protection élevé (IPX5 ou plus).
 
+---
+
 #### Sous-section 7.6.4.2. Canalisations électriques
 
-Les **canalisations électriques** dans les enceintes exiguës doivent être spécifiquement choisies pour résister aux conditions sévères de l’environnement :
+Les **canalisations électriques** dans les enceintes exiguës doivent être spécifiquement choisies pour résister aux conditions sévères de l’environnement.
 
+:::note Matériaux pour Canalisations ⚙️
 - **Isolation renforcée** : Les câbles et conduits doivent avoir une isolation supplémentaire pour résister à l’humidité.
 - **Fixation sécurisée** : Les canalisations doivent être solidement fixées pour éviter tout mouvement.
+:::
+
 - **Matériaux non-corrosifs** : Dans un environnement souvent humide et étroit, les canalisations doivent être fabriquées en matériaux résistants à la corrosion.
 
 Le choix du matériel et des protections dans les enceintes conductrices exiguës contribue à une sécurité optimale pour les travailleurs en limitant les risques de choc électrique et d’incidents.
+
+---
+
 
 ## CHAPITRE 7.8. CAMPINGS
 
 ### Section 7.8.1. Domaine d'application
 
 Les **installations électriques des campings** visent à garantir la sécurité des campeurs et des visiteurs, en couvrant aussi bien les bornes de raccordement des emplacements que les installations communes. Elles doivent répondre aux conditions spécifiques de ces environnements extérieurs, où l'exposition aux intempéries, à l'humidité, et aux contacts directs est élevée.
+
+---
 
 ### Section 7.8.2. Point de raccordement
 
@@ -378,15 +494,21 @@ Le **point de raccordement** sur les campings est une borne où les campeurs peu
 - **Équipé d’une protection contre les surintensités** : Disjoncteurs ou fusibles pour éviter les surcharges et les courts-circuits.
 - **Doté de dispositifs à courant différentiel-résiduel (30 mA)** : Cette protection est cruciale pour détecter les fuites de courant.
 
-Les points de raccordement doivent être suffisamment espacés et correctement installés pour éviter les accidents.
+:::tip Installation sécurisée des points de raccordement 🏕️
+Les points de raccordement doivent être espacés et correctement installés pour minimiser les risques d'accidents et assurer une utilisation pratique pour tous les campeurs.
+:::
+
+---
 
 ### Section 7.8.3. Protection contre les chocs électriques
 
-La **protection contre les chocs électriques** est essentielle pour prévenir les risques liés à l'humidité et à l'utilisation extérieure :
+La **protection contre les chocs électriques** est essentielle pour prévenir les risques liés à l'humidité et à l'utilisation extérieure.
 
-1. **Dispositifs différentiels** : Pour assurer une coupure rapide en cas de fuite de courant.
-2. **TBTS (Très Basse Tension de Sécurité)** : Peut être utilisée dans certaines installations sensibles, où les risques de contact avec des parties sous tension sont élevés.
-3. **Mise à la terre** : Toutes les installations doivent être correctement mises à la terre pour minimiser les risques d'électrisation.
+1. **Dispositifs différentiels** : Pour une coupure rapide en cas de fuite de courant.
+2. **TBTS (Très Basse Tension de Sécurité)** : Recommandée dans les installations sensibles pour limiter les risques de contact avec des parties sous tension.
+3. **Mise à la terre** : Toutes les installations doivent être correctement mises à la terre pour minimiser les risques d'électrocution.
+
+---
 
 ### Section 7.8.4. Choix et mise en œuvre des matériels électriques
 
@@ -397,6 +519,8 @@ Les campings étant en plein air, les **influences externes** comprennent :
 - **Humidité et projections d’eau** : Un indice de protection élevé (par exemple, IP44 ou plus) est requis pour les équipements exposés à la pluie.
 - **Températures variables** : Les matériaux doivent être capables de supporter des variations de température.
 - **Présence d’animaux et insectes** : La protection contre les animaux nuisibles peut être nécessaire.
+
+---
 
 #### Sous-section 7.8.4.2. Matériel électrique
 
@@ -414,6 +538,8 @@ Le **matériel électrique** utilisé dans les campings doit être adapté aux c
 
 Les installations électriques dans les marinas concernent les quais et les zones où les bateaux se connectent pour l’alimentation en électricité. L’objectif principal est d’assurer une alimentation stable tout en minimisant les risques d’électrocution dans des environnements exposés à l’eau.
 
+---
+
 ### Section 7.9.2. Protection contre les chocs électriques
 
 Dans les marinas, la **protection contre les chocs électriques** repose sur :
@@ -421,6 +547,8 @@ Dans les marinas, la **protection contre les chocs électriques** repose sur :
 - **Dispositifs différentiels (30 mA)** : Pour détecter toute fuite de courant.
 - **Mise à la terre** : Les équipements doivent être mis à la terre efficacement pour diriger les courants de défaut.
 - **Éloignement des câbles de l'eau** : Minimiser le contact potentiel avec l’eau en utilisant des conduits sécurisés.
+
+---
 
 ### Section 7.9.3. Choix et mise en œuvre des matériels électriques
 
@@ -432,6 +560,8 @@ Les influences externes à considérer dans les marinas incluent :
 - **Humidité constante** : Les équipements doivent être étanches (IP65 ou plus).
 - **Températures extrêmes** : Les variations de température nécessitent des équipements résilients.
 
+---
+
 #### Sous-section 7.9.3.2. Matériel électrique
 
 Le **matériel électrique** des marinas doit être hautement résistant à l'humidité et à la corrosion :
@@ -440,6 +570,24 @@ Le **matériel électrique** des marinas doit être hautement résistant à l'hu
 - **Câblage renforcé** : Adapté aux environnements humides et salins.
 - **Protection contre les courts-circuits** : Les dispositifs doivent inclure des protections contre les surcharges.
 
+---
+
+## Pour info : Chapitre 7.10 inexistant
+
+> Nous tenons à informer nos lecteurs qu'il n'existe pas de **chapitre 7.10** dans le Règlement Général sur les Installations Électriques (RGIE) ⚠️. La structure du RGIE est soigneusement organisée pour aborder des sujets spécifiques liés aux installations électriques, et parfois des sections peuvent manquer ou être omises.
+>
+> ### Pourquoi un saut de 7.9 à 7.11 ?
+>
+> Le passage du chapitre **7.9**, qui traite des **installations dans les marinas**, au chapitre **7.11** concernant des **règles spécifiques pour d'autres types d'installations ou environnements**, peut sembler déroutant. Voici quelques raisons possibles :
+>
+> - **Révisions et mises à jour** 🔄 : Au fil des révisions du RGIE, certaines sections peuvent avoir été modifiées, supprimées ou réorganisées pour mieux répondre aux besoins actuels en matière de sécurité et de conformité.
+>  
+> - **Règlementation spécifique** 🛠️ : Il est également possible que le chapitre 7.10 ait été prévu à l'origine, mais qu'après réévaluation, son contenu ait été jugé non nécessaire, ce qui a entraîné son exclusion.
+>
+> - **Adaptation aux évolutions** 🌍 : Les normes de sécurité évoluent constamment, et le RGIE doit s'adapter aux nouvelles réalités technologiques et aux meilleures pratiques du secteur.
+>
+> Nous vous encourageons à explorer les chapitres existants pour obtenir des informations détaillées sur les réglementations en vigueur et leur application pratique. Si vous avez des questions sur l'absence de ce chapitre ou sur tout autre aspect du RGIE, n'hésitez pas à nous contacter à **docs@bativolt.com** 📧.
+>
 ---
 
 ## CHAPITRE 7.11. INSTALLATIONS FORAINES
