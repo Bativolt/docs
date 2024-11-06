@@ -16,16 +16,6 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  i18n: {
-    defaultLocale: 'fr',
-    locales: ['fr', 'en', 'nl'],
-    localeConfigs: {
-      fr: { label: 'Français', direction: 'ltr' },
-      en: { label: 'English', direction: 'ltr' },
-      nl: { label: 'Nederlands', direction: 'ltr' },
-    },
-  },
-
   presets: [
     [
       'classic',
@@ -73,7 +63,6 @@ const config = {
         { to: '/electriciens-region', label: 'Trouver un Électricien', position: 'left' },
         { to: '/agences-agreees', label: 'Agences Agréées', position: 'left' },
         { href: 'https://www.bativolt.com', label: 'Bativolt.com', position: 'right' },
-        { type: 'localeDropdown', position: 'right' },
         { type: 'search', position: 'right' },
       ],
     },
