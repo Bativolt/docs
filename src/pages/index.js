@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
+import Translate, { translate } from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -105,16 +106,18 @@ function HomepageHeader() {
       
       <div className="container" style={{ position: 'relative', zIndex: 1 }}>
         <h1 className="hero__title">
-          docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique
+          <Translate>docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique</Translate>
         </h1>
         <p className="hero__subtitle">
-          Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement.
+          <Translate>
+            Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement.
+          </Translate>
         </p>
         <div className={styles.buttons}>
           <Link
             className={clsx(styles.ctaButton)}
             to="/docs/guide-rgie/introduction">
-            Accéder au Guide RGIE
+            <Translate>Accéder au Guide RGIE</Translate>
           </Link>
         </div>
       </div>
@@ -126,8 +129,14 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique"
-      description="Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement."
+      title={translate({
+        message: "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique",
+        description: "Titre de la page d'accueil pour SEO",
+      })}
+      description={translate({
+        message: "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.",
+        description: "Description de la page d'accueil pour SEO",
+      })}
     >
       <HomepageHeader />
       <main>

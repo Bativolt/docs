@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "docs.bativolt",
+    "description": "De titel in de navigatiebalk"
+  },
+  "logo.alt": {
+    "message": "Bativolt Logo",
+    "description": "De alt-tekst van het navigatielogo"
+  },
+  "item.label.Guide R.G.I.E.": {
+    "message": "Gids AREI",
+    "description": "Navigatiebalk item met label Gids AREI"
+  },
+  "item.label.Checklist Conformité": {
+    "message": "Checklist Keuring",
+    "description": "Navigatiebalk item met label Checklist Keuring"
+  },
+  "item.label.Infractions & Résolutions": {
+    "message": "Inbreuken & Oplossingen",
+    "description": "Navigatiebalk item met label Inbreuken & Oplossingen"
+  },
+  "item.label.Trouver un Électricien": {
+    "message": "Een Elektricien Vinden",
+    "description": "Navigatiebalk item met label Een Elektricien Vinden"
+  },
+  "item.label.Agences Agréées": {
+    "message": "Erkende Agentschappen",
+    "description": "Navigatiebalk item met label Gekeurde Agentschappen"
+  },
+  "item.label.Bativolt.com": {
+    "message": "Bativolt.com",
+    "description": "Navigatiebalk item met label Bativolt.com"
+  }
+}

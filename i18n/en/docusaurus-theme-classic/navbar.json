@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "docs.bativolt",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Bativolt Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Guide R.G.I.E.": {
+    "message": "Regulations Guide",
+    "description": "Navbar item with label Regulations Guide"
+  },
+  "item.label.Checklist Conformité": {
+    "message": "Compliance Checklist",
+    "description": "Navbar item with label Compliance Checklist"
+  },
+  "item.label.Infractions & Résolutions": {
+    "message": "Infractions & Solutions",
+    "description": "Navbar item with label Infractions & Solutions"
+  },
+  "item.label.Trouver un Électricien": {
+    "message": "Find an Electrician",
+    "description": "Navbar item with label Find an Electrician"
+  },
+  "item.label.Agences Agréées": {
+    "message": "Approved Agencies",
+    "description": "Navbar item with label Approved Agencies"
+  },
+  "item.label.Bativolt.com": {
+    "message": "Bativolt.com",
+    "description": "Navbar item with label Bativolt.com"
+  }
+}

@@ -46,3 +46,17 @@
     padding: 2rem;
   }
 }
+
+/* Désactiver temporairement les effets de wrap et overflow pour tester */
+.navbar__item {
+  white-space: normal; /* Permettre le retour à la ligne pour tester */
+  overflow: visible; /* Affiche tout le contenu */
+  text-overflow: clip; /* Retire les points de suspension */
+}
+
+/* Permettre le wrapping dans la navbar pour tester */
+.navbar {
+  display: flex;
+  flex-wrap: wrap; /* Permet aux éléments de passer à la ligne suivante */
+  align-items: center;
+}

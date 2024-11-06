@@ -16,6 +16,22 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  i18n: {
+    defaultLocale: 'fr', // Default language of the site
+    locales: ['fr', 'nl', 'en'], // Available languages
+    localeConfigs: {
+      fr: {
+        label: 'Français', // Label for French language
+      },
+      nl: {
+        label: 'Nederlands', // Label for Dutch language
+      },
+      en: {
+        label: 'English', // Label for English language
+      },
+    },
+  },  
+
   presets: [
     [
       'classic',
@@ -64,6 +80,7 @@ const config = {
         { to: '/agences-agreees', label: 'Agences Agréées', position: 'left' },
         { href: 'https://www.bativolt.com', label: 'Bativolt.com', position: 'right' },
         { type: 'search', position: 'right' },
+        { type: 'localeDropdown', position: 'right' }, // Menu déroulant pour le changement de langue
       ],
     },
     footer: {

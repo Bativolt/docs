@@ -27,23 +27,3 @@
     text-decoration: none;
     color: black; /* Couleur des liens */
 }
-
-/* Styles pour les écrans de 1700px et moins */
-@media screen and (max-width: 1700px) {
-    .navbar {
-        display: flex; /* Toujours afficher la barre de navigation */
-    }
-
-    .navLinks {
-        display: flex; /* Toujours afficher les liens */
-        flex-direction: row; /* Conserver l'alignement horizontal */
-        margin-left: 0; /* Réinitialiser le margin-left pour les petits écrans */
-    }
-}
-
-/* Styles pour les écrans plus petits (facultatif, pour ajustements) */
-@media screen and (max-width: 1700px) {
-    .navbar {
-        flex-direction: column; /* Vous pouvez également essayer cela pour voir si cela aide */
-    }
-}
