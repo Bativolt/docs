@@ -105,7 +105,7 @@ const config = {
             { label: 'Bativolt.com', href: 'https://www.bativolt.com' },
             { label: 'Contactez-nous', href: 'mailto:docs@bativolt.com' },
             { label: 'Disclaimer', to: '/disclaimer' },
-            { label: 'Confidentialité', to: '/privacy-policy' },
+            { label: 'Confidentialité', to: '/policy' },
           ],
         },
       ],
