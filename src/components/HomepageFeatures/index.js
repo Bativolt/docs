@@ -72,7 +72,7 @@ function Feature({ Svg, title, description, altText }) {
         <Svg className={styles.featureSvg} role="img" aria-label={altText} alt={altText} />
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h2">{title}</Heading> {/* Utiliser h2 pour l'importance SEO */}
+        <Heading as="h2">{title}</Heading>
         <p>{description}</p>
       </div>
     </div>
