@@ -16,6 +16,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  // Ajout de trailingSlash pour assurer un '/' à la fin de chaque URL
+  trailingSlash: true,
+
   i18n: {
     defaultLocale: 'fr', // Default language of the site
     locales: ['fr', 'nl', 'en'], // Available languages
