@@ -16,6 +16,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  trailingSlash: false,
+
   i18n: {
     defaultLocale: 'fr', // Default language of the site
     locales: ['fr', 'nl', 'en'], // Available languages
