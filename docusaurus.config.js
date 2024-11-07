@@ -16,24 +16,17 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Ajout de trailingSlash pour assurer un '/' à la fin de chaque URL
-  trailingSlash: true,
+  trailingSlash: true, // Ajoute un '/' à la fin de chaque URL
 
   i18n: {
-    defaultLocale: 'fr', // Default language of the site
-    locales: ['fr', 'nl', 'en'], // Available languages
+    defaultLocale: 'fr',
+    locales: ['fr', 'nl', 'en'],
     localeConfigs: {
-      fr: {
-        label: 'Français', // Label for French language
-      },
-      nl: {
-        label: 'Nederlands', // Label for Dutch language
-      },
-      en: {
-        label: 'English', // Label for English language
-      },
+      fr: { label: 'Français' },
+      nl: { label: 'Nederlands' },
+      en: { label: 'English' },
     },
-  },  
+  },
 
   presets: [
     [
@@ -41,6 +34,9 @@ const config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
+          routeBasePath: '/', // Accès direct depuis la racine
+          showLastUpdateTime: true, // Affiche la dernière mise à jour
+          editUrl: 'https://github.com/Bativolt/docs/edit/main/', // Permet d'éditer via GitHub
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -83,7 +79,7 @@ const config = {
         { to: '/agences-agreees', label: 'Agences Agréées', position: 'left' },
         { href: 'https://www.bativolt.com', label: 'Bativolt.com', position: 'right' },
         { type: 'search', position: 'right' },
-        { type: 'localeDropdown', position: 'right' }, // Menu déroulant pour le changement de langue
+        { type: 'localeDropdown', position: 'right' },
       ],
     },
     footer: {
