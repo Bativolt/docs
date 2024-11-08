@@ -15,24 +15,17 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
   trailingSlash: false,
 
   i18n: {
-    defaultLocale: 'fr', // Default language of the site
-    locales: ['fr', 'nl', 'en'], // Available languages
+    defaultLocale: 'fr',
+    locales: ['fr', 'nl', 'en'],
     localeConfigs: {
-      fr: {
-        label: 'Français', // Label for French language
-      },
-      nl: {
-        label: 'Nederlands', // Label for Dutch language
-      },
-      en: {
-        label: 'English', // Label for English language
-      },
+      fr: { label: 'Français' },
+      nl: { label: 'Nederlands' },
+      en: { label: 'English' },
     },
-  },  
+  },
 
   presets: [
     [
@@ -47,14 +40,31 @@ const config = {
       },
     ],
   ],
-  
+
   scripts: [
+    // Cookie Script
     {
       src: '//cdn.cookie-script.com/s/cb9b7cb807b525bb72dd46257d2d4fc0.js',
       type: 'text/javascript',
       charset: 'UTF-8',
     },
+    // Google Tag Manager
+    {
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-XL1Q15W2E6',
+      async: true,
+    },
+    {
+      type: 'text/javascript',
+      innerHTML: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XL1Q15W2E6');
+      `,
+    },
   ],
+  
+  dangerouslySetInnerHTML: true,
 
   themeConfig: {
     algolia: {
@@ -82,7 +92,7 @@ const config = {
         { to: '/agences-agreees', label: 'Agences Agréées', position: 'left' },
         { href: 'https://www.bativolt.com', label: 'Bativolt.com', position: 'right' },
         { type: 'search', position: 'right' },
-        { type: 'localeDropdown', position: 'right' }, // Menu déroulant pour le changement de langue
+        { type: 'localeDropdown', position: 'right' },
       ],
     },
     footer: {
@@ -106,7 +116,7 @@ const config = {
             { label: 'Facebook Bativolt', href: 'https://www.facebook.com/bativolt' },
             { label: 'Dernières Mises à Jour', to: '/dernieres-mises-a-jour' },
           ],
-        },        
+        },
         {
           title: 'Plus',
           items: [
