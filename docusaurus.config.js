@@ -55,21 +55,18 @@ const config = {
       type: 'text/javascript',
       charset: 'UTF-8',
     },
-    // Google Analytics : Insérez le script simple donné par Google
+    // Google Analytics
     {
       src: 'https://www.googletagmanager.com/gtag/js?id=G-XL1Q15W2E6',
       async: true,
     },
+    // Référence à notre fichier analytics.js
     {
-      content: `
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-XL1Q15W2E6');
-      `,
+      src: '/analytics.js',
       type: 'text/javascript',
     },
   ],
+  
   
 
   themeConfig: {
