@@ -60,3 +60,28 @@
   flex-wrap: wrap; /* Permet aux éléments de passer à la ligne suivante */
   align-items: center;
 }
+
+/* Ajuster la taille du titre et du sous-titre en version mobile */
+@media only screen and (max-width: 768px) {
+  .hero__title {
+    font-size: 24px; /* Taille du titre pour les tablettes et mobiles */
+    line-height: 1.2;
+  }
+
+  .hero__subtitle {
+    font-size: 16px; /* Taille du sous-titre pour les tablettes et mobiles */
+    line-height: 1.3;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .hero__title {
+    font-size: 20px; /* Taille du titre pour les petits écrans */
+    line-height: 1.1;
+  }
+
+  .hero__subtitle {
+    font-size: 14px; /* Taille du sous-titre pour les petits écrans */
+    line-height: 1.2;
+  }
+}
