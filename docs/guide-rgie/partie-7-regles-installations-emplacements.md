@@ -602,6 +602,8 @@ Les **installations électriques foraines** concernent les manèges, stands et �
 
 :::tip Astuce 💡
 Veillez à vérifier régulièrement l'état des installations avant chaque événement pour garantir leur conformité aux normes de sécurité.
+:::
+
 
 ---
 
@@ -626,6 +628,7 @@ Pour les installations foraines, la **protection contre les chocs électriques**
 
 :::warning Attention ⚠️
 Il est crucial d'assurer que les dispositifs de protection soient régulièrement testés pour garantir leur bon fonctionnement, surtout avant chaque événement.
+:::
 
 ---
 
@@ -647,6 +650,7 @@ Certains termes spécifiques sont essentiels pour comprendre les installations d
 
 :::info Information ℹ️
 Ces définitions facilitent la compréhension des exigences de sécurité et des équipements standards utilisés dans les bornes de recharge.
+:::
 
 ---
 
@@ -661,6 +665,7 @@ La **division des installations** est nécessaire pour adapter la charge et la s
 
 :::caution Avertissement ⚠️
 Assurez-vous que toutes les installations sont conformes aux normes en vigueur pour éviter les risques d'accidents électriques.
+:::
 
 ---
 
@@ -675,6 +680,7 @@ Les **contacts indirects** sont les situations où une personne touche une parti
 
 :::tip Astuce 💡
 Vérifiez régulièrement l'intégrité des systèmes de mise à la terre pour garantir leur efficacité.
+:::
 
 #### Sous-section 7.22.4.2. Protection contre les surintensités
 
@@ -690,6 +696,7 @@ La protection contre les **surintensités** garantit que les circuits ne sont pa
 
 :::warning Attention ⚠️
 Il est crucial de choisir des disjoncteurs adaptés à la puissance des bornes de recharge pour éviter tout risque de défaillance.
+:::
 
 ---
 
@@ -712,6 +719,7 @@ La **coupure d’urgence** est un dispositif essentiel pour les bornes de rechar
 :::example Exemples pratiques 📌
 - Installez des boutons de coupure d'urgence à des emplacements stratégiques pour faciliter l'accès en cas de besoin.
 - Formez les utilisateurs sur l'emplacement des dispositifs de coupure d'urgence et leur fonctionnement.
+:::
 
 ---
 
@@ -733,6 +741,7 @@ Certains termes spécifiques sont essentiels pour comprendre les installations d
 
 :::info Information ℹ️
 Ces définitions facilitent la compréhension des exigences de sécurité et des équipements standards utilisés dans les bornes de recharge.
+:::
 
 ---
 
@@ -747,6 +756,7 @@ La **division des installations** est nécessaire pour adapter la charge et la s
 
 :::caution Avertissement ⚠️
 Assurez-vous que toutes les installations sont conformes aux normes en vigueur pour éviter les risques d'accidents électriques.
+:::
 
 ---
 
@@ -761,6 +771,7 @@ Les **contacts indirects** sont les situations où une personne touche une parti
 
 :::tip Astuce 💡
 Vérifiez régulièrement l'intégrité des systèmes de mise à la terre pour garantir leur efficacité.
+:::
 
 #### Sous-section 7.22.4.2. Protection contre les surintensités
 
@@ -776,6 +787,7 @@ La protection contre les **surintensités** garantit que les circuits ne sont pa
 
 :::warning Attention ⚠️
 Il est crucial de choisir des disjoncteurs adaptés à la puissance des bornes de recharge pour éviter tout risque de défaillance.
+:::
 
 ---
 
@@ -798,6 +810,7 @@ La **coupure d’urgence** est un dispositif essentiel pour les bornes de rechar
 :::example Exemples pratiques 📌
 - Installez des boutons de coupure d'urgence à des emplacements stratégiques pour faciliter l'accès en cas de besoin.
 - Formez les utilisateurs sur l'emplacement des dispositifs de coupure d'urgence et leur fonctionnement.
+:::
 
 ---
 
@@ -840,6 +853,7 @@ Les **volumes** dans les installations aquatiques, comme les fontaines, sont cla
 
 :::info Information ℹ️
 Ces classifications permettent de définir les équipements appropriés et d’assurer la sécurité des usagers et du personnel d’entretien.
+:::
 
 ---
 
@@ -854,7 +868,7 @@ L’utilisation de la **très basse tension de sécurité (TBTS)** est essentiel
 
 :::warning Attention ⚠️
 Veillez à installer des équipements conformes aux exigences de TBTS pour assurer une sécurité maximale dans les environnements aquatiques.
-
+:::
 ---
 
 #### Sous-section 7.100.3.2. Protection contre les contacts directs - Degré de protection du matériel électrique
@@ -866,6 +880,7 @@ Les **contacts directs** avec les équipements électriques peuvent être danger
 
 :::tip Astuce 💡
 Assurez-vous que tous les équipements installés dans des environnements aquatiques sont régulièrement vérifiés pour garantir leur conformité aux normes IP.
+:::
 
 ---
 
@@ -879,6 +894,7 @@ La **séparation de sécurité** des circuits électriques est essentielle pour 
 :::example Exemples pratiques 📌
 - Assurez-vous que les circuits électriques alimentant les dispositifs immergés sont bien séparés de ceux alimentant les dispositifs à sec.
 - Testez régulièrement les disjoncteurs pour garantir leur efficacité.
+:::
 
 #### Sous-section 7.100.3.4. Liaison équipotentielle supplémentaire
 
@@ -895,6 +911,7 @@ Les fontaines et bassins nécessitent une **liaison équipotentielle supplément
 
 :::warning Attention ⚠️
 Veillez à ce que toutes les liaisons équipotentielles soient vérifiées et maintenues pour garantir leur efficacité.
+:::
 
 ---
 
