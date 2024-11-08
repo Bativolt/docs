@@ -49,10 +49,26 @@ const config = {
   ],
   
   scripts: [
+    // Script pour le consentement des cookies
     {
       src: '//cdn.cookie-script.com/s/cb9b7cb807b525bb72dd46257d2d4fc0.js',
       type: 'text/javascript',
       charset: 'UTF-8',
+    },
+    // Script pour Google Analytics
+    {
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-XL1Q15W2E6',
+      async: true,
+    },
+    // Initialisation de Google Analytics
+    {
+      content: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XL1Q15W2E6', { anonymize_ip: true });
+      `,
+      type: 'text/javascript',
     },
   ],
 
