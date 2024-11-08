@@ -12,56 +12,56 @@
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Guide R.G.I.E.": {
-    "message": "Regulations Guide",
-    "description": "The label of footer link with label Belgian Electrical Regulations Guide linking to /docs/guide-rgie/introduction"
+    "message": "Electrical Regulations Guide",
+    "description": "The label of footer link with label=Electrical Regulations Guide linking to /docs/guide-rgie/introduction"
   },
   "link.item.label.Checklist Conformité": {
     "message": "Compliance Checklist",
-    "description": "The label of footer link with label Compliance Checklist linking to /docs/checklist/introduction"
+    "description": "The label of footer link with label=Compliance Checklist linking to /docs/checklist/introduction"
   },
   "link.item.label.Infractions Fréquentes": {
-    "message": "Common Infractions",
-    "description": "The label of footer link with label Common Infractions linking to /docs/infractions/introduction"
+    "message": "Frequent Violations",
+    "description": "The label of footer link with label=Frequent Violations linking to /docs/infractions/introduction"
   },
   "link.item.label.Trouver un Électricien": {
     "message": "Find an Electrician",
-    "description": "The label of footer link with label Find an Electrician linking to /electriciens-region"
+    "description": "The label of footer link with label=Find an Electrician linking to /electriciens-region"
   },
   "link.item.label.Agences Agréées": {
-    "message": "Approved Agencies",
-    "description": "The label of footer link with label Approved Agencies linking to /agences-agreees"
+    "message": "Certified Compliance Agencies",
+    "description": "The label of footer link with label=Certified Compliance Agencies linking to /agences-agreees"
   },
   "link.item.label.Instagram Bativolt": {
-    "message": "Instagram Bativolt",
-    "description": "The label of footer link with label Instagram Bativolt linking to https://www.instagram.com/bativolt/"
+    "message": "Bativolt Instagram",
+    "description": "The label of footer link with label=Bativolt Instagram linking to https://www.instagram.com/bativolt/"
   },
   "link.item.label.LinkedIn Bativolt": {
-    "message": "LinkedIn Bativolt",
-    "description": "The label of footer link with label LinkedIn Bativolt linking to https://www.linkedin.com/company/bativolt"
+    "message": "Bativolt LinkedIn",
+    "description": "The label of footer link with label=Bativolt LinkedIn linking to https://www.linkedin.com/company/bativolt"
   },
   "link.item.label.Facebook Bativolt": {
-    "message": "Facebook Bativolt",
-    "description": "The label of footer link with label Facebook Bativolt linking to https://www.facebook.com/bativolt"
+    "message": "Bativolt Facebook",
+    "description": "The label of footer link with label=Bativolt Facebook linking to https://www.facebook.com/bativolt"
   },
   "link.item.label.Dernières Mises à Jour": {
     "message": "Latest Updates",
-    "description": "The label of footer link with label Latest Updates linking to /dernieres-mises-a-jour"
+    "description": "The label of footer link with label=Latest Updates linking to /latest-updates"
   },
   "link.item.label.Bativolt.com": {
     "message": "Bativolt.com",
-    "description": "The label of footer link with label Bativolt.com linking to https://www.bativolt.com"
+    "description": "The label of footer link with label=Bativolt.com linking to https://www.bativolt.com"
   },
   "link.item.label.Contactez-nous": {
     "message": "Contact Us",
-    "description": "The label of footer link with label Contact Us linking to mailto:docs@bativolt.com"
+    "description": "The label of footer link with label=Contact Us linking to mailto:docs@bativolt.com"
   },
   "link.item.label.Disclaimer": {
     "message": "Disclaimer",
-    "description": "The label of footer link with label Disclaimer linking to /disclaimer"
+    "description": "The label of footer link with label=Disclaimer linking to /disclaimer"
   },
   "link.item.label.Confidentialité": {
     "message": "Privacy Policy",
-    "description": "The label of footer link with label Privacy Policy linking to /policy"
+    "description": "The label of footer link with label=Privacy Policy linking to /policy"
   },
   "copyright": {
     "message": "Copyright © 2024 Bativolt. All rights reserved.",

@@ -1,70 +1,70 @@
 {
   "link.title.Documentation": {
     "message": "Documentatie",
-    "description": "De titel van de kolom met footer-links, titel=Documentatie in de footer"
+    "description": "De titel van de footer link kolom met title=Documentatie in de footer"
   },
   "link.title.Communauté": {
     "message": "Gemeenschap",
-    "description": "De titel van de kolom met footer-links, titel=Gemeenschap in de footer"
+    "description": "De titel van de footer link kolom met title=Gemeenschap in de footer"
   },
   "link.title.Plus": {
     "message": "Meer",
-    "description": "De titel van de kolom met footer-links, titel=Meer in de footer"
+    "description": "De titel van de footer link kolom met title=Meer in de footer"
   },
   "link.item.label.Guide R.G.I.E.": {
-    "message": "Gids AREI",
-    "description": "De footer-link met label Gids AREI die verwijst naar /docs/guide-rgie/introduction"
+    "message": "AREI-Gids",
+    "description": "Het label van de footer link met label=Gids R.G.I.E. die verwijst naar /docs/guide-rgie/introduction"
   },
   "link.item.label.Checklist Conformité": {
-    "message": "Checklist Conformiteit",
-    "description": "De footer-link met label Checklist Conformiteit die verwijst naar /docs/checklist/introduction"
+    "message": "Checklist voor Elektrische Keuring",
+    "description": "Het label van de footer link met label=Conformiteitschecklist die verwijst naar /docs/checklist/introduction"
   },
   "link.item.label.Infractions Fréquentes": {
-    "message": "Inbreuken & Oplossingen",
-    "description": "De footer-link met label Inbreuken & Oplossingen die verwijst naar /docs/infractions/introduction"
+    "message": "Veelvoorkomende Inbreuken",
+    "description": "Het label van de footer link met label=Veelvoorkomende Inbreuken die verwijst naar /docs/infractions/introduction"
   },
   "link.item.label.Trouver un Électricien": {
-    "message": "Een Elektricien Vinden",
-    "description": "De footer-link met label Een Elektricien Vinden die verwijst naar /electriciens-region"
+    "message": "Vind een Elektricien",
+    "description": "Het label van de footer link met label=Vind een Elektricien die verwijst naar /electriciens-region"
   },
   "link.item.label.Agences Agréées": {
-    "message": "Erkende Agentschappen",
-    "description": "De footer-link met label Gekeurde Agentschappen die verwijst naar /agences-agreees"
+    "message": "Gecertificeerde Keuringsagentschappen",
+    "description": "Het label van de footer link met label=Gecertificeerde Agentschappen die verwijst naar /agences-agreees"
   },
   "link.item.label.Instagram Bativolt": {
     "message": "Instagram Bativolt",
-    "description": "De footer-link met label Instagram Bativolt die verwijst naar https://www.instagram.com/bativolt/"
+    "description": "Het label van de footer link met label=Instagram Bativolt die verwijst naar https://www.instagram.com/bativolt/"
   },
   "link.item.label.LinkedIn Bativolt": {
     "message": "LinkedIn Bativolt",
-    "description": "De footer-link met label LinkedIn Bativolt die verwijst naar https://www.linkedin.com/company/bativolt"
+    "description": "Het label van de footer link met label=LinkedIn Bativolt die verwijst naar https://www.linkedin.com/company/bativolt"
   },
   "link.item.label.Facebook Bativolt": {
     "message": "Facebook Bativolt",
-    "description": "De footer-link met label Facebook Bativolt die verwijst naar https://www.facebook.com/bativolt"
+    "description": "Het label van de footer link met label=Facebook Bativolt die verwijst naar https://www.facebook.com/bativolt"
   },
   "link.item.label.Dernières Mises à Jour": {
     "message": "Laatste Updates",
-    "description": "De footer-link met label Laatste Updates die verwijst naar /dernieres-mises-a-jour"
+    "description": "Het label van de footer link met label=Laatste Updates die verwijst naar /dernieres-mises-a-jour"
   },
   "link.item.label.Bativolt.com": {
     "message": "Bativolt.com",
-    "description": "De footer-link met label Bativolt.com die verwijst naar https://www.bativolt.com"
+    "description": "Het label van de footer link met label=Bativolt.com die verwijst naar https://www.bativolt.com"
   },
   "link.item.label.Contactez-nous": {
     "message": "Contacteer ons",
-    "description": "De footer-link met label Contacteer ons die verwijst naar mailto:docs@bativolt.com"
+    "description": "Het label van de footer link met label=Contacteer ons die verwijst naar mailto:docs@bativolt.com"
   },
   "link.item.label.Disclaimer": {
     "message": "Disclaimer",
-    "description": "De footer-link met label Disclaimer die verwijst naar /disclaimer"
+    "description": "Het label van de footer link met label=Disclaimer die verwijst naar /disclaimer"
   },
   "link.item.label.Confidentialité": {
-    "message": "Privacybeleid",
-    "description": "De footer-link met label Privacybeleid die verwijst naar /policy"
+    "message": "Privacy",
+    "description": "Het label van de footer link met label=Privacy die verwijst naar /policy"
   },
   "copyright": {
     "message": "Copyright © 2024 Bativolt. Alle rechten voorbehouden.",
-    "description": "Het copyright in de footer"
+    "description": "De footer copyright"
   }
 }

@@ -1,20 +1,20 @@
 {
   "docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique": {
-    "message": "docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique"
+    "message": "docs.bativolt.com - AREI-Gids en Documentatie voor Elektrische Conformiteit in België"
   },
   "Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement.": {
-    "message": "Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement."
+    "message": "Toegang tot volledige bronnen voor elektrische conformiteit: AREI-gids, praktische tips en verbinding met erkende agentschappen en elektriciens, gratis."
   },
   "Accéder au Guide RGIE": {
-    "message": "Accéder au Guide RGIE"
+    "message": "Toegang tot de AREI-Gids"
   },
   "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique": {
-    "message": "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique",
-    "description": "Titre de la page d'accueil pour SEO"
+    "message": "docs.bativolt.com - AREI-Gids en Documentatie voor Elektrische Conformiteit in België",
+    "description": "Homepage titel voor SEO"
   },
   "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.": {
-    "message": "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.",
-    "description": "Description de la page d'accueil pour SEO"
+    "message": "De AREI-gids en gratis documentatie voor elektrische conformiteit in België. Praktische bronnen, AREI-artikelen en verbinding met erkende professionals. Ontdek eenvoudig de veiligheidsnormen voor elektriciteit.",
+    "description": "Homepage beschrijving voor SEO"
   },
   "theme.ErrorPageContent.title": {
     "message": "Deze pagina is gecrasht.",
@@ -60,14 +60,6 @@
     "message": "Laat alle tags zien",
     "description": "The label of the link targeting the tag list page"
   },
-  "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 artikel|{count} artikelen",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
-  "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Broodkruimels",
-    "description": "The ARIA label for the breadcrumbs"
-  },
   "theme.colorToggle.ariaLabel": {
     "message": "Schakel tussen donkere en lichte modus (momenteel {mode})",
     "description": "The ARIA label for the navbar color mode toggle"
@@ -79,6 +71,14 @@
   "theme.colorToggle.ariaLabel.mode.light": {
     "message": "lichte modus",
     "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Broodkruimels",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "1 artikel|{count} artikelen",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
     "message": "Documentatie pagina",
@@ -123,6 +123,10 @@
     "message": "Bewerk deze pagina",
     "description": "The link label to edit the current page"
   },
+  "theme.common.headingLinkTitle": {
+    "message": "Direct link naar {heading}",
+    "description": "Title for link to heading"
+  },
   "theme.lastUpdated.atDate": {
     "message": " op {date}",
     "description": "The words used to describe on which date a page has been last updated"
@@ -135,25 +139,17 @@
     "message": "Laatst bijgewerkt{atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
-  "theme.common.headingLinkTitle": {
-    "message": "Direct link naar {heading}",
-    "description": "Title for link to heading"
+  "theme.NotFound.title": {
+    "message": "Pagina niet gevonden",
+    "description": "The title of the 404 page"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
     "message": "Versies",
     "description": "The label for the navbar versions dropdown on mobile view"
   },
-  "theme.NotFound.title": {
-    "message": "Pagina niet gevonden",
-    "description": "The title of the 404 page"
-  },
   "theme.tags.tagsListLabel": {
     "message": "Tags:",
     "description": "The label alongside a tag list"
-  },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Sluiten",
-    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.admonition.caution": {
     "message": "pas op",
@@ -178,6 +174,10 @@
   "theme.admonition.warning": {
     "message": "warning",
     "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Sluiten",
+    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.sidebar.navAriaLabel": {
     "message": "Navigatie recente blogitems",
@@ -211,10 +211,6 @@
     "message": "Main",
     "description": "The ARIA label for the main navigation"
   },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Op deze pagina",
-    "description": "The label used by the button on the collapsible TOC component"
-  },
   "theme.NotFound.p1": {
     "message": "We kunnen niet vinden waar je naar op zoek bent.",
     "description": "The first paragraph of the 404 page"
@@ -222,6 +218,14 @@
   "theme.NotFound.p2": {
     "message": "Neem contact op met de eigenaar van de website die naar de originele URL heeft geleid en laat weten dat de link niet meer werkt.",
     "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Talen",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Op deze pagina",
+    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
     "message": "Lees meer",
@@ -231,13 +235,17 @@
     "message": "Lees meer over {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Talen",
-    "description": "The label for the mobile language switcher dropdown"
-  },
   "theme.blog.post.readingTime.plurals": {
     "message": "Een minuut leestijd|{readingTime} minuten leestijd",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Homepagina",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
     "message": "Zijbalk inklappen",
@@ -247,25 +255,17 @@
     "message": "Zijbalk inklappen",
     "description": "The title attribute for collapse button of doc sidebar"
   },
-  "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
-    "description": "The ARIA label for the sidebar navigation"
-  },
-  "theme.docs.breadcrumbs.home": {
-    "message": "Homepagina",
-    "description": "The ARIA label for the home page in the breadcrumbs"
-  },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
     "message": "Close navigation bar",
     "description": "The ARIA label for close button of mobile sidebar"
   },
-  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar",
-    "description": "The ARIA label for hamburger menu button of mobile navigation"
-  },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
     "message": "← Terug naar het hoofdmenu",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.docs.sidebar.expandButtonTitle": {
     "message": "Zijbalk uitklappen",

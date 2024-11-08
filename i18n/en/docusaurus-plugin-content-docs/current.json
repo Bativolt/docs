@@ -8,183 +8,184 @@
     "description": "The label for category checklist in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.guide-rgie": {
-    "message": "guide-rgie",
-    "description": "The label for category guide-rgie in sidebar tutorialSidebar"
+    "message": "rgie-guide",
+    "description": "The label for category rgie-guide in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.guide-rgie-livre2": {
-    "message": "guide-rgie-livre2",
-    "description": "The label for category guide-rgie-livre2 in sidebar tutorialSidebar"
+    "message": "rgie-guide-book2",
+    "description": "The label for category rgie-guide-book2 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.guide-rgie-livre3": {
-    "message": "guide-rgie-livre3",
-    "description": "The label for category guide-rgie-livre3 in sidebar tutorialSidebar"
+    "message": "rgie-guide-book3",
+    "description": "The label for category rgie-guide-book3 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.infractions": {
-    "message": "infractions",
-    "description": "The label for category infractions in sidebar tutorialSidebar"
+    "message": "violations",
+    "description": "The label for category violations in sidebar tutorialSidebar"
   },
   "sidebar.checklistSidebar.category.Checklist de Conformité": {
-    "message": "Checklist de Conformité",
-    "description": "The label for category Checklist de Conformité in sidebar checklistSidebar"
+    "message": "Compliance Checklist",
+    "description": "The label for category Compliance Checklist in sidebar checklistSidebar"
   },
   "sidebar.checklistSidebar.doc.Introduction": {
     "message": "Introduction",
     "description": "The label for the doc item Introduction in sidebar checklistSidebar, linking to the doc checklist/introduction"
   },
   "sidebar.checklistSidebar.doc.Accès Installation": {
-    "message": "Accès Installation",
-    "description": "The label for the doc item Accès Installation in sidebar checklistSidebar, linking to the doc checklist/acces-installation"
+    "message": "Access to Installation",
+    "description": "The label for the doc item Access to Installation in sidebar checklistSidebar, linking to the doc checklist/acces-installation"
   },
   "sidebar.checklistSidebar.doc.Identification Compteurs": {
-    "message": "Identification Compteurs",
-    "description": "The label for the doc item Identification Compteurs in sidebar checklistSidebar, linking to the doc checklist/identification-compteurs"
+    "message": "Meter Identification",
+    "description": "The label for the doc item Meter Identification in sidebar checklistSidebar, linking to the doc checklist/identification-compteurs"
   },
   "sidebar.checklistSidebar.doc.Rapport de Conformité": {
-    "message": "Rapport de Conformité",
-    "description": "The label for the doc item Rapport de Conformité in sidebar checklistSidebar, linking to the doc checklist/rapport-conformite"
+    "message": "Compliance Report",
+    "description": "The label for the doc item Compliance Report in sidebar checklistSidebar, linking to the doc checklist/rapport-conformite"
   },
   "sidebar.checklistSidebar.doc.Plans Électriques": {
-    "message": "Plans Électriques",
-    "description": "The label for the doc item Plans Électriques in sidebar checklistSidebar, linking to the doc checklist/plans-schemas-electriques"
+    "message": "Electrical Schematics",
+    "description": "The label for the doc item Electrical Schematics in sidebar checklistSidebar, linking to the doc checklist/plans-schemas-electriques"
   },
   "sidebar.checklistSidebar.doc.Analyse des Risques": {
-    "message": "Analyse des Risques",
-    "description": "The label for the doc item Analyse des Risques in sidebar checklistSidebar, linking to the doc checklist/analyse-risques"
+    "message": "Risk Analysis",
+    "description": "The label for the doc item Risk Analysis in sidebar checklistSidebar, linking to the doc checklist/analyse-risques"
   },
   "sidebar.checklistSidebar.doc.Luminaires de Secours": {
-    "message": "Luminaires de Secours",
-    "description": "The label for the doc item Luminaires de Secours in sidebar checklistSidebar, linking to the doc checklist/luminaires-de-secours"
+    "message": "Emergency Lighting",
+    "description": "The label for the doc item Emergency Lighting in sidebar checklistSidebar, linking to the doc checklist/luminaires-de-secours"
   },
   "sidebar.checklistSidebar.doc.Doc Machines": {
-    "message": "Doc Machines",
-    "description": "The label for the doc item Doc Machines in sidebar checklistSidebar, linking to the doc checklist/documentation-machines"
+    "message": "Machine Documentation",
+    "description": "The label for the doc item Machine Documentation in sidebar checklistSidebar, linking to the doc checklist/documentation-machines"
   },
   "sidebar.checklistSidebar.doc.Dossier Électrique": {
-    "message": "Dossier Électrique",
-    "description": "The label for the doc item Dossier Électrique in sidebar checklistSidebar, linking to the doc checklist/dossier-electrique"
+    "message": "Electrical Dossier",
+    "description": "The label for the doc item Electrical Dossier in sidebar checklistSidebar, linking to the doc checklist/dossier-electrique"
   },
   "sidebar.guideRGIESidebar.category.Guide RGIE": {
-    "message": "Guide RGIE",
-    "description": "The label for category Guide RGIE in sidebar guideRGIESidebar"
+    "message": "RGIE Guide",
+    "description": "The label for category RGIE Guide in sidebar guideRGIESidebar"
   },
   "sidebar.guideRGIESidebar.category.Livre 1": {
-    "message": "Livre 1",
-    "description": "The label for category Livre 1 in sidebar guideRGIESidebar"
+    "message": "Book 1",
+    "description": "The label for category Book 1 in sidebar guideRGIESidebar"
   },
   "sidebar.guideRGIESidebar.category.Livre 2": {
-    "message": "Livre 2",
-    "description": "The label for category Livre 2 in sidebar guideRGIESidebar"
+    "message": "Book 2",
+    "description": "The label for category Book 2 in sidebar guideRGIESidebar"
   },
   "sidebar.guideRGIESidebar.category.Livre 3": {
-    "message": "Livre 3",
-    "description": "The label for category Livre 3 in sidebar guideRGIESidebar"
+    "message": "Book 3",
+    "description": "The label for category Book 3 in sidebar guideRGIESidebar"
   },
   "sidebar.guideRGIESidebar.doc.Introduction au Livre 1": {
-    "message": "Introduction au Livre 1",
-    "description": "The label for the doc item Introduction au Livre 1 in sidebar guideRGIESidebar, linking to the doc guide-rgie/introduction"
+    "message": "Introduction to Book 1",
+    "description": "The label for the doc item Introduction to Book 1 in sidebar guideRGIESidebar, linking to the doc guide-rgie/introduction"
   },
   "sidebar.guideRGIESidebar.doc.Prescriptions Générales": {
-    "message": "Prescriptions Générales",
-    "description": "The label for the doc item Prescriptions Générales in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-1-prescriptions-generales"
+    "message": "General Prescriptions",
+    "description": "The label for the doc item General Prescriptions in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-1-prescriptions-generales"
   },
   "sidebar.guideRGIESidebar.doc.Termes et Définitions": {
-    "message": "Termes et Définitions",
-    "description": "The label for the doc item Termes et Définitions in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-2-termes-definitions"
+    "message": "Terms and Definitions",
+    "description": "The label for the doc item Terms and Definitions in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-2-termes-definitions"
   },
   "sidebar.guideRGIESidebar.doc.Détermination des Caractéristiques": {
-    "message": "Détermination des Caractéristiques",
-    "description": "The label for the doc item Détermination des Caractéristiques in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-3-determination-caracteristiques"
+    "message": "Characteristics Determination",
+    "description": "The label for the doc item Characteristics Determination in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-3-determination-caracteristiques"
   },
   "sidebar.guideRGIESidebar.doc.Mesures de Protection": {
-    "message": "Mesures de Protection",
-    "description": "The label for the doc item Mesures de Protection in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-4-mesures-protection"
+    "message": "Protection Measures",
+    "description": "The label for the doc item Protection Measures in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-4-mesures-protection"
   },
   "sidebar.guideRGIESidebar.doc.Choix et Mise en Œuvre": {
-    "message": "Choix et Mise en Œuvre",
-    "description": "The label for the doc item Choix et Mise en Œuvre in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-5-choix-mise-en-oeuvre"
+    "message": "Selection and Implementation",
+    "description": "The label for the doc item Selection and Implementation in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-5-choix-mise-en-oeuvre"
   },
   "sidebar.guideRGIESidebar.doc.Contrôles des Installations": {
-    "message": "Contrôles des Installations",
-    "description": "The label for the doc item Contrôles des Installations in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-6-controles-installations"
+    "message": "Installations Checks",
+    "description": "The label for the doc item Installations Checks in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-6-controles-installations"
   },
   "sidebar.guideRGIESidebar.doc.Règles pour les Installations et Emplacements Spéciaux": {
-    "message": "Règles pour les Installations et Emplacements Spéciaux",
-    "description": "The label for the doc item Règles pour les Installations et Emplacements Spéciaux in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-7-regles-installations-emplacements"
+    "message": "Rules for Special Installations",
+    "description": "The label for the doc item Rules for Special Installations in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-7-regles-installations-emplacements"
   },
   "sidebar.guideRGIESidebar.doc.Prescriptions pour Installations Existantes": {
-    "message": "Prescriptions pour Installations Existantes",
-    "description": "The label for the doc item Prescriptions pour Installations Existantes in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-8-prescriptions-installations-existantes"
+    "message": "Prescriptions for Existing Installations",
+    "description": "The label for the doc item Prescriptions for Existing Installations in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-8-prescriptions-installations-existantes"
   },
   "sidebar.guideRGIESidebar.doc.Prescriptions Générales à Observer": {
-    "message": "Prescriptions Générales à Observer",
-    "description": "The label for the doc item Prescriptions Générales à Observer in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-9-prescriptions-personnes"
+    "message": "General Prescriptions to Follow",
+    "description": "The label for the doc item General Prescriptions to Follow in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-9-prescriptions-personnes"
   },
   "sidebar.guideRGIESidebar.doc.Conclusion": {
     "message": "Conclusion",
     "description": "The label for the doc item Conclusion in sidebar guideRGIESidebar, linking to the doc guide-rgie/conclusion"
   },
   "sidebar.guideRGIESidebar.doc.Introduction au Livre 2": {
-    "message": "Introduction au Livre 2",
-    "description": "The label for the doc item Introduction au Livre 2 in sidebar guideRGIESidebar, linking to the doc guide-rgie-livre2/introduction"
+    "message": "Introduction to Book 2",
+    "description": "The label for the doc item Introduction to Book 2 in sidebar guideRGIESidebar, linking to the doc guide-rgie-livre2/introduction"
   },
   "sidebar.guideRGIESidebar.doc.Introduction au Livre 3": {
-    "message": "Introduction au Livre 3",
-    "description": "The label for the doc item Introduction au Livre 3 in sidebar guideRGIESidebar, linking to the doc guide-rgie-livre3/introduction"
+    "message": "Introduction to Book 3",
+    "description": "The label for the doc item Introduction to Book 3 in sidebar guideRGIESidebar, linking to the doc guide-rgie-livre3/introduction"
   },
   "sidebar.infractionsSidebar.category.Infractions Électriques": {
-    "message": "Infractions Électriques",
-    "description": "The label for category Infractions Électriques in sidebar infractionsSidebar"
+    "message": "Electrical Violations",
+    "description": "The label for category Electrical Violations in sidebar infractionsSidebar"
   },
   "sidebar.infractionsSidebar.doc.Introduction": {
     "message": "Introduction",
     "description": "The label for the doc item Introduction in sidebar infractionsSidebar, linking to the doc infractions/introduction"
   },
   "sidebar.infractionsSidebar.doc.Schémas Électriques Absents ou Non Conformes": {
-    "message": "Schémas Électriques Absents ou Non Conformes",
-    "description": "The label for the doc item Schémas Électriques Absents ou Non Conformes in sidebar infractionsSidebar, linking to the doc infractions/schema-electriques-absents"
+    "message": "Missing or Non-Compliant Electrical Schematics",
+    "description": "The label for the doc item Missing or Non-Compliant Electrical Schematics in sidebar infractionsSidebar, linking to the doc infractions/schema-electriques-absents"
   },
   "sidebar.infractionsSidebar.doc.Pertes d'Électricité et Résistance à l'Isolation": {
-    "message": "Pertes d'Électricité et Résistance à l'Isolation",
-    "description": "The label for the doc item Pertes d'Électricité et Résistance à l'Isolation in sidebar infractionsSidebar, linking to the doc infractions/perte-electricite-isolation"
+    "message": "Electricity Losses and Insulation Resistance",
+    "description": "The label for the doc item Electricity Losses and Insulation Resistance in sidebar infractionsSidebar, linking to the doc infractions/perte-electricite-isolation"
   },
   "sidebar.infractionsSidebar.doc.Résistance de Terre Non Conforme": {
-    "message": "Résistance de Terre Non Conforme",
-    "description": "The label for the doc item Résistance de Terre Non Conforme in sidebar infractionsSidebar, linking to the doc infractions/resistance-terre-non-conforme"
+    "message": "Non-Compliant Ground Resistance",
+    "description": "The label for the doc item Non-Compliant Ground Resistance in sidebar infractionsSidebar, linking to the doc infractions/resistance-terre-non-conforme"
   },
   "sidebar.infractionsSidebar.doc.Tableau Électrique Non Conforme": {
-    "message": "Tableau Électrique Non Conforme",
-    "description": "The label for the doc item Tableau Électrique Non Conforme in sidebar infractionsSidebar, linking to the doc infractions/tableau-electrique-non-conforme"
+    "message": "Non-Compliant Electrical Panel",
+    "description": "The label for the doc item Non-Compliant Electrical Panel in sidebar infractionsSidebar, linking to the doc infractions/tableau-electrique-non-conforme"
   },
   "sidebar.infractionsSidebar.doc.Circuits Non Protégés par un Différentiel 30mA": {
-    "message": "Circuits Non Protégés par un Différentiel 30mA",
-    "description": "The label for the doc item Circuits Non Protégés par un Différentiel 30mA in sidebar infractionsSidebar, linking to the doc infractions/circuits-non-proteges-differentiel"
+    "message": "Circuits Not Protected by a 30mA RCD",
+    "description": "The label for the doc item Circuits Not Protected by a 30mA RCD in sidebar infractionsSidebar, linking to the doc infractions/circuits-non-proteges-differentiel"
   },
   "sidebar.infractionsSidebar.doc.Disjoncteur Différentiel Non Fonctionnel": {
-    "message": "Disjoncteur Différentiel Non Fonctionnel",
-    "description": "The label for the doc item Disjoncteur Différentiel Non Fonctionnel in sidebar infractionsSidebar, linking to the doc infractions/disjoncteur-differentiel-non-fonctionnel"
+    "message": "Non-Functional RCD",
+    "description": "The label for the doc item Non-Functional RCD in sidebar infractionsSidebar, linking to the doc infractions/disjoncteur-differentiel-non-fonctionnel"
   },
   "sidebar.infractionsSidebar.doc.Liaisons Équipotentielles Non Réalisées": {
-    "message": "Liaisons Équipotentielles Non Réalisées",
-    "description": "The label for the doc item Liaisons Équipotentielles Non Réalisées in sidebar infractionsSidebar, linking to the doc infractions/liaisons-equipotentielles-non-realisees"
+    "message": "Missing Equipotential Bonding",
+    "description": "The label for the doc item Missing Equipotential Bonding in sidebar infractionsSidebar, linking to the doc infractions/liaisons-equipotentielles-non-realisees"
   },
   "sidebar.infractionsSidebar.doc.Circuits Mixtes Non Conformes": {
-    "message": "Circuits Mixtes Non Conformes",
-    "description": "The label for the doc item Circuits Mixtes Non Conformes in sidebar infractionsSidebar, linking to the doc infractions/circuits-mixtes-non-conformes"
+    "message": "Non-Compliant Mixed Circuits",
+    "description": "The label for the doc item Non-Compliant Mixed Circuits in sidebar infractionsSidebar, linking to the doc infractions/circuits-mixtes-non-conformes"
   },
   "sidebar.infractionsSidebar.doc.Absence de Terre sur Prises à Broches de Terre": {
-    "message": "Absence de Terre sur Prises à Broches de Terre",
-    "description": "The label for the doc item Absence de Terre sur Prises à Broches de Terre in sidebar infractionsSidebar, linking to the doc infractions/absence-terre-sur-prises"
+    "message": "No Ground on Earthed Plug Sockets",
+    "description": "The label for the doc item No Ground on Earthed Plug Sockets in sidebar infractionsSidebar, linking to the doc infractions/absence-terre-sur-prises"
   },
   "sidebar.infractionsSidebar.doc.Installation Non Réalisée Selon les Règles de l'Art": {
-    "message": "Installation Non Réalisée Selon les Règles de l'Art",
-    "description": "The label for the doc item Installation Non Réalisée Selon les Règles de l'Art in sidebar infractionsSidebar, linking to the doc infractions/installation-non-realisee-regles-art"
+    "message": "Installation Not Performed According to Standards",
+    "description": "The label for the doc item Installation Not Performed According to Standards in sidebar infractionsSidebar, linking to the doc infractions/installation-non-realisee-regles-art"
   },
   "sidebar.infractionsSidebar.doc.Degrés de Protection Non Respectés": {
-    "message": "Degrés de Protection Non Respectés",
-    "description": "The label for the doc item Degrés de Protection Non Respectés in sidebar infractionsSidebar, linking to the doc infractions/degres-protection-non-respectes"
+    "message": "Protection Levels Not Respected",
+    "description": "The label for the doc item Protection Levels Not Respected in sidebar infractionsSidebar, linking to the doc infractions/degres-protection-non-respectes"
   },
   "sidebar.infractionsSidebar.doc.Conclusion": {
     "message": "Conclusion",
     "description": "The label for the doc item Conclusion in sidebar infractionsSidebar, linking to the doc infractions/conclusion"
   }
 }
+

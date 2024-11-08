@@ -1,190 +1,190 @@
 {
-  "version.label": {
-    "message": "Next",
-    "description": "The label for version current"
-  },
-  "sidebar.tutorialSidebar.category.checklist": {
-    "message": "checklist",
-    "description": "The label for category checklist in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.guide-rgie": {
-    "message": "guide-rgie",
-    "description": "The label for category guide-rgie in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.guide-rgie-livre2": {
-    "message": "guide-rgie-livre2",
-    "description": "The label for category guide-rgie-livre2 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.guide-rgie-livre3": {
-    "message": "guide-rgie-livre3",
-    "description": "The label for category guide-rgie-livre3 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.infractions": {
-    "message": "infractions",
-    "description": "The label for category infractions in sidebar tutorialSidebar"
-  },
-  "sidebar.checklistSidebar.category.Checklist de Conformité": {
-    "message": "Checklist de Conformité",
-    "description": "The label for category Checklist de Conformité in sidebar checklistSidebar"
-  },
-  "sidebar.checklistSidebar.doc.Introduction": {
-    "message": "Introduction",
-    "description": "The label for the doc item Introduction in sidebar checklistSidebar, linking to the doc checklist/introduction"
-  },
-  "sidebar.checklistSidebar.doc.Accès Installation": {
-    "message": "Accès Installation",
-    "description": "The label for the doc item Accès Installation in sidebar checklistSidebar, linking to the doc checklist/acces-installation"
-  },
-  "sidebar.checklistSidebar.doc.Identification Compteurs": {
-    "message": "Identification Compteurs",
-    "description": "The label for the doc item Identification Compteurs in sidebar checklistSidebar, linking to the doc checklist/identification-compteurs"
-  },
-  "sidebar.checklistSidebar.doc.Rapport de Conformité": {
-    "message": "Rapport de Conformité",
-    "description": "The label for the doc item Rapport de Conformité in sidebar checklistSidebar, linking to the doc checklist/rapport-conformite"
-  },
-  "sidebar.checklistSidebar.doc.Plans Électriques": {
-    "message": "Plans Électriques",
-    "description": "The label for the doc item Plans Électriques in sidebar checklistSidebar, linking to the doc checklist/plans-schemas-electriques"
-  },
-  "sidebar.checklistSidebar.doc.Analyse des Risques": {
-    "message": "Analyse des Risques",
-    "description": "The label for the doc item Analyse des Risques in sidebar checklistSidebar, linking to the doc checklist/analyse-risques"
-  },
-  "sidebar.checklistSidebar.doc.Luminaires de Secours": {
-    "message": "Luminaires de Secours",
-    "description": "The label for the doc item Luminaires de Secours in sidebar checklistSidebar, linking to the doc checklist/luminaires-de-secours"
-  },
-  "sidebar.checklistSidebar.doc.Doc Machines": {
-    "message": "Doc Machines",
-    "description": "The label for the doc item Doc Machines in sidebar checklistSidebar, linking to the doc checklist/documentation-machines"
-  },
-  "sidebar.checklistSidebar.doc.Dossier Électrique": {
-    "message": "Dossier Électrique",
-    "description": "The label for the doc item Dossier Électrique in sidebar checklistSidebar, linking to the doc checklist/dossier-electrique"
-  },
-  "sidebar.guideRGIESidebar.category.Guide RGIE": {
-    "message": "Guide RGIE",
-    "description": "The label for category Guide RGIE in sidebar guideRGIESidebar"
-  },
-  "sidebar.guideRGIESidebar.category.Livre 1": {
-    "message": "Livre 1",
-    "description": "The label for category Livre 1 in sidebar guideRGIESidebar"
-  },
-  "sidebar.guideRGIESidebar.category.Livre 2": {
-    "message": "Livre 2",
-    "description": "The label for category Livre 2 in sidebar guideRGIESidebar"
-  },
-  "sidebar.guideRGIESidebar.category.Livre 3": {
-    "message": "Livre 3",
-    "description": "The label for category Livre 3 in sidebar guideRGIESidebar"
-  },
-  "sidebar.guideRGIESidebar.doc.Introduction au Livre 1": {
-    "message": "Introduction au Livre 1",
-    "description": "The label for the doc item Introduction au Livre 1 in sidebar guideRGIESidebar, linking to the doc guide-rgie/introduction"
-  },
-  "sidebar.guideRGIESidebar.doc.Prescriptions Générales": {
-    "message": "Prescriptions Générales",
-    "description": "The label for the doc item Prescriptions Générales in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-1-prescriptions-generales"
-  },
-  "sidebar.guideRGIESidebar.doc.Termes et Définitions": {
-    "message": "Termes et Définitions",
-    "description": "The label for the doc item Termes et Définitions in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-2-termes-definitions"
-  },
-  "sidebar.guideRGIESidebar.doc.Détermination des Caractéristiques": {
-    "message": "Détermination des Caractéristiques",
-    "description": "The label for the doc item Détermination des Caractéristiques in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-3-determination-caracteristiques"
-  },
-  "sidebar.guideRGIESidebar.doc.Mesures de Protection": {
-    "message": "Mesures de Protection",
-    "description": "The label for the doc item Mesures de Protection in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-4-mesures-protection"
-  },
-  "sidebar.guideRGIESidebar.doc.Choix et Mise en Œuvre": {
-    "message": "Choix et Mise en Œuvre",
-    "description": "The label for the doc item Choix et Mise en Œuvre in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-5-choix-mise-en-oeuvre"
-  },
-  "sidebar.guideRGIESidebar.doc.Contrôles des Installations": {
-    "message": "Contrôles des Installations",
-    "description": "The label for the doc item Contrôles des Installations in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-6-controles-installations"
-  },
-  "sidebar.guideRGIESidebar.doc.Règles pour les Installations et Emplacements Spéciaux": {
-    "message": "Règles pour les Installations et Emplacements Spéciaux",
-    "description": "The label for the doc item Règles pour les Installations et Emplacements Spéciaux in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-7-regles-installations-emplacements"
-  },
-  "sidebar.guideRGIESidebar.doc.Prescriptions pour Installations Existantes": {
-    "message": "Prescriptions pour Installations Existantes",
-    "description": "The label for the doc item Prescriptions pour Installations Existantes in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-8-prescriptions-installations-existantes"
-  },
-  "sidebar.guideRGIESidebar.doc.Prescriptions Générales à Observer": {
-    "message": "Prescriptions Générales à Observer",
-    "description": "The label for the doc item Prescriptions Générales à Observer in sidebar guideRGIESidebar, linking to the doc guide-rgie/partie-9-prescriptions-personnes"
-  },
-  "sidebar.guideRGIESidebar.doc.Conclusion": {
-    "message": "Conclusion",
-    "description": "The label for the doc item Conclusion in sidebar guideRGIESidebar, linking to the doc guide-rgie/conclusion"
-  },
-  "sidebar.guideRGIESidebar.doc.Introduction au Livre 2": {
-    "message": "Introduction au Livre 2",
-    "description": "The label for the doc item Introduction au Livre 2 in sidebar guideRGIESidebar, linking to the doc guide-rgie-livre2/introduction"
-  },
-  "sidebar.guideRGIESidebar.doc.Introduction au Livre 3": {
-    "message": "Introduction au Livre 3",
-    "description": "The label for the doc item Introduction au Livre 3 in sidebar guideRGIESidebar, linking to the doc guide-rgie-livre3/introduction"
-  },
-  "sidebar.infractionsSidebar.category.Infractions Électriques": {
-    "message": "Infractions Électriques",
-    "description": "The label for category Infractions Électriques in sidebar infractionsSidebar"
-  },
-  "sidebar.infractionsSidebar.doc.Introduction": {
-    "message": "Introduction",
-    "description": "The label for the doc item Introduction in sidebar infractionsSidebar, linking to the doc infractions/introduction"
-  },
-  "sidebar.infractionsSidebar.doc.Schémas Électriques Absents ou Non Conformes": {
-    "message": "Schémas Électriques Absents ou Non Conformes",
-    "description": "The label for the doc item Schémas Électriques Absents ou Non Conformes in sidebar infractionsSidebar, linking to the doc infractions/schema-electriques-absents"
-  },
-  "sidebar.infractionsSidebar.doc.Pertes d'Électricité et Résistance à l'Isolation": {
-    "message": "Pertes d'Électricité et Résistance à l'Isolation",
-    "description": "The label for the doc item Pertes d'Électricité et Résistance à l'Isolation in sidebar infractionsSidebar, linking to the doc infractions/perte-electricite-isolation"
-  },
-  "sidebar.infractionsSidebar.doc.Résistance de Terre Non Conforme": {
-    "message": "Résistance de Terre Non Conforme",
-    "description": "The label for the doc item Résistance de Terre Non Conforme in sidebar infractionsSidebar, linking to the doc infractions/resistance-terre-non-conforme"
-  },
-  "sidebar.infractionsSidebar.doc.Tableau Électrique Non Conforme": {
-    "message": "Tableau Électrique Non Conforme",
-    "description": "The label for the doc item Tableau Électrique Non Conforme in sidebar infractionsSidebar, linking to the doc infractions/tableau-electrique-non-conforme"
-  },
-  "sidebar.infractionsSidebar.doc.Circuits Non Protégés par un Différentiel 30mA": {
-    "message": "Circuits Non Protégés par un Différentiel 30mA",
-    "description": "The label for the doc item Circuits Non Protégés par un Différentiel 30mA in sidebar infractionsSidebar, linking to the doc infractions/circuits-non-proteges-differentiel"
-  },
-  "sidebar.infractionsSidebar.doc.Disjoncteur Différentiel Non Fonctionnel": {
-    "message": "Disjoncteur Différentiel Non Fonctionnel",
-    "description": "The label for the doc item Disjoncteur Différentiel Non Fonctionnel in sidebar infractionsSidebar, linking to the doc infractions/disjoncteur-differentiel-non-fonctionnel"
-  },
-  "sidebar.infractionsSidebar.doc.Liaisons Équipotentielles Non Réalisées": {
-    "message": "Liaisons Équipotentielles Non Réalisées",
-    "description": "The label for the doc item Liaisons Équipotentielles Non Réalisées in sidebar infractionsSidebar, linking to the doc infractions/liaisons-equipotentielles-non-realisees"
-  },
-  "sidebar.infractionsSidebar.doc.Circuits Mixtes Non Conformes": {
-    "message": "Circuits Mixtes Non Conformes",
-    "description": "The label for the doc item Circuits Mixtes Non Conformes in sidebar infractionsSidebar, linking to the doc infractions/circuits-mixtes-non-conformes"
-  },
-  "sidebar.infractionsSidebar.doc.Absence de Terre sur Prises à Broches de Terre": {
-    "message": "Absence de Terre sur Prises à Broches de Terre",
-    "description": "The label for the doc item Absence de Terre sur Prises à Broches de Terre in sidebar infractionsSidebar, linking to the doc infractions/absence-terre-sur-prises"
-  },
-  "sidebar.infractionsSidebar.doc.Installation Non Réalisée Selon les Règles de l'Art": {
-    "message": "Installation Non Réalisée Selon les Règles de l'Art",
-    "description": "The label for the doc item Installation Non Réalisée Selon les Règles de l'Art in sidebar infractionsSidebar, linking to the doc infractions/installation-non-realisee-regles-art"
-  },
-  "sidebar.infractionsSidebar.doc.Degrés de Protection Non Respectés": {
-    "message": "Degrés de Protection Non Respectés",
-    "description": "The label for the doc item Degrés de Protection Non Respectés in sidebar infractionsSidebar, linking to the doc infractions/degres-protection-non-respectes"
-  },
-  "sidebar.infractionsSidebar.doc.Conclusion": {
-    "message": "Conclusion",
-    "description": "The label for the doc item Conclusion in sidebar infractionsSidebar, linking to the doc infractions/conclusion"
-  }
-}
+    "version.label": {
+      "message": "Volgende",
+      "description": "Het label voor de huidige versie"
+    },
+    "sidebar.tutorialSidebar.category.checklist": {
+      "message": "Checklist",
+      "description": "Het label voor de categorie checklist in tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.guide-rgie": {
+      "message": "AREI-Gids",
+      "description": "Het label voor de categorie AREI-Gids in tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.guide-rgie-livre2": {
+      "message": "AREI-Gids Boek 2",
+      "description": "Het label voor de categorie AREI-Gids Boek 2 in tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.guide-rgie-livre3": {
+      "message": "AREI-Gids Boek 3",
+      "description": "Het label voor de categorie AREI-Gids Boek 3 in tutorialSidebar"
+    },
+    "sidebar.tutorialSidebar.category.infractions": {
+      "message": "Overtredingen",
+      "description": "Het label voor de categorie overtredingen in tutorialSidebar"
+    },
+    "sidebar.checklistSidebar.category.Checklist de Conformité": {
+      "message": "Checklist voor Elektrische Keuring",
+      "description": "Het label voor de categorie Checklist voor Elektrische Keuring in checklistSidebar"
+    },
+    "sidebar.checklistSidebar.doc.Introduction": {
+      "message": "Inleiding",
+      "description": "Het label voor het document Inleiding in checklistSidebar, verwijst naar checklist/introduction"
+    },
+    "sidebar.checklistSidebar.doc.Accès Installation": {
+      "message": "Toegang tot Installatie",
+      "description": "Het label voor het document Toegang tot Installatie in checklistSidebar, verwijst naar checklist/acces-installation"
+    },
+    "sidebar.checklistSidebar.doc.Identification Compteurs": {
+      "message": "Identificatie Tellers",
+      "description": "Het label voor het document Identificatie Tellers in checklistSidebar, verwijst naar checklist/identification-compteurs"
+    },
+    "sidebar.checklistSidebar.doc.Rapport de Conformité": {
+      "message": "Conformiteitsrapport",
+      "description": "Het label voor het document Conformiteitsrapport in checklistSidebar, verwijst naar checklist/rapport-conformite"
+    },
+    "sidebar.checklistSidebar.doc.Plans Électriques": {
+      "message": "Elektrische Plannen",
+      "description": "Het label voor het document Elektrische Plannen in checklistSidebar, verwijst naar checklist/plans-schemas-electriques"
+    },
+    "sidebar.checklistSidebar.doc.Analyse des Risques": {
+      "message": "Risicoanalyse",
+      "description": "Het label voor het document Risicoanalyse in checklistSidebar, verwijst naar checklist/analyse-risques"
+    },
+    "sidebar.checklistSidebar.doc.Luminaires de Secours": {
+      "message": "Noodverlichting",
+      "description": "Het label voor het document Noodverlichting in checklistSidebar, verwijst naar checklist/luminaires-de-secours"
+    },
+    "sidebar.checklistSidebar.doc.Doc Machines": {
+      "message": "Machine Documentatie",
+      "description": "Het label voor het document Machine Documentatie in checklistSidebar, verwijst naar checklist/documentation-machines"
+    },
+    "sidebar.checklistSidebar.doc.Dossier Électrique": {
+      "message": "Elektrisch Dossier",
+      "description": "Het label voor het document Elektrisch Dossier in checklistSidebar, verwijst naar checklist/dossier-electrique"
+    },
+    "sidebar.guideRGIESidebar.category.Guide RGIE": {
+      "message": "AREI-Gids",
+      "description": "Het label voor de categorie AREI-Gids in guideRGIESidebar"
+    },
+    "sidebar.guideRGIESidebar.category.Livre 1": {
+      "message": "Boek 1",
+      "description": "Het label voor de categorie Boek 1 in guideRGIESidebar"
+    },
+    "sidebar.guideRGIESidebar.category.Livre 2": {
+      "message": "Boek 2",
+      "description": "Het label voor de categorie Boek 2 in guideRGIESidebar"
+    },
+    "sidebar.guideRGIESidebar.category.Livre 3": {
+      "message": "Boek 3",
+      "description": "Het label voor de categorie Boek 3 in guideRGIESidebar"
+    },
+    "sidebar.guideRGIESidebar.doc.Introduction au Livre 1": {
+      "message": "Inleiding tot Boek 1",
+      "description": "Het label voor het document Inleiding tot Boek 1 in guideRGIESidebar, verwijst naar guide-rgie/introduction"
+    },
+    "sidebar.guideRGIESidebar.doc.Prescriptions Générales": {
+      "message": "Algemene Voorschriften",
+      "description": "Het label voor het document Algemene Voorschriften in guideRGIESidebar, verwijst naar guide-rgie/partie-1-prescriptions-generales"
+    },
+    "sidebar.guideRGIESidebar.doc.Termes et Définitions": {
+      "message": "Begrippen en Definities",
+      "description": "Het label voor het document Begrippen en Definities in guideRGIESidebar, verwijst naar guide-rgie/partie-2-termes-definitions"
+    },
+    "sidebar.guideRGIESidebar.doc.Détermination des Caractéristiques": {
+      "message": "Bepaling van Kenmerken",
+      "description": "Het label voor het document Bepaling van Kenmerken in guideRGIESidebar, verwijst naar guide-rgie/partie-3-determination-caracteristiques"
+    },
+    "sidebar.guideRGIESidebar.doc.Mesures de Protection": {
+      "message": "Beschermingsmaatregelen",
+      "description": "Het label voor het document Beschermingsmaatregelen in guideRGIESidebar, verwijst naar guide-rgie/partie-4-mesures-protection"
+    },
+    "sidebar.guideRGIESidebar.doc.Choix et Mise en Œuvre": {
+        "message": "Keuze en Uitvoering",
+        "description": "Het label voor het document Keuze en Uitvoering in guideRGIESidebar, verwijst naar guide-rgie/partie-5-choix-mise-en-oeuvre"
+      },
+      "sidebar.guideRGIESidebar.doc.Contrôles des Installations": {
+        "message": "Controle van Installaties",
+        "description": "Het label voor het document Controle van Installaties in guideRGIESidebar, verwijst naar guide-rgie/partie-6-controles-installations"
+      },
+      "sidebar.guideRGIESidebar.doc.Règles pour les Installations et Emplacements Spéciaux": {
+        "message": "Regels voor Installaties en Speciale Locaties",
+        "description": "Het label voor het document Regels voor Installaties en Speciale Locaties in guideRGIESidebar, verwijst naar guide-rgie/partie-7-regles-installations-emplacements"
+      },
+      "sidebar.guideRGIESidebar.doc.Prescriptions pour Installations Existantes": {
+        "message": "Voorschriften voor Bestaande Installaties",
+        "description": "Het label voor het document Voorschriften voor Bestaande Installaties in guideRGIESidebar, verwijst naar guide-rgie/partie-8-prescriptions-installations-existantes"
+      },
+      "sidebar.guideRGIESidebar.doc.Prescriptions Générales à Observer": {
+        "message": "Algemene Voorschriften",
+        "description": "Het label voor het document Algemene Voorschriften in guideRGIESidebar, verwijst naar guide-rgie/partie-9-prescriptions-personnes"
+      },
+      "sidebar.guideRGIESidebar.doc.Conclusion": {
+        "message": "Conclusie",
+        "description": "Het label voor het document Conclusie in guideRGIESidebar, verwijst naar guide-rgie/conclusion"
+      },
+      "sidebar.guideRGIESidebar.doc.Introduction au Livre 2": {
+        "message": "Inleiding Boek 2",
+        "description": "Het label voor het document Inleiding Boek 2 in guideRGIESidebar, verwijst naar guide-rgie-livre2/introduction"
+      },
+      "sidebar.guideRGIESidebar.doc.Introduction au Livre 3": {
+        "message": "Inleiding Boek 3",
+        "description": "Het label voor het document Inleiding Boek 3 in guideRGIESidebar, verwijst naar guide-rgie-livre3/introduction"
+      },
+      "sidebar.infractionsSidebar.category.Infractions Électriques": {
+        "message": "Elektrische Inbreuken",
+        "description": "Het label voor de categorie Elektrische Inbreuken in infractionsSidebar"
+      },
+      "sidebar.infractionsSidebar.doc.Introduction": {
+        "message": "Inleiding",
+        "description": "Het label voor het document Inleiding in infractionsSidebar, verwijst naar infractions/introduction"
+      },
+      "sidebar.infractionsSidebar.doc.Schémas Électriques Absents ou Non Conformes": {
+        "message": "Afwezige of Niet-conforme Elektrische Schema's",
+        "description": "Het label voor het document Afwezige of Niet-conforme Elektrische Schema's in infractionsSidebar, verwijst naar infractions/schema-electriques-absents"
+      },
+      "sidebar.infractionsSidebar.doc.Pertes d'Électricité et Résistance à l'Isolation": {
+        "message": "Elektriciteitsverlies en Isolatieweerstand",
+        "description": "Het label voor het document Elektriciteitsverlies en Isolatieweerstand in infractionsSidebar, verwijst naar infractions/perte-electricite-isolation"
+      },
+      "sidebar.infractionsSidebar.doc.Résistance de Terre Non Conforme": {
+        "message": "Niet-conforme Aardingsweerstand",
+        "description": "Het label voor het document Niet-conforme Aardingsweerstand in infractionsSidebar, verwijst naar infractions/resistance-terre-non-conforme"
+      },
+      "sidebar.infractionsSidebar.doc.Tableau Électrique Non Conforme": {
+        "message": "Niet-conform Elektrisch Paneel",
+        "description": "Het label voor het document Niet-conform Elektrisch Paneel in infractionsSidebar, verwijst naar infractions/tableau-electrique-non-conforme"
+      },
+      "sidebar.infractionsSidebar.doc.Circuits Non Protégés par un Différentiel 30mA": {
+        "message": "Niet-beschermde Circuits met 30mA Differentiaal",
+        "description": "Het label voor het document Niet-beschermde Circuits met 30mA Differentiaal in infractionsSidebar, verwijst naar infractions/circuits-non-proteges-differentiel"
+      },
+      "sidebar.infractionsSidebar.doc.Disjoncteur Différentiel Non Fonctionnel": {
+        "message": "Niet-werkende Differentieelschakelaar",
+        "description": "Het label voor het document Niet-werkende Differentieelschakelaar in infractionsSidebar, verwijst naar infractions/disjoncteur-differentiel-non-fonctionnel"
+      },
+      "sidebar.infractionsSidebar.doc.Liaisons Équipotentielles Non Réalisées": {
+        "message": "Niet-uitgevoerde Equipotentiaalverbindingen",
+        "description": "Het label voor het document Niet-uitgevoerde Equipotentiaalverbindingen in infractionsSidebar, verwijst naar infractions/liaisons-equipotentielles-non-realisees"
+      },
+      "sidebar.infractionsSidebar.doc.Circuits Mixtes Non Conformes": {
+        "message": "Niet-conforme Gemengde Circuits",
+        "description": "Het label voor het document Niet-conforme Gemengde Circuits in infractionsSidebar, verwijst naar infractions/circuits-mixtes-non-conformes"
+      },
+      "sidebar.infractionsSidebar.doc.Absence de Terre sur Prises à Broches de Terre": {
+        "message": "Ontbrekende Aarding op Geaarde Stopcontacten",
+        "description": "Het label voor het document Ontbrekende Aarding op Geaarde Stopcontacten in infractionsSidebar, verwijst naar infractions/absence-terre-sur-prises"
+      },
+      "sidebar.infractionsSidebar.doc.Installation Non Réalisée Selon les Règles de l'Art": {
+        "message": "Installatie Niet Volgens de Regels van de Kunst Uitgevoerd",
+        "description": "Het label voor het document Installatie Niet Volgens de Regels van de Kunst Uitgevoerd in infractionsSidebar, verwijst naar infractions/installation-non-realisee-regles-art"
+      },
+      "sidebar.infractionsSidebar.doc.Degrés de Protection Non Respectés": {
+        "message": "Niet-nageleefde Beschermingsgraden",
+        "description": "Het label voor het document Niet-nageleefde Beschermingsgraden in infractionsSidebar, verwijst naar infractions/degres-protection-non-respectes"
+      },
+      "sidebar.infractionsSidebar.doc.Conclusion": {
+        "message": "Conclusie",
+        "description": "Het label voor het document Conclusie in infractionsSidebar, verwijst naar infractions/conclusion"
+      }
+    }    

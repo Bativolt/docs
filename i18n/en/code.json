@@ -1,21 +1,21 @@
 {
-  "docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique": {
-    "message": "docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique"
-  },
-  "Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement.": {
-    "message": "Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement."
-  },
-  "Accéder au Guide RGIE": {
-    "message": "Accéder au Guide RGIE"
-  },
-  "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique": {
-    "message": "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique",
-    "description": "Titre de la page d'accueil pour SEO"
-  },
-  "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.": {
-    "message": "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.",
-    "description": "Description de la page d'accueil pour SEO"
-  },
+    "docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique": {
+      "message": "docs.bativolt.com - The Electrical Regulations Guide and Compliance Documentation Reference in Belgium"
+    },
+    "Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement.": {
+      "message": "Access comprehensive resources for electrical compliance: regulations guide, practical advice, and connection with certified compliance agencies and qualified electricians, all for free."
+    },
+    "Accéder au Guide RGIE": {
+      "message": "Access the Electrical Regulations Guide"
+    },
+    "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique": {
+      "message": "docs.bativolt.com - Electrical Regulations Guide and Compliance Documentation in Belgium",
+      "description": "Homepage title for SEO"
+    },
+    "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.": {
+      "message": "The Electrical Regulations Guide and free documentation for electrical compliance in Belgium. Practical resources, RGIE articles, and connection with certified professionals. Discover electrical safety standards easily.",
+      "description": "Homepage description for SEO"
+    },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"
@@ -72,13 +72,13 @@
     "message": "light mode",
     "description": "The name for the light color mode"
   },
-  "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
   "theme.docs.breadcrumbs.navAriaLabel": {
     "message": "Breadcrumbs",
     "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "1 item|{count} items",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
     "message": "Docs pages",
@@ -215,10 +215,6 @@
     "message": "Languages",
     "description": "The label for the mobile language switcher dropdown"
   },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page",
-    "description": "The label used by the button on the collapsible TOC component"
-  },
   "theme.NotFound.p1": {
     "message": "We could not find what you were looking for.",
     "description": "The first paragraph of the 404 page"
@@ -226,6 +222,10 @@
   "theme.NotFound.p2": {
     "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
     "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "On this page",
+    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
     "message": "Read more",
@@ -274,6 +274,9 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "See all {count} results"
   },
   "theme.SearchBar.label": {
     "message": "Search",
@@ -370,9 +373,6 @@
   "theme.SearchModal.placeholder": {
     "message": "Search docs",
     "description": "The placeholder of the input of the DocSearch pop-up modal"
-  },
-  "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
   },
   "theme.SearchPage.documentsFound.plurals": {
     "message": "One document found|{count} documents found",

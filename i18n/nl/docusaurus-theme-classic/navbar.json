@@ -5,30 +5,30 @@
   },
   "logo.alt": {
     "message": "Bativolt Logo",
-    "description": "De alt-tekst van het navigatielogo"
+    "description": "De alt-tekst van het logo in de navigatiebalk"
   },
   "item.label.Guide R.G.I.E.": {
-    "message": "Gids AREI",
-    "description": "Navigatiebalk item met label Gids AREI"
+    "message": "AREI-Gids",
+    "description": "Navigatie-item met label AREI-Gids"
   },
   "item.label.Checklist Conformité": {
-    "message": "Checklist Keuring",
-    "description": "Navigatiebalk item met label Checklist Keuring"
+    "message": "Checklist voor Elektrische Keuring",
+    "description": "Navigatie-item met label Checklist voor Elektrische Keuring"
   },
   "item.label.Infractions & Résolutions": {
     "message": "Inbreuken & Oplossingen",
-    "description": "Navigatiebalk item met label Inbreuken & Oplossingen"
+    "description": "Navigatie-item met label Inbreuken & Oplossingen"
   },
   "item.label.Trouver un Électricien": {
-    "message": "Een Elektricien Vinden",
-    "description": "Navigatiebalk item met label Een Elektricien Vinden"
+    "message": "Vind een Elektricien",
+    "description": "Navigatie-item met label Vind een Elektricien"
   },
   "item.label.Agences Agréées": {
     "message": "Erkende Agentschappen",
-    "description": "Navigatiebalk item met label Gekeurde Agentschappen"
+    "description": "Navigatie-item met label Erkende Agentschappen"
   },
   "item.label.Bativolt.com": {
     "message": "Bativolt.com",
-    "description": "Navigatiebalk item met label Bativolt.com"
+    "description": "Navigatie-item met label Bativolt.com"
   }
 }
