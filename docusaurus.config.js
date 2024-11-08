@@ -48,14 +48,15 @@ const config = {
       type: 'text/javascript',
       charset: 'UTF-8',
     },
-    // Google Tag Manager
+    // Google Tag Manager Script
     {
       src: 'https://www.googletagmanager.com/gtag/js?id=G-XL1Q15W2E6',
       async: true,
     },
+    // Google Analytics Initialization Script
     {
       type: 'text/javascript',
-      innerHTML: `
+      content: `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
@@ -64,7 +65,6 @@ const config = {
     },
   ],
   
-  dangerouslySetInnerHTML: true,
 
   themeConfig: {
     algolia: {
