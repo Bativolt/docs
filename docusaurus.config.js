@@ -55,22 +55,22 @@ const config = {
       type: 'text/javascript',
       charset: 'UTF-8',
     },
-    // Script pour Google Analytics
+    // Google Analytics : Insérez le script simple donné par Google
     {
       src: 'https://www.googletagmanager.com/gtag/js?id=G-XL1Q15W2E6',
       async: true,
     },
-    // Initialisation de Google Analytics
     {
       content: `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-XL1Q15W2E6', { anonymize_ip: true });
+        gtag('config', 'G-XL1Q15W2E6');
       `,
       type: 'text/javascript',
     },
   ],
+  
 
   themeConfig: {
     algolia: {
