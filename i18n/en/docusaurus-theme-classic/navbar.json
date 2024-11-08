@@ -5,27 +5,27 @@
   },
   "logo.alt": {
     "message": "Bativolt Logo",
-    "description": "The alt text of navbar logo"
+    "description": "The alt text of the navbar logo"
   },
   "item.label.Guide R.G.I.E.": {
-    "message": "Guide R.G.I.E.",
-    "description": "Navbar item with label Guide R.G.I.E."
+    "message": "Electrical Regulations Guide",
+    "description": "Navbar item with label R.G.I.E. Guide"
   },
   "item.label.Checklist Conformité": {
-    "message": "Checklist Conformité",
-    "description": "Navbar item with label Checklist Conformité"
+    "message": "Compliance Checklist",
+    "description": "Navbar item with label Compliance Checklist"
   },
   "item.label.Infractions & Résolutions": {
-    "message": "Infractions & Résolutions",
-    "description": "Navbar item with label Infractions & Résolutions"
+    "message": "Violations & Resolutions",
+    "description": "Navbar item with label Violations & Resolutions"
   },
   "item.label.Trouver un Électricien": {
-    "message": "Trouver un Électricien",
-    "description": "Navbar item with label Trouver un Électricien"
+    "message": "Find an Electrician",
+    "description": "Navbar item with label Find an Electrician"
   },
   "item.label.Agences Agréées": {
-    "message": "Agences Agréées",
-    "description": "Navbar item with label Agences Agréées"
+    "message": "Certified Compliance Agencies",
+    "description": "Navbar item with label Certified Agencies"
   },
   "item.label.Bativolt.com": {
     "message": "Bativolt.com",
