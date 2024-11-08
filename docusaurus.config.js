@@ -50,24 +50,9 @@ const config = {
   
   scripts: [
     {
-      src: 'https://www.googletagmanager.com/gtag/js?id=G-XL1Q15W2E6',
-      async: true,
-    },
-    {
-      type: 'text/javascript',
       src: '//cdn.cookie-script.com/s/cb9b7cb807b525bb72dd46257d2d4fc0.js',
-      charset: 'UTF-8',
-    },
-    {
       type: 'text/javascript',
-      content: `
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-          window.dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'G-XL1Q15W2E6');
-      `,
+      charset: 'UTF-8',
     },
   ],
 
