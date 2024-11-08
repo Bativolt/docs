@@ -15,17 +15,24 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
   trailingSlash: false,
 
   i18n: {
-    defaultLocale: 'fr',
-    locales: ['fr', 'nl', 'en'],
+    defaultLocale: 'fr', // Default language of the site
+    locales: ['fr', 'nl', 'en'], // Available languages
     localeConfigs: {
-      fr: { label: 'Français' },
-      nl: { label: 'Nederlands' },
-      en: { label: 'English' },
+      fr: {
+        label: 'Français', // Label for French language
+      },
+      nl: {
+        label: 'Nederlands', // Label for Dutch language
+      },
+      en: {
+        label: 'English', // Label for English language
+      },
     },
-  },
+  },  
 
   presets: [
     [
@@ -40,31 +47,29 @@ const config = {
       },
     ],
   ],
-
+  
   scripts: [
-    // Cookie Script
-    {
-      src: '//cdn.cookie-script.com/s/cb9b7cb807b525bb72dd46257d2d4fc0.js',
-      type: 'text/javascript',
-      charset: 'UTF-8',
-    },
-    // Google Tag Manager Script
     {
       src: 'https://www.googletagmanager.com/gtag/js?id=G-XL1Q15W2E6',
       async: true,
     },
-    // Google Analytics Initialization Script
+    {
+      type: 'text/javascript',
+      src: '//cdn.cookie-script.com/s/cb9b7cb807b525bb72dd46257d2d4fc0.js',
+      charset: 'UTF-8',
+    },
     {
       type: 'text/javascript',
       content: `
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag() {
+          window.dataLayer.push(arguments);
+        }
         gtag('js', new Date());
         gtag('config', 'G-XL1Q15W2E6');
       `,
     },
   ],
-  
 
   themeConfig: {
     algolia: {
@@ -92,7 +97,7 @@ const config = {
         { to: '/agences-agreees', label: 'Agences Agréées', position: 'left' },
         { href: 'https://www.bativolt.com', label: 'Bativolt.com', position: 'right' },
         { type: 'search', position: 'right' },
-        { type: 'localeDropdown', position: 'right' },
+        { type: 'localeDropdown', position: 'right' }, // Menu déroulant pour le changement de langue
       ],
     },
     footer: {
@@ -116,7 +121,7 @@ const config = {
             { label: 'Facebook Bativolt', href: 'https://www.facebook.com/bativolt' },
             { label: 'Dernières Mises à Jour', to: '/dernieres-mises-a-jour' },
           ],
-        },
+        },        
         {
           title: 'Plus',
           items: [
