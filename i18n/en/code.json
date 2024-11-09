@@ -1,21 +1,21 @@
 {
-    "docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique": {
-      "message": "docs.bativolt.com - The Electrical Regulations Guide and Compliance Documentation Reference in Belgium"
-    },
-    "Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement.": {
-      "message": "Access comprehensive resources for electrical compliance: regulations guide, practical advice, and connection with certified compliance agencies and qualified electricians, all for free."
-    },
-    "Accéder au Guide RGIE": {
-      "message": "Access the Electrical Regulations Guide"
-    },
-    "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique": {
-      "message": "docs.bativolt.com - Electrical Regulations Guide and Compliance Documentation in Belgium",
-      "description": "Homepage title for SEO"
-    },
-    "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.": {
-      "message": "The Electrical Regulations Guide and free documentation for electrical compliance in Belgium. Practical resources, RGIE articles, and connection with certified professionals. Discover electrical safety standards easily.",
-      "description": "Homepage description for SEO"
-    },
+  "docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique": {
+    "message": "docs.bativolt.com - The Electrical Regulations Guide and Compliance Documentation Reference in Belgium"
+  },
+  "Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement.": {
+    "message": "Access comprehensive resources for electrical compliance: regulations guide, practical advice, and connection with certified compliance agencies and qualified electricians, all for free."
+  },
+  "Accéder au Guide RGIE": {
+    "message": "Access the Electrical Regulations Guide"
+  },
+  "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique": {
+    "message": "docs.bativolt.com - Electrical Regulations Guide and Compliance Documentation in Belgium",
+    "description": "Titre de la page d'accueil pour SEO"
+  },
+  "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.": {
+    "message": "The Electrical Regulations Guide and free documentation for electrical compliance in Belgium. Practical resources, RGIE articles, and connection with certified professionals. Discover electrical safety standards easily.",
+    "description": "Description de la page d'accueil pour SEO"
+  },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"
@@ -457,5 +457,59 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "feature.accessSimple": {
+    "message": "Simple and Intuitive Access to Belgian Electrical Regulations"
+  },
+  "feature.alt.accessSimple": {
+    "message": "Image showing simple access to Belgian electrical regulations"
+  },
+  "feature.description.accessSimple": {
+    "message": "Discover easy access to the Belgian Electrical Regulations resources, structured clearly and accessibly. Our interface is designed for efficient navigation, whether you're a novice or a professional."
+  },
+  "feature.guideComplet": {
+    "message": "Comprehensive Guide for Electrical Compliance"
+  },
+  "feature.alt.guideComplet": {
+    "message": "Image showing a comprehensive guide for electrical compliance"
+  },
+  "feature.description.guideComplet": {
+    "message": "docs.bativolt.com guides you step by step through the Belgian Electrical Regulations, explaining every aspect of electrical installations. With practical examples and detailed explanations, we help ensure compliance for your projects."
+  },
+  "feature.ressourcePedagogique": {
+    "message": "Educational Resource for Electrical Safety"
+  },
+  "feature.alt.ressourcePedagogique": {
+    "message": "Image showing an educational resource for electrical safety"
+  },
+  "feature.description.ressourcePedagogique": {
+    "message": "More than just documentation, our site is an educational resource aimed at educating and assisting users. We offer a smooth and reliable navigation experience, allowing you to focus on safety and compliance."
+  },
+  "feature.miseEnRelation": {
+    "message": "Connecting with Certified Professionals"
+  },
+  "feature.alt.miseEnRelation": {
+    "message": "Image showing connection with certified professionals"
+  },
+  "feature.description.miseEnRelation": {
+    "message": "Easily find certified agencies and verified electricians. docs.bativolt.com connects you with trusted professionals to ensure the safety and compliance of your electrical installations."
+  },
+  "feature.interpretationNormes": {
+    "message": "Interpretation of Belgian Regulations and Violations"
+  },
+  "feature.alt.interpretationNormes": {
+    "message": "Image showing interpretation of Belgian regulations and violations"
+  },
+  "feature.description.interpretationNormes": {
+    "message": "Easily understand the articles and violations of the Belgian Electrical Regulations with our detailed guide. Whether you're a homeowner or a professional, docs.bativolt.com helps you interpret regulations for optimal compliance."
+  },
+  "feature.ameliorationContinue": {
+    "message": "Continuous Improvement of User Experience"
+  },
+  "feature.alt.ameliorationContinue": {
+    "message": "Image showing continuous improvement of user experience"
+  },
+  "feature.description.ameliorationContinue": {
+    "message": "Our platform evolves constantly to meet user needs and adapt to new standards. Enjoy regular updates and new features for comprehensive support."
   }
 }

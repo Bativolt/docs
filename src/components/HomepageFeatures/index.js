@@ -1,70 +1,100 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import { translate } from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: <translate>Accès Simple et Intuitif aux Normes RGIE</translate>,
+    title: translate({
+      id: 'feature.accessSimple',
+      message: 'Accès Simple et Intuitif aux Normes RGIE',
+    }),
     Svg: require('@site/static/img/docs_bativolt_browsing_re_eycn.svg').default,
-    altText: <translate>Image représentant un accès simple aux normes RGIE</translate>,
-    description: (
-      <>
-        <translate>Découvrez un accès facile aux ressources du RGIE, structurées de manière claire et accessible. Notre interface est conçue pour vous permettre de naviguer efficacement dans les exigences de conformité électrique, que vous soyez novice ou professionnel.</translate>
-      </>
-    ),
+    altText: translate({
+      id: 'feature.alt.accessSimple',
+      message: 'Image représentant un accès simple aux normes RGIE',
+    }),
+    description: translate({
+      id: 'feature.description.accessSimple',
+      message: 'Découvrez un accès facile aux ressources du RGIE, structurées de manière claire et accessible. Notre interface est conçue pour vous permettre de naviguer efficacement dans les exigences de conformité électrique, que vous soyez novice ou professionnel.',
+    }),
   },
   {
-    title: <translate>Guide Complet pour la Conformité Électrique</translate>,
+    title: translate({
+      id: 'feature.guideComplet',
+      message: 'Guide Complet pour la Conformité Électrique',
+    }),
     Svg: require('@site/static/img/docs_bativolt_goals_re_lu76.svg').default,
-    altText: <translate>Image représentant un guide complet pour la conformité électrique</translate>,
-    description: (
-      <>
-        <translate>docs.bativolt.com vous accompagne pas à pas à travers les normes du RGIE, en expliquant chaque aspect des installations électriques. Avec des exemples concrets et des explications détaillées, nous vous aidons à garantir la conformité de vos projets.</translate>
-      </>
-    ),
+    altText: translate({
+      id: 'feature.alt.guideComplet',
+      message: 'Image représentant un guide complet pour la conformité électrique',
+    }),
+    description: translate({
+      id: 'feature.description.guideComplet',
+      message: 'docs.bativolt.com vous accompagne pas à pas à travers les normes du RGIE, en expliquant chaque aspect des installations électriques. Avec des exemples concrets et des explications détaillées, nous vous aidons à garantir la conformité de vos projets.',
+    }),
   },
   {
-    title: <translate>Ressource Pédagogique pour la Sécurité Électrique</translate>,
+    title: translate({
+      id: 'feature.ressourcePedagogique',
+      message: 'Ressource Pédagogique pour la Sécurité Électrique',
+    }),
     Svg: require('@site/static/img/docs_bativolt_education_f8ru.svg').default,
-    altText: <translate>Image représentant une ressource pédagogique pour la sécurité électrique</translate>,
-    description: (
-      <>
-        <translate>Plus qu'une simple documentation, notre site est une ressource pédagogique visant à éduquer et à assister les utilisateurs. Grâce aux dernières technologies, nous offrons une expérience de navigation fluide et fiable pour que vous puissiez vous concentrer sur l'essentiel : la sécurité et la conformité.</translate>
-      </>
-    ),
+    altText: translate({
+      id: 'feature.alt.ressourcePedagogique',
+      message: 'Image représentant une ressource pédagogique pour la sécurité électrique',
+    }),
+    description: translate({
+      id: 'feature.description.ressourcePedagogique',
+      message: 'Plus qu\'une simple documentation, notre site est une ressource pédagogique visant à éduquer et à assister les utilisateurs. Grâce aux dernières technologies, nous offrons une expérience de navigation fluide et fiable pour que vous puissiez vous concentrer sur l\'essentiel : la sécurité et la conformité.',
+    }),
   },
   {
-    title: <translate>Mise en Relation avec des Professionnels Agréés</translate>,
+    title: translate({
+      id: 'feature.miseEnRelation',
+      message: 'Mise en Relation avec des Professionnels Agréés',
+    }),
     Svg: require('@site/static/img/docs_bativolt_connecting_teams_re_hno7.svg').default,
-    altText: <translate>Image représentant la mise en relation avec des professionnels agréés</translate>,
-    description: (
-      <>
-        <translate>Trouvez facilement des agences agréées et des électriciens vérifiés et qualifiés. docs.bativolt.com vous met en relation avec des professionnels de confiance pour assurer la sécurité et la conformité de vos installations électriques.</translate>
-      </>
-    ),
+    altText: translate({
+      id: 'feature.alt.miseEnRelation',
+      message: 'Image représentant la mise en relation avec des professionnels agréés',
+    }),
+    description: translate({
+      id: 'feature.description.miseEnRelation',
+      message: 'Trouvez facilement des agences agréées et des électriciens vérifiés et qualifiés. docs.bativolt.com vous met en relation avec des professionnels de confiance pour assurer la sécurité et la conformité de vos installations électriques.',
+    }),
   },
   {
-    title: <translate>Interprétation des Normes et Infractions RGIE</translate>,
+    title: translate({
+      id: 'feature.interpretationNormes',
+      message: 'Interprétation des Normes et Infractions RGIE',
+    }),
     Svg: require('@site/static/img/docs_bativolt_file_analysis_8k9b.svg').default,
-    altText: <translate>Image représentant l'interprétation des normes et infractions RGIE</translate>,
-    description: (
-      <>
-        <translate>Comprenez facilement les articles et infractions du RGIE grâce à notre guide détaillé. Que vous soyez un particulier ou un professionnel, docs.bativolt.com vous aide à interpréter les réglementations pour une conformité optimale.</translate>
-      </>
-    ),
+    altText: translate({
+      id: 'feature.alt.interpretationNormes',
+      message: 'Image représentant l\'interprétation des normes et infractions RGIE',
+    }),
+    description: translate({
+      id: 'feature.description.interpretationNormes',
+      message: 'Comprenez facilement les articles et infractions du RGIE grâce à notre guide détaillé. Que vous soyez un particulier ou un professionnel, docs.bativolt.com vous aide à interpréter les réglementations pour une conformité optimale.',
+    }),
   },
   {
-    title: <translate>Amélioration Continue de l’Expérience Utilisateur</translate>,
+    title: translate({
+      id: 'feature.ameliorationContinue',
+      message: 'Amélioration Continue de l’Expérience Utilisateur',
+    }),
     Svg: require('@site/static/img/docs_bativolt_innovative_re_rr5i.svg').default,
-    altText: <translate>Image représentant l'amélioration continue de l'expérience utilisateur</translate>,
-    description: (
-      <>
-        <translate>Notre plateforme évolue constamment pour répondre aux besoins des utilisateurs et s’adapter aux nouvelles normes. Profitez de mises à jour régulières et de nouvelles fonctionnalités pour un support toujours plus complet.</translate>
-      </>
-    ),
+    altText: translate({
+      id: 'feature.alt.ameliorationContinue',
+      message: 'Image représentant l\'amélioration continue de l\'expérience utilisateur',
+    }),
+    description: translate({
+      id: 'feature.description.ameliorationContinue',
+      message: 'Notre plateforme évolue constamment pour répondre aux besoins des utilisateurs et s’adapter aux nouvelles normes. Profitez de mises à jour régulières et de nouvelles fonctionnalités pour un support toujours plus complet.',
+    }),
   },
 ];
-
 
 function Feature({ Svg, title, description, altText }) {
   return (

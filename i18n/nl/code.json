@@ -10,11 +10,11 @@
   },
   "docs.bativolt.com - Guide RGIE et Documentation de Conformité Électrique en Belgique": {
     "message": "docs.bativolt.com - AREI-Gids en Documentatie voor Elektrische Conformiteit in België",
-    "description": "Homepage titel voor SEO"
+    "description": "Titre de la page d'accueil pour SEO"
   },
   "Le guide RGIE et documentation gratuite pour la conformité électrique en Belgique. Ressources pratiques, articles RGIE, et mise en relation avec des professionnels agréés. Découvrez les normes de sécurité électrique facilement.": {
     "message": "De AREI-gids en gratis documentatie voor elektrische conformiteit in België. Praktische bronnen, AREI-artikelen en verbinding met erkende professionals. Ontdek eenvoudig de veiligheidsnormen voor elektriciteit.",
-    "description": "Homepage beschrijving voor SEO"
+    "description": "Description de la page d'accueil pour SEO"
   },
   "theme.ErrorPageContent.title": {
     "message": "Deze pagina is gecrasht.",
@@ -457,5 +457,59 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "feature.accessSimple": {
+    "message": "Eenvoudige en Intuïtieve Toegang tot de AREI Normen"
+  },
+  "feature.alt.accessSimple": {
+    "message": "Afbeelding van eenvoudige toegang tot AREI-normen"
+  },
+  "feature.description.accessSimple": {
+    "message": "Ontdek eenvoudige toegang tot de AREI-bronnen, gestructureerd op een duidelijke en toegankelijke manier. Onze interface is ontworpen om efficiënt door de elektrische nalevingsvereisten te navigeren, of je nu een beginner bent of een professional."
+  },
+  "feature.guideComplet": {
+    "message": "Volledige Gids voor Elektrische Naleving"
+  },
+  "feature.alt.guideComplet": {
+    "message": "Afbeelding van een volledige gids voor elektrische naleving"
+  },
+  "feature.description.guideComplet": {
+    "message": "docs.bativolt.com begeleidt je stap voor stap door de AREI-normen en legt elk aspect van elektrische installaties uit. Met concrete voorbeelden en gedetailleerde uitleg helpen we je projecten in overeenstemming te brengen."
+  },
+  "feature.ressourcePedagogique": {
+    "message": "Educatieve Bron voor Elektrische Veiligheid"
+  },
+  "feature.alt.ressourcePedagogique": {
+    "message": "Afbeelding van een educatieve bron voor elektrische veiligheid"
+  },
+  "feature.description.ressourcePedagogique": {
+    "message": "Meer dan alleen documentatie, onze site is een educatieve bron die gebruikers helpt en begeleidt. Dankzij de nieuwste technologieën bieden we een vloeiende en betrouwbare navigatie-ervaring, zodat je je kunt concentreren op veiligheid en naleving."
+  },
+  "feature.miseEnRelation": {
+    "message": "Verbinden met Gecertificeerde Professionals"
+  },
+  "feature.alt.miseEnRelation": {
+    "message": "Afbeelding van verbinding met gecertificeerde professionals"
+  },
+  "feature.description.miseEnRelation": {
+    "message": "Vind gemakkelijk gecertificeerde bureaus en gekwalificeerde elektriciens. docs.bativolt.com brengt je in contact met betrouwbare professionals om de veiligheid en naleving van je elektrische installaties te garanderen."
+  },
+  "feature.interpretationNormes": {
+    "message": "Interpretatie van AREI Normen en Overtredingen"
+  },
+  "feature.alt.interpretationNormes": {
+    "message": "Afbeelding van interpretatie van AREI-normen en overtredingen"
+  },
+  "feature.description.interpretationNormes": {
+    "message": "Begrijp eenvoudig de artikelen en overtredingen van het AREI met onze gedetailleerde gids. Of je nu een particulier of een professional bent, docs.bativolt.com helpt je de regelgeving te interpreteren voor optimale naleving."
+  },
+  "feature.ameliorationContinue": {
+    "message": "Voortdurende Verbetering van de Gebruikerservaring"
+  },
+  "feature.alt.ameliorationContinue": {
+    "message": "Afbeelding van voortdurende verbetering van de gebruikerservaring"
+  },
+  "feature.description.ameliorationContinue": {
+    "message": "Ons platform evolueert voortdurend om te voldoen aan de behoeften van gebruikers en zich aan te passen aan nieuwe normen. Geniet van regelmatige updates en nieuwe functies voor een steeds completere ondersteuning."
   }
 }
