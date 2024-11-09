@@ -51,7 +51,7 @@ const config = {
   scripts: [
     // Script pour le consentement des cookies
     {
-      src: '//cdn.cookie-script.com/s/cb9b7cb807b525bb72dd46257d2d4fc0.js',
+      src: '//cdn.cookie-script.com/s/62288a5116e61f853bc5928d7405283e.js',
       type: 'text/javascript',
       charset: 'UTF-8',
     },
