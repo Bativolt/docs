@@ -250,6 +250,8 @@ La résistance à l'isolation est un facteur essentiel pour une installation él
 **Ensemble, assurons des installations électriques sécurisées !** Respectez les normes d'isolation et faites appel à des professionnels pour garantir la conformité de votre installation.
 :::
 
+---
+
 **Disclaimer :**  
 Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
 
