@@ -85,7 +85,7 @@ La mise en conformité d'un tableau électrique nécessite des disjoncteurs mode
 **Exemple :** Un disjoncteur différentiel protège contre les fuites de courant et est particulièrement recommandé dans les pièces humides.  
 :::
 
-![Exemple de Disjoncteurs](../../static/img/bativolt-exemple-disjoncteurs.jpg)
+![Exemple de Disjoncteurs](/img/bativolt-exemple-disjoncteurs.jpg)
 
 
 ### 4.2. Parafoudres
@@ -113,3 +113,13 @@ Assurer la conformité des tableaux électriques est essentiel pour garantir la 
 > **Rappel :** Un tableau conforme est non seulement une obligation légale, mais aussi un élément essentiel pour la sécurité et la durabilité de votre installation électrique.
 
 En résumé, la mise en conformité des tableaux électriques protège non seulement vos biens, mais surtout la sécurité des personnes. En cas de doute, consultez un professionnel qualifié pour évaluer et mettre à jour votre installation.
+
+---
+
+**Disclaimer :**  
+Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
+La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+
+---

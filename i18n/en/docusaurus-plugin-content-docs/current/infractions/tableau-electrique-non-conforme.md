@@ -85,7 +85,7 @@ La mise en conformité d'un tableau électrique nécessite des disjoncteurs mode
 **Exemple :** Un disjoncteur différentiel protège contre les fuites de courant et est particulièrement recommandé dans les pièces humides.  
 :::
 
-![Exemple de Disjoncteurs](../../static/img/bativolt-exemple-disjoncteurs.jpg)
+![Exemple de Disjoncteurs](/img/bativolt-exemple-disjoncteurs.jpg)
 
 
 ### 4.2. Parafoudres

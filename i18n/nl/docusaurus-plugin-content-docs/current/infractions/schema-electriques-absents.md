@@ -152,7 +152,7 @@ Les parties concernées doivent veiller à l’archivage adéquat des schémas e
 
 Les schémas unifilaires offrent une vue simplifiée de l'installation électrique, illustrant les connexions entre les différents composants. Ces schémas sont essentiels pour saisir la structure de base de l’installation et assurer la protection des circuits. Ils permettent aux techniciens de visualiser facilement les connexions électriques, d'identifier les disjoncteurs, et de comprendre le fonctionnement global de l'installation.
 
-![Exemple de Schéma Unifilaire](../../static/img/bativolt-exemple-schema-unifilaire.png)
+![Exemple de Schéma Unifilaire](/img/bativolt-exemple-schema-unifilaire.png)
 
 :::tip
 **Conseil :** Un schéma unifilaire bien détaillé permet d’avoir une vue d'ensemble complète de l’installation, ce qui facilite la maintenance et réduit les erreurs lors des interventions. Il sert également de référence unique pour toute adaptation ou extension future, garantissant ainsi une cohérence dans la configuration de l’installation.
@@ -162,7 +162,7 @@ Les schémas unifilaires offrent une vue simplifiée de l'installation électriq
 
 Les plans de position montrent l'emplacement précis de chaque élément de l'installation, facilitant ainsi les interventions et les réparations. Ce type de schéma aide les électriciens à travailler de manière plus efficace et en toute sécurité, en fournissant une référence claire de chaque composant.
 
-![Exemple de Schéma de Position](../../static/img/bativolt-exemple-schema-de-position.png)
+![Exemple de Schéma de Position](/img/bativolt-exemple-schema-de-position.png)
 
 > **Astuce :** Les schémas de position sont particulièrement utiles lors de rénovations ou de modifications d’installation, car ils indiquent où chaque élément est physiquement situé dans l’espace.
 

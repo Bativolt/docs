@@ -20,10 +20,10 @@ Tester la résistance de terre est une étape essentielle pour garantir la sécu
 > **Exemple :** Voici deux résultats de test de résistance de terre avec un **testeur Fluke 1663** :
 >
 > - **Non Conforme** : 46,6 ohms (au-dessus de la norme)
-![Résultat Non Conforme - 46,6 ohms](../../static/img/bativolt-resistance-terre-non-conforme.jpg)
+![Résultat Non Conforme - 46,6 ohms](/img/bativolt-resistance-terre-non-conforme.jpg)
 
 > - **Conforme** : 23 ohms (en dessous de la limite de 30 ohms)
-![Résultat Conforme - 23 ohms](../../static/img/bativolt-resistance-terre-conforme.jpg)
+![Résultat Conforme - 23 ohms](/img/bativolt-resistance-terre-conforme.jpg)
 
 
 ## 1. Pourquoi Tester la Résistance de Terre ?
