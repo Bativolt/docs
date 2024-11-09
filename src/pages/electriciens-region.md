@@ -63,7 +63,7 @@ Nous invitons tous les **électriciens agréés en Belgique** à rejoindre notre
 
 ### Comment Postuler
 
-Pour postuler et figurer sur notre plateforme, veuillez envoyer un email à [gc@bativolt.com](mailto:gc@bativolt.com) en incluant :
+Pour postuler et figurer sur notre plateforme, veuillez envoyer un email à [docs@bativolt.com](mailto:docs@bativolt.com) en incluant :
 - Vos **données de contact complètes** (nom, téléphone, adresse email, site web).
 - Une brève description de vos **services et domaines d’expertise**.
 - Toute **documentation de certification** prouvant votre agrément en Belgique.
@@ -82,7 +82,7 @@ Une fois approuvée, votre fiche sera mise en ligne et accessible à tous les vi
 
 ## Conclusion et Objectifs
 
-Cette page est dédiée à simplifier la recherche d’électriciens en Belgique. Avec notre future fonctionnalité de **recherche par code postal**, nous espérons rendre la connexion entre électriciens et clients encore plus rapide et directe. Nous sommes impatients de lancer cette option et de continuer à améliorer votre expérience sur notre site.
+Cette page est dédiée à simplifier la recherche d’électriciens agréés et de confiance en Belgique. Avec notre future fonctionnalité de **recherche par code postal**, nous espérons rendre la connexion entre électriciens et clients encore plus rapide et directe. Nous sommes impatients de lancer cette option et de continuer à améliorer votre expérience sur notre site.
 
 > **Restez Connectés** : Cette fonctionnalité sera bientôt en ligne. D’ici là, n’hésitez pas à explorer notre site pour découvrir d’autres ressources et guides pratiques en électricité.
 
