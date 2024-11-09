@@ -53,28 +53,28 @@ Gebruik de onderstaande lijst om direct contact op te nemen met een erkend agent
 | SOCOTEC BELGIUM  | A, B, C, D, E, F     | [04/234.17.00](tel:042341700)                                                                                                                          | inspection.belgium@socotec.com | [socotec.com](https://www.socotec.com)              |
 | VINÇOTTE         | A, B, C, D, E, F     | [02/674.57.11](tel:026745711)                                                                                                                          | brussels@vincotte.be          | [vincotte.be](https://www.vincotte.be)              |
 
-> **📞 Astuce :** Vous pouvez cliquer directement sur les numéros de téléphone pour appeler l’agence choisie depuis votre mobile et obtenir des informations sur les tarifs, les délais d’inspection, et les certifications.
+> **📞 Tip:** Klik op de telefoonnummers om direct te bellen vanaf uw mobiele telefoon en informatie te verkrijgen over tarieven, inspectietijden en certificeringen.
 
-## ✅ Conseils pour Choisir une Agence de Conformité
+## ✅ Tips voor het Kiezen van een Conformiteitsagentschap
 
-1. **Vérifiez les domaines d'expertise** : Assurez-vous que l’agence couvre les domaines requis pour votre installation (ex : **A** pour les installations résidentiels).
-2. **Comparez les services et tarifs** : Contactez plusieurs agences pour obtenir des devis et comparer les offres.
-3. **Consultez les avis clients** : Les retours d'autres clients peuvent vous donner un aperçu de la qualité du service.
-4. **Optez pour une agence polyvalente** : Les agences couvrant plusieurs domaines (A à F) peuvent être avantageuses pour des installations complexes.
+1. **Controleer expertise-domeinen**: Zorg ervoor dat het agentschap de vereiste domeinen voor uw installatie dekt (bijv. **A** voor residentiële installaties).
+2. **Vergelijk diensten en prijzen**: Vraag offertes aan bij verschillende agentschappen en vergelijk de aanbiedingen.
+3. **Bekijk klantbeoordelingen**: Feedback van andere klanten kan u inzicht geven in de kwaliteit van de service.
+4. **Kies een veelzijdig agentschap**: Agentschappen die meerdere domeinen dekken (A tot F) zijn voordelig voor complexe installaties.
 
-## 📢 Mise en Garde
+## 📢 Waarschuwing
 
 :::warning
-**Attention :** Le choix d'une agence non agréée peut mettre en danger la sécurité de votre installation et entraîner des sanctions lors des contrôles de conformité. Veillez à toujours sélectionner une agence reconnue par le **SPF Économie**.
+**Let op:** Het kiezen van een niet-erkend agentschap kan de veiligheid van uw installatie in gevaar brengen en kan leiden tot sancties bij conformiteitsinspecties. Kies altijd een agentschap dat erkend is door de **FOD Economie**.
 :::
 
-## Conclusion
+## Conclusie
 
-Les agences agréées en Belgique assurent la conformité et la sécurité de vos installations électriques. Pour un contrôle efficace et fiable, faites appel à une agence figurant dans cette liste. Chaque organisme dispose de l'expertise nécessaire pour vous accompagner dans le respect des normes RGIE et protéger vos installations contre les risques électriques. Pour en savoir plus, vous pouvez consulter la page officielle du **SPF Économie**.
+Erkende agentschappen in België waarborgen de conformiteit en veiligheid van uw elektrische installaties. Voor een efficiënte en betrouwbare inspectie, neem contact op met een agentschap uit deze lijst. Elk organisme beschikt over de expertise om te voldoen aan de AREI-normen en uw installaties te beschermen tegen elektrische risico's.
 
 ---
 
-> **Besoin d'aide ?** Si vous avez des questions sur la conformité électrique ou sur le choix de l’agence adaptée à votre installation, n'hésitez pas à nous contacter à [docs@bativolt.com](mailto:docs@bativolt.com).
+> **Hulp nodig?** Heeft u vragen over elektrische conformiteit of het kiezen van het juiste agentschap voor uw installatie, neem dan contact op via [docs@bativolt.com](mailto:docs@bativolt.com).
 
 ---
 
