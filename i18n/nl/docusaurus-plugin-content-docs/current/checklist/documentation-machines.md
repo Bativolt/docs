@@ -1,126 +1,126 @@
 ---
-title: "Documentation des Machines - Sécurité et Conformité RGIE"
-sidebar_label: Documentation des Machines
-description: "Guide complet sur la documentation des machines pour garantir la sécurité et la conformité RGIE dans les installations industrielles et commerciales. Apprenez les exigences, les obligations et les bonnes pratiques."
+title: "Documentatie van Machines - Veiligheid en Conformiteit AREI"
+sidebar_label: Documentatie van Machines
+description: "Volledige gids over de documentatie van machines om veiligheid en conformiteit volgens het AREI te garanderen in industriële en commerciële installaties. Leer de vereisten, verplichtingen en beste praktijken."
 ---
 
-# Documentation des Machines
+# Documentatie van Machines
 
-La **documentation des machines** est cruciale pour assurer la sécurité et la conformité dans les installations électriques, particulièrement dans les environnements industriels et commerciaux. Bien que le **Règlement Général sur les Installations Électriques (RGIE)** n’exige pas systématiquement une documentation pour toutes les machines, il impose certaines prescriptions dans des cas spécifiques.
+De **documentatie van machines** is cruciaal voor het waarborgen van veiligheid en conformiteit in elektrische installaties, vooral in industriële en commerciële omgevingen. Hoewel het **Algemeen Reglement op de Elektrische Installaties (AREI)** niet altijd documentatie vereist voor alle machines, stelt het wel specifieke voorschriften in bepaalde gevallen.
 
 ---
 
-## 1. Importance de la Documentation des Machines
+## 1. Belang van de Documentatie van Machines
 
-### 1.1. Sécurité et Conformité
+### 1.1. Veiligheid en Conformiteit
 
-La documentation des machines inclut les **manuels d'utilisation**, **fiches techniques**, **certificats de conformité** et **plans d'installation**. Elle joue un rôle essentiel pour :
+De documentatie van machines omvat de **gebruikshandleidingen**, **technische fiches**, **conformiteitscertificaten** en **installatieplannen**. Deze speelt een essentiële rol om:
 
-- **Assurer la Sécurité des Utilisateurs** : Les informations permettent aux opérateurs de connaître les meilleures pratiques pour utiliser les machines en toute sécurité.
-- **Garantir la Conformité aux Normes** : La documentation sert de preuve que les machines respectent les normes en vigueur, ce qui est essentiel lors des contrôles de conformité, particulièrement pour les installations présentant des risques élevés.
+- **De Veiligheid van Gebruikers te Waarborgen**: De informatie stelt operators in staat om de machines op een veilige manier te gebruiken.
+- **Conformiteit met Normen te Garanderen**: De documentatie dient als bewijs dat de machines voldoen aan de geldende normen, wat essentieel is tijdens conformiteitscontroles, vooral voor installaties met hoge risico's.
 
-:::tip 💡 Conseil Pratique
-Conservez la documentation des machines dans un endroit sécurisé et facilement accessible, idéalement près de la machine elle-même. Cette accessibilité facilite les contrôles et les interventions d’urgence.
+:::tip 💡 Praktisch Advies
+Bewaar de documentatie van machines op een veilige en gemakkelijk toegankelijke plaats, bij voorkeur dicht bij de machine zelf. Deze toegankelijkheid vergemakkelijkt controles en noodingrepen.
 :::
 
-### 1.2. Exemples de Machines Nécessitant une Documentation
+### 1.2. Voorbeelden van Machines die Documentatie Vereisen
 
-Certaines machines, en raison de leur complexité et des risques associés, nécessitent souvent une documentation détaillée :
+Bepaalde machines, vanwege hun complexiteit en de bijbehorende risico's, vereisen vaak gedetailleerde documentatie:
 
-| **Type de Machine**                 | **Exemples**                                   |
+| **Type Machine**                    | **Voorbeelden**                                |
 |-------------------------------------|------------------------------------------------|
-| **Presses**                         | Presses hydrauliques, presses mécaniques       |
-| **Équipements de Levage**           | Grues, chariots élévateurs                     |
-| **Machines-Outils**                 | Tours, fraises                                 |
-| **Équipements de Traitement des Matériaux** | Concasseurs, mélangeurs industriels     |
-| **Machines Agricoles**              | Tracteurs, moissonneuses-batteuses             |
-| **Équipements de Production Alimentaire** | Lignes d'emballage, fours industriels    |
-| **Équipements Électriques**         | Transformateurs, générateurs                   |
-| **Équipements de Climatisation**    | Systèmes de CVC, chambres froides              |
+| **Persen**                          | Hydraulische persen, mechanische persen        |
+| **Hefwerktuigen**                   | Kranen, heftrucks                              |
+| **Machinegereedschap**              | Draaimachines, frezen                          |
+| **Materialenverwerkingsapparatuur** | Brekers, industriële mengers                   |
+| **Landbouwmachines**                | Tractors, maaidorsers                          |
+| **Voedselverwerkingsapparatuur**    | Verpakkingslijnen, industriële ovens           |
+| **Elektrische Apparatuur**          | Transformatoren, generatoren                   |
+| **Klimaatapparatuur**               | HVAC-systemen, koelcellen                      |
 
-> **À Savoir** : Certaines machines peuvent être soumises à des réglementations européennes supplémentaires, telles que la **directive sur la sécurité des machines**.
+> **Let op**: Sommige machines kunnen onderhevig zijn aan aanvullende Europese regelgeving, zoals de **Machinerichtlijn**.
 
 ---
 
-## 2. Obligations selon le RGIE
+## 2. Verplichtingen volgens het AREI
 
-### 2.1. Machines Soumises à des Règlements Spécifiques
+### 2.1. Machines onder Specifieke Regelgeving
 
-Le **RGIE** impose une documentation pour les machines dans des situations particulières, telles que :
+Het **AREI** vereist documentatie voor machines in specifieke situaties, zoals:
 
-- **Machines à Risques Élevés** : Les machines utilisées dans des environnements industriels avec un risque accru (explosions, incendies) doivent disposer d'une documentation conforme, comme spécifié dans **l'Article 105.2 du RGIE**.
-- **Installations avec Réglementations Spécifiques** : Les équipements soumis à des directives de sécurité spécifiques, comme celles liées à la santé et à la sécurité au travail, doivent disposer de documents certifiant leur conformité.
+- **Machines met Hoog Risico**: Machines die worden gebruikt in industriële omgevingen met verhoogd risico (explosies, brand) moeten beschikken over conforme documentatie, zoals gespecificeerd in **Artikel 105.2 van het AREI**.
+- **Installaties met Specifieke Regelgeving**: Apparatuur onderworpen aan specifieke veiligheidsrichtlijnen, zoals die met betrekking tot gezondheid en veiligheid op het werk, moet beschikken over documenten die hun conformiteit aantonen.
 
-> **Important** : Si une machine présente un potentiel de risque élevé, une **analyse des risques** doit être incluse dans sa documentation pour identifier les dangers potentiels et les mesures de prévention.
+> **Belangrijk**: Als een machine een potentieel hoog risico vormt, moet een **risicoanalyse** worden opgenomen in de documentatie om potentiële gevaren en preventieve maatregelen te identificeren.
 
-### 2.2. Installations à Risque Élevé
+### 2.2. Installaties met Hoog Risico
 
-Dans les installations présentant un risque élevé (ex. : industries chimiques ou usines de traitement de matériaux), la documentation doit être plus exhaustive pour répondre aux exigences de sécurité accrues. Cette exigence est conforme aux **Articles 108.3 et 108.4 du RGIE**.
+In installaties met hoog risico (bijv.: chemische industrie of materiaalverwerkingsfabrieken) moet de documentatie uitgebreider zijn om te voldoen aan de verhoogde veiligheidseisen. Deze eis komt overeen met **Artikelen 108.3 en 108.4 van het AREI**.
 
-:::warning ⚠️ Note
-Pour les installations à risque, toute documentation manquante ou incomplète peut entraîner des sanctions ou des obligations de mise en conformité coûteuses.
+:::warning ⚠️ Opmerking
+Bij installaties met risico kan het ontbreken van documentatie leiden tot sancties of dure verplichtingen voor naleving.
 :::
 
 ---
 
-## 3. Exigences de la Documentation
+## 3. Vereisten voor Documentatie
 
-### 3.1. Contenu Obligatoire
+### 3.1. Verplichte Inhoud
 
-La documentation des machines doit inclure plusieurs éléments pour être conforme aux normes du RGIE :
+De documentatie van machines moet verschillende elementen bevatten om aan de AREI-normen te voldoen:
 
-| **Élément**              | **Description**                                                                                       |
+| **Element**              | **Beschrijving**                                                                                       |
 |--------------------------|-------------------------------------------------------------------------------------------------------|
-| **Manuels d'Utilisation** | Fournissent des instructions détaillées sur l'utilisation et la maintenance de la machine.           |
-| **Certificats de Conformité** | Attestent que la machine a été testée et est conforme aux normes de sécurité en vigueur.    |
-| **Plans d'Installation**  | Spécifient la manière dont la machine doit être installée et connectée aux réseaux électriques.     |
+| **Gebruikershandleidingen** | Bevatten gedetailleerde instructies over het gebruik en onderhoud van de machine.                  |
+| **Conformiteitscertificaten** | Bewijzen dat de machine getest is en voldoet aan de geldende veiligheidsnormen.               |
+| **Installatieplannen**   | Geven aan hoe de machine moet worden geïnstalleerd en aangesloten op het elektriciteitsnet.          |
 
-> **💼 Astuce** : La documentation doit être mise à jour à chaque modification de la machine ou de l'installation pour éviter toute non-conformité.
+> **💼 Tip**: De documentatie moet worden bijgewerkt na elke wijziging aan de machine of installatie om non-conformiteit te voorkomen.
 
-### 3.2. Accessibilité de la Documentation
+### 3.2. Toegankelijkheid van de Documentatie
 
-L'accessibilité de la documentation est cruciale pour garantir la sécurité des utilisateurs :
+De toegankelijkheid van de documentatie is cruciaal om de veiligheid van gebruikers te garanderen:
 
-- **Disponibilité sur le Site** : Elle doit être conservée à proximité de la machine ou dans un lieu désigné pour être facilement consultée, conformément aux **Articles 112.2 et 113.4 du RGIE**.
-- **Formation des Utilisateurs** : Les utilisateurs doivent être formés à consulter et à comprendre la documentation pour minimiser les risques d'accidents, comme précisé dans **l'Article 114 du RGIE**.
+- **Beschikbaarheid ter Plaatse**: De documentatie moet worden bewaard in de buurt van de machine of op een aangewezen plaats, zodat deze gemakkelijk te raadplegen is, in overeenstemming met **Artikelen 112.2 en 113.4 van het AREI**.
+- **Opleiding van Gebruikers**: Gebruikers moeten worden opgeleid om de documentatie te raadplegen en te begrijpen om het risico op ongevallen te minimaliseren, zoals gespecificeerd in **Artikel 114 van het AREI**.
 
 ---
 
-## 4. Cas Particuliers
+## 4. Bijzondere Gevallen
 
-### 4.1. Machines à Risque
+### 4.1. Risicomachines
 
-Pour les machines considérées comme présentant des risques élevés, la documentation doit inclure une **évaluation des risques détaillée** :
+Voor machines die als risicovol worden beschouwd, moet de documentatie een gedetailleerde **risicobeoordeling** bevatten:
 
-- **Analyse des Risques** : Une analyse spécifique est requise pour ces machines afin de consigner les mesures de sécurité adoptées.
-- **Suivi et Maintenance** : La documentation doit inclure un programme de maintenance régulière pour assurer la sécurité des équipements.
+- **Risicoanalyse**: Voor deze machines is een specifieke analyse vereist om de genomen veiligheidsmaatregelen vast te leggen.
+- **Onderhoud en Opvolging**: De documentatie moet een programma voor regelmatig onderhoud bevatten om de veiligheid van de apparatuur te waarborgen.
 
-:::info Exemple
-Pour les machines de levage, un plan de maintenance incluant des inspections régulières est nécessaire pour garantir la sécurité et le bon fonctionnement, conformément au RGIE.
+:::info Voorbeeld
+Voor hefwerktuigen is een onderhoudsplan met regelmatige inspecties vereist om de veiligheid en goede werking te garanderen, volgens het AREI.
 :::
 
-### 4.2. Normes Spécifiques et Directives Européennes
+### 4.2. Specifieke Normen en Europese Richtlijnen
 
-Les machines doivent également se conformer aux directives européennes, en particulier pour les équipements mobiles et les machines de traitement des matériaux, comme le stipule la **directive européenne 2006/42/CE** sur les machines.
+Machines moeten ook voldoen aan Europese richtlijnen, vooral voor mobiele apparatuur en materialenverwerkingsmachines, zoals bepaald in de **Europese richtlijn 2006/42/EG** over machines.
 
-> **Bon à Savoir** : Cette directive impose des exigences de sécurité supplémentaires pour les machines importées ou fabriquées en Europe, renforçant ainsi la conformité et la sécurité.
+> **Goed om te Weten**: Deze richtlijn stelt aanvullende veiligheidsvereisten voor machines die in Europa worden geïmporteerd of vervaardigd, wat de conformiteit en veiligheid versterkt.
 
 ---
 
-## 5. Conclusion
+## 5. Conclusie
 
-Bien que le **RGIE** ne rende pas systématiquement obligatoire la documentation pour toutes les machines, il impose certaines prescriptions pour les équipements à risques et dans les environnements industriels. Disposer d’une documentation complète permet non seulement de garantir la conformité, mais aussi d’assurer la sécurité des utilisateurs et des opérateurs.
+Hoewel het **AREI** niet altijd verplicht stelt dat alle machines documentatie hebben, vereist het wel bepaalde voorschriften voor risicovolle apparatuur en in industriële omgevingen. Het beschikken over volledige documentatie garandeert niet alleen conformiteit, maar ook de veiligheid van gebruikers en operators.
 
-La prochaine étape de notre checklist de conformité se concentre sur le **dossier électrique**, qui récapitulera l'ensemble des éléments nécessaires pour assurer la conformité des installations électriques.
+De volgende stap in onze conformiteitschecklist richt zich op het **elektrisch dossier**, dat een overzicht geeft van alle elementen die nodig zijn om de conformiteit van elektrische installaties te waarborgen.
 
-> **Rappel Sécurité** : La documentation est une base essentielle pour toute installation industrielle. Conservez-la à jour et accessible pour faciliter les inspections et garantir une sécurité optimale.
+> **Veiligheidsherinnering**: Documentatie vormt de basis voor elke industriële installatie. Houd deze up-to-date en toegankelijk om inspecties te vergemakkelijken en een optimale veiligheid te garanderen.
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

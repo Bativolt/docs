@@ -1,89 +1,108 @@
 ---
-title: "Conclusion sur les Infractions Électriques - Récapitulatif RGIE"
-sidebar_label: Conclusion
-description: "Récapitulatif des infractions électriques et des mesures de conformité selon le RGIE. Points essentiels pour assurer la sécurité et la conformité des installations électriques en Belgique."
+title: "Conclusie over Elektrische Inbreuken - AREI Samenvatting"
+sidebar_label: Conclusie
+description: "Samenvatting van de veelvoorkomende elektrische inbreuken en maatregelen voor conformiteit volgens het AREI. Belangrijke punten om de veiligheid en naleving van elektrische installaties in België te waarborgen."
 ---
 
-# Conclusion sur les Infractions Électriques
+# Conclusie over Elektrische Inbreuken
 
-## Introduction
+## Inleiding
 
-Dans le domaine de l’électricité, respecter les normes du **Règlement Général sur les Installations Électriques (RGIE)** est crucial pour protéger les utilisateurs et assurer la sécurité des biens. Cette série de pages a détaillé des infractions électriques fréquentes, fournissant une vue d’ensemble des risques associés à chaque infraction et des solutions possibles pour les corriger. 
+In de elektrotechniek is het naleven van de normen van het **Algemeen Reglement op de Elektrische Installaties (AREI)** van cruciaal belang om gebruikers te beschermen en de veiligheid van eigendommen te waarborgen. Deze reeks pagina’s heeft veelvoorkomende elektrische inbreuken besproken, waarbij de risico’s en mogelijke oplossingen werden uitgelegd.
 
-En sensibilisant particuliers et professionnels, notre objectif est de réduire les infractions électriques, de promouvoir les bonnes pratiques, et d’assurer que chaque installation respecte les normes.
+Door zowel particulieren als professionals bewust te maken, streven we ernaar elektrische inbreuken te verminderen, goede praktijken te bevorderen en ervoor te zorgen dat elke installatie voldoet aan de geldende normen.
 
-## 1. Importance de la Conformité aux Normes RGIE
+---
 
-Le **RGIE** définit les standards de sécurité à suivre dans les installations électriques en Belgique. Les infractions, telles que :
-- l’absence de **schémas électriques conformes** ([voir le détail](https://docs.bativolt.com/docs/infractions/schema-electriques-absents)),
-- les **circuits sans protection différentielle** de 30mA ([en savoir plus](https://docs.bativolt.com/docs/infractions/circuits-non-proteges-differentiel)),
-- et les **prises sans terre** ([détails ici](https://docs.bativolt.com/docs/infractions/absence-terre-sur-prises)),
+## 1. Belang van Naleving van AREI-normen
 
-compromettent la sécurité des utilisateurs et peuvent entraîner des conséquences graves, comme des chocs électriques, des incendies, ou des dommages matériels.
+Het **AREI** stelt de veiligheidsnormen vast voor elektrische installaties in België. Inbreuken, zoals:
+
+- Het ontbreken van **conforme elektrische schema's** ([meer informatie hier](https://docs.bativolt.com/nl/docs/infractions/schema-electriques-absents)),
+- Circuits zonder **differentiële bescherming van 30mA** ([meer details](https://docs.bativolt.com/nl/docs/infractions/circuits-non-proteges-differentiel)),
+- En stopcontacten zonder **aarding** ([bekijk de details](https://docs.bativolt.com/nl/docs/infractions/absence-terre-sur-prises)),
+
+brengen de veiligheid van gebruikers in gevaar en kunnen ernstige gevolgen hebben, zoals elektrische schokken, brand of materiële schade.
 
 :::warning
-**Attention** : Le non-respect du RGIE peut entraîner des sanctions lors des contrôles de conformité et expose les occupants à des risques élevés de sécurité.
+**Let op:** Het niet naleven van het AREI kan leiden tot boetes bij conformiteitscontroles en stelt de bewoners bloot aan aanzienlijke veiligheidsrisico's.
 :::
 
-## 2. Principaux Risques des Infractions Électriques
+---
 
-Chaque infraction comporte des risques spécifiques :
+## 2. Belangrijkste Risico’s van Elektrische Inbreuken
 
-- **Chocs électriques** : Les installations non conformes augmentent le risque de contact accidentel avec des parties sous tension.
-- **Incendies** : Des câbles mal protégés ou des dispositifs inadéquats peuvent provoquer des courts-circuits, menant à des incendies domestiques.
-- **Dommages matériels** : Les défaillances électriques endommagent les équipements et peuvent causer des pannes coûteuses.
+Elke inbreuk brengt specifieke risico's met zich mee:
 
-Pour des détails sur les dangers associés à chaque infraction, consultez notre [page sur les risques](https://docs.bativolt.com/docs/infractions/introduction).
+- **Elektrische schokken**: Niet-conforme installaties verhogen het risico op onopzettelijk contact met onder spanning staande delen.
+- **Brandgevaar**: Slecht beschermde kabels of ontoereikende apparatuur kunnen kortsluitingen veroorzaken, wat leidt tot woningbranden.
+- **Materiële schade**: Elektrische storingen kunnen apparatuur beschadigen en leiden tot dure reparaties.
 
-## 3. Sensibilisation et Formation des Acteurs
+Voor meer informatie over de gevaren van elke inbreuk, raadpleeg onze [pagina over risico’s](https://docs.bativolt.com/docs/infractions/introduction).
 
-Les **électriciens** et **installateurs** jouent un rôle crucial dans la sécurité des installations électriques. Une formation continue est essentielle pour garantir la connaissance des mises à jour du RGIE. Pour les particuliers, être informé des bases de la sécurité électrique permet de mieux comprendre les normes et de s’assurer que les installations sont conformes.
+---
 
-> **Conseil :** Consultez un professionnel qualifié pour toute rénovation ou modification de votre installation électrique. Une simple erreur peut avoir des conséquences graves.
+## 3. Bewustwording en Opleiding van Installateurs
 
-## 4. Rôle des Électriciens Professionnels
+**Elektriciens** en **installateurs** spelen een cruciale rol in de veiligheid van elektrische installaties. Voortdurende opleiding is essentieel om op de hoogte te blijven van de laatste updates van het AREI. Voor particulieren is basiskennis van elektrische veiligheid nuttig om te begrijpen of installaties voldoen aan de normen.
 
-Il est recommandé de confier l’évaluation et les corrections des installations à des **électriciens agréés**. Ces experts connaissent les exigences du RGIE et peuvent garantir que toutes les modifications répondent aux standards de sécurité.
+> **Tip:** Raadpleeg een gekwalificeerde professional voor elke renovatie of wijziging van uw elektrische installatie. Een kleine fout kan grote gevolgen hebben.
 
-### Pourquoi faire appel à un professionnel ?
+---
 
-- **Évaluation précise** : Ils peuvent identifier les non-conformités invisibles à l’œil nu.
-- **Solutions adaptées** : Les électriciens qualifiés proposent des solutions conformes aux normes en vigueur.
-- **Garantie de sécurité** : Une installation conforme protège les occupants et les biens.
+## 4. Rol van Professionele Elektriciens
+
+Het wordt aanbevolen om de evaluatie en correctie van installaties over te laten aan **erkende elektriciens**. Deze experts kennen de AREI-vereisten en kunnen garanderen dat alle wijzigingen voldoen aan de veiligheidsnormen.
+
+### Waarom een professional inschakelen?
+
+- **Nauwkeurige evaluatie**: Zij kunnen niet-zichtbare inbreuken opsporen.
+- **Passende oplossingen**: Gekwalificeerde elektriciens bieden oplossingen die voldoen aan de geldende normen.
+- **Gegarandeerde veiligheid**: Een conforme installatie beschermt bewoners en eigendommen.
 
 :::tip
-**Astuce** : Demandez un certificat de conformité après chaque intervention majeure sur votre installation.
+**Handige Tip:** Vraag na elke belangrijke interventie om een conformiteitsverklaring.
 :::
 
-## 5. Investir dans la Sécurité et la Conformité
+---
 
-Mettre en conformité son installation est un investissement dans la sécurité. Bien que cela puisse nécessiter un coût initial, les bénéfices en matière de protection des occupants et des équipements sont inestimables.
+## 5. Investeren in Veiligheid en Conformiteit
 
-- **Coût de la mise à niveau** : Les rénovations peuvent varier, mais une conformité adéquate prévient les coûts liés aux accidents ou aux réparations d’urgence.
-- **Avantage à long terme** : Une installation conforme est moins sujette aux pannes et réduit les risques d’incidents.
+Het op orde brengen van een installatie is een investering in veiligheid. Hoewel dit aanvankelijk kosten met zich mee kan brengen, zijn de voordelen op het gebied van bescherming van bewoners en apparatuur onbetaalbaar.
 
-> **Exemple** : Le coût moyen pour la mise en conformité des circuits sans protection différentielle de 30mA est estimé entre 150 € et 300 €, un investissement minime pour la sécurité à long terme.
+- **Kosten van een upgrade**: Renovaties kunnen variëren in prijs, maar conformiteit voorkomt de kosten van ongelukken of noodreparaties.
+- **Voordelen op lange termijn**: Een conforme installatie is minder vatbaar voor storingen en vermindert het risico op incidenten.
 
-## Bonnes Pratiques pour les Installations Électriques Conformes
+> **Voorbeeld**: De gemiddelde kosten voor het op orde brengen van circuits zonder 30mA differentiële bescherming liggen tussen de €150 en €300, een minimale investering voor lange termijn veiligheid.
 
-1. **Réaliser des contrôles réguliers** : Même une installation conforme peut nécessiter des vérifications pour garantir la continuité de la sécurité.
-2. **Tenir à jour les schémas électriques** : Un schéma précis est essentiel pour faciliter les interventions futures.
-3. **Utiliser des matériaux conformes** : Les câbles et dispositifs de qualité garantissent une meilleure durabilité et sécurité.
-4. **Installer des dispositifs de protection adaptés** : Les disjoncteurs différentiels de 30mA sont obligatoires dans les zones à risque (cuisines, salles de bain).
-5. **Faire appel à un professionnel pour toute rénovation** : Un électricien certifié garantit que les modifications respectent le RGIE.
+---
 
-## Conclusion Générale
+## Goede Praktijken voor Conforme Elektrische Installaties
 
-La conformité électrique est une responsabilité partagée entre les installateurs et les propriétaires. En appliquant les bonnes pratiques et en respectant les normes du RGIE, nous contribuons à un environnement électrique sûr et fiable pour tous. 
+1. **Voer regelmatig controles uit**: Zelfs conforme installaties hebben inspecties nodig om de veiligheid te blijven garanderen.
+2. **Houd elektrische schema's up-to-date**: Nauwkeurige schema’s zijn essentieel voor toekomstige interventies.
+3. **Gebruik conforme materialen**: Kwaliteitskabels en apparaten zorgen voor betere duurzaamheid en veiligheid.
+4. **Installeer passende beveiligingsapparaten**: Differentiële schakelaars van 30mA zijn verplicht in risicogebieden (keukens, badkamers).
+5. **Schakel een professional in voor renovaties**: Een erkende elektricien zorgt ervoor dat wijzigingen voldoen aan het AREI.
 
-Que vous soyez un particulier ou un professionnel, adoptez les mesures nécessaires pour garantir la sécurité de vos installations. Ensemble, faisons de la conformité électrique une priorité pour protéger les vies et les biens.
+---
+
+## Algemene Conclusie
+
+Elektrische conformiteit is een gedeelde verantwoordelijkheid tussen installateurs en eigenaars. Door goede praktijken toe te passen en de AREI-normen te respecteren, dragen we bij aan een veilige en betrouwbare elektrische omgeving voor iedereen.
+
+Of u nu een particulier of een professional bent, neem de nodige maatregelen om de veiligheid van uw installaties te waarborgen. Laten we samen de prioriteit leggen op elektrische conformiteit om levens en eigendommen te beschermen.
+
+:::tip
+**Uw veiligheid, onze prioriteit.** Volg de aanbevelingen uit deze gids en schakel experts in om de conformiteit van uw elektrische installaties te waarborgen.
+:::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

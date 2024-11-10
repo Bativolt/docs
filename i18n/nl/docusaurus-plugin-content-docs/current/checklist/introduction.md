@@ -1,90 +1,89 @@
 ---
-title: Introduction à la Checklist de Conformité Électrique
-sidebar_label: Introduction
-description: "Découvrez la checklist complète pour assurer la conformité et la sécurité des installations électriques en Belgique selon le RGIE. Un guide essentiel pour particuliers, entreprises, et professionnels du secteur électrique."
+title: "Introductie tot de Checklist van Elektrische Conformiteit"
+sidebar_label: Introductie
+description: "Ontdek de volledige checklist om de conformiteit en veiligheid van elektrische installaties in België te waarborgen volgens het AREI. Een essentiële gids voor particulieren, bedrijven en professionals in de elektrische sector."
 ---
 
-# Introduction à la Checklist de Conformité Électrique
+# Introductie tot de Checklist van Elektrische Conformiteit
 
-Bienvenue dans la **Checklist de Conformité Électrique**, un guide exhaustif conçu pour vous aider à vérifier que chaque installation électrique respecte les normes de sécurité et de conformité établies par le **Règlement Général sur les Installations Électriques (RGIE)**. 
+Welkom bij de **Checklist van Elektrische Conformiteit**, een uitgebreide gids ontworpen om u te helpen bij het controleren of elke elektrische installatie voldoet aan de veiligheids- en conformiteitsnormen die zijn vastgesteld door het **Algemeen Reglement op de Elektrische Installaties (AREI)**.
 
-Le RGIE est un cadre de normes rigoureux, mis en place pour protéger les utilisateurs contre les dangers liés à l'électricité, notamment les risques d'**incendie**, d'**électrocution** et d'autres accidents graves. Suivre ces normes est non seulement une obligation légale, mais aussi une responsabilité pour garantir la sécurité de tous.
+Het AREI is een strikte normenset die is ingevoerd om gebruikers te beschermen tegen de gevaren van elektriciteit, zoals risico's van **brand**, **elektrocutie** en andere ernstige ongevallen. Het naleven van deze normen is niet alleen een wettelijke verplichting, maar ook een verantwoordelijkheid om de veiligheid van iedereen te waarborgen.
 
-:::warning À Savoir
-La non-conformité aux normes du RGIE peut entraîner des sanctions légales et des risques pour la sécurité des occupants. Respecter ces normes est essentiel pour éviter les incidents et garantir des installations sûres et pérennes.
+:::warning Let op
+Het niet naleven van de AREI-normen kan leiden tot juridische sancties en veiligheidsrisico’s voor de bewoners. Het naleven van deze normen is essentieel om incidenten te voorkomen en veilige, duurzame installaties te garanderen.
 :::
 
 ---
 
-## Objectifs de la Checklist
+## Doelstellingen van de Checklist
 
-Cette checklist a été conçue avec des objectifs clairs pour accompagner tous les acteurs — particuliers, professionnels, techniciens, et contrôleurs — dans leurs démarches de sécurité et de conformité.
+Deze checklist is ontworpen met duidelijke doelstellingen om alle betrokkenen — particulieren, professionals, technici en controleurs — te ondersteunen bij hun werkzaamheden op het gebied van veiligheid en conformiteit.
 
-- **Évaluer la Sécurité** : Identifier et corriger les vulnérabilités de l'installation électrique avant qu'elles ne causent des incidents.
-- **Faciliter les Interventions** : Fournir une référence claire et accessible pour les inspections, les maintenances, et les dépannages.
-- **Assurer la Conformité** : Garantir que chaque installation respecte les exigences du RGIE, essentielles pour obtenir des validations et des assurances.
+- **Beoordeling van Veiligheid**: Identificeren en corrigeren van kwetsbaarheden in de elektrische installatie voordat ze tot incidenten leiden.
+- **Vergemakkelijken van Interventies**: Bieden van een duidelijke en toegankelijke referentie voor inspecties, onderhoud en reparaties.
+- **Zekerstellen van Conformiteit**: Garanderen dat elke installatie voldoet aan de eisen van het AREI, essentieel voor het verkrijgen van goedkeuringen en verzekeringen.
 
-:::tip 💡 Astuce Pratique
-Gardez cette checklist accessible lors des inspections et des modifications d'installation. Elle facilitera le suivi de la conformité et optimisera les interventions des techniciens.
+:::tip 💡 Praktische Tip
+Houd deze checklist bij de hand tijdens inspecties en aanpassingen aan de installatie. Dit vergemakkelijkt het volgen van de conformiteit en optimaliseert de interventies van technici.
 :::
 
 ---
 
-## Aperçu des Sections de la Checklist
+## Overzicht van de Secties van de Checklist
 
-Voici un aperçu des différentes sections abordées dans cette checklist, avec un lien direct vers chaque étape pour faciliter la navigation :
+Hier is een overzicht van de verschillende secties van deze checklist, met een directe link naar elke stap om de navigatie te vergemakkelijken:
 
-1. [**Accès à l'Installation Électrique**](https://docs.bativolt.com/docs/checklist/acces-installation)  
-   Assurez-vous que l'installation est facilement accessible pour les contrôles et les interventions d'urgence, conformément à l'**Article 206.5 du RGIE**.
+1. [**Toegang tot de Elektrische Installatie**](https://docs.bativolt.com/nl/docs/checklist/acces-installation)  
+   Zorg ervoor dat de installatie gemakkelijk toegankelijk is voor controles en noodinterventies, volgens **Artikel 206.5 van het AREI**.
 
-2. [**Identification des Compteurs**](https://docs.bativolt.com/docs/checklist/identification-compteurs)  
-   Garantissez l'identification claire et l'accessibilité des compteurs pour une gestion efficace de la consommation et des vérifications régulières (**Article 211.2**).
+2. [**Identificatie van de Tellers**](https://docs.bativolt.com/nl/docs/checklist/identification-compteurs)  
+   Zorg voor een duidelijke identificatie en toegankelijkheid van de tellers voor een efficiënt beheer van het verbruik en regelmatige controles (**Artikel 211.2**).
 
-3. [**Rapport de Conformité**](https://docs.bativolt.com/docs/checklist/rapport-conformite)  
-   Vérifiez la présence d'un rapport de conformité récent et sa validité, en s'assurant qu'il reflète les modifications apportées à l'installation, tel qu'exigé par le RGIE.
+3. [**Conformiteitsrapport**](https://docs.bativolt.com/nl/docs/checklist/rapport-conformite)  
+   Controleer de aanwezigheid van een recent conformiteitsrapport en de geldigheid ervan, en zorg ervoor dat het de aangebrachte wijzigingen aan de installatie weerspiegelt, zoals vereist door het AREI.
 
-4. [**Plans et Schémas Électriques**](https://docs.bativolt.com/docs/checklist/plans-schemas-electriques)  
-   Assurez-vous de disposer de schémas unifilaires et de position clairs et à jour, indispensables pour la sécurité et la compréhension des installations (**Article 178.3**).
+4. [**Plannen en Elektrische Schema’s**](https://docs.bativolt.com/nl/docs/checklist/plans-schemas-electriques)  
+   Zorg voor duidelijke en actuele eenlijnige schema’s en positieschema’s, die essentieel zijn voor de veiligheid en het begrip van de installaties (**Artikel 178.3**).
 
-5. [**Analyse des Facteurs de Risques**](https://docs.bativolt.com/docs/checklist/analyse-risques)  
-   Évaluez les dangers potentiels de l'installation, en particulier dans les environnements professionnels, pour anticiper les risques et prévenir les accidents (**Article 105.4**).
+5. [**Analyse van Risicofactoren**](https://docs.bativolt.com/nl/docs/checklist/analyse-risques)  
+   Beoordeel de potentiële gevaren van de installatie, vooral in professionele omgevingen, om risico’s te anticiperen en ongevallen te voorkomen (**Artikel 105.4**).
 
-6. [**Luminaires de Secours**](https://docs.bativolt.com/docs/checklist/luminaires-secours)  
-   Installez et entretenez les luminaires de secours pour garantir un éclairage minimal en cas d'évacuation d'urgence, conformément à l'**Article 104.1**.
+6. [**Noodverlichting**](https://docs.bativolt.com/nl/docs/checklist/luminaires-secours)  
+   Installeer en onderhoud de noodverlichting om minimale verlichting te garanderen in geval van noodontruiming, in overeenstemming met **Artikel 104.1**.
 
-7. [**Documentation des Machines**](https://docs.bativolt.com/docs/checklist/documentation-machines)  
-   Réunissez les manuels, fiches techniques et certificats de conformité pour les machines utilisées dans l'installation, particulièrement pour les équipements à risque, bien que cela ne soit pas toujours obligatoire selon le RGIE.
+7. [**Documentatie van Machines**](https://docs.bativolt.com/nl/docs/checklist/documentation-machines)  
+   Verzamel de handleidingen, technische fiches en conformiteitscertificaten voor de gebruikte machines in de installatie, vooral voor risicovolle apparatuur, hoewel dit niet altijd verplicht is volgens het AREI.
 
-8. [**Dossier Électrique**](https://docs.bativolt.com/docs/checklist/dossier-electrique)  
-   Conservez un dossier électrique complet et à jour regroupant tous les documents nécessaires (schémas, rapports, analyses) pour une conformité totale et des interventions facilitées.
+8. [**Elektrisch Dossier**](https://docs.bativolt.com/nl/docs/checklist/dossier-electrique)  
+   Houd een volledig en up-to-date elektrisch dossier bij dat alle benodigde documenten (schema’s, rapporten, analyses) bevat voor volledige conformiteit en gemakkelijke interventies.
 
-:::info 📝 Remarque Importante
-Pour chaque section, nous avons inclus des références directes aux articles du RGIE pour clarifier les exigences légales et techniques. Ces informations sont cruciales pour les contrôleurs, les électriciens, et les propriétaires.
+:::info 📝 Belangrijke Opmerking
+Voor elke sectie hebben we directe verwijzingen opgenomen naar de artikelen van het AREI om de wettelijke en technische vereisten te verduidelijken. Deze informatie is essentieel voor controleurs, elektriciens en eigenaren.
 :::
 
 ---
 
-## Utilisation de cette Checklist
+## Gebruik van deze Checklist
 
-En suivant cette checklist, vous vous assurez non seulement de la **conformité réglementaire** de votre installation, mais aussi de la **sécurité des usagers** et de la **fiabilité des équipements**. Cette checklist s’adresse à un large public, allant des particuliers aux professionnels du secteur électrique, et peut être utilisée comme une ressource de référence pour garantir des installations conformes aux exigences les plus strictes.
+Door deze checklist te volgen, zorgt u niet alleen voor de **wettelijke conformiteit** van uw installatie, maar ook voor de **veiligheid van de gebruikers** en de **betrouwbaarheid van de apparatuur**. Deze checklist is bedoeld voor een breed publiek, van particulieren tot professionals in de elektrische sector, en kan worden gebruikt als referentie om te garanderen dat installaties voldoen aan de strengste eisen.
 
-Chaque point est conçu pour prévenir les accidents, sécuriser les installations et répondre aux attentes des assureurs, techniciens, et contrôleurs. Nous vous invitons à parcourir chaque section avec attention afin de garantir que votre installation électrique est en parfait accord avec les normes du RGIE.
+Elk punt is ontworpen om ongevallen te voorkomen, installaties veilig te stellen en te voldoen aan de verwachtingen van verzekeraars, technici en controleurs. We raden u aan om elke sectie zorgvuldig door te nemen om ervoor te zorgen dat uw elektrische installatie volledig in overeenstemming is met de AREI-normen.
 
-:::tip 📢 Conclusion
-Cette checklist représente votre guide de référence pour une conformité électrique optimale en Belgique. En respectant chaque section, vous contribuez à un environnement plus sûr et à la tranquillité d’esprit pour vous et vos utilisateurs.
+:::tip 📢 Conclusie
+Deze checklist is uw referentiegids voor optimale elektrische conformiteit in België. Door elke sectie na te leven, draagt u bij aan een veiliger omgeving en gemoedsrust voor uzelf en uw gebruikers.
 :::
-
 
 ---
 
-Nous espérons que ce guide complet vous apportera toute l’aide nécessaire pour assurer la sécurité et la conformité de vos installations. N’hésitez pas à consulter chaque section et à vous référer aux articles du RGIE pour approfondir votre compréhension des exigences en vigueur.
+We hopen dat deze uitgebreide gids u alle nodige hulp biedt om de veiligheid en conformiteit van uw installaties te waarborgen. Aarzel niet om elke sectie door te nemen en te verwijzen naar de AREI-artikelen om uw begrip van de geldende eisen te verdiepen.
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

@@ -1,125 +1,124 @@
 ---
-title: Tableaux Électriques Non Conformes
-sidebar_label: Tableaux Électriques
-description: Guide complet sur les tableaux électriques non conformes, les risques associés, et les solutions pour assurer la sécurité des installations électriques.
+title: "Niet-Conforme Elektrische Schakelborden"
+sidebar_label: "Elektrische Schakelborden"
+description: "Uitgebreide gids over niet-conforme elektrische schakelborden, de bijbehorende risico's en oplossingen om de veiligheid van elektrische installaties te waarborgen."
 ---
 
-# Tableaux Électriques Non Conformes
+# Niet-Conforme Elektrische Schakelborden
 
-## Introduction
+## Inleiding
 
-Les tableaux électriques jouent un rôle crucial dans la sécurité des installations. Ils distribuent l'électricité dans les différents circuits de l'habitation ou du bâtiment et protègent les utilisateurs contre les surcharges et les courts-circuits. Toutefois, de nombreux tableaux en circulation ne sont pas conformes aux normes actuelles, créant des risques pour la sécurité.
+Elektrische schakelborden spelen een cruciale rol in de veiligheid van installaties. Ze verdelen elektriciteit over de verschillende circuits van de woning of het gebouw en beschermen gebruikers tegen overbelasting en kortsluiting. Veel schakelborden voldoen echter niet aan de huidige normen, wat veiligheidsrisico's met zich meebrengt.
 
-> **⚠️ Avertissement :** Un tableau non conforme peut engendrer des risques d'incendie et compromettre la sécurité des utilisateurs. La mise en conformité est donc essentielle.
+> **⚠️ Waarschuwing:** Een niet-conform schakelbord kan brandgevaar opleveren en de veiligheid van gebruikers in gevaar brengen. Conformiteit is daarom essentieel.
 
-## 1. Importance des Tableaux Électriques
+## 1. Belang van Elektrische Schakelborden
 
-### 1.1. Distribution Électrique
+### 1.1. Elektrische Verdeling
 
-Le tableau électrique est le point central de distribution de l'électricité dans une installation. Il dirige l’énergie vers les différents circuits (éclairage, prises de courant, appareils électroménagers) et assure une alimentation efficace.
+Het schakelbord is het centrale punt van elektrische verdeling in een installatie. Het leidt de stroom naar verschillende circuits (verlichting, stopcontacten, huishoudelijke apparaten) en zorgt voor een efficiënte stroomtoevoer.
 
 :::info
-**Astuce :** Une configuration bien structurée dans le tableau électrique facilite les interventions et améliore la gestion de l'énergie.
+**Tip:** Een goed gestructureerd schakelbord vergemakkelijkt onderhoud en verbetert het energiebeheer.
 :::
 
-### 1.2. Protection des Circuits
+### 1.2. Bescherming van Circuits
 
-Les tableaux doivent être équipés de **disjoncteurs** et de **fusibles** pour couper l’électricité en cas de surcharge ou de court-circuit. Ces dispositifs sont essentiels pour prévenir les incendies et protéger les occupants.
+Schakelborden moeten voorzien zijn van **automaten** en **zekeringen** om de stroomtoevoer te onderbreken bij overbelasting of kortsluiting. Deze apparaten zijn essentieel om brand te voorkomen en de veiligheid van bewoners te garanderen.
 
-> **💡 Note :** Les disjoncteurs modernes permettent une remise en service rapide après un incident, contrairement aux fusibles qui nécessitent un remplacement complet.
+> **💡 Opmerking:** Moderne automaten kunnen eenvoudig worden gereset na een incident, in tegenstelling tot zekeringen die volledig vervangen moeten worden.
 
-## 2. Disjoncteurs vs Anciens Fusibles
+## 2. Automaten vs Oude Zekeringen
 
-### 2.1. Disjoncteurs
+### 2.1. Automaten
 
-Les disjoncteurs modernes sont conçus pour interrompre automatiquement le courant en cas de surcharge ou de court-circuit. Ils sont plus fiables que les fusibles, car ils peuvent être réenclenchés après un déclenchement.
+Moderne automaten zijn ontworpen om de stroom automatisch te onderbreken bij overbelasting of kortsluiting. Ze zijn betrouwbaarder dan zekeringen, omdat ze opnieuw kunnen worden ingeschakeld na een uitschakeling.
 
-#### 2.1.1. Types de Disjoncteurs
+#### 2.1.1. Soorten Automaten
 
-- **Disjoncteurs Thermomagnétiques** : Protègent contre les surcharges et les courts-circuits.
-- **Disjoncteurs Différentiels** : Protègent contre les fuites de courant à la terre, réduisant le risque d'électrocution.
+- **Thermomagnetische Automaten:** Beschermen tegen overbelasting en kortsluiting.
+- **Aardlekschakelaars:** Beschermen tegen lekstromen naar de aarde, wat het risico op elektrocutie vermindert.
 
-> **💡 Conseil :** Assurez-vous de bien distinguer les types de disjoncteurs, car chacun a un rôle spécifique dans la sécurité de l'installation.
+> **💡 Tip:** Zorg ervoor dat u de verschillende soorten automaten herkent, want elk type heeft een specifieke functie voor de veiligheid van de installatie.
 
-### 2.2. Anciens Fusibles
+### 2.2. Oude Zekeringen
 
-Les anciens fusibles, courants dans les installations plus anciennes, ne garantissent pas le même niveau de protection que les disjoncteurs modernes. Lorsqu'un fusible fond en cas de surcharge, il doit être remplacé, ce qui prend du temps.
+Oude zekeringen, vaak gebruikt in oudere installaties, bieden niet hetzelfde beschermingsniveau als moderne automaten. Wanneer een zekering doorslaat bij overbelasting, moet deze vervangen worden, wat tijd kost.
 
 :::caution
-**Attention :** Il est recommandé de remplacer les anciens fusibles par des disjoncteurs modernes pour améliorer la sécurité de l’installation et la remettre aux normes.
+**Waarschuwing:** Het wordt aanbevolen om oude zekeringen te vervangen door moderne automaten om de veiligheid van de installatie te verbeteren en aan de normen te voldoen.
 :::
 
-## 3. Risques Associés à un Tableau Électrique Non Conforme
+## 3. Risico's van een Niet-Conform Schakelbord
 
-### 3.1. Risque d'Incendie
+### 3.1. Brandgevaar
 
-Un tableau électrique non conforme augmente le risque d’incendie. Les installations obsolètes avec des fusibles usés ou des disjoncteurs défectueux peuvent surchauffer et provoquer des départs de feu.
+Een niet-conform schakelbord verhoogt het risico op brand. Verouderde installaties met versleten zekeringen of defecte automaten kunnen oververhit raken en brand veroorzaken.
 
-> **⚠️ Avertissement :** Des câbles mal dimensionnés ou dégradés dans un tableau non conforme amplifient les risques d'incendie. Une inspection régulière est cruciale pour éviter ces dangers.
+> **⚠️ Waarschuwing:** Kabels met een verkeerde diameter of beschadigde kabels in een niet-conform schakelbord vergroten het brandrisico. Regelmatige inspecties zijn cruciaal om deze gevaren te voorkomen.
 
-### 3.2. Non Coupure des Phases
+### 3.2. Niet Gelijktijdig Uitschakelen van Fasen
 
-Dans certains tableaux, les phases ne se coupent pas simultanément en cas de dysfonctionnement. Cela peut provoquer des déséquilibres et des surchauffes, menaçant la sécurité des équipements et des utilisateurs.
+In sommige schakelborden schakelen de fasen niet gelijktijdig uit bij een storing, wat kan leiden tot onbalans en oververhitting. Dit vormt een bedreiging voor de veiligheid van apparatuur en gebruikers.
 
-### 3.3. Surtensions
+### 3.3. Overspanningen
 
-Les tableaux électriques doivent pouvoir gérer les surtensions. Sans protection adéquate, comme un parafoudre, les équipements branchés risquent d’être endommagés.
+Schakelborden moeten bestand zijn tegen overspanningen. Zonder adequate bescherming, zoals een overspanningsbeveiliging, kunnen aangesloten apparaten beschadigd raken.
 
 :::tip
-**Astuce Sécurité :** Installez un parafoudre pour protéger votre équipement contre les surtensions. Cela est particulièrement utile dans les régions sujettes aux orages.
+**Veiligheidstip:** Installeer een overspanningsbeveiliging om uw apparatuur te beschermen tegen spanningspieken. Dit is vooral nuttig in gebieden die gevoelig zijn voor onweer.
 :::
 
-### 3.4. Non-Conformité Réglementaire
+### 3.4. Niet-Naleving van de Regelgeving
 
-Selon l'article **4.2.4** du RGIE, toutes les installations électriques doivent être équipées de dispositifs de protection conformes aux normes en vigueur. Un tableau non conforme expose à des sanctions lors des contrôles de conformité.
+Volgens artikel **4.2.4** van het AREI moeten alle elektrische installaties voorzien zijn van beschermingsapparaten die voldoen aan de geldende normen. Een niet-conform schakelbord kan leiden tot sancties bij conformiteitscontroles.
 
-> **Note :** La mise en conformité de votre tableau est une obligation légale et un gage de sécurité pour vous et vos proches.
+> **Opmerking:** Het conform maken van uw schakelbord is een wettelijke verplichting en een garantie voor uw eigen veiligheid en die van anderen.
 
-## 4. Équipements et Matériel à Prévoir
+## 4. Benodigdheden en Apparatuur
 
-### 4.1. Disjoncteurs
+### 4.1. Automaten
 
-La mise en conformité d'un tableau électrique nécessite des disjoncteurs modernes, incluant des disjoncteurs thermiques et différentiels adaptés aux besoins de l'installation.
+Voor het conform maken van een schakelbord zijn moderne automaten nodig, waaronder thermische en aardlekschakelaars die geschikt zijn voor de installatie.
 
 :::info
-**Exemple :** Un disjoncteur différentiel protège contre les fuites de courant et est particulièrement recommandé dans les pièces humides.  
+**Voorbeeld:** Een aardlekschakelaar beschermt tegen lekstromen en wordt vooral aanbevolen in vochtige ruimtes.
 :::
 
-![Exemple de Disjoncteurs](/img/bativolt-exemple-disjoncteurs.jpg)
+![Voorbeeld van Automaten](/img/bativolt-exemple-disjoncteurs.jpg)
 
+### 4.2. Overspanningsbeveiliging
 
-### 4.2. Parafoudres
+Een overspanningsbeveiliging beschermt apparaten tegen spanningspieken. Voor optimale bescherming moet deze dicht bij het schakelbord worden geïnstalleerd.
 
-Les parafoudres protègent les appareils contre les surtensions. Pour une protection optimale, ils doivent être installés à proximité du tableau.
+> **Tip:** Een kwalitatieve overspanningsbeveiliging vermindert het risico op schade aan apparatuur bij een spanningspiek, wat hun levensduur verlengt.
 
-> **Conseil :** Un parafoudre de qualité réduit les risques de dommages aux équipements en cas de surtension, augmentant ainsi leur durée de vie.
+### 4.3. Kostenoverzicht
 
-### 4.3. Coût des Matériaux
+De kosten voor het vervangen van een niet-conform schakelbord variëren afhankelijk van de benodigde materialen en de complexiteit van de installatie:
 
-Le coût de remplacement d’un tableau électrique non conforme varie selon le type de matériel nécessaire et la complexité de l’installation. Voici une estimation :
-
-- **Disjoncteurs** : Entre 15 et 50 € par unité, selon le type et la capacité.
-- **Parafoudres** : Entre 100 et 200 €, en fonction de l’installation.
-- **Installation Complète du Tableau** : Entre 500 et 1500 €, selon les besoins spécifiques.
+- **Automaten:** €15 tot €50 per stuk, afhankelijk van het type en de capaciteit.
+- **Overspanningsbeveiliging:** €100 tot €200, afhankelijk van de installatie.
+- **Complete Schakelbordinstallatie:** €500 tot €1500, afhankelijk van de specifieke vereisten.
 
 :::tip
-**Budget Prévisionnel :** Demandez des devis auprès de professionnels pour une estimation précise des coûts liés à la mise en conformité de votre tableau.
+**Budgetadvies:** Vraag offertes aan bij professionals voor een nauwkeurige schatting van de kosten voor het conform maken van uw schakelbord.
 :::
 
-## Conclusion
+## Conclusie
 
-Assurer la conformité des tableaux électriques est essentiel pour garantir la sécurité des utilisateurs. Les risques associés aux tableaux non conformes, comme les incendies et les surtensions, peuvent avoir des conséquences graves. Il est fortement recommandé de faire inspecter et, si nécessaire, de remplacer les tableaux par des professionnels qualifiés. 
+Het conform maken van elektrische schakelborden is essentieel om de veiligheid van gebruikers te waarborgen. De risico's van niet-conforme schakelborden, zoals brand en overspanning, kunnen ernstige gevolgen hebben. Het wordt sterk aanbevolen om schakelborden te laten inspecteren en, indien nodig, te laten vervangen door gekwalificeerde professionals.
 
-> **Rappel :** Un tableau conforme est non seulement une obligation légale, mais aussi un élément essentiel pour la sécurité et la durabilité de votre installation électrique.
+> **Herinnering:** Een conform schakelbord is niet alleen een wettelijke verplichting, maar ook een cruciaal element voor de veiligheid en duurzaamheid van uw elektrische installatie.
 
-En résumé, la mise en conformité des tableaux électriques protège non seulement vos biens, mais surtout la sécurité des personnes. En cas de doute, consultez un professionnel qualifié pour évaluer et mettre à jour votre installation.
+Kortom, het conform maken van elektrische schakelborden beschermt niet alleen uw eigendommen, maar ook de veiligheid van personen. Raadpleeg bij twijfel een gekwalificeerde professional om uw installatie te evalueren en bij te werken.
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

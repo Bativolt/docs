@@ -1,100 +1,100 @@
 ---
-title: "Identification du Compteur - Guide de Conformité RGIE"
-sidebar_label: Identification du Compteur
-description: "Apprenez comment identifier correctement le compteur électrique, son rôle essentiel dans la gestion de la consommation et la conformité RGIE. Guide pour les particuliers et les professionnels."
+title: "Identificatie van de Teller - Conformiteitsgids AREI"
+sidebar_label: Identificatie van de Teller
+description: "Leer hoe u de elektriciteitsteller correct identificeert, en zijn essentiële rol in het beheer van het verbruik en de conformiteit volgens het AREI. Gids voor particulieren en professionals."
 ---
 
-# Identification du Compteur
+# Identificatie van de Teller
 
-Une identification correcte du compteur électrique est essentielle pour garantir une gestion précise de la consommation d’électricité et assurer la conformité aux normes de sécurité en Belgique. Cette étape permet aux contrôleurs de vérifier les installations et d’évaluer leur conformité avec le **Règlement Général sur les Installations Électriques (RGIE)**.
+Een correcte identificatie van de elektriciteitsteller is essentieel om een nauwkeurig beheer van het elektriciteitsverbruik te garanderen en te voldoen aan de veiligheidsnormen in België. Deze stap stelt controleurs in staat om de installaties te controleren en te beoordelen op hun conformiteit met het **Algemeen Reglement op de Elektrische Installaties (AREI)**.
 
 ---
 
-## 1. Importance de l'Identification du Compteur
+## 1. Belang van de Identificatie van de Teller
 
-### 1.1. Accès aux Informations Requises
+### 1.1. Toegang tot Vereiste Informatie
 
-Avant l’arrivée du contrôleur, il est crucial que toutes les informations nécessaires soient facilement accessibles. Ces informations incluent :
+Voor de komst van de controleur is het belangrijk dat alle noodzakelijke informatie gemakkelijk toegankelijk is. Deze informatie omvat:
 
-- **Type de Compteur** : Le contrôleur doit pouvoir identifier rapidement le type de compteur installé, que ce soit un compteur standard, à tarification différenciée, ou intelligent. Chaque type a ses propres spécificités et méthodes de relevé.
+- **Type Teller**: De controleur moet snel het type teller kunnen identificeren, of het nu een standaardteller, een teller met gedifferentieerde tarieven of een slimme teller is. Elk type heeft zijn eigen specificaties en afleesmethoden.
   
-- **Index de Consommation** : Les compteurs affichent souvent des index de consommation pour le jour et la nuit. Cette distinction est cruciale pour les contrats à tarifs différenciés.
+- **Verbruiksindex**: Tellers tonen vaak verbruiksindexen voor dag- en nachtverbruik. Dit onderscheid is belangrijk voor contracten met gedifferentieerde tarieven.
 
-:::tip Exemple  
-Les compteurs à double index permettent de bénéficier de tarifs réduits pendant les heures creuses, offrant des économies significatives pour les foyers consommant majoritairement la nuit.
+:::tip Voorbeeld  
+Tellers met dubbele indexen bieden de mogelijkheid om te profiteren van lagere tarieven tijdens daluren, wat aanzienlijke besparingen oplevert voor huishoudens die voornamelijk 's nachts verbruiken.
 :::
 
-### 1.2. Éléments à Vérifier sur le Compteur
+### 1.2. Te Controleren Elementen op de Teller
 
-Certains éléments clés doivent être vérifiés sur le compteur pour s'assurer de la conformité RGIE :
+Bepaalde belangrijke elementen moeten worden gecontroleerd op de teller om AREI-conformiteit te garanderen:
 
-| **Élément**               | **Exigence RGIE**                                           | **Conseils Pratiques** |
-|---------------------------|-------------------------------------------------------------|-------------------------|
-| **Type d'Alimentation**   | Identification monophasée ou triphasée (RGIE Art. 152.4)    | Vérifiez l’adaptation de l’installation selon les besoins en puissance. |
-| **Section des Câbles**    | Respect des normes de section pour éviter surchauffe        | Confirmez que les câbles sont dimensionnés correctement selon le type d’installation. |
+| **Element**                | **Vereiste volgens het AREI**                              | **Praktische Tips**                     |
+|----------------------------|------------------------------------------------------------|-----------------------------------------|
+| **Type Voeding**           | Identificatie van eenfase- of driefasevoeding (AREI Art. 152.4) | Controleer of de installatie is aangepast aan de vermogensbehoefte. |
+| **Sectie van de Kabels**   | Naleving van de sectienormen om oververhitting te voorkomen | Zorg ervoor dat de kabels correct zijn gedimensioneerd voor het type installatie. |
 
-:::warning Attention  
-L'utilisation de câbles inappropriés peut entraîner des surchauffes et des risques d’incendie. Vérifiez toujours que la section des câbles respecte les normes en vigueur.
+:::warning Waarschuwing  
+Het gebruik van ongeschikte kabels kan leiden tot oververhitting en brandgevaar. Controleer altijd of de kabelsectie voldoet aan de geldende normen.
 :::
 
 ---
 
-## 2. Types de Compteurs
+## 2. Soorten Tellers
 
-Les compteurs électriques varient selon leur fonction et leur technologie. Connaître le type de compteur installé aide à gérer efficacement la consommation d’énergie et facilite la maintenance.
+Elektriciteitstellers variëren afhankelijk van hun functie en technologie. Het kennen van het type teller helpt bij het efficiënt beheren van het energieverbruik en vergemakkelijkt het onderhoud.
 
-| **Type de Compteur**             | **Caractéristiques**                                                                 |
-|----------------------------------|--------------------------------------------------------------------------------------|
-| **Compteurs Standards**          | Mesurent la consommation totale sans différenciation jour/nuit.                      |
-| **Compteurs à Tarification Différenciée** | Affichent un index pour les heures pleines et un autre pour les heures creuses, optimisant la facture d’électricité. |
-| **Compteurs Exclusifs Nuit**     | Mesurent uniquement la consommation nocturne, parfait pour les consommateurs de nuit. |
-| **Compteurs Intelligents**       | Relevés à distance, fournissent des données en temps réel et facilitent l’intégration des énergies renouvelables. |
-| **Anciens Compteurs**            | Numéro de compteur visible, souvent avec un **code EAN** pour identifier le fournisseur d’énergie. |
+| **Type Teller**                   | **Kenmerken**                                                                      |
+|----------------------------------|------------------------------------------------------------------------------------|
+| **Standaardtellers**             | Meten het totale verbruik zonder onderscheid tussen dag- en nachtverbruik.         |
+| **Tellers met Gedifferentieerde Tarieven** | Tonen een index voor piekuren en een andere voor daluren, wat de elektriciteitsrekening optimaliseert. |
+| **Exclusieve Nachttellers**      | Meten uitsluitend het nachtverbruik, ideaal voor nachtelijke verbruikers.          |
+| **Slimme Tellers**               | Worden op afstand uitgelezen, bieden realtime gegevens en ondersteunen hernieuwbare energie. |
+| **Oude Tellers**                 | Zichtbaar tellernummer, vaak met een **EAN-code** om de energieleverancier te identificeren. |
 
-> **🔑 Code EAN** : Le **code EAN** est un identifiant unique associé à chaque compteur, utilisé pour lier le compteur à un fournisseur d’énergie spécifique.
+> **🔑 EAN-code**: De **EAN-code** is een unieke identificatie die aan elke teller is gekoppeld en wordt gebruikt om de teller te verbinden met een specifieke energieleverancier.
 
 ---
 
-## 3. Accessibilité du Compteur
+## 3. Toegankelijkheid van de Teller
 
-L’accessibilité au compteur est essentielle, particulièrement dans les immeubles où les compteurs sont souvent regroupés dans des salles communes.
+De toegankelijkheid van de teller is essentieel, vooral in appartementen waar de tellers vaak gegroepeerd zijn in gemeenschappelijke ruimtes.
 
-### 3.1. Accessibilité et Visibilité
+### 3.1. Toegankelijkheid en Zichtbaarheid
 
-- **Visibilité pour le Contrôleur** : Le contrôleur doit pouvoir accéder facilement au compteur pour réaliser les vérifications. Toute obstruction, comme des objets devant le compteur, peut ralentir l'inspection.
+- **Zichtbaarheid voor de Controleur**: De controleur moet gemakkelijk toegang hebben tot de teller voor inspectie. Obstakels, zoals objecten voor de teller, kunnen de inspectie vertragen.
 
 :::tip  
-Pour faciliter l’accès, maintenez la zone autour du compteur dégagée en permanence.
+Houd de ruimte rond de teller altijd vrij om de toegang te vergemakkelijken.
 :::
 
-- **Problèmes d’Accessibilité en Immeuble** : Dans les immeubles, les compteurs sont souvent regroupés dans une salle spécifique. En l’absence de nom ou d’indication claire, identifier un compteur peut devenir un défi pour les contrôleurs.
+- **Toegangsproblemen in Appartementen**: In appartementen worden tellers vaak gegroepeerd in een specifieke ruimte. Zonder duidelijke naam of aanduiding kan het identificeren van een teller een uitdaging zijn voor controleurs.
 
-### 3.2. Exigences Légales d'Accessibilité (RGIE)
+### 3.2. Wettelijke Toegankelijkheidseisen (AREI)
 
-Selon les articles **RGIE Art. 123.8** et **124.3**, les compteurs doivent être accessibles en tout temps, surtout dans les immeubles collectifs. Le gestionnaire ou concierge doit pouvoir donner accès 24/7 aux propriétaires, autorités, ou toute personne autorisée.
+Volgens de artikelen **AREI Art. 123.8** en **124.3** moeten tellers altijd toegankelijk zijn, vooral in gemeenschappelijke gebouwen. De beheerder of conciërge moet 24/7 toegang kunnen verlenen aan eigenaars, autoriteiten, of andere bevoegde personen.
 
-> **💼 Conseil pour les Gestionnaires d’Immeuble** : Assurez-vous que la salle des compteurs est étiquetée clairement et que chaque compteur est correctement identifié par appartement ou unité.
+> **💼 Tip voor Gebouwbeheerders**: Zorg ervoor dat de tellerruimte duidelijk is aangeduid en dat elke teller correct is geïdentificeerd per appartement of eenheid.
 
 ---
 
-## 4. Conclusion sur l'Identification du Compteur
+## 4. Conclusie over de Identificatie van de Teller
 
-En résumé, une identification précise et une accessibilité optimale du compteur sont essentielles pour garantir la conformité et la sécurité des installations électriques :
+Samengevat zijn een nauwkeurige identificatie en optimale toegankelijkheid van de teller essentieel voor de conformiteit en veiligheid van elektrische installaties:
 
-1. **Identification du Type de Compteur** : Connaître le type et les spécificités du compteur permet d’assurer une gestion efficace de l’énergie et une conformité réglementaire.
-2. **Importance du Code EAN** : Ce code unique permet de relier un compteur à un fournisseur, facilitant ainsi la gestion des contrats et des relevés.
-3. **Respect des Normes RGIE** : Assurez-vous que le compteur est facilement accessible et conforme aux exigences légales du RGIE.
+1. **Identificatie van het Type Teller**: Het kennen van het type en de specificaties van de teller helpt bij een efficiënt energiebeheer en naleving van de regelgeving.
+2. **Belang van de EAN-code**: Deze unieke code koppelt de teller aan een energieleverancier, wat het beheer van contracten en aflezingen vergemakkelijkt.
+3. **Naleving van AREI-normen**: Zorg ervoor dat de teller gemakkelijk toegankelijk is en voldoet aan de wettelijke eisen van het AREI.
 
-Pour plus d’informations, ou si vous avez des questions spécifiques sur la conformité de votre compteur, n’hésitez pas à consulter un **électricien agréé** ou à contacter votre **fournisseur d’énergie**.
+Voor meer informatie, of als u specifieke vragen heeft over de conformiteit van uw teller, aarzel niet om contact op te nemen met een **erkende elektricien** of uw **energieleverancier**.
 
-**Contactez-nous pour toute question sur l’identification du compteur** : [gc@bativolt.com](mailto:gc@bativolt.com)
+**Contacteer ons voor vragen over de identificatie van de teller**: [gc@bativolt.com](mailto:gc@bativolt.com)
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

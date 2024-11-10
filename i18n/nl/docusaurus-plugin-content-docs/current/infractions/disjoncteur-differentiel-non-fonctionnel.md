@@ -1,151 +1,143 @@
 ---
-title: Disjoncteurs Différentiels Non Fonctionnels - Causes et Solutions
-sidebar_label: Différentiels Non Fonctionnels
-description: Guide sur le dysfonctionnement des disjoncteurs différentiels, incluant les causes, méthodes de test, et conseils pour leur remplacement afin de garantir la sécurité des installations électriques.
+title: "Niet-werkende Aardlekschakelaars (Differentiële Schakelaars) - Oorzaken en Oplossingen"
+sidebar_label: Niet-werkende Aardlekschakelaars
+description: "Gids voor defecte aardlekschakelaars, inclusief oorzaken, testmethoden en advies voor vervanging om de veiligheid van elektrische installaties te garanderen."
 ---
 
-# Disjoncteurs Différentiels Non Fonctionnels
+# Niet-werkende Aardlekschakelaars (Differentiële Schakelaars)
 
-## Introduction
+## Inleiding
 
-Les disjoncteurs différentiels sont cruciaux pour la sécurité des installations électriques. Ils protègent les utilisateurs contre les chocs électriques en interrompant immédiatement le courant en cas de fuite. Cependant, il arrive que des disjoncteurs, qu'ils soient de **30mA** ou **300mA**, cessent de fonctionner correctement. Cette page explique les causes possibles de dysfonctionnement, les méthodes de test, les conséquences de non-fonctionnalité, et les coûts liés à leur remplacement.
+Aardlekschakelaars, ook wel **differentiële schakelaars** genoemd, zijn essentieel voor de veiligheid van elektrische installaties. Ze beschermen gebruikers tegen elektrische schokken door de stroom onmiddellijk te onderbreken bij een lekstroom. Echter, soms werken deze schakelaars, of ze nu van **30mA** of **300mA** zijn, niet meer naar behoren. In deze pagina bespreken we mogelijke oorzaken van defecten, testmethoden, de gevolgen van niet-functionele aardlekschakelaars en de kosten van vervanging.
 
 ---
 
-## 1. Pourquoi un Disjoncteur Différentiel Peut Ne Pas Fonctionner ?
+## 1. Waarom werkt een Aardlekschakelaar niet meer?
 
-### 1.1. Mauvaise Configuration ou Pontage Incorrect
+### 1.1. Foute Configuratie of Onjuiste Bekabeling
 
-Une mauvaise configuration, en particulier dans des cas complexes comme les installations **3x230V avec un différentiel tettra**, peut empêcher un disjoncteur de détecter les fuites de courant. Un mauvais pontage ou un branchement incorrect rend l’appareil inefficace, compromettant la sécurité de l’installation.
+Een verkeerde configuratie, vooral bij complexe installaties zoals **3x230V met een tetrapolaire aardlekschakelaar**, kan voorkomen dat de schakelaar lekstromen detecteert. Foutieve bekabeling of verkeerde overbrugging maakt het apparaat ineffectief, wat de veiligheid van de installatie in gevaar brengt.
 
 :::warning
-**Attention :** Un disjoncteur mal configuré peut donner une fausse impression de sécurité alors qu’il ne protège pas réellement contre les fuites de courant.
+**Let op:** Een verkeerd aangesloten aardlekschakelaar kan een vals gevoel van veiligheid geven, terwijl deze in werkelijkheid geen bescherming biedt tegen lekstromen.
 :::
 
 ---
 
-### 1.2. Usure et Dégradation des Composants Internes
+### 1.2. Slijtage en Veroudering van Interne Onderdelen
 
-Avec le temps et les déclenchements répétés, le mécanisme interne du disjoncteur peut s'user, compromettant sa capacité à se déclencher correctement.
+Door herhaaldelijk uitschakelen kunnen de interne mechanismen van de aardlekschakelaar verslijten, wat de correcte werking kan belemmeren.
 
-> **💡 Saviez-vous ?** Un disjoncteur qui a été déclenché de nombreuses fois devient susceptible de ne plus réagir aux fuites, nécessitant un remplacement pour assurer la sécurité.
-
----
-
-### 1.3. Défaillances Électriques et Surtensions
-
-Des surtensions dues à des orages ou à des fluctuations électriques peuvent endommager un disjoncteur différentiel, rendant son mécanisme de détection de fuites de courant inefficace.
-
-:::info Image d'Exemple 📸
-
-Une photo illustrative sera ajoutée ici prochainement. Vu l'ampleur de la documentation, il peut y avoir des sections en attente de visuels.
-
-Si vous souhaitez aider la communauté, vous pouvez contribuer avec une photo personnelle en lien avec cette section ! Envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com), et nous l'intégrerons en mentionnant votre nom en tant que contributeur. Ensemble, enrichissons l’expérience éducative de Bativolt !
-
-:::
+> **Wist je dat?** Een schakelaar die vaak is uitgeschakeld, kan minder gevoelig worden voor lekstromen. In dit geval moet deze worden vervangen om de veiligheid te waarborgen.
 
 ---
 
-## 2. Méthodes de Test et Entretien des Disjoncteurs Différentiels
+### 1.3. Elektrische Storingen en Overspanning
 
-### 2.1. Fréquence des Tests et Bonnes Pratiques
+Overspanningen, veroorzaakt door bijvoorbeeld blikseminslag of spanningspieken, kunnen de aardlekschakelaar beschadigen, waardoor deze niet meer effectief is in het detecteren van lekstromen.
 
-Le RGIE recommande de tester les disjoncteurs différentiels au moins une fois par mois pour s’assurer de leur bon fonctionnement. Ce test est simple : appuyez sur le bouton de test situé sur le disjoncteur. Si le disjoncteur se déclenche, cela confirme qu'il fonctionne correctement. Sinon, il peut être défectueux.
-
-> **💡 Astuce :** Testez les disjoncteurs après chaque changement important dans l'installation (comme l'ajout d'appareils) pour garantir une protection continue.
+> **Tip:** Het installeren van een overspanningsbeveiliging kan helpen om de aardlekschakelaars te beschermen tegen schade door spanningspieken.
 
 ---
 
-### 2.2. Remplacement Professionnel des Disjoncteurs
+## 2. Testmethoden en Onderhoud van Aardlekschakelaars
 
-Le remplacement d’un disjoncteur doit être confié à un électricien qualifié. Une installation correcte assure la conformité avec les normes **RGIE** et une protection optimale.
+### 2.1. Frequentie van Testen en Beste Praktijken
 
-| **Type de disjoncteur** | **Coût estimé**     | **Installation professionnelle** |
-|--------------------------|---------------------|----------------------------------|
-| Disjoncteur 30mA         | 30 € à 100 €       | Fortement recommandé            |
-| Disjoncteur 300mA        | 50 € à 150 €       | Obligatoire pour les grandes installations |
+Het is aanbevolen om aardlekschakelaars minstens één keer per maand te testen, volgens de **AREI**-normen. Dit kan eenvoudig worden gedaan door op de testknop van de schakelaar te drukken. Als de schakelaar uitschakelt, werkt hij correct. Zo niet, dan kan hij defect zijn.
 
-> **Remarque :** Un électricien pourra également conseiller sur le modèle de disjoncteur le mieux adapté à l'installation.
+> **Tip:** Test de aardlekschakelaar na elke belangrijke wijziging in de installatie, zoals het toevoegen van nieuwe apparaten, om te zorgen voor continue bescherming.
 
 ---
 
-## 3. Conséquences d'un Disjoncteur Non Fonctionnel
+### 2.2. Professionele Vervanging van Aardlekschakelaars
 
-### 3.1. Risques pour la Sécurité des Occupants
+Het vervangen van een defecte aardlekschakelaar moet worden uitgevoerd door een gekwalificeerde elektricien. Dit garandeert een correcte installatie en naleving van de **AREI**-normen.
 
-Un disjoncteur différentiel non fonctionnel laisse les utilisateurs exposés à des fuites de courant potentielles, augmentant le risque de chocs électriques, de blessures graves, et même de risques d'incendie.
+| **Type Aardlekschakelaar** | **Geschatte Kosten** | **Professionele Installatie** |
+|----------------------------|----------------------|------------------------------|
+| Aardlekschakelaar 30mA     | €30 - €100           | Sterk aanbevolen             |
+| Aardlekschakelaar 300mA    | €50 - €150           | Verplicht voor grote installaties |
+
+> **Opmerking:** Een elektricien kan ook adviseren over het meest geschikte model voor uw installatie.
+
+---
+
+## 3. Gevolgen van een Niet-functionerende Aardlekschakelaar
+
+### 3.1. Risico’s voor de Veiligheid van Bewoners
+
+Een defecte aardlekschakelaar laat gebruikers blootgesteld aan mogelijke lekstromen, wat het risico op elektrische schokken, ernstige verwondingen en zelfs brand aanzienlijk verhoogt.
 
 :::danger
-**Dangers des Disjoncteurs Non Fonctionnels :** Sans protection, les occupants risquent des électrocutions en cas de fuite de courant non détectée. Toujours vérifier et remplacer les disjoncteurs défectueux.
+**Gevaar:** Een niet-werkende aardlekschakelaar biedt geen bescherming tegen lekstromen, wat kan leiden tot elektrocutie. Controleer en vervang defecte schakelaars onmiddellijk.
 :::
 
 ---
 
-### 3.2. Non-Conformité aux Normes du RGIE
+### 3.2. Niet-conformiteit met AREI-normen
 
-Le RGIE impose des exigences strictes concernant les dispositifs de protection. En cas de contrôle ou d’accident, un disjoncteur défectueux peut entraîner des amendes ou des sanctions pour non-conformité. Les propriétaires sont donc tenus de s’assurer que tous les disjoncteurs fonctionnent correctement.
+Het niet naleven van de **AREI**-vereisten kan leiden tot boetes of sancties bij inspecties of ongevallen. Eigenaren zijn wettelijk verplicht ervoor te zorgen dat alle aardlekschakelaars correct werken.
 
-> **💡 Bon à savoir :** Les disjoncteurs défectueux peuvent invalider une assurance en cas d'accident lié à une fuite de courant non détectée.
-
----
-
-## 4. Coûts Associés au Remplacement d'un Disjoncteur Différentiel
-
-### 4.1. Coût d'Achat des Disjoncteurs Différentiels
-
-Les disjoncteurs différentiels sont disponibles à des prix variables selon la capacité et le modèle. Pour une protection efficace, il est essentiel de choisir un disjoncteur adapté aux caractéristiques de l'installation.
-
-| **Type de disjoncteur** | **Capacité** | **Fourchette de prix** |
-|--------------------------|--------------|-------------------------|
-| Disjoncteur 30mA         | Usage domestique | 30 € à 100 €           |
-| Disjoncteur 300mA        | Usage industriel | 50 € à 150 €           |
-
-> **Note :** Choisir un disjoncteur de qualité est un investissement dans la sécurité à long terme.
+> **Goed om te weten:** Defecte aardlekschakelaars kunnen de dekking van uw verzekering ongeldig maken bij een ongeval veroorzaakt door een niet gedetecteerde lekstroom.
 
 ---
 
-### 4.2. Coûts Supplémentaires en Cas d'Urgence
+## 4. Kosten voor het Vervangen van een Aardlekschakelaar
 
-Les interventions d’urgence, comme les remplacements en dehors des heures ouvrées, peuvent générer des coûts supplémentaires. Certains fournisseurs appliquent des tarifs plus élevés pour une intervention rapide en cas de panne critique.
+### 4.1. Aankoopkosten van Aardlekschakelaars
+
+De kosten van aardlekschakelaars variëren afhankelijk van de capaciteit en het model. Voor een effectieve bescherming is het belangrijk om een schakelaar te kiezen die past bij de installatie.
+
+| **Type Aardlekschakelaar** | **Capaciteit**       | **Prijsbereik**           |
+|----------------------------|----------------------|---------------------------|
+| Aardlekschakelaar 30mA     | Voor huishoudelijk gebruik | €30 - €100              |
+| Aardlekschakelaar 300mA    | Voor industrieel gebruik   | €50 - €150              |
+
+> **Opmerking:** Het kiezen van een kwaliteitsvolle schakelaar is een investering in lange-termijn veiligheid.
+
+---
+
+### 4.2. Extra Kosten bij Spoedvervanging
+
+Spoedvervanging buiten kantooruren kan extra kosten met zich meebrengen. Leveranciers rekenen vaak hogere tarieven voor snelle interventies bij kritieke storingen.
 
 :::warning
-**Coût des Urgences :** Les réparations urgentes peuvent coûter jusqu'à 50 % de plus en raison de la demande immédiate et de la disponibilité limitée des techniciens.
+**Spoedkosten:** Reparaties bij spoedgevallen kunnen tot 50% duurder zijn vanwege de dringende vraag en beperkte beschikbaarheid van technici.
 :::
 
 ---
 
-## 5. Procédure de Maintenance et Tests des Disjoncteurs
+## 5. Onderhoudsprocedure en Testen van Aardlekschakelaars
 
-### 5.1. Procédures de Test
+### 5.1. Testprocedure
 
-Le test mensuel du disjoncteur est rapide et essentiel. Suivez ces étapes :
+Het maandelijkse testen van de aardlekschakelaar is snel en eenvoudig:
 
-1. **Couper les appareils sensibles** : Éteignez les appareils connectés pour éviter tout dommage.
-2. **Appuyer sur le bouton de test** : Le disjoncteur doit se déclencher immédiatement.
-3. **Réarmer le disjoncteur** : Remettez le disjoncteur en marche et vérifiez son bon fonctionnement.
+1. **Schakel gevoelige apparaten uit** om schade te voorkomen.
+2. **Druk op de testknop** van de schakelaar; deze moet onmiddellijk uitschakelen.
+3. **Zet de schakelaar weer aan** en controleer of alles normaal functioneert.
 
-> **💡 Rappel :** Si le disjoncteur ne se déclenche pas, contactez un professionnel pour un diagnostic et un éventuel remplacement.
+> **Herinnering:** Als de schakelaar niet uitschakelt, neem dan contact op met een professional voor diagnose en vervanging.
 
 ---
 
-## Conclusion
+## Conclusie
 
-Les disjoncteurs différentiels sont des équipements de sécurité essentiels dans toute installation électrique. En surveillant leur état de fonctionnement et en réalisant des tests réguliers, les utilisateurs peuvent prévenir les risques de chocs électriques et d’incendie. Lorsqu'un disjoncteur différentiel montre des signes de faiblesse ou ne se déclenche pas au test, il est crucial de le remplacer par un professionnel qualifié pour garantir la sécurité de tous.
+Aardlekschakelaars zijn onmisbare beveiligingsapparaten in elke elektrische installatie. Door regelmatig hun werking te controleren, kunnen gebruikers risico’s op elektrische schokken en brand voorkomen. Als een schakelaar tekenen van defect vertoont of niet uitschakelt tijdens een test, is het cruciaal om deze te laten vervangen door een gekwalificeerde elektricien.
 
 :::info
-**Résumé des Bonnes Pratiques :** 
-- **Tester mensuellement** chaque disjoncteur.
-- **Remplacer les disjoncteurs défectueux** immédiatement.
-- **Faire appel à un professionnel** pour toute intervention sur le système de disjoncteurs.
-
+**Samenvatting van Beste Praktijken:**
+- **Test maandelijks** elke aardlekschakelaar.
+- **Vervang defecte schakelaars** onmiddellijk.
+- **Schakel een professional in** voor alle interventies aan het systeem van aardlekschakelaars.
 :::
 
----
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

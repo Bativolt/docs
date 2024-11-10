@@ -1,109 +1,109 @@
 ---
-title: "Analyse des Facteurs de Risques - Conformité RGIE"
-sidebar_label: Analyse des Facteurs de Risques
-description: "Découvrez comment réaliser une analyse des facteurs de risques pour garantir la sécurité des installations électriques selon le RGIE. Guide complet pour les particuliers et les professionnels."
+title: "Analyse van Risicofactoren - Conformiteit AREI"
+sidebar_label: Analyse van Risicofactoren
+description: "Ontdek hoe u een analyse van risicofactoren uitvoert om de veiligheid van elektrische installaties volgens het AREI te garanderen. Volledige gids voor particulieren en professionals."
 ---
 
-# Analyse des Facteurs de Risques
+# Analyse van Risicofactoren
 
-L'analyse des facteurs de risques est une étape essentielle pour la conformité des installations électriques selon le **Règlement Général sur les Installations Électriques (RGIE)**. Elle permet d’identifier et d’évaluer les dangers associés aux installations, garantissant ainsi la sécurité des utilisateurs et la conformité aux normes en vigueur.
+De analyse van risicofactoren is een essentiële stap voor de conformiteit van elektrische installaties volgens het **Algemeen Reglement op de Elektrische Installaties (AREI)**. Het helpt om gevaren in verband met de installaties te identificeren en te beoordelen, waardoor de veiligheid van de gebruikers en de naleving van de geldende normen wordt gewaarborgd.
 
 ---
 
-## 1. Qu'est-ce que l'Analyse des Facteurs de Risques ?
+## 1. Wat is de Analyse van Risicofactoren?
 
-L'analyse des facteurs de risques examine tous les aspects d'une installation pour identifier les dangers potentiels pour les personnes et les biens. Elle englobe divers éléments de l’installation :
+De analyse van risicofactoren onderzoekt alle aspecten van een installatie om potentiële gevaren voor personen en goederen te identificeren. Het omvat verschillende elementen van de installatie:
 
-- **Risques Électriques** : Prise en compte des risques d'électrocution, de court-circuit, et d'incendie.
-- **Environnement de Travail** : Évaluation des conditions comme l'humidité, la chaleur, et la poussière pouvant influencer la sécurité.
-- **Charge Électrique** : Analyse de la charge sur chaque circuit pour éviter les surcharges.
-- **Accessibilité** : Vérification de l'accès aux équipements pour les interventions et la maintenance.
+- **Elektrische Risico’s**: Houdt rekening met risico’s op elektrocutie, kortsluiting en brand.
+- **Werkomgeving**: Beoordeelt omstandigheden zoals vochtigheid, hitte en stof die de veiligheid kunnen beïnvloeden.
+- **Elektrische Belasting**: Analyse van de belasting per circuit om overbelasting te voorkomen.
+- **Toegankelijkheid**: Controleert de toegang tot de apparatuur voor interventies en onderhoud.
 
-:::caution Warning
-Une installation non conforme aux exigences du RGIE peut représenter un danger grave pour les occupants et les travailleurs, exposant les responsables à des sanctions légales.
+:::caution Waarschuwing
+Een installatie die niet voldoet aan de eisen van het AREI kan een ernstig gevaar vormen voor de bewoners en werknemers, wat kan leiden tot juridische sancties voor de verantwoordelijken.
 :::
 
 ---
 
-## 2. Importance de l'Analyse des Facteurs de Risques
+## 2. Belang van de Analyse van Risicofactoren
 
-### 2.1. Sécurité des Utilisateurs
+### 2.1. Veiligheid van Gebruikers
 
-L'analyse vise à **assurer la sécurité des utilisateurs** et à prévenir les accidents :
+De analyse is bedoeld om de **veiligheid van de gebruikers** te waarborgen en ongevallen te voorkomen:
 
-- **Prévention des Accidents** : Identification proactive des risques, réduisant ainsi les incidents d’électrocution ou d'incendie.
-- **Conformité Légale** : Le **RGIE (Article 45.3)** exige une analyse complète des risques pour toute inspection. Un contrôle sans cette analyse est incomplet et peut entraîner des implications légales.
-
-:::tip Astuce
-Conservez une copie de votre rapport de conformité près du tableau électrique principal pour une accessibilité optimale lors des contrôles.
-:::
-
-### 2.2. Complétude du Contrôle de Conformité
-
-L'analyse des risques est indispensable pour un contrôle de conformité exhaustif :
-
-- **Évaluation Globale** : Sans une analyse approfondie, le contrôleur ne peut pas garantir que l'installation respecte toutes les normes.
-- **Détection des Non-Conformités** : Cette étape aide à identifier les défauts nécessitant des réparations pour la mise en conformité de l'installation.
-
-:::info Info
-Toute non-conformité doit être documentée avec des délais de rectification pour garantir la sécurité des installations.
-:::
-
----
-
-## 3. Processus d'Analyse des Facteurs de Risques
-
-### 3.1. Étapes Clés
-
-L’analyse des risques comporte plusieurs étapes essentielles :
-
-| **Étapes**                | **Détails**                                                                                             |
-|---------------------------|---------------------------------------------------------------------------------------------------------|
-| **Collecte d'Informations** | Recueillir tous les schémas électriques, rapports précédents, et données sur les équipements.            |
-| **Inspection Visuelle**   | Observer les installations pour détecter les points faibles.                                             |
-| **Évaluation des Risques** | Utiliser des outils d'évaluation pour quantifier les dangers et établir des priorités de correction.     |
-| **Recommandations**       | Proposer des mesures correctives pour toute non-conformité identifiée.                                   |
-
-:::tip Conseil
-Assurez-vous d’avoir des schémas à jour lors de l’inspection visuelle, car des modifications non documentées peuvent entraîner des erreurs coûteuses.
-:::
-
-### 3.2. Documentation de l’Analyse
-
-La documentation de l'analyse des risques est cruciale pour le suivi des installations :
-
-- **Rapport d'Analyse** : Résume les conclusions, les risques identifiés, et les actions correctives recommandées.
-- **Mise à Jour des Schémas** : Les schémas doivent être actualisés pour refléter toute modification apportée à l’installation suite aux recommandations.
+- **Voorkomen van Ongevallen**: Proactieve identificatie van risico’s, waardoor incidenten met elektrocutie of brand worden verminderd.
+- **Wettelijke Naleving**: Het **AREI (Artikel 45.3)** vereist een volledige risicoanalyse voor elke inspectie. Een controle zonder deze analyse is onvolledig en kan juridische gevolgen hebben.
 
 :::tip Tip
-Assurez-vous que le rapport et les schémas actualisés sont archivés près du tableau principal pour un accès rapide lors des contrôles ultérieurs.
+Bewaar een kopie van uw conformiteitsrapport nabij de hoofdverdeelkast voor optimale toegankelijkheid tijdens controles.
+:::
+
+### 2.2. Volledigheid van de Conformiteitscontrole
+
+De risicoanalyse is onmisbaar voor een volledige conformiteitscontrole:
+
+- **Algemene Evaluatie**: Zonder een grondige analyse kan de controleur niet garanderen dat de installatie aan alle normen voldoet.
+- **Detectie van Niet-conformiteiten**: Deze stap helpt bij het identificeren van defecten die reparatie vereisen om de installatie in overeenstemming te brengen.
+
+:::info Info
+Elke niet-conformiteit moet worden gedocumenteerd met deadlines voor correctie om de veiligheid van de installaties te garanderen.
 :::
 
 ---
 
-## 4. Conclusion
+## 3. Proces van de Analyse van Risicofactoren
 
-L'analyse des facteurs de risques est indispensable pour assurer la sécurité et la conformité des installations électriques. Sans cette analyse, le contrôle de conformité reste incomplet, mettant potentiellement en danger les utilisateurs.
+### 3.1. Belangrijke Stappen
 
-Après avoir finalisé l’analyse et appliqué les recommandations, n'oubliez pas de vérifier l'installation des luminaires de secours, surtout pour les bâtiments publics et commerciaux. Ces dispositifs jouent un rôle fondamental en cas de coupure d’électricité.
+De risicoanalyse omvat verschillende essentiële stappen:
 
-:::important Prochaine Étape
-Consultez notre section sur les [Luminaires de Secours et leur Importance](https://docs.bativolt.com/docs/checklist/luminaires-secours) pour un complément de sécurité dans votre installation.
+| **Stappen**               | **Details**                                                                                           |
+|---------------------------|-------------------------------------------------------------------------------------------------------|
+| **Informatie Verzamelen** | Verzamelen van alle elektrische schema’s, eerdere rapporten en gegevens over de apparatuur.           |
+| **Visuele Inspectie**     | Bekijken van de installaties om zwakke punten op te sporen.                                           |
+| **Risicobeoordeling**     | Gebruik evaluatietools om de gevaren te kwantificeren en prioriteiten voor correctie vast te stellen. |
+| **Aanbevelingen**         | Voorstellen van corrigerende maatregelen voor geïdentificeerde niet-conformiteiten.                   |
+
+:::tip Advies
+Zorg voor actuele schema’s tijdens de visuele inspectie, omdat niet-gedocumenteerde wijzigingen kunnen leiden tot kostbare fouten.
+:::
+
+### 3.2. Documentatie van de Analyse
+
+De documentatie van de risicoanalyse is cruciaal voor de opvolging van de installaties:
+
+- **Analyserapport**: Vat de bevindingen samen, inclusief de geïdentificeerde risico’s en aanbevolen corrigerende maatregelen.
+- **Bijwerken van Schema’s**: De schema’s moeten worden bijgewerkt om alle wijzigingen aan de installatie weer te geven na de aanbevelingen.
+
+:::tip Tip
+Zorg ervoor dat het rapport en de bijgewerkte schema’s worden gearchiveerd nabij de hoofdverdeelkast voor snelle toegang tijdens toekomstige controles.
 :::
 
 ---
 
-:::note Rappel Sécurité
-Conservez toujours une copie des schémas électriques et du rapport d’analyse de risques dans un endroit facilement accessible pour faciliter les futures inspections et garantir la conformité continue.
+## 4. Conclusie
+
+De analyse van risicofactoren is onmisbaar om de veiligheid en conformiteit van elektrische installaties te waarborgen. Zonder deze analyse blijft de conformiteitscontrole onvolledig, wat de gebruikers in gevaar kan brengen.
+
+Na het afronden van de analyse en het toepassen van de aanbevelingen, vergeet niet de installatie van noodverlichting te controleren, vooral in openbare en commerciële gebouwen. Deze voorzieningen zijn van cruciaal belang in geval van stroomuitval.
+
+:::important Volgende Stap
+Raadpleeg onze sectie over [Noodverlichting en het Belang Hiervan](https://docs.bativolt.com/nl/docs/checklist/luminaires-secours) voor extra veiligheid in uw installatie.
 :::
 
+---
+
+:::note Veiligheidsherinnering
+Bewaar altijd een kopie van de elektrische schema’s en het analyserapport op een gemakkelijk toegankelijke plaats om toekomstige inspecties te vergemakkelijken en voortdurende conformiteit te waarborgen.
+:::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---
+

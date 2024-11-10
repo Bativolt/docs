@@ -1,130 +1,122 @@
 ---
-title: "Installation Pas Réalisée Selon les Règles de l'Art - Sécurité et Conformité"
-sidebar_label: Installation Non Conforme
-description: "Analyse approfondie des risques liés aux installations non conformes aux règles de l'art, les raisons, exemples, et méthodes de mise en conformité selon le RGIE."
+title: "Installatie Niet Uitgevoerd Volgens Goed Vakmanschap - Veiligheid en Conformiteit"
+sidebar_label: Niet-Conforme Installatie
+description: "Diepgaande analyse van de risico's van installaties die niet voldoen aan goed vakmanschap. Redenen, voorbeelden en methoden voor conformiteit volgens AREI."
 ---
 
-# Installation Pas Réalisée Selon les Règles de l'Art
+# Installatie Niet Uitgevoerd Volgens Goed Vakmanschap
 
-## Introduction
+## Introductie
 
-Une **installation électrique non conforme aux règles de l'art** représente une infraction fréquente, souvent issue d'un manque de formation, de choix de matériaux inappropriés, ou de pratiques hâtives. Ces installations non conformes présentent des risques importants pour la sécurité des personnes et des biens. Comprendre les raisons de cette non-conformité, les dangers encourus, et les solutions adaptées est essentiel pour garantir une sécurité maximale.
+Een **elektrische installatie die niet voldoet aan goed vakmanschap** is een veelvoorkomende overtreding. Dit komt vaak door een gebrek aan opleiding, het gebruik van ongeschikte materialen of haastig uitgevoerde werkzaamheden. Dergelijke installaties brengen aanzienlijke veiligheidsrisico's met zich mee voor zowel personen als eigendommen. Het begrijpen van de oorzaken van deze niet-conformiteit, de gevaren, en de geschikte oplossingen is essentieel om maximale veiligheid te waarborgen.
 
-:::danger Avertissement ⚠️
-Une installation défectueuse augmente le risque de chocs électriques, d'incendies, et peut entraîner des poursuites juridiques. **La sécurité ne doit jamais être compromise.**
+:::danger Waarschuwing ⚠️
+Een gebrekkige installatie verhoogt het risico op elektrische schokken, branden, en kan leiden tot juridische vervolging. **Veiligheid mag nooit in het gedrang komen.**
 :::
 
-## 1. Qu'est-ce que cela signifie ?
+## 1. Wat betekent dit?
 
-### 1.1. Définition
+### 1.1. Definitie
 
-Une installation conforme respecte les normes en vigueur, en particulier le **Règlement Général sur les Installations Électriques (RGIE)**. Cela implique :
-- L'utilisation de matériaux certifiés
-- L'application de techniques d'installation appropriées
-- Le respect des spécificités de l'environnement
+Een conforme installatie voldoet aan de geldende normen, met name het **Algemeen Reglement op de Elektrische Installaties (AREI)**. Dit betekent:
+- Gebruik van gecertificeerde materialen
+- Toepassing van correcte installatietechnieken
+- Rekening houden met de specifieke omgevingsfactoren
 
-:::tip Info Technique
-Les installations conformes respectent des articles spécifiques du RGIE, comme **l’article 104** qui précise l'obligation de réaliser les installations selon les bonnes pratiques.
+:::tip Technische Info
+Conforme installaties voldoen aan specifieke artikelen van het AREI, zoals **artikel 104**, dat de verplichting voorschrijft om installaties uit te voeren volgens goed vakmanschap.
 :::
 
-### 1.2. Importance de la Conformité
+### 1.2. Belang van Conformiteit
 
-Les installations non conformes exposent à des risques de chocs électriques, d'incendies et de dysfonctionnements des équipements. En cas d'accident, la responsabilité du propriétaire peut être engagée avec des implications juridiques et financières.
+Niet-conforme installaties brengen risico's met zich mee, zoals elektrische schokken, branden en defecten aan apparatuur. In geval van een ongeval kan de eigenaar aansprakelijk worden gesteld, met juridische en financiële gevolgen.
 
-## 2. Raisons des Installations Non Conformes
+## 2. Oorzaken van Niet-Conforme Installaties
 
-### 2.1. Manque de Connaissances Techniques
+### 2.1. Gebrek aan Technische Kennis
 
-Certains installateurs peuvent être insuffisamment formés ou peu informés des normes actuelles, ce qui entraîne des erreurs d'installation.
+Sommige installateurs zijn mogelijk niet voldoende opgeleid of niet op de hoogte van de huidige normen, wat kan leiden tot fouten in de installatie.
 
-:::info Conseil 💡
-Les installateurs doivent suivre des formations continues pour se tenir informés des mises à jour du RGIE et des bonnes pratiques.
+:::info Tip 💡
+Installateurs moeten regelmatig bijscholing volgen om op de hoogte te blijven van de laatste AREI-voorschriften en best practices.
 :::
 
-### 2.2. Pratiques Économiques
+### 2.2. Kostenbesparing
 
-La réduction des coûts peut amener certains propriétaires à opter pour des matériaux de moindre qualité ou à renoncer à certaines protections, compromettant ainsi la sécurité.
+Kostenbesparing kan eigenaren ertoe brengen om te kiezen voor materialen van mindere kwaliteit of om essentiële veiligheidsvoorzieningen weg te laten.
 
-### 2.3. Pression Temporelle
+### 2.3. Tijdelijke Druk
 
-Dans un contexte de délais serrés, certains détails essentiels peuvent être négligés, compromettant la sécurité de l'installation.
+Onder tijdsdruk kunnen belangrijke details worden overgeslagen, wat de veiligheid van de installatie in gevaar brengt.
 
-:::warning Risque 📉
-Des économies de temps et d’argent dans l'installation électrique peuvent coûter beaucoup plus cher en cas de sinistre !
+:::warning Risico 📉
+Tijd- en kostenbesparingen in elektrische installaties kunnen op de lange termijn veel hogere kosten met zich meebrengen in geval van schade!
 :::
 
-## 3. Exemples d'Installations Non Conformes
+## 3. Voorbeelden van Niet-Conforme Installaties
 
-### 3.1. Câblage Mal Réalisé
+### 3.1. Slecht Uitgevoerde Bekabeling
 
-Des câbles mal isolés, des connexions lâches ou des câbles sous-dimensionnés peuvent provoquer des courts-circuits et des surchauffes, augmentant ainsi le risque d'incendie.
+Slecht geïsoleerde kabels, losse verbindingen of ondergedimensioneerde kabels kunnen kortsluiting en oververhitting veroorzaken, wat het risico op brand verhoogt.
 
-### 3.2. Utilisation de Matériaux Non Conformes
+### 3.2. Gebruik van Niet-Conforme Materialen
 
-L'emploi de matériaux inadaptés, comme des câbles non protégés dans des environnements humides, compromet la sécurité.
+Het gebruik van ongeschikte materialen, zoals kabels zonder bescherming in vochtige omgevingen, brengt veiligheidsrisico's met zich mee.
 
-:::info Image d'Exemple 📸
+### 3.3. Ontbreken van Beveiliging
 
-Une photo illustrative sera ajoutée ici prochainement. Vu l'ampleur de la documentation, il peut y avoir des sections en attente de visuels.
+Het ontbreken van aardlekschakelaars of zekeringen stelt de installatie bloot aan kortsluiting en overbelasting, wat vooral gevaarlijk kan zijn in gebieden met hoge stroomvraag.
 
-Si vous souhaitez aider la communauté, vous pouvez contribuer avec une photo personnelle en lien avec cette section ! Envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com), et nous l'intégrerons en mentionnant votre nom en tant que contributeur. Ensemble, enrichissons l’expérience éducative de Bativolt !
+## 4. Mogelijke Oplossingen
 
+### 4.1. Professionele Evaluatie
+
+Het is essentieel om verdachte installaties te laten inspecteren door een gekwalificeerde elektricien. Deze evaluatie kan niet-conformiteiten opsporen en oplossingen voorstellen.
+
+:::info Waarom een professional inschakelen?
+Gecertificeerde elektriciens kennen de AREI-normen en kunnen zorgen voor een conformiteit volgens de geldende voorschriften.
 :::
 
-### 3.3. Absence de Protection
+### 4.2. Upgraden van de Installaties
 
-L'absence de disjoncteurs ou de fusibles expose l'installation aux courts-circuits et aux surcharges, ce qui peut être particulièrement dangereux dans les zones à forte consommation électrique.
+Upgraden houdt in dat niet-conforme onderdelen worden vervangen, ontbrekende beveiligingen worden toegevoegd, en dat installaties indien nodig worden heringericht.
 
-## 4. Résolutions Possibles
+### 4.3. Opleiding en Bewustwording
 
-### 4.1. Évaluation Professionnelle
+Het vergroten van de bewustwording over de AREI-regels en goede praktijken helpt toekomstige overtredingen te verminderen en de veiligheid van installaties te verbeteren.
 
-Il est impératif de faire évaluer les installations suspectes par un électricien qualifié. Cette évaluation permet de détecter les non-conformités et de proposer des solutions.
+## 5. Kosten van Conformiteitsaanpassingen
 
-:::info Pourquoi faire appel à un professionnel ?
-Les électriciens agréés sont familiarisés avec les normes RGIE et peuvent garantir une mise en conformité selon les règles en vigueur.
+### 5.1. Evaluatie en Inspectie
+
+Een grondige inspectie kost gemiddeld tussen **€100 en €300**, afhankelijk van de grootte en complexiteit van de installatie.
+
+### 5.2. Reparaties en Upgrades
+
+De kosten voor het updaten van de installatie kunnen variëren van **enkele honderden tot duizenden euro's**, afhankelijk van de noodzakelijke werkzaamheden.
+
+### 5.3. Belang van Investeringen
+
+Investeren in conformiteit is een garantie voor veiligheid. Bij schade kunnen de besparingen die zijn gerealiseerd door veiligheid te verwaarlozen, leiden tot veel hogere kosten.
+
+:::tip Waarom investeren in conformiteit?
+Zorgen voor een conforme installatie is een verantwoordelijkheid tegenover gebruikers en eigendommen. De initiële kosten zijn een preventie tegen toekomstige schade.
 :::
 
-### 4.2. Mise à Niveau des Installations
+## Conclusie
 
-La mise à niveau consiste à remplacer les éléments non conformes, ajouter des protections manquantes et réorganiser les installations si nécessaire.
-
-### 4.3. Formation et Sensibilisation
-
-La sensibilisation aux règles du RGIE et aux pratiques correctes réduit les infractions futures et améliore la sécurité des installations.
-
-## 5. Coûts Associés à la Mise en Conformité
-
-### 5.1. Évaluation et Inspection
-
-Une inspection approfondie coûte entre **100 € et 300 €** en fonction de la taille de l'installation et de la complexité des travaux.
-
-### 5.2. Réparations et Mises à Niveau
-
-Les coûts de mise en conformité varient selon la nature des travaux, allant de **quelques centaines à plusieurs milliers d'euros**.
-
-### 5.3. Importance de l'Investissement
-
-Un investissement dans la conformité est un gage de sécurité. En cas de sinistre, les économies réalisées sur la sécurité peuvent avoir des conséquences bien plus coûteuses.
-
-:::tip Pourquoi investir dans la mise en conformité ?
-Assurer la conformité de votre installation est un acte de responsabilité envers les utilisateurs et les biens. Le coût initial est une prévention contre des dépenses futures.
-:::
-
-## Conclusion
-
-Une installation non réalisée selon les règles de l'art est un risque majeur pour la sécurité. En identifiant les causes de non-conformité, en effectuant des inspections régulières, et en mettant à niveau les installations, il est possible de garantir une sécurité optimale. La sensibilisation aux bonnes pratiques et aux exigences réglementaires est essentielle pour prévenir les défauts d'installation à l'avenir.
+Een installatie die niet volgens goed vakmanschap is uitgevoerd, vormt een groot veiligheidsrisico. Door de oorzaken van niet-conformiteit te identificeren, regelmatig inspecties uit te voeren, en installaties te upgraden, kan optimale veiligheid worden gegarandeerd. Bewustwording van goede praktijken en naleving van de regelgeving is essentieel om defecten in installaties te voorkomen.
 
 :::info
-**Sécurité et Conformité :** Respecter les normes n'est pas une option ; c'est une obligation pour protéger la vie et les biens.
+**Veiligheid en Conformiteit:** Het naleven van normen is geen keuze, maar een verplichting om leven en eigendommen te beschermen.
 :::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

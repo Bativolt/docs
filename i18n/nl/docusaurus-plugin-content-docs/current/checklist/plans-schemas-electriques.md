@@ -1,115 +1,115 @@
 ---
-title: "Schémas Électriques et Conformité RGIE - Guide pour Particuliers et Entreprises"
-sidebar_label: Schémas Électriques
-description: "Découvrez l'importance des schémas électriques pour la conformité RGIE et la sécurité des installations en Belgique. Guide complet avec exemples pratiques et exigences réglementaires."
+title: "Elektrische Schema’s en Conformiteit AREI - Gids voor Particulieren en Bedrijven"
+sidebar_label: Elektrische Schema’s
+description: "Ontdek het belang van elektrische schema’s voor AREI-conformiteit en de veiligheid van installaties in België. Volledige gids met praktische voorbeelden en wettelijke vereisten."
 ---
 
-# Schémas Électriques et Conformité RGIE
+# Elektrische Schema’s en Conformiteit AREI
 
-Les schémas électriques sont essentiels pour la documentation et la conformité des installations. Ils servent de **référence technique** pour les électriciens, les contrôleurs et les propriétaires, et sont requis pour passer les contrôles de conformité selon le **Règlement Général sur les Installations Électriques (RGIE)**. Ce guide explore leur importance, les types de schémas requis, les éléments obligatoires, et les spécificités pour les entreprises.
+Elektrische schema’s zijn essentieel voor de documentatie en conformiteit van installaties. Ze dienen als **technische referentie** voor elektriciens, controleurs en eigenaren, en zijn vereist om de conformiteitscontroles volgens het **Algemeen Reglement op de Elektrische Installaties (AREI)** te doorstaan. Deze gids bespreekt hun belang, de vereiste types schema’s, verplichte elementen, en specifieke vereisten voor bedrijven.
 
 ---
 
-## 1. Importance des Schémas Électriques
+## 1. Belang van Elektrische Schema’s
 
-### 1.1. Outil de Communication Visuelle
+### 1.1. Visueel Communicatiemiddel
 
-Les schémas électriques facilitent la compréhension rapide de la configuration d'une installation pour tous les intervenants (électriciens, contrôleurs, propriétaires) :
+Elektrische schema’s vergemakkelijken het snelle begrip van de configuratie van een installatie voor alle betrokkenen (elektriciens, controleurs, eigenaren):
 
-- **Clarté** : Ils permettent de visualiser les circuits, les points de connexion, les dispositifs de protection et la répartition des charges de manière claire et structurée.
-- **Réduction des Erreurs** : Des schémas bien conçus minimisent les risques d'erreurs humaines, permettant aux électriciens de suivre les instructions visuelles avec précision.
+- **Duidelijkheid**: Ze visualiseren de circuits, aansluitpunten, beveiligingsapparaten en verdeling van de belasting op een gestructureerde manier.
+- **Vermindering van Fouten**: Goed ontworpen schema’s minimaliseren het risico op menselijke fouten, waardoor elektriciens de visuele instructies nauwkeurig kunnen volgen.
 
-:::tip 🔍 À Savoir
-La présence d'un schéma électrique complet permet de faciliter les interventions ultérieures et d'éviter des erreurs coûteuses. En cas d'absence de schémas, consultez notre page sur les [Infractions pour Schémas Électriques Absents](https://docs.bativolt.com/docs/infractions/schema-electriques-absents).
+:::tip 🔍 Wist u dat
+De aanwezigheid van een volledig elektrisch schema maakt toekomstige interventies eenvoudiger en voorkomt kostbare fouten. Bij afwezigheid van schema’s, raadpleeg onze pagina over [Inbreuken voor Afwezige Elektrische Schema’s](https://docs.bativolt.com/nl/docs/infractions/schema-electriques-absents).
 :::
 
-### 1.2. Obligation Légale selon le RGIE
+### 1.2. Wettelijke Verplichting volgens het AREI
 
-Le **RGIE** impose que les schémas soient fournis lors des contrôles de conformité, avec des exigences strictes pour garantir la sécurité de l'installation :
+Het **AREI** vereist dat schema’s worden verstrekt tijdens conformiteitscontroles, met strikte eisen om de veiligheid van de installatie te waarborgen:
 
-- **Accessibilité** : Les schémas doivent être conservés près du tableau principal et être facilement accessibles pour les contrôleurs et électriciens, en conformité avec l'**Article 206.8 du RGIE**.
-- **Mise à Jour** : Toute modification apportée à l’installation doit être reflétée dans les schémas pour maintenir une documentation exacte et utile.
+- **Toegankelijkheid**: De schema’s moeten worden bewaard nabij de hoofdverdeelkast en gemakkelijk toegankelijk zijn voor controleurs en elektriciens, in overeenstemming met **Artikel 206.8 van het AREI**.
+- **Updaten**: Elke wijziging aan de installatie moet worden weerspiegeld in de schema’s om een nauwkeurige en nuttige documentatie te behouden.
 
-:::tip 💡 Astuce Pratique
-Mettez à jour vos schémas immédiatement après toute modification pour éviter des non-conformités lors des inspections.
+:::tip 💡 Praktische Tip
+Werk uw schema’s onmiddellijk bij na elke wijziging om niet-conformiteit tijdens inspecties te voorkomen.
 :::
 
 ---
 
-## 2. Exigences selon le RGIE
+## 2. Vereisten volgens het AREI
 
-### 2.1. Types de Schémas à Fournir
+### 2.1. Soorten Vereiste Schema’s
 
-Le RGIE spécifie différents types de schémas à fournir, chacun ayant un rôle unique pour décrire l'installation :
+Het AREI specificeert verschillende soorten schema’s die moeten worden verstrekt, elk met een unieke rol bij het beschrijven van de installatie:
 
-- **Schémas Unifilaires** : Représentent la disposition des circuits sous une forme simplifiée avec des symboles standards. Ils montrent les circuits principaux, les sous-tableaux et les connexions d'appareils, facilitant la compréhension générale de l'installation.
+- **Eenlijnige Schema’s**: Weergeven de configuratie van de circuits in een vereenvoudigde vorm met standaard symbolen. Ze tonen de hoofdcircuits, onderverdelingskasten en aansluitingen van apparaten, wat helpt bij het algemene begrip van de installatie.
   
-- **Schémas de Position** : Indiquent la position physique des prises, interrupteurs, luminaires et autres éléments dans le bâtiment. Ils sont particulièrement utiles pour visualiser les points de raccordement dans les espaces de vie et de travail.
+- **Positieschema’s**: Geven de fysieke positie van stopcontacten, schakelaars, verlichting en andere componenten weer in het gebouw. Ze zijn bijzonder nuttig om de aansluitpunten in leef- en werkruimtes te visualiseren.
 
-- **Plans de Répartition** : Nécessaires pour les installations plus complexes, comme dans l'industrie et le commerce. Ils montrent comment l'énergie est distribuée à travers l'installation, en identifiant les circuits et dispositifs de protection de manière détaillée.
+- **Verdelingsplannen**: Vereist voor complexere installaties, zoals in de industrie en de handel. Ze tonen hoe de energie wordt verdeeld over de installatie en identificeren de circuits en beveiligingsapparaten in detail.
 
-:::example 📋 Exemples de Schémas
-- **Schéma Unifilaire** : Indique la répartition des circuits principaux et leur protection (ex. salon, cuisine, chambres).
-- **Schéma de Position** : Affiche l'emplacement des prises et interrupteurs dans une cuisine, facilitant les modifications futures.
-- **Plan de Répartition** : Montre la distribution de l’énergie dans une installation industrielle.
+:::example 📋 Voorbeelden van Schema’s
+- **Eenlijnig Schema**: Geeft de verdeling van de hoofdcircuits en hun beveiliging weer (bijv. woonkamer, keuken, slaapkamers).
+- **Positieschema**: Toont de locatie van stopcontacten en schakelaars in een keuken, wat toekomstige wijzigingen vergemakkelijkt.
+- **Verdelingsplan**: Laat zien hoe de energie wordt verdeeld in een industriële installatie.
 :::
 
-### 2.2. Contenu Obligatoire des Schémas
+### 2.2. Verplichte Inhoud van Schema’s
 
-Pour être conformes, les schémas doivent inclure les éléments suivants :
+Om conform te zijn, moeten de schema’s de volgende elementen bevatten:
 
-| **Élément**              | **Description**                                                                                         |
-|--------------------------|---------------------------------------------------------------------------------------------------------|
-| **Identifications Claires** | Les circuits, prises, interrupteurs et appareils doivent être étiquetés avec des symboles IEC standard. |
-| **Données Techniques**   | La section des câbles, le type de protection et la puissance des appareils doivent être spécifiés.       |
-| **Numéros de Circuits**  | Chaque circuit doit être numéroté pour faciliter l'identification lors des inspections.                   |
-| **Références Associées** | Les schémas doivent inclure des références aux rapports de conformité et autres documents pertinents.    |
+| **Element**               | **Beschrijving**                                                                                      |
+|---------------------------|------------------------------------------------------------------------------------------------------|
+| **Duidelijke Identificaties** | Circuits, stopcontacten, schakelaars en apparaten moeten worden gelabeld met standaard IEC-symbolen. |
+| **Technische Gegevens**   | De kabelsectie, het type beveiliging en het vermogen van apparaten moeten worden gespecificeerd.    |
+| **Circuitnummers**        | Elk circuit moet worden genummerd voor eenvoudige identificatie tijdens inspecties.                  |
+| **Gekoppelde Referenties**| De schema’s moeten verwijzingen bevatten naar conformiteitsrapporten en andere relevante documenten. |
 
-:::caution ⚠️ Attention
-Des schémas incomplets ou erronés peuvent entraîner une non-conformité, entraînant des délais et des coûts supplémentaires pour les corrections.
+:::caution ⚠️ Let op
+Incompleet of foutief opgestelde schema’s kunnen leiden tot niet-conformiteit, wat vertragingen en extra kosten voor correcties met zich meebrengt.
 :::
 
 ---
 
-## 3. Obligations pour les Entreprises
+## 3. Verplichtingen voor Bedrijven
 
-### 3.1. Exigences Spécifiques pour les Environnements Commerciaux et Industriels
+### 3.1. Specifieke Vereisten voor Commerciële en Industriële Omgevingen
 
-Les entreprises et espaces publics doivent se conformer à des règles spécifiques en raison de la complexité de leurs installations :
+Bedrijven en openbare ruimtes moeten voldoen aan specifieke regels vanwege de complexiteit van hun installaties:
 
-- **Planification Rigoureuse** : Les installations dans ces environnements doivent être soigneusement planifiées et respecter les normes de sécurité plus strictes, car elles sont soumises à des inspections régulières.
+- **Grondige Planning**: Installaties in deze omgevingen moeten zorgvuldig worden gepland en voldoen aan strengere veiligheidsnormen, aangezien ze onderworpen zijn aan regelmatige inspecties.
   
-- **Inspection Fréquente** : Les installations doivent être vérifiées régulièrement pour détecter toute non-conformité et garantir la sécurité des utilisateurs.
+- **Frequentie van Inspecties**: De installaties moeten regelmatig worden gecontroleerd om niet-conformiteiten op te sporen en de veiligheid van gebruikers te waarborgen.
 
-### 3.2. Analyse des Risques
+### 3.2. Risicoanalyse
 
-Les entreprises doivent également réaliser une **analyse des risques** pour identifier et prévenir les dangers potentiels :
+Bedrijven moeten ook een **risicoanalyse** uitvoeren om potentiële gevaren te identificeren en te voorkomen:
 
-- **Identification des Dangers** : L'analyse doit inclure une évaluation des risques liés à l'installation électrique et la prise de mesures correctives.
-- **Documentation des Mesures Préventives** : Les actions de prévention doivent être documentées pour assurer la conformité continue de l'installation.
+- **Identificatie van Gevaren**: De analyse moet een beoordeling bevatten van de risico’s die verband houden met de elektrische installatie en corrigerende maatregelen vastleggen.
+- **Documentatie van Preventieve Maatregelen**: De genomen preventiemaatregelen moeten worden gedocumenteerd om de continue conformiteit van de installatie te waarborgen.
 
-:::info 💼 Pour les Entreprises
-Une documentation soignée, incluant schémas et analyses de risques, facilite les inspections RGIE et assure la sécurité des employés et du public.
+:::info 💼 Voor Bedrijven
+Een zorgvuldige documentatie, inclusief schema’s en risicoanalyses, vergemakkelijkt de AREI-inspecties en waarborgt de veiligheid van medewerkers en het publiek.
 :::
 
 ---
 
-## 4. Conclusion
+## 4. Conclusie
 
-Les schémas électriques sont indispensables pour assurer la **conformité et la sécurité** des installations électriques. Ils servent de référence pour les contrôleurs et facilitent la gestion des installations en cas de modifications. Pour les particuliers, un schéma complet est essentiel pour passer les contrôles de conformité, tandis que pour les entreprises, une documentation exhaustive est nécessaire pour respecter les exigences de sécurité plus strictes.
+Elektrische schema’s zijn onmisbaar voor het waarborgen van de **conformiteit en veiligheid** van elektrische installaties. Ze dienen als referentie voor controleurs en vergemakkelijken het beheer van installaties bij wijzigingen. Voor particulieren is een volledig schema essentieel om de conformiteitscontroles te doorstaan, terwijl bedrijven een uitgebreide documentatie nodig hebben om aan de strengere veiligheidsvereisten te voldoen.
 
-Pour plus d'informations sur les schémas requis par le RGIE, consultez également notre page sur les [Infractions pour Schémas Électriques Absents](https://docs.bativolt.com/docs/infractions/schema-electriques-absents).
+Voor meer informatie over de vereiste schema’s volgens het AREI, raadpleeg ook onze pagina over [Inbreuken voor Afwezige Elektrische Schema’s](https://docs.bativolt.com/nl/docs/infractions/schema-electriques-absents).
 
-:::note 📘 Conseil Final
-Conservez les schémas à proximité du tableau principal pour permettre un accès rapide lors des contrôles. Assurez-vous que vos schémas sont à jour et conformes pour garantir la sécurité de vos installations électriques.
+:::note 📘 Laatste Advies
+Bewaar de schema’s nabij de hoofdverdeelkast voor snelle toegang tijdens controles. Zorg ervoor dat uw schema’s up-to-date en conform zijn om de veiligheid van uw elektrische installaties te waarborgen.
 :::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

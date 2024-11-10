@@ -1,252 +1,246 @@
 ---
-title: "Schémas Électriques Absents ou Non Conformes - Sécurité et Conformité Électrique"
-sidebar_label: Schémas Électriques
-description: "Découvrez l'importance des schémas électriques pour garantir la sécurité et la conformité des installations. Apprenez les exigences réglementaires, les conséquences d'absence de schémas, et comment éviter les infractions."
+title: "Ontbrekende of Niet-Conforme Elektrische Schema's - Veiligheid en Conformiteit"
+sidebar_label: Elektrische Schema's
+description: "Ontdek het belang van elektrische schema's voor het waarborgen van de veiligheid en conformiteit van installaties. Leer de wettelijke vereisten, de gevolgen van het ontbreken van schema's en hoe u overtredingen kunt voorkomen."
 ---
 
-# Schémas Électriques Absents ou Non Conformes
+# Ontbrekende of Niet-Conforme Elektrische Schema's
 
-## Introduction
+## Inleiding
 
-Les schémas électriques sont des documents cruciaux pour garantir la sécurité, la conformité et la gestion efficace des installations électriques. Ils servent de guide visuel pour comprendre la configuration d'une installation, facilitant ainsi les interventions et les réparations.
+Elektrische schema's zijn cruciale documenten om de veiligheid, conformiteit en efficiënte beheer van elektrische installaties te waarborgen. Ze dienen als visuele gids om de configuratie van een installatie te begrijpen, wat interventies en reparaties vergemakkelijkt.
 
-> **Avertissement :** L'absence de schémas ou leur inexactitude peut entraîner des conséquences graves tant pour les professionnels que pour les utilisateurs.
+> **Waarschuwing:** Het ontbreken van schema's of onnauwkeurigheden hierin kan ernstige gevolgen hebben voor zowel professionals als gebruikers.
 
-Cet article examine l'importance de ces schémas, les implications de leur absence, et les exigences réglementaires qui les entourent.
+Dit artikel bespreekt het belang van deze schema's, de implicaties van hun afwezigheid en de wettelijke eisen die eraan verbonden zijn.
 
-## 1. Pourquoi les Schémas Électriques sont-ils Nécessaires ?
+## 1. Waarom zijn Elektrische Schema's Nodig?
 
-### 1.1. Outil de Référence Essentiel
+### 1.1. Essentieel Referentiehulpmiddel
 
-Les schémas électriques sont des **outils de référence** essentiels. Ils fournissent une représentation détaillée de l'installation, montrant comment les composants comme les disjoncteurs, les prises et les appareils sont interconnectés.
+Elektrische schema's zijn **essentiële referentiehulpmiddelen**. Ze geven een gedetailleerde weergave van de installatie en tonen hoe componenten zoals zekeringen, stopcontacten en apparaten met elkaar verbonden zijn.
 
 :::tip
-**Conseil :** Utiliser des schémas à jour permet de faciliter les interventions, qu'il s'agisse de réparations ou de nouvelles installations.
+**Tip:** Het gebruik van actuele schema's maakt interventies, of het nu om reparaties of nieuwe installaties gaat, een stuk eenvoudiger.
 :::
 
-### 1.2. Garantie de la Sécurité
+### 1.2. Veiligheid Waarborgen
 
-La sécurité est primordiale dans toute installation électrique. Les schémas aident à s'assurer que les circuits sont correctement configurés et protégés.
+Veiligheid is van het grootste belang bij elke elektrische installatie. Schema's helpen ervoor te zorgen dat de circuits correct zijn geconfigureerd en beveiligd.
 
-> **Note :** En cas de défaillance, un schéma clair permet d'identifier rapidement la source du problème, réduisant les risques d'accidents électriques.
+> **Opmerking:** Bij storingen maakt een duidelijk schema het mogelijk om snel de oorzaak van het probleem te vinden, waardoor de risico's op elektrische ongelukken worden verminderd.
 
-### 1.3. Obligation Réglementaire
+### 1.3. Wettelijke Verplichting
 
-Conformément aux exigences du **Règlement Général sur les Installations Électriques (RGIE)**, il est impératif que les installations soient accompagnées de schémas précis.
+Conform de eisen van het **Algemeen Reglement op de Elektrische Installaties (AREI)** is het verplicht dat installaties vergezeld gaan van nauwkeurige schema's.
 
 :::warning
-**Règlement :** Les articles **3.1.2** et **6.4.6** stipulent que ces documents doivent être mis à jour et présentés lors des contrôles de conformité.
+**Regelgeving:** Artikelen **3.1.2** en **6.4.6** bepalen dat deze documenten up-to-date moeten zijn en tijdens conformiteitscontroles beschikbaar moeten worden gesteld.
 :::
 
-### 1.4. Facilitation des Contrôles de Conformité
+### 1.4. Vergemakkelijking van Conformiteitscontroles
 
-Lors des inspections, les agents de conformité se basent sur les schémas pour évaluer la conformité d'une installation. 
+Tijdens inspecties baseren controleurs zich op de schema's om de conformiteit van een installatie te beoordelen.
 
-> **Astuce :** La présence de documents bien rédigés facilite le processus d'inspection et réduit le temps nécessaire pour effectuer des vérifications. 
+> **Tip:** De aanwezigheid van goed gedocumenteerde schema's versnelt het inspectieproces en verkort de tijd die nodig is voor controles.
 
-En accédant rapidement aux schémas, les inspecteurs peuvent identifier plus facilement les infractions potentielles et évaluer la conformité globale de l'installation.
+Met toegang tot de schema's kunnen inspecteurs gemakkelijker potentiële overtredingen identificeren en de algehele conformiteit van de installatie beoordelen.
 
+## 2. Gevolgen van Ontbrekende Schema's
 
-## 2. Conséquences de l'Absence de Schémas
+### 2.1. Volledig Ontbrekende Schema's
 
-### 2.1. Absence Totale de Schémas
-
-L'absence de schémas électriques signifie qu'aucune documentation n'est disponible pour guider les inspecteurs ou les électriciens. Dans ce cas, l'agent contrôleur n'a d'autre choix que de se fier à une inspection visuelle, ce qui limite considérablement sa capacité à identifier des problèmes potentiels.
+Het ontbreken van elektrische schema's betekent dat er geen documentatie beschikbaar is om controleurs of elektriciens te begeleiden. In dit geval kan de inspecteur alleen vertrouwen op een visuele controle, wat de mogelijkheid om problemen te identificeren aanzienlijk beperkt.
 
 :::caution
-**Avertissement :** Sans schémas, il est impossible de garantir que l'installation respecte les normes de sécurité. Cela peut avoir de graves répercussions.
+**Waarschuwing:** Zonder schema's kan niet worden gegarandeerd dat de installatie aan de veiligheidsnormen voldoet. Dit kan ernstige gevolgen hebben.
 :::
 
-### 2.2. Schémas Incomplets ou Non Conformes
+### 2.2. Onvolledige of Niet-Conforme Schema's
 
-Les schémas peuvent être incomplets ou ne pas refléter la réalité de l'installation. Par exemple, un schéma qui omet des circuits critiques ou des dispositifs de sécurité peut induire l'agent en erreur.
+Schema's kunnen onvolledig zijn of niet overeenkomen met de werkelijkheid van de installatie. Bijvoorbeeld, een schema dat essentiële circuits of beveiligingsapparaten niet weergeeft, kan de inspecteur misleiden.
 
 :::tip
-**Note :** En l'absence d'informations précises, il devient difficile de déterminer l'état réel de l'installation, augmentant les risques d'infractions majeures.
+**Opmerking:** Bij gebrek aan nauwkeurige informatie wordt het moeilijk om de werkelijke toestand van de installatie vast te stellen, wat het risico op ernstige overtredingen vergroot.
 :::
 
-### 2.3. Impact sur l'Acheteur
+### 2.3. Impact op de Koper
 
-Les conséquences de l'absence ou de l'inexactitude des schémas ne se limitent pas aux inspections. En effet, **90% des ventes immobilières se réalisent avec une attestation de non-conformité**, ce qui signifie que la grande majorité des installations électriques vendues présentent des schémas incomplets ou inexistants. Dans ces cas, le contrôleur ne peut effectuer qu'une vérification visuelle, ce qui limite la portée de son inspection.
+De gevolgen van ontbrekende of onnauwkeurige schema's beperken zich niet tot inspecties. **90% van de vastgoedverkopen vindt plaats met een attest van niet-conformiteit**, wat betekent dat het merendeel van de verkochte elektrische installaties onvolledige of ontbrekende schema's heeft. In deze gevallen kan de controleur alleen een visuele inspectie uitvoeren, wat de reikwijdte van zijn beoordeling beperkt.
 
-> **Note Importante :** Lors du contrôle initial, les agents ajoutent souvent une mention précisant qu’il n’est pas exclu que d’autres infractions soient découvertes si des schémas complets sont fournis lors de la mise en conformité.
+> **Belangrijke Opmerking:** Tijdens de initiële controle voegen inspecteurs vaak een vermelding toe dat er mogelijk meer overtredingen aan het licht komen als er later volledige schema's worden overlegd.
 
-Cela signifie que l'acheteur ne dispose pas d’une vision complète de l’état réel de l'installation et peut se retrouver confronté à des infractions supplémentaires et des coûts imprévus lors du contrôle de suivi. **Cette incertitude peut poser un risque important pour l'acheteur**, car sans schémas complets, il est impossible de savoir exactement quels problèmes subsistent dans l’installation.
+Dit betekent dat de koper geen volledig beeld heeft van de werkelijke staat van de installatie en kan worden geconfronteerd met extra overtredingen en onverwachte kosten tijdens de herkeuring. **Deze onzekerheid vormt een aanzienlijk risico voor de koper**, aangezien zonder volledige schema's niet duidelijk is welke problemen er nog in de installatie schuilen.
 
-#### Coûts de Remise en Conformité
+#### Kosten voor Conformiteitsherstel
 
-Dans la majorité des cas, la mise en conformité des installations, incluant la création ou la mise à jour des schémas électriques, revient en moyenne entre **1500 et 2000 €**. Ce montant comprend généralement :
-- **Le remplacement du tableau électrique** pour le mettre aux normes actuelles,
-- **La main-d'œuvre**,
-- **La réalisation et l’adaptation des plans électriques**,
-- **Les démarches administratives** pour obtenir les attestations,
-- **La visite de contrôle** pour vérifier la conformité.
+In de meeste gevallen kost het herstel van de conformiteit, inclusief het opstellen of bijwerken van elektrische schema's, gemiddeld tussen de **€1500 en €2000**. Dit bedrag omvat doorgaans:
+- **Vervanging van het elektrische paneel** volgens de huidige normen,
+- **Arbeidskosten**,
+- **Het opstellen en aanpassen van elektrische plannen**,
+- **Administratieve procedures** voor het verkrijgen van attesten,
+- **Inspectiebezoek** voor conformiteitscontrole.
 
-> **Astuce :** Il est souvent recommandé aux acheteurs d’inclure une inspection supplémentaire de l’installation lors de la transaction immobilière, afin d’éviter des dépenses imprévues liées à la mise en conformité.
+> **Tip:** Het is vaak raadzaam voor kopers om een aanvullende inspectie van de installatie te laten uitvoeren bij de vastgoedtransactie om onverwachte kosten voor conformiteitsherstel te voorkomen.
 
-Cependant, il est essentiel de noter que, dans certains cas, une rénovation complète peut s'avérer nécessaire, en particulier pour les habitations datant d'avant 1950-1970, typiques des grandes villes. Ces bâtiments peuvent nécessiter une refonte totale des systèmes électriques pour répondre aux normes actuelles, ce qui peut augmenter considérablement les coûts de mise en conformité.
+In sommige gevallen kan een volledige renovatie noodzakelijk zijn, vooral bij gebouwen van vóór 1950-1970, die veel voorkomen in grote steden. Deze gebouwen vereisen mogelijk een complete revisie van de elektrische systemen om aan de huidige normen te voldoen, wat de kosten aanzienlijk kan verhogen.
 
 :::info
-**Conseil pour les Acheteurs :** Avant d’acheter un bien immobilier avec une attestation non conforme, il est prudent de consulter un électricien professionnel pour estimer les coûts potentiels de remise aux normes, surtout si le bâtiment est ancien.
+**Advies voor Kopers:** Voordat u een woning koopt met een niet-conformiteitsattest, is het verstandig om een professionele elektricien te raadplegen voor een kostenraming van mogelijke renovaties, vooral als het pand ouder is.
 :::
 
-### 2.4. Limitations dans l'Évaluation des Coûts
+### 2.4. Beperkingen bij Kostenraming
 
-Sans schémas précis, un électricien ne peut pas établir un devis correct. Cela complique l'évaluation des coûts de remise en conformité et peut entraîner des surprises financières pour le propriétaire.
+Zonder nauwkeurige schema's kan een elektricien geen correcte offerte opstellen. Dit bemoeilijkt de kostenraming voor conformiteitsherstel en kan financiële verrassingen voor de eigenaar veroorzaken.
 
 :::warning
-**Attention :** Les coûts peuvent rapidement augmenter si des problèmes non détectés apparaissent, causant des tensions entre le client et le professionnel.
+**Let op:** De kosten kunnen snel oplopen als verborgen problemen aan het licht komen, wat tot spanningen kan leiden tussen de klant en de professional.
 :::
 
-### 2.5. Risques Légaux et Responsabilités
+### 2.5. Juridische Risico's en Aansprakelijkheden
 
-En cas d'accident, l'absence de schémas conformes peut exposer les propriétaires et les installateurs à des responsabilités légales.
+Bij een ongeval kan het ontbreken van conforme schema's eigenaren en installateurs blootstellen aan juridische aansprakelijkheid.
 
 :::caution
-**Avertissement :** Les documents doivent être maintenus à jour et accessibles pour garantir la sécurité et la conformité. Si une installation ne respecte pas les normes, cela peut entraîner des sanctions financières et juridiques.
+**Waarschuwing:** Documenten moeten up-to-date en toegankelijk zijn om de veiligheid en conformiteit te waarborgen. Als een installatie niet aan de normen voldoet, kan dit leiden tot financiële en juridische sancties.
 :::
 
-### 2.6. Erreurs dans les Interventions
+### 2.6. Fouten bij Interventies
 
-Lors des interventions, l'absence de schémas adéquats peut conduire à des erreurs. Un électricien, manquant d'informations précises, peut faire des hypothèses incorrectes.
+Bij interventies kan het ontbreken van adequate schema's leiden tot fouten. Een elektricien die niet over nauwkeurige informatie beschikt, kan verkeerde aannames maken.
 
 :::tip
-**Astuce :** Disposer de schémas fiables pour toute intervention est crucial pour éviter des problèmes de sécurité et garantir l'efficacité des réparations.
+**Tip:** Zorg altijd voor betrouwbare schema's bij elke interventie om veiligheidsproblemen te voorkomen en de efficiëntie van reparaties te garanderen.
 :::
 
+## 3. Wettelijke Vereisten
 
-## 3. Exigences Réglementaires
+### 3.1. Formaat van de Schema's
 
-### 3.1. Format des Schémas
-
-Depuis la mise à jour des réglementations, les schémas doivent être fournis au **format numérique** pour garantir leur lisibilité et leur accessibilité à long terme. Cela signifie que même les schémas réalisés initialement sur papier doivent être numérisés et imprimés pour rester conformes. 
+Sinds de herziening van de regelgeving moeten de schema's in **digitaal formaat** worden aangeleverd om hun leesbaarheid en lange-termijn toegankelijkheid te garanderen. Dit betekent dat zelfs schema's die oorspronkelijk op papier zijn gemaakt, gedigitaliseerd en geprint moeten worden om conform te blijven.
 
 :::info
-**Note :** Les documents doivent être disponibles pour toutes les parties concernées, y compris les inspecteurs, les propriétaires actuels, et les futurs propriétaires en cas de vente.
+**Opmerking:** De documenten moeten beschikbaar zijn voor alle betrokken partijen, zoals inspecteurs, huidige eigenaren en toekomstige eigenaren bij verkoop.
 :::
 
-### 3.2. Signature des Parties Responsables
+### 3.2. Handtekeningen van Verantwoordelijke Partijen
 
-Les schémas doivent être signés par trois parties distinctes, établissant ainsi une chaîne de responsabilité partagée :
-- **Installateur** : Assure la création et l'exactitude des schémas.
-- **Agence de Conformité** : Valide la conformité des installations.
-- **Client** : Conserve une copie des schémas pour des consultations futures. 
+De schema's moeten worden ondertekend door drie verschillende partijen, wat zorgt voor een gedeelde verantwoordelijkheid:
+- **Installateur**: Zorgt voor de opstelling en nauwkeurigheid van de schema's.
+- **Conformiteitsinstantie**: Valideert de conformiteit van de installatie.
+- **Klant**: Bewaart een kopie van de schema's voor toekomstig gebruik.
 
-Ce système de signatures permet à chaque partie d’être consciente de ses obligations et garantit que les documents sont vérifiés et accessibles en cas de besoin.
+Dit handtekeningensysteem zorgt ervoor dat elke partij zich bewust is van haar verplichtingen en dat de documenten gecontroleerd en toegankelijk zijn indien nodig.
 
-### 3.3. Règles de Conservation
+### 3.3. Bewaarregels
 
-Les parties concernées doivent veiller à l’archivage adéquat des schémas et à leur accessibilité. En cas de modification des installations, il est impératif de mettre à jour les schémas en conséquence. Un système de gestion documentaire est recommandé pour garantir que tous les documents sont à jour et respectent les normes en vigueur.
+De betrokken partijen moeten zorgen voor een goede archivering en toegankelijkheid van de schema's. Bij wijzigingen in de installaties moeten de schema's worden bijgewerkt. Een documentbeheersysteem wordt aanbevolen om ervoor te zorgen dat alle documenten actueel zijn en voldoen aan de geldende normen.
 
-- **Propriétaire** : Doit garder les schémas accessibles et les inclure dans le dernier rapport de conformité électrique.
-- **Électricien** : Conserve les schémas pour référence future. La durée de conservation peut varier.
-- **Agence de Conformité** : Est tenue de garder une copie des schémas pendant au moins cinq ans.
+- **Eigenaar**: Moet de schema's beschikbaar houden en opnemen in het laatste conformiteitsrapport.
+- **Elektricien**: Bewaart de schema's als referentie voor toekomstige interventies.
+- **Conformiteitsinstantie**: Is verplicht om een kopie van de schema's minimaal vijf jaar te bewaren.
 
 :::caution
-**Attention :** Avec la numérisation croissante des documents, certaines complications peuvent apparaître, comme la cessation d’activité de l’entreprise ou des systèmes de gestion trop complexes, qui pourraient limiter l’accès aux copies des plans. Il est donc essentiel de veiller à une gestion rigoureuse pour éviter des problèmes lors des contrôles futurs.
+**Let op:** Door de toenemende digitalisering van documenten kunnen complicaties ontstaan, zoals bedrijfsbeëindiging of complexe beheersystemen die de toegang tot kopieën van de plannen kunnen beperken. Zorg voor een nauwgezet beheer om problemen bij toekomstige controles te vermijden.
 :::
 
-## 4. Types de Schémas Électriques
+## 4. Soorten Elektrische Schema's
 
-### 4.1. Schémas Unifilaires
+### 4.1. Eendraadschema's
 
-Les schémas unifilaires offrent une vue simplifiée de l'installation électrique, illustrant les connexions entre les différents composants. Ces schémas sont essentiels pour saisir la structure de base de l’installation et assurer la protection des circuits. Ils permettent aux techniciens de visualiser facilement les connexions électriques, d'identifier les disjoncteurs, et de comprendre le fonctionnement global de l'installation.
+Eendraadschema's bieden een vereenvoudigde weergave van de elektrische installatie, waarbij de verbindingen tussen de verschillende componenten worden getoond. Deze schema's zijn essentieel om de basisstructuur van de installatie te begrijpen en om de bescherming van de circuits te waarborgen.
 
-![Exemple de Schéma Unifilaire](/img/bativolt-exemple-schema-unifilaire.png)
+![Voorbeeld van Eendraadschema](/img/bativolt-voorbeeld-eendraadschema.png)
 
 :::tip
-**Conseil :** Un schéma unifilaire bien détaillé permet d’avoir une vue d'ensemble complète de l’installation, ce qui facilite la maintenance et réduit les erreurs lors des interventions. Il sert également de référence unique pour toute adaptation ou extension future, garantissant ainsi une cohérence dans la configuration de l’installation.
+**Tip:** Een goed gedetailleerd eendraadschema geeft een volledig overzicht van de installatie, wat onderhoud vergemakkelijkt en fouten tijdens interventies vermindert. Het dient ook als referentie voor toekomstige aanpassingen of uitbreidingen, waardoor consistentie wordt gegarandeerd.
 :::
 
-### 4.2. Plans de Position
+### 4.2. Positieschema's
 
-Les plans de position montrent l'emplacement précis de chaque élément de l'installation, facilitant ainsi les interventions et les réparations. Ce type de schéma aide les électriciens à travailler de manière plus efficace et en toute sécurité, en fournissant une référence claire de chaque composant.
+Positieschema's tonen de exacte locatie van elk element van de installatie, wat interventies en reparaties vergemakkelijkt. Dit type schema helpt elektriciens efficiënter en veiliger te werken door een duidelijke referentie te bieden van elk onderdeel.
 
-![Exemple de Schéma de Position](/img/bativolt-exemple-schema-de-position.png)
+![Voorbeeld van Positieschema](/img/bativolt-voorbeeld-positieschema.png)
 
-> **Astuce :** Les schémas de position sont particulièrement utiles lors de rénovations ou de modifications d’installation, car ils indiquent où chaque élément est physiquement situé dans l’espace.
+> **Tip:** Positieschema's zijn vooral nuttig bij renovaties of wijzigingen van de installatie, omdat ze aangeven waar elk element fysiek is geplaatst.
 
+## 5. Kosten
 
-## 5. Coûts Associés
+De kosten voor het opstellen van elektrische schema's kunnen aanzienlijk variëren. Ze beginnen doorgaans vanaf **€350 exclusief BTW** en kunnen oplopen tot duizenden euro's, afhankelijk van de complexiteit van de installatie. Factoren die de kosten beïnvloeden zijn onder meer:
 
-Les coûts de création de schémas électriques peuvent varier considérablement. Ils commencent généralement à partir de **350 € HTVA** et peuvent atteindre plusieurs milliers d'euros en fonction de la complexité de l'installation. Voici les principaux facteurs influençant les coûts :
-
-- **Logiciels Utilisés** : Les outils de conception peuvent varier en prix, influençant le coût total de la création des schémas. Certains logiciels professionnels sont coûteux mais permettent de produire des plans très détaillés.
-- **Temps et Main-d'œuvre** : L'expertise nécessaire pour élaborer des plans précis est essentielle et peut nécessiter un investissement considérable. Plus le schéma est complexe, plus le temps de réalisation est important.
-- **Technicité et Taille de l'Installation** : Des installations plus complexes nécessitent des schémas plus détaillés et un temps de travail plus important, ce qui impacte le coût final.
+- **Gebruikte Software**: De ontwerpsoftware kan in prijs variëren, wat invloed heeft op de totale kosten. Professionele software kan duur zijn, maar levert zeer gedetailleerde schema's op.
+- **Tijd en Arbeid**: Het maken van nauwkeurige schema's vereist expertise en kan aanzienlijke tijdsinvestering vergen.
+- **Technische Complexiteit**: Complexe installaties vereisen gedetailleerde schema's en meer tijd, wat de kosten verhoogt.
 
 :::info
-**Conseil :** Pour réduire les coûts, demandez un devis précis incluant le niveau de détail nécessaire. Si votre installation est complexe, il peut être avantageux de prévoir un budget plus élevé afin d’obtenir des schémas détaillés et complets.
+**Advies:** Vraag een gedetailleerde offerte aan, inclusief het gewenste detailniveau. Voor complexe installaties kan een hoger budget nodig zijn om gedetailleerde en volledige schema's te verkrijgen.
 :::
 
-## 6. Qui Peut Réaliser des Schémas ?
+## 6. Wie Kan Schema's Opstellen?
 
-Les schémas électriques peuvent être réalisés par différentes personnes, y compris les propriétaires eux-mêmes. Cependant, pour garantir la conformité et la précision des documents, il est fortement recommandé de confier cette tâche à des **professionnels qualifiés** :
+Elektrische schema's kunnen door verschillende personen worden opgesteld, inclusief de eigenaar zelf. Om echter de nauwkeurigheid en conformiteit te waarborgen, is het sterk aanbevolen om deze taak aan **gekwalificeerde professionals** over te laten:
 
-- **Professionnels Qualifiés** : Des électriciens agréés ou des ingénieurs spécialisés en électricité possèdent l'expertise nécessaire pour créer des schémas conformes aux normes en vigueur, répondant ainsi aux critères de sécurité et de conformité requis pour passer les inspections.
-
-- **Responsabilité Légale du Signataire** : La personne qui signe en tant qu’installateur engage sa responsabilité légale sur la conformité et la sécurité de l’installation. En cas de problème, le signataire pourrait être tenu responsable des erreurs ou des non-conformités découvertes. Si aucun installateur professionnel n’est impliqué, **c'est le propriétaire qui assume cette responsabilité** en signant les schémas.
+- **Gekwalificeerde Professionals**: Geautoriseerde elektriciens of gespecialiseerde ingenieurs bezitten de expertise om schema's op te stellen die voldoen aan de geldende normen en de veiligheidseisen.
+- **Wettelijke Verantwoordelijkheid van de Ondertekenaar**: De ondertekenaar van het schema neemt juridische verantwoordelijkheid voor de conformiteit en veiligheid van de installatie. Bij problemen kan de ondertekenaar aansprakelijk worden gesteld voor eventuele fouten of niet-conformiteiten. Zonder professionele installateur neemt de eigenaar deze verantwoordelijkheid op zich.
 
 :::caution
-**Attention :** En l'absence d’un installateur professionnel, le propriétaire qui signe le schéma doit être conscient des implications légales et des connaissances techniques nécessaires. Un schéma incorrect peut entraîner des frais supplémentaires pour la mise en conformité, voire des risques pour la sécurité.
+**Let op:** Als er geen professionele installateur is betrokken, moet de eigenaar die het schema ondertekent zich bewust zijn van de juridische implicaties en de vereiste technische kennis. Onjuiste schema's kunnen leiden tot extra kosten voor conformiteit en zelfs veiligheidsrisico's.
 :::
 
+## 7. Belang Tijdens Conformiteitscontroles
 
-## 7. Utilité lors du Contrôle de Conformité
+Elektrische schema's spelen een cruciale rol bij conformiteitscontroles door inspecteurs. Ze bieden essentiële informatie voor het beoordelen van de veiligheid en conformiteit van de installatie.
 
-Les schémas électriques jouent un rôle crucial lors des contrôles de conformité effectués par des agents de conformité ou des inspecteurs. Ils apportent des informations clés qui permettent d'évaluer la sécurité et la conformité des installations. Voici pourquoi ils sont essentiels :
+### 7.1. Nauwkeurige Conformiteitsbeoordeling
 
-### 7.1. Évaluation Précise de la Conformité
-
-Lors d'un contrôle, les inspecteurs utilisent les schémas pour s'assurer que l'installation respecte les normes en vigueur, comme celles du RGIE. Les schémas permettent de vérifier rapidement les connexions, les dispositifs de protection, et de s’assurer que toutes les normes de sécurité sont suivies. 
+Inspecteurs gebruiken de schema's om te controleren of de installatie voldoet aan de geldende normen, zoals het AREI. Ze helpen snel de verbindingen en beschermingsapparaten te controleren, waardoor de inspectie efficiënter verloopt.
 
 :::info
-**Bon à savoir :** Des schémas bien tenus accélèrent le contrôle de conformité, aidant les inspecteurs à identifier les infractions éventuelles sans avoir à fouiller physiquement dans l’installation. Un gain de temps précieux pour tous ! ⏱️
+**Goed om te weten:** Goed bijgehouden schema's versnellen de conformiteitscontrole, waardoor inspecteurs eventuele overtredingen sneller kunnen identificeren zonder fysiek in de installatie te graven.
 :::
 
-### 7.2. Identification Rapide des Infractions
+### 7.2. Snelle Identificatie van Overtredingen
 
-Les schémas rendent l'identification des infractions beaucoup plus simple. Par exemple, si un circuit doit être protégé par un disjoncteur différentiel de 30mA, un schéma permet de vérifier rapidement sa présence. Sans schéma, le contrôle devient fastidieux, et des éléments critiques peuvent facilement être manqués. 
+Schema's maken het eenvoudiger om overtredingen op te sporen. Bijvoorbeeld, als een circuit beschermd moet worden door een aardlekschakelaar van 30mA, kan de aanwezigheid hiervan snel worden gecontroleerd met behulp van het schema.
 
 :::caution
-**Attention :** Sans schéma précis, un inspecteur pourrait passer à côté de composants essentiels. Une infraction manquée pourrait coûter cher en termes de sécurité et de conformité !
+**Let op:** Zonder gedetailleerd schema kan een inspecteur essentiële onderdelen over het hoofd zien, wat kan leiden tot ernstige veiligheids- en conformiteitsproblemen.
 :::
 
-### 7.3. Gestion des Risques
+``### 7.3. Risicobeheer
 
-Les schémas sont aussi un outil essentiel pour gérer les risques. En cas de panne ou de défaillance, ils permettent aux électriciens d'identifier les problèmes rapidement, d’évaluer l’impact et de planifier des interventions adaptées. 
+Schema's zijn ook een essentieel hulpmiddel voor risicobeheer. In geval van een storing of defect helpen ze elektriciens om problemen snel te identificeren, de impact te evalueren en passende maatregelen te plannen.
 
 :::tip
-**Conseil Pratique :** Gardez vos schémas à jour pour une réponse rapide en cas d'urgence ! Cela minimise les temps d’arrêt et garantit la sécurité des utilisateurs. ⚡
+**Praktische Tip:** Houd uw schema's up-to-date voor een snelle reactie in noodgevallen! Dit minimaliseert de downtime en garandeert de veiligheid van de gebruikers. ⚡
 :::
 
-### 7.4. Responsabilité Professionnelle
+### 7.4. Professionele Verantwoordelijkheid
 
-Pour les électriciens, avoir des schémas clairs et précis est essentiel pour garantir un travail conforme et sécurisé. Un électricien travaillant sans schéma s’expose à des risques de responsabilité si des problèmes surviennent plus tard. Cela souligne l'importance d'une documentation précise pour la sécurité et la fiabilité.
+Voor elektriciens zijn duidelijke en nauwkeurige schema's essentieel om een veilige en conforme werkwijze te garanderen. Een elektricien die zonder schema werkt, loopt het risico aansprakelijk te worden gesteld als er later problemen optreden. Dit benadrukt het belang van nauwkeurige documentatie voor veiligheid en betrouwbaarheid.
 
-> **Note :** Travailler sans schéma peut exposer l’électricien à des responsabilités en cas de problème. Une documentation conforme est un gage de sécurité pour le client, mais aussi pour le professionnel.
+> **Opmerking:** Werken zonder schema kan de elektricien blootstellen aan aansprakelijkheid in geval van problemen. Een conform document biedt veiligheid voor zowel de klant als de professional.
 
-### 7.5. Prise de Décision Informée
+### 7.5. Geïnformeerde Besluitvorming
 
-Les schémas donnent aux électriciens une vue d’ensemble de l’installation, facilitant des décisions éclairées pour d’éventuelles modifications ou mises à jour. Avec une vue claire des circuits, les électriciens peuvent évaluer l’impact de leurs interventions et anticiper les besoins futurs.
+Schema's geven elektriciens een volledig overzicht van de installatie, wat helpt bij het nemen van weloverwogen beslissingen voor eventuele wijzigingen of updates. Met een duidelijk beeld van de circuits kunnen elektriciens de impact van hun interventies evalueren en anticiperen op toekomstige behoeften.
 
 :::info
-**Astuce :** En disposant de schémas à jour, vous facilitez les modifications d'installation et garantissez une maintenance conforme.
+**Tip:** Door up-to-date schema's beschikbaar te hebben, vergemakkelijkt u wijzigingen aan de installatie en garandeert u conform onderhoud.
 :::
 
-## Conclusion
+## Conclusie
 
-Les schémas électriques sont bien plus qu’une simple représentation technique ; ce sont des éléments fondamentaux pour la sécurité et la conformité des installations. Leur absence ou leur inexactitude peut entraîner des conséquences financières, juridiques, et de sécurité significatives. **Avoir des schémas précis et à jour pour chaque installation électrique est essentiel** pour protéger les utilisateurs ainsi que les professionnels contre des responsabilités éventuelles.
+Elektrische schema's zijn veel meer dan een eenvoudige technische weergave; ze vormen een fundamenteel onderdeel van de veiligheid en conformiteit van installaties. Hun afwezigheid of onnauwkeurigheid kan leiden tot aanzienlijke financiële, juridische en veiligheidsproblemen. **Nauwkeurige en actuele schema's voor elke elektrische installatie zijn essentieel** om gebruikers en professionals te beschermen tegen mogelijke aansprakelijkheid.
 
-En résumé, un bon schéma électrique est un outil indispensable qui garantit la sécurité, la conformité et la gestion efficace des installations. En cas de doute sur la création ou la mise à jour de schémas, il est fortement recommandé de faire appel à un professionnel qualifié pour éviter des complications futures.
-
+Kortom, een goed elektrisch schema is een onmisbaar hulpmiddel dat de veiligheid, conformiteit en efficiënte beheersing van installaties waarborgt. Bij twijfel over het opstellen of bijwerken van schema's is het sterk aanbevolen om een gekwalificeerde professional in te schakelen om toekomstige complicaties te voorkomen.
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

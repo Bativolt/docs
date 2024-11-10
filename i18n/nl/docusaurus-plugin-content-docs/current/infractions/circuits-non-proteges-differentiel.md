@@ -1,157 +1,147 @@
 ---
-title: "Circuits Non Protégés par un Disjoncteur Différentiel de 30mA - Sécurité RGIE"
-sidebar_label: Circuits Non Protégés
-description: "Comprendre l'importance des disjoncteurs différentiels de 30mA dans les circuits électriques pour garantir la sécurité selon le RGIE. Guide sur les normes, les exceptions et la prévention des infractions."
+title: "Niet-beschermde Kringen door een 30mA Differentieelschakelaar - Veiligheid en Conformiteit AREI"
+sidebar_label: Niet-beschermde Kringen
+description: "Begrijp het belang van 30mA differentieelschakelaars voor de veiligheid van elektrische kringen volgens het AREI. Gids over de normen, uitzonderingen en hoe inbreuken te voorkomen."
 ---
 
-# Circuits Non Protégés par un Disjoncteur Différentiel de 30mA
+# Niet-beschermde Kringen door een 30mA Differentieelschakelaar
 
-## Introduction
+## Introductie
 
-Les **disjoncteurs différentiels de 30mA** sont des dispositifs de sécurité essentiels qui protègent les utilisateurs contre les risques d'électrocution en détectant les fuites de courant. Depuis les mises à jour réglementaires de juillet 2023, ces disjoncteurs sont requis pour tous les circuits, avec quelques exceptions. Cette page explore en détail le rôle de ces dispositifs, les nouvelles exigences, les exceptions et les implications de leur non-conformité.
+De **30mA differentieelschakelaars** zijn essentiële beveiligingsapparaten die gebruikers beschermen tegen elektrocutierisico’s door stroomlekken te detecteren. Sinds de regelgevingsupdates van juli 2023 zijn deze schakelaars vereist voor alle kringen, met enkele uitzonderingen. Deze pagina gaat dieper in op de rol van deze apparaten, de nieuwe vereisten, uitzonderingen en de implicaties van niet-conformiteit.
 
 ---
 
-## 1. Importance de la Protection par Disjoncteur Différentiel
+## 1. Belang van Bescherming door Differentieelschakelaar
 
-### 1.1. Rôle des Disjoncteurs Différentiels
+### 1.1. Rol van de Differentieelschakelaars
 
-Un **disjoncteur différentiel de 30mA** détecte les fuites de courant supérieures à 30mA et coupe immédiatement le courant, réduisant ainsi le risque d’électrocution. Ce dispositif est particulièrement crucial dans les zones humides ou dans les environnements où le risque de contact avec l'eau est élevé.
+Een **30mA differentieelschakelaar** detecteert stroomlekken boven 30mA en schakelt de stroom onmiddellijk uit, waardoor het risico op elektrocutie wordt verminderd. Dit apparaat is vooral belangrijk in vochtige ruimtes of omgevingen met een verhoogd contactrisico met water.
 
-> **Saviez-vous ?** La plupart des accidents d'électrocution surviennent lorsque l'isolation est défectueuse. Les disjoncteurs différentiels de 30mA offrent une couche de protection supplémentaire en interrompant le circuit dès qu’une fuite de courant est détectée.
+> **Wist je dat?** De meeste elektrocutie-ongelukken gebeuren bij defecte isolatie. De 30mA differentieelschakelaar biedt een extra beveiligingslaag door het circuit te onderbreken bij het detecteren van stroomlekken.
 
-### 1.2. Sécurité des Circuits
+### 1.2. Veiligheid van Kringen
 
-La protection des circuits par disjoncteurs différentiels est cruciale dans les zones comme les salles de bains, cuisines et locaux techniques, où l'humidité accroît les risques de chocs électriques.
+De bescherming van kringen door differentieelschakelaars is essentieel in ruimtes zoals badkamers, keukens en technische lokalen, waar vocht de kans op elektrische schokken vergroot.
 
-:::info Image d'Exemple 📸
-
-Une photo illustrative sera ajoutée ici prochainement. Si vous souhaitez contribuer avec une photo en lien avec cette section, envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com). Votre nom sera mentionné en tant que contributeur.
-
+:::info 📸 Illustratief Beeld
+Een illustratieve foto zal binnenkort worden toegevoegd. Wilt u bijdragen met een foto voor deze sectie? Stuur deze naar [docs@bativolt.com](mailto:docs@bativolt.com).
 :::
 
 ---
 
-## 2. Changements Réglementaires en Juillet 2023
+## 2. Regelgevingswijzigingen in Juli 2023
 
-### 2.1. Nouvelle Réglementation RGIE
+### 2.1. Nieuwe AREI Regelgeving
 
-Depuis juillet 2023, le **Règlement Général sur les Installations Électriques (RGIE)** impose la présence de disjoncteurs différentiels de 30mA pour tous les circuits, hormis quelques exceptions. Ce changement vise à augmenter la sécurité des installations électriques, en réduisant le nombre d'accidents liés aux défauts d'isolement.
+Sinds juli 2023 vereist het **Algemeen Reglement op de Elektrische Installaties (AREI)** dat alle kringen worden beschermd door een 30mA differentieelschakelaar, met enkele uitzonderingen. Deze wijziging is ingevoerd om de veiligheid van elektrische installaties te verhogen en het aantal ongelukken door isolatiefouten te verminderen.
 
-> **Astuce RGIE :** Les disjoncteurs différentiels doivent être placés dans des endroits facilement accessibles pour permettre des tests réguliers.
+> **AREI Tip:** Differentieelschakelaars moeten op gemakkelijk toegankelijke plaatsen worden geïnstalleerd voor regelmatige tests.
 
-### 2.2. Obligations Préalables
+### 2.2. Vorige Verplichtingen
 
-Avant cette réglementation, certains circuits étaient exemptés, à l'exception des locaux humides qui ont toujours exigé une protection de 30mA pour éviter les risques d’électrocution en cas de contact avec l'eau.
+Voor deze regelgeving waren bepaalde kringen vrijgesteld, behalve in vochtige ruimtes, waar al eerder een 30mA-bescherming verplicht was om elektrocutierisico’s bij watercontact te vermijden.
 
 ---
 
-## 3. Exceptions à la Réglementation
+## 3. Uitzonderingen op de Regelgeving
 
-### 3.1. Circuits Électriques Non Protégés
+### 3.1. Niet-beschermde Elektrische Kringen
 
-Malgré les nouvelles règles, certains circuits peuvent ne pas nécessiter de disjoncteur différentiel de 30mA, tels que :
+Ondanks de nieuwe regels kunnen sommige kringen geen 30mA differentieelschakelaar vereisen, zoals:
   
-- **Circuits d'Éclairage Externes** : Sous conditions spécifiques, comme la conformité aux normes de sécurité, ces circuits peuvent être exemptés.
+- **Buitenverlichting**: Onder specifieke voorwaarden, zoals naleving van veiligheidsnormen.
   
-- **Circuits pour Appareils Électriques Non Sensibles** : Certains circuits d’appareils externes, rarement manipulés, peuvent être dispensés.
+- **Kringen voor Niet-gevoelige Apparaten**: Sommige externe circuits, die zelden worden gemanipuleerd, kunnen worden vrijgesteld.
 
-> **💡 Astuce :** En cas de doute, consultez un professionnel pour confirmer si votre installation nécessite une protection par différentiel de 30mA.
+> **💡 Tip:** Raadpleeg bij twijfel een professional om te bevestigen of uw installatie een 30mA-bescherming nodig heeft.
 
-### 3.2. Exigences pour les Locaux Humides
+### 3.2. Vereisten voor Vochtige Ruimtes
 
-Les salles de bains, cuisines, et autres zones humides nécessitent absolument une protection par disjoncteur de 30mA pour se conformer aux normes de sécurité RGIE.
-
----
-
-## 4. Obligations Réglementaires et Responsabilités
-
-### 4.1. Conformité aux Normes RGIE
-
-Le non-respect des exigences de protection peut entraîner des sanctions et met en danger les utilisateurs. Il est donc essentiel que toutes les installations soient vérifiées pour conformité au RGIE.
-
-### 4.2. Responsabilité des Électriciens
-
-Les électriciens sont tenus de s'assurer que toutes les installations sont sécurisées et conformes. Les nouvelles installations et rénovations doivent inclure les dispositifs de protection requis pour éviter tout risque d’accident.
+Badkamers, keukens en andere vochtige ruimtes vereisen absoluut een bescherming door een 30mA differentieelschakelaar volgens de AREI-veiligheidsnormen.
 
 ---
 
-## 5. Matériel de Protection : Choix et Installation
+## 4. Regelgevende Verplichtingen en Verantwoordelijkheden
 
-### 5.1. Disjoncteurs Différentiels 30mA : Choix et Coût
+### 4.1. Naleving van AREI Normen
 
-Les disjoncteurs de 30mA se trouvent facilement dans le commerce. Ils coûtent généralement entre 30 € et 100 € selon le modèle et la capacité.
+Het niet naleven van de beschermingsvereisten kan leiden tot sancties en brengt gebruikers in gevaar. Daarom is het essentieel om alle installaties te laten controleren op conformiteit met het AREI.
 
-| **Modèle**                | **Prix Estimé**     | **Utilisation Courante**                         |
-|---------------------------|---------------------|--------------------------------------------------|
-| Standard 30mA             | 30 € - 50 €        | Salles de bains, cuisines                       |
-| Haute capacité 30mA       | 60 € - 100 €       | Locaux techniques, installations commerciales    |
+### 4.2. Verantwoordelijkheid van Elektriciens
 
-> **Info :** Les disjoncteurs de haute capacité sont idéaux pour les installations à forte consommation ou exposées à des conditions rigoureuses.
-
-### 5.2. Installation et Maintenance
-
-Pour garantir un bon fonctionnement, il est recommandé de faire installer les disjoncteurs différentiels par un électricien qualifié. Une vérification mensuelle est conseillée : appuyez sur le bouton de test pour vérifier le déclenchement.
-
-:::info Image d'Exemple 📸
-
-Un exemple d'installation correcte d'un disjoncteur différentiel. Contactez [docs@bativolt.com](mailto:docs@bativolt.com) pour contribuer avec une image éducative.
-
-:::
+Elektriciens zijn verantwoordelijk voor het waarborgen van veilige en conforme installaties. Nieuwe installaties en renovaties moeten de vereiste beveiligingsapparaten bevatten om elk risico te vermijden.
 
 ---
 
-## 6. Conséquences d'une Absence de Protection par Disjoncteur Différentiel
+## 5. Beveiligingsmateriaal: Keuze en Installatie
 
-### 6.1. Risques d'Électrocution
+### 5.1. 30mA Differentieelschakelaars: Keuze en Kosten
 
-Les circuits non protégés augmentent les risques d’électrocution, notamment dans les zones à risque. En cas de défaut d’isolement, l’absence de disjoncteur différentiel empêche la coupure de courant, ce qui met en danger les utilisateurs.
+30mA differentieelschakelaars zijn gemakkelijk verkrijgbaar en kosten meestal tussen de 30 € en 100 €, afhankelijk van het model en de capaciteit.
+
+| **Model**                 | **Geschatte Prijs** | **Toepassing**                           |
+|---------------------------|---------------------|------------------------------------------|
+| Standaard 30mA            | 30 € - 50 €        | Badkamers, keukens                       |
+| Hoog vermogen 30mA        | 60 € - 100 €       | Technische lokalen, commerciële installaties |
+
+> **Info:** Hoogvermogen differentieelschakelaars zijn ideaal voor installaties met een hoog verbruik of blootgesteld aan zware omstandigheden.
+
+### 5.2. Installatie en Onderhoud
+
+Het wordt aanbevolen om differentieelschakelaars te laten installeren door een gekwalificeerde elektricien. Een maandelijkse test door op de testknop te drukken is noodzakelijk om het juiste functioneren te garanderen.
+
+---
+
+## 6. Gevolgen van Geen Bescherming door Differentieelschakelaar
+
+### 6.1. Risico op Elektrocutie
+
+Niet-beschermde kringen vergroten het risico op elektrocutie, vooral in risicovolle gebieden. Bij isolatiefouten kan het ontbreken van een differentieelschakelaar de stroom niet onderbreken, wat gevaarlijk is voor gebruikers.
 
 :::danger
-**Avertissement de sécurité :** Un disjoncteur différentiel de 30mA peut sauver des vies en cas de fuite de courant. Assurez-vous que votre installation est correctement protégée !
+**Veiligheidswaarschuwing:** Een 30mA differentieelschakelaar kan levens redden bij stroomlekken. Zorg ervoor dat uw installatie goed beschermd is!
 :::
 
----
+### 6.2. Brandrisico's
 
-### 6.2. Risques d'Incendie
+Niet-beschermde kringen zijn ook gevoeliger voor kortsluitingen, die brand kunnen veroorzaken. De differentieelschakelaar beperkt dit risico door lekstromen te detecteren en te onderbreken.
 
-Les circuits non protégés sont également plus sujets aux courts-circuits, qui peuvent provoquer des incendies. Le disjoncteur différentiel limite ce risque en détectant et en interrompant les fuites de courant.
-
-> **Conseil de sécurité :** Les circuits non protégés exposés à l'humidité sont particulièrement vulnérables aux courts-circuits. Assurez-vous qu’ils sont couverts par un disjoncteur de 30mA.
+> **Veiligheidstip:** Kringen die zijn blootgesteld aan vocht zijn bijzonder kwetsbaar voor kortsluiting. Zorg ervoor dat ze beschermd zijn door een 30mA differentieelschakelaar.
 
 ---
 
-## 7. Procédures de Test et Vérification
+## 7. Test- en Verificatieprocedures
 
-### 7.1. Test Mensuel Recommandé
+### 7.1. Aanbevolen Maandelijkse Test
 
-Il est recommandé de tester le disjoncteur différentiel de 30mA au moins une fois par mois en utilisant le bouton de test intégré. Si le disjoncteur ne réagit pas, il peut nécessiter un entretien ou un remplacement.
+Het wordt aanbevolen om de 30mA differentieelschakelaar maandelijks te testen door op de testknop te drukken. Als de schakelaar niet reageert, kan onderhoud of vervanging nodig zijn.
 
-### 7.2. Vérification Professionnelle
+### 7.2. Professionele Controle
 
-Faire appel à un professionnel pour une vérification annuelle permet d'assurer le bon fonctionnement des disjoncteurs et de prévenir toute défaillance potentielle.
+Een jaarlijkse controle door een professional zorgt voor het juiste functioneren van de differentieelschakelaars en voorkomt mogelijke storingen.
 
-| **Action**                 | **Fréquence**      | **Conseils**                                      |
-|----------------------------|--------------------|---------------------------------------------------|
-| Test manuel du disjoncteur | Mensuel           | Appuyer sur le bouton de test pour vérification   |
-| Vérification par électricien| Annuel           | Assure la conformité et la sécurité de l'installation|
+| **Actie**                   | **Frequentie**   | **Aanbeveling**                        |
+|-----------------------------|------------------|----------------------------------------|
+| Handmatige test             | Maandelijks      | Druk op de testknop voor verificatie   |
+| Controle door elektricien   | Jaarlijks        | Zorgt voor conformiteit en veiligheid  |
 
 ---
 
-## Conclusion
+## Conclusie
 
-Les disjoncteurs différentiels de 30mA sont essentiels pour la sécurité des circuits électriques. Ils protègent les utilisateurs contre les chocs électriques en détectant les fuites de courant. Avec les nouvelles réglementations RGIE de 2023, il est indispensable de veiller à la conformité de toutes les installations et de procéder aux tests réguliers pour garantir leur bon fonctionnement. Assurez-vous de consulter un professionnel en cas de doute et de respecter les normes de sécurité pour une installation sûre et conforme.
+De 30mA differentieelschakelaars zijn essentieel voor de veiligheid van elektrische installaties. Ze beschermen gebruikers tegen elektrische schokken door lekstromen te detecteren. Met de nieuwe AREI-regelgeving van 2023 is het noodzakelijk om ervoor te zorgen dat alle installaties conform zijn en regelmatig getest worden. Raadpleeg een professional bij twijfel en respecteer de veiligheidsnormen voor een veilige en conforme installatie.
 
 :::tip
-**Ensemble, garantissons la sécurité électrique !** Vérifiez vos disjoncteurs régulièrement et consultez un professionnel pour les installations et les entretiens.
+**Samen zorgen we voor elektrische veiligheid!** Test uw differentieelschakelaars regelmatig en raadpleeg een professional voor installatie en onderhoud.
 :::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

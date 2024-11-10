@@ -1,124 +1,125 @@
 ---
-title: "Luminaires de Secours - Sécurité et Conformité RGIE"
-sidebar_label: Luminaires de Secours
-description: "Guide complet sur les luminaires de secours pour la sécurité et la conformité RGIE en Belgique. Découvrez les exigences d'installation, d'entretien, et les types de luminaires pour assurer une évacuation sécurisée."
+title: "Noodverlichting - Veiligheid en Conformiteit AREI"
+sidebar_label: Noodverlichting
+description: "Volledige gids over noodverlichting voor veiligheid en conformiteit volgens het AREI in België. Ontdek de vereisten voor installatie, onderhoud, en de verschillende soorten verlichting om een veilige evacuatie te garanderen."
 ---
 
-# Luminaires de Secours et Conformité RGIE
+# Noodverlichting en Conformiteit AREI
 
-Les luminaires de secours sont des dispositifs essentiels pour assurer la sécurité des occupants dans les bâtiments, notamment dans les entreprises et les espaces publics. Ils sont conçus pour s’allumer automatiquement en cas de panne de courant, permettant ainsi une évacuation sécurisée. Leur installation et entretien doivent respecter les normes du **Règlement Général sur les Installations Électriques (RGIE)**, notamment **l’Article 104** qui impose des exigences strictes pour les éclairages de sécurité.
+Noodverlichting is essentieel om de veiligheid van de bewoners te waarborgen in gebouwen, met name in bedrijven en openbare ruimtes. Ze zijn ontworpen om automatisch aan te gaan bij stroomuitval, waardoor een veilige evacuatie mogelijk is. De installatie en het onderhoud moeten voldoen aan de normen van het **Algemeen Reglement op de Elektrische Installaties (AREI)**, met name **Artikel 104**, dat strikte eisen stelt aan noodverlichting.
 
 ---
 
-## 1. Importance des Luminaires de Secours
+## 1. Belang van Noodverlichting
 
-### 1.1. Sécurité des Occupants
+### 1.1. Veiligheid van de Bewoners
 
-L’objectif principal des luminaires de secours est d’assurer la sécurité des personnes présentes en cas d’urgence :
+Het hoofddoel van noodverlichting is om de veiligheid van de aanwezigen te waarborgen in geval van nood:
 
-- **Éclairage d'Urgence** : Fournir un éclairage suffisant pour guider les occupants vers les sorties de secours, conformément à **l’Article 104.2** du RGIE, qui impose un niveau d’éclairage minimal dans les chemins d’évacuation.
-- **Visibilité des Issues** : Les luminaires de secours doivent être installés près des sorties et le long des chemins d’évacuation pour que ces zones restent visibles dans l'obscurité, comme spécifié dans **l’Article 104.4**.
+- **Noodverlichting**: Zorgt voor voldoende verlichting om de bewoners naar de nooduitgangen te begeleiden, in overeenstemming met **Artikel 104.2 van het AREI**, dat een minimaal verlichtingsniveau voorschrijft voor vluchtwegen.
+- **Zichtbaarheid van Uitgangen**: Noodverlichting moet worden geplaatst bij uitgangen en langs de vluchtwegen, zodat deze gebieden zichtbaar blijven in het donker, zoals gespecificeerd in **Artikel 104.4**.
 
-:::tip 💡 Astuce Sécurité
-Installez des luminaires de secours supplémentaires dans les zones complexes, comme les escaliers et les couloirs longs, pour garantir une visibilité optimale des issues de secours.
+:::tip 💡 Veiligheidstip
+Installeer extra noodverlichting in complexe gebieden, zoals trappen en lange gangen, om optimale zichtbaarheid van de nooduitgangen te garanderen.
 :::
 
-### 1.2. Conformité Légale
+### 1.2. Wettelijke Conformiteit
 
-L’installation de luminaires de secours est souvent une obligation légale, et le **RGIE** impose des exigences strictes :
+De installatie van noodverlichting is vaak een wettelijke verplichting, en het **AREI** stelt strikte eisen:
 
-- **Exigences du RGIE (Article 104.1)** : Tous les bâtiments publics et commerciaux doivent être équipés de luminaires de secours fonctionnels. Les propriétaires et gestionnaires sont responsables de leur conformité et de leur entretien.
-- **Inspection Régulière (Article 106)** : Des inspections périodiques sont nécessaires pour s'assurer que les luminaires de secours sont en bon état de fonctionnement et respectent les normes en vigueur.
+- **Eisen van het AREI (Artikel 104.1)**: Alle openbare en commerciële gebouwen moeten zijn uitgerust met functionerende noodverlichting. Eigenaren en beheerders zijn verantwoordelijk voor de conformiteit en het onderhoud ervan.
+- **Regelmatige Inspectie (Artikel 106)**: Periodieke inspecties zijn noodzakelijk om ervoor te zorgen dat de noodverlichting in goede staat verkeert en voldoet aan de geldende normen.
 
-> **🔍 À Savoir** : Selon le RGIE, les luminaires de secours doivent être vérifiés à des intervalles réguliers pour garantir leur efficacité en cas d'urgence.
-
----
-
-## 2. Types de Luminaires de Secours
-
-### 2.1. Luminaires de Secours Autonomes
-
-Ces dispositifs fonctionnent sur batteries internes et s’activent automatiquement en cas de coupure de courant :
-
-- **Installation Facile** : Ne nécessitent pas de câblage complexe, ce qui les rend parfaits pour les zones nécessitant un éclairage minimal.
-- **Applications** : Idéaux pour les petits espaces ou les bâtiments où l’installation électrique est limitée.
-
-### 2.2. Luminaires de Secours Reliés au Réseau
-
-Ces luminaires sont connectés à l’alimentation principale et possèdent un système de secours intégré :
-
-- **Fiabilité** : Offrent une source de lumière plus stable, utilisée dans les bâtiments commerciaux de grande taille.
-- **Système de Surveillance** : Certains modèles peuvent être intégrés à un système de gestion du bâtiment, permettant une surveillance en temps réel.
-
-### 2.3. Luminaires de Signalisation
-
-Ces luminaires indiquent la direction à suivre en cas d'urgence avec des pictogrammes de sortie :
-
-- **Signalisation Clé** : Essentiels pour guider les occupants vers les issues, surtout dans les environnements complexes comme les bureaux et centres commerciaux.
-- **Visibilité Permanente** : Les pictogrammes doivent être éclairés ou luminescents pour être visibles même en cas de coupure.
-
-:::example 📘 Exemple
-Les luminaires de secours avec pictogrammes sont particulièrement utiles dans les grands espaces commerciaux pour indiquer les directions vers les issues.
-:::
+> **🔍 Wist u dat**: Volgens het AREI moet de noodverlichting regelmatig worden gecontroleerd om de effectiviteit ervan in geval van nood te waarborgen.
 
 ---
 
-## 3. Exigences d'Installation selon le RGIE
+## 2. Soorten Noodverlichting
 
-### 3.1. Emplacement des Luminaires
+### 2.1. Autonome Noodverlichting
 
-Le RGIE impose que les luminaires de secours soient placés à des emplacements stratégiques :
+Deze apparaten werken op interne batterijen en worden automatisch geactiveerd bij stroomuitval:
 
-- **Sorties de Secours (Article 104.3)** : Chaque sortie doit être clairement éclairée par un luminaire de secours, pour une visibilité immédiate.
-- **Chemins d’Évacuation (Article 104.5)** : Des luminaires doivent être disposés le long des chemins d’évacuation, garantissant une visibilité suffisante.
+- **Eenvoudige Installatie**: Vereisen geen complexe bedrading, waardoor ze ideaal zijn voor ruimtes die minimale verlichting nodig hebben.
+- **Toepassing**: Geschikt voor kleine ruimtes of gebouwen met beperkte elektrische installatie.
 
-> **💼 Pour les entreprises** : Assurez-vous que tous les chemins d'évacuation sont bien éclairés, y compris les couloirs, les escaliers, et les portes de sortie.
+### 2.2. Noodverlichting Aangesloten op het Netwerk
 
-### 3.2. Niveaux d'Éclairement
+Deze verlichting is verbonden met de hoofdvoeding en heeft een geïntegreerd noodsysteem:
 
-Les niveaux d'éclairement fournis par les luminaires de secours doivent respecter les exigences du RGIE pour garantir la sécurité :
+- **Betrouwbaarheid**: Biedt een stabielere lichtbron, gebruikt in grote commerciële gebouwen.
+- **Bewakingssysteem**: Sommige modellen kunnen worden geïntegreerd in een gebouwbeheersysteem voor realtime monitoring.
 
-- **Nombre de Lumens (Article 104.6)** : Les luminaires doivent fournir un minimum de **1 lux au sol** dans les zones d'évacuation, assurant une visibilité adéquate.
-- **Visibilité des Sorties de Secours** : Chaque occupant doit pouvoir repérer une issue de secours éclairée depuis n'importe quel point dans une pièce.
+### 2.3. Signaleringsverlichting
 
-> **⚠️ Attention** : Un éclairage inadéquat dans les chemins d’évacuation peut entraîner des non-conformités et des risques accrus en cas d'évacuation.
+Deze verlichting geeft de richting aan die moet worden gevolgd in geval van nood met behulp van uitgangspictogrammen:
 
-### 3.3. Pictogrammes de Sortie
+- **Belangrijke Signalisatie**: Essentieel om de bewoners naar de uitgangen te leiden, vooral in complexe omgevingen zoals kantoren en winkelcentra.
+- **Permanente Zichtbaarheid**: De pictogrammen moeten verlicht of lichtgevend zijn om zichtbaar te blijven, zelfs bij stroomuitval.
 
-En complément des luminaires, des pictogrammes indiquant les sorties doivent être installés de manière visible et conformes aux normes RGIE :
-
-- **Éclairage (Article 104.7)** : Les pictogrammes doivent être éclairés ou luminescents pour rester visibles en cas de coupure de courant.
-- **Positionnement** : Placez les pictogrammes de façon à ce qu'ils soient visibles à hauteur des yeux et à chaque intersection de couloirs.
-
----
-
-## 4. Vérifications et Entretien des Luminaires de Secours
-
-L'entretien régulier des luminaires de secours est essentiel pour assurer leur bon fonctionnement :
-
-- **Tests de Fonctionnement (Article 106.2)** : Des tests doivent être effectués périodiquement pour vérifier que les luminaires s’allument correctement lors d’une coupure de courant. Ces tests peuvent inclure des vérifications mensuelles ou trimestrielles, selon les recommandations du fabricant.
-- **Remplacement des Batteries** : Les batteries des luminaires autonomes doivent être changées selon les directives du fabricant pour garantir une autonomie optimale.
-
-:::info 🛠️ Entretien
-Le RGIE impose que les luminaires de secours soient testés régulièrement pour assurer leur fiabilité. Consignez les résultats de chaque test pour faciliter les contrôles de conformité.
+:::example 📘 Voorbeeld
+Noodverlichting met pictogrammen is vooral nuttig in grote commerciële ruimtes om de richting naar de uitgangen aan te geven.
 :::
 
 ---
 
-## Conclusion
+## 3. Installatie-eisen volgens het AREI
 
-Les luminaires de secours sont essentiels pour assurer la **sécurité** des occupants et la **conformité aux normes du RGIE**. Leur installation, leur entretien, et leur conformité aux exigences légales sont cruciaux pour garantir une évacuation sécurisée en cas d’urgence.
+### 3.1. Plaatsing van Noodverlichting
 
-Une fois l’installation des luminaires de secours en place, il est aussi important de documenter l’ensemble des machines et dispositifs de sécurité pour garantir une conformité totale. Pour plus d’informations, consultez la prochaine section de notre checklist sur la [Documentation des Machines](https://docs.bativolt.com/docs/checklist/documentation-machines).
+Het AREI vereist dat noodverlichting op strategische plaatsen wordt geïnstalleerd:
 
-> **📢 Rappel Sécurité** : Assurez-vous que tous les luminaires de secours et les pictogrammes de sortie sont accessibles et visibles pour garantir une évacuation fluide en cas de besoin.
+- **Nooduitgangen (Artikel 104.3)**: Elke uitgang moet duidelijk worden verlicht door noodverlichting voor directe zichtbaarheid.
+- **Vluchtwegen (Artikel 104.5)**: Verlichting moet langs de vluchtwegen worden geplaatst om voldoende zichtbaarheid te garanderen.
+
+> **💼 Voor bedrijven**: Zorg ervoor dat alle vluchtwegen goed verlicht zijn, inclusief gangen, trappen en nooddeuren.
+
+### 3.2. Verlichtingsniveaus
+
+De verlichtingsniveaus van noodverlichting moeten voldoen aan de eisen van het AREI om de veiligheid te garanderen:
+
+- **Aantal Lumens (Artikel 104.6)**: De verlichting moet minimaal **1 lux op de vloer** bieden in de evacuatiezones voor voldoende zichtbaarheid.
+- **Zichtbaarheid van Nooduitgangen**: Elke persoon moet een verlichte nooduitgang kunnen zien vanaf elk punt in de ruimte.
+
+> **⚠️ Let op**: Onvoldoende verlichting langs de vluchtwegen kan leiden tot niet-conformiteit en verhoogde risico's tijdens een evacuatie.
+
+### 3.3. Uitgangspictogrammen
+
+Naast de noodverlichting moeten er pictogrammen worden geïnstalleerd die de uitgangen duidelijk aangeven en voldoen aan de AREI-normen:
+
+- **Verlichting (Artikel 104.7)**: De pictogrammen moeten verlicht of lichtgevend zijn om zichtbaar te blijven bij stroomuitval.
+- **Plaatsing**: Zorg ervoor dat de pictogrammen op ooghoogte worden geplaatst en bij elke kruising van gangen goed zichtbaar zijn.
+
+---
+
+## 4. Controle en Onderhoud van Noodverlichting
+
+Regelmatig onderhoud van noodverlichting is cruciaal om hun goede werking te garanderen:
+
+- **Functioneringstests (Artikel 106.2)**: Er moeten periodieke tests worden uitgevoerd om te controleren of de verlichting correct aangaat bij stroomuitval. Deze tests kunnen maandelijks of driemaandelijks worden uitgevoerd, afhankelijk van de aanbevelingen van de fabrikant.
+- **Vervanging van Batterijen**: De batterijen van autonome verlichting moeten worden vervangen volgens de richtlijnen van de fabrikant om optimale autonomie te garanderen.
+
+:::info 🛠️ Onderhoud
+Het AREI vereist dat noodverlichting regelmatig wordt getest om de betrouwbaarheid te waarborgen. Noteer de resultaten van elke test om de conformiteitscontroles te vergemakkelijken.
+:::
+
+---
+
+## Conclusie
+
+Noodverlichting is essentieel voor het waarborgen van de **veiligheid van de bewoners** en de **conformiteit met de AREI-normen**. De installatie, het onderhoud, en de naleving van de wettelijke vereisten zijn cruciaal voor een veilige evacuatie in geval van nood.
+
+Nadat de noodverlichting is geïnstalleerd, is het ook belangrijk om de documentatie van alle machines en veiligheidsapparatuur bij te houden voor volledige conformiteit. Voor meer informatie, raadpleeg het volgende onderdeel van onze checklist over de [Documentatie van Machines](https://docs.bativolt.com/nl/docs/checklist/documentation-machines).
+
+> **📢 Veiligheidsherinnering**: Zorg ervoor dat alle noodverlichting en uitgangspictogrammen toegankelijk en zichtbaar zijn om een vlotte evacuatie in geval van nood te garanderen.
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---
+

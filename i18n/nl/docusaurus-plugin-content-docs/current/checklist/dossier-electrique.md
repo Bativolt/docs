@@ -1,98 +1,98 @@
 ---
-title: "Dossier Électrique - Conformité RGIE et Sécurité des Installations"
-sidebar_label: Dossier Électrique
-description: "Découvrez l'importance du dossier électrique pour la conformité RGIE en Belgique. Guide complet incluant les exigences, la checklist essentielle et les normes de sécurité pour les particuliers et entreprises."
+title: "Elektrisch Dossier - Conformiteit AREI en Veiligheid van Installaties"
+sidebar_label: Elektrisch Dossier
+description: "Ontdek het belang van het elektrisch dossier voor AREI-conformiteit in België. Volledige gids met vereisten, essentiële checklist en veiligheidsnormen voor particulieren en bedrijven."
 ---
 
-# Dossier Électrique
+# Elektrisch Dossier
 
-Le **dossier électrique** est le document de référence qui regroupe toutes les informations nécessaires à la conformité et à la sécurité d'une installation électrique en Belgique. Indispensable pour répondre aux normes du **Règlement Général sur les Installations Électriques (RGIE)**, il assure la transparence et facilite les interventions pour les techniciens, les assureurs, et les contrôleurs.
+Het **elektrisch dossier** is het referentiedocument dat alle nodige informatie bevat voor de conformiteit en veiligheid van een elektrische installatie in België. Het is essentieel om te voldoen aan de normen van het **Algemeen Reglement op de Elektrische Installaties (AREI)** en zorgt voor transparantie en vergemakkelijkt interventies door technici, verzekeraars en controleurs.
 
 ---
 
-## 1. Importance du Dossier Électrique
+## 1. Belang van het Elektrisch Dossier
 
-### 1.1. Conformité et Sécurité
+### 1.1. Conformiteit en Veiligheid
 
-Le dossier électrique est conçu pour garantir la **sécurité des utilisateurs** et la conformité aux normes RGIE. Voici ses principales fonctions :
+Het elektrisch dossier is bedoeld om de **veiligheid van gebruikers** en de conformiteit met de AREI-normen te garanderen. De belangrijkste functies zijn:
 
-- **Validation des Installations** : Le dossier prouve que toutes les parties de l’installation respectent les exigences de sécurité.
-- **Contrôle des Modifications** : En cas de modifications, un rapport de conformité mis à jour assure que les modifications sont réalisées selon les standards actuels.
+- **Valideren van Installaties**: Het dossier bewijst dat alle onderdelen van de installatie voldoen aan de veiligheidsvereisten.
+- **Controle van Wijzigingen**: In geval van wijzigingen zorgt een bijgewerkt conformiteitsrapport ervoor dat de aanpassingen volgens de huidige normen zijn uitgevoerd.
 
-:::tip Astuce pour Particuliers et Professionnels
-Conservez le dossier électrique près du tableau principal pour un accès rapide. Cette pratique simplifie les inspections et réduit les risques de non-conformité.
+:::tip Tip voor Particulieren en Professionals
+Bewaar het elektrisch dossier nabij de hoofdverdeelkast voor snelle toegang. Dit vergemakkelijkt inspecties en vermindert het risico op niet-conformiteit.
 :::
 
-### 1.2. Facilitation des Interventions
+### 1.2. Vergemakkelijken van Interventies
 
-Un dossier complet et à jour permet aux électriciens et contrôleurs de **mieux comprendre l’installation** et de repérer rapidement les points critiques, facilitant ainsi :
+Een volledig en up-to-date dossier stelt elektriciens en controleurs in staat om **de installatie beter te begrijpen** en snel kritieke punten te identificeren, wat het volgende vergemakkelijkt:
 
-- **Les Interventions** : Les techniciens accèdent rapidement aux informations clés, comme les schémas et rapports de conformité.
-- **La Prévention des Risques** : Les contrôleurs peuvent facilement identifier les potentielles non-conformités et vérifier que les installations sont conformes aux articles du RGIE.
+- **Interventies**: Technici hebben snel toegang tot essentiële informatie zoals schema’s en conformiteitsrapporten.
+- **Risicopreventie**: Controleurs kunnen eenvoudig potentiële niet-conformiteiten identificeren en controleren of de installatie voldoet aan de AREI-artikelen.
 
-> **À Savoir** : Un dossier complet est essentiel pour passer les inspections, réduire les risques et garantir la protection des biens et des personnes.
+> **Goed om te Weten**: Een volledig dossier is essentieel om de inspecties te doorstaan, risico’s te verminderen en de bescherming van eigendommen en personen te garanderen.
 
 ---
 
-## 2. Exigences selon le RGIE
+## 2. Vereisten volgens het AREI
 
-### 2.1. Obligations pour les Particuliers
+### 2.1. Verplichtingen voor Particulieren
 
-Pour les habitations résidentielles, le **RGIE** impose certaines exigences spécifiques. Les éléments suivants sont essentiels dans le dossier électrique :
+Voor residentiële woningen stelt het **AREI** specifieke eisen. De volgende elementen zijn essentieel in het elektrisch dossier:
 
-- **Accès à l'Installation Électrique** : Conformément à **l'Article 206.5 du RGIE**, l'accès doit être clairement identifié et dégagé.
-- **Identification du Compteur** : Le compteur doit être identifiable et facilement accessible pour faciliter les contrôles, en accord avec **l'Article 211.2**.
-- **Schémas Électriques** : Ces schémas doivent être présents pour chaque circuit, selon **l'Article 178.3 du RGIE**.
+- **Toegang tot de Elektrische Installatie**: Volgens **Artikel 206.5 van het AREI** moet de toegang duidelijk worden aangegeven en vrij zijn.
+- **Identificatie van de Meter**: De meter moet identificeerbaar en gemakkelijk toegankelijk zijn voor controles, in overeenstemming met **Artikel 211.2**.
+- **Elektrische Schema’s**: Deze schema’s moeten voor elk circuit aanwezig zijn, zoals voorgeschreven door **Artikel 178.3 van het AREI**.
 
-:::info Exemple Pratique
-Les schémas électriques unifilaires et de position permettent aux contrôleurs de visualiser les installations et de vérifier rapidement la conformité.
+:::info Praktisch Voorbeeld
+De eenlijnige schema’s en positieschema’s stellen controleurs in staat om de installaties te visualiseren en snel conformiteit te verifiëren.
 :::
 
-### 2.2. Obligations Supplémentaires pour les Entreprises et Espaces Communs
+### 2.2. Aanvullende Verplichtingen voor Bedrijven en Gemeenschappelijke Ruimtes
 
-Dans le cas des entreprises et des espaces communs, des exigences supplémentaires s’appliquent pour répondre aux risques spécifiques de ces environnements :
+Voor bedrijven en gemeenschappelijke ruimtes gelden aanvullende eisen om te voldoen aan de specifieke risico’s van deze omgevingen:
 
-- **Analyse des Risques** : Conformément à **l'Article 105.4 du RGIE**, une analyse des risques doit être effectuée pour identifier les dangers potentiels.
-- **Documentation des Machines** : Bien que non obligatoire selon le RGIE, elle est fortement recommandée pour les équipements présentant des risques élevés.
+- **Risicoanalyse**: Volgens **Artikel 105.4 van het AREI** moet een risicoanalyse worden uitgevoerd om potentiële gevaren te identificeren.
+- **Documentatie van Machines**: Hoewel niet verplicht volgens het AREI, wordt het sterk aanbevolen voor apparatuur met een hoog risico.
 
-> **Attention** : Les installations industrielles et commerciales doivent disposer d'une documentation détaillée pour éviter les sanctions en cas de non-conformité.
-
----
-
-## 3. Checklist du Dossier Électrique
-
-Voici une **checklist complète** pour s'assurer que le dossier électrique est conforme aux exigences RGIE, en distinguant les éléments obligatoires pour les particuliers et pour les entreprises :
-
-| **Élément**                         | **Particuliers** | **Entreprises** | **Description**                                                                                          |
-|-------------------------------------|------------------|-----------------|----------------------------------------------------------------------------------------------------------|
-| **Accès à l'Installation**          | ✔️               | ✔️              | L'accès doit être clairement dégagé pour les inspections, selon l'**Article 206.5 du RGIE**.             |
-| **Identification du Compteur**      | ✔️               | ✔️              | Identification obligatoire pour faciliter les contrôles, en accord avec l'**Article 211.2**.             |
-| **Rapport de Conformité**           | Si disponible   | Si disponible   | Si des modifications ont été effectuées, un rapport de conformité récent est recommandé.                 |
-| **Schémas Électriques**             | ✔️               | ✔️              | Les schémas unifilaires et de position sont obligatoires, conformément à l'**Article 178.3**.           |
-| **Analyse des Risques**             | Non             | ✔️              | Obligatoire pour les entreprises, cette analyse identifie les risques liés à l'installation (**Article 105.4**). |
-| **Luminaires de Secours**           | Non             | ✔️              | Obligatoire pour les entreprises et espaces publics ; ils doivent être installés et entretenus selon l'**Article 104.1 du RGIE** pour assurer la sécurité des évacuations. |
-| **Documentation des Machines**      | Non             | Non (recommandé) | Recommandée pour les équipements à risque, mais non obligatoire selon le RGIE.                           |
-
-> **Conseil pour les Entreprises** : Mettez à jour régulièrement votre analyse des risques pour garantir la sécurité et éviter les interruptions lors des inspections.
+> **Opgelet**: Industriële en commerciële installaties moeten beschikken over gedetailleerde documentatie om sancties bij niet-conformiteit te vermijden.
 
 ---
 
-## 4. Conclusion
+## 3. Checklist van het Elektrisch Dossier
 
-Le dossier électrique est bien plus qu'un simple document de conformité. Il est le **pilier de la sécurité et de la transparence** pour toute installation électrique en Belgique. En maintenant un dossier complet, conforme et à jour, vous assurez non seulement la sécurité des occupants, mais vous facilitez également les inspections et interventions nécessaires pour toute modification ou mise à jour de l’installation.
+Hier is een **volledige checklist** om te garanderen dat het elektrisch dossier voldoet aan de AREI-vereisten, met een onderscheid tussen verplichte elementen voor particulieren en bedrijven:
 
-> **📢 Rappel Final** : Gardez tous les éléments du dossier électrique dans un lieu accessible, de préférence à proximité du tableau principal, et vérifiez que chaque document est à jour et conforme aux exigences du RGIE.
+| **Element**                        | **Particulieren** | **Bedrijven** | **Beschrijving**                                                                                      |
+|------------------------------------|-------------------|---------------|--------------------------------------------------------------------------------------------------------|
+| **Toegang tot de Installatie**     | ✔️                | ✔️            | De toegang moet duidelijk vrij zijn voor inspecties, volgens **Artikel 206.5 van het AREI**.           |
+| **Identificatie van de Meter**     | ✔️                | ✔️            | Verplichte identificatie voor gemakkelijke controles, in overeenstemming met **Artikel 211.2**.       |
+| **Conformiteitsrapport**           | Indien beschikbaar | Indien beschikbaar | Bij wijzigingen wordt een recent conformiteitsrapport aanbevolen.                                   |
+| **Elektrische Schema’s**           | ✔️                | ✔️            | Eenlijnige schema’s en positieschema’s zijn verplicht, zoals voorgeschreven door **Artikel 178.3**.   |
+| **Risicoanalyse**                  | Nee               | ✔️            | Verplicht voor bedrijven, deze analyse identificeert risico’s verbonden aan de installatie (**Artikel 105.4**). |
+| **Noodverlichting**                | Nee               | ✔️            | Verplicht voor bedrijven en openbare ruimtes; moet geïnstalleerd en onderhouden worden volgens **Artikel 104.1 van het AREI**. |
+| **Documentatie van Machines**      | Nee               | Nee (aanbevolen) | Aanbevolen voor risicovolle apparatuur, maar niet verplicht volgens het AREI.                         |
 
-En suivant cette checklist et en respectant les articles pertinents du RGIE, votre installation répondra aux standards de conformité les plus élevés, assurant ainsi la sécurité de tous les usagers. Cela conclut notre guide complet de la **checklist de conformité électrique**.
+> **Advies voor Bedrijven**: Werk uw risicoanalyse regelmatig bij om veiligheid te waarborgen en onderbrekingen tijdens inspecties te voorkomen.
 
-> **Ressource Complémentaire** : Pour plus d'informations sur les infractions courantes en matière de conformité électrique, consultez notre page dédiée aux [Infractions et Résolutions RGIE](https://docs.bativolt.com/docs/infractions/).
+---
+
+## 4. Conclusie
+
+Het elektrisch dossier is meer dan alleen een conformiteitsdocument. Het vormt de **basis van veiligheid en transparantie** voor elke elektrische installatie in België. Door een volledig, conform en up-to-date dossier te onderhouden, waarborgt u niet alleen de veiligheid van de bewoners, maar vergemakkelijkt u ook de inspecties en interventies die nodig zijn voor wijzigingen of updates van de installatie.
+
+> **📢 Laatste Herinnering**: Bewaar alle elementen van het elektrisch dossier op een toegankelijke plaats, bij voorkeur in de buurt van de hoofdverdeelkast, en zorg ervoor dat elk document up-to-date en conform de AREI-vereisten is.
+
+Door deze checklist te volgen en de relevante artikelen van het AREI in acht te nemen, zal uw installatie voldoen aan de hoogste conformiteitsnormen, wat de veiligheid van alle gebruikers verzekert. Dit sluit onze volledige gids voor de **checklist van elektrische conformiteit** af.
+
+> **Aanvullende Bron**: Voor meer informatie over veelvoorkomende overtredingen in elektrische conformiteit, raadpleeg onze pagina over [Overtredingen en Oplossingen AREI](https://docs.bativolt.com/nl/docs/infractions/).
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

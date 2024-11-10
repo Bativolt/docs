@@ -1,130 +1,131 @@
 ---
-title: "Absence de Terre sur les Prises - Sécurité et Conformité RGIE en Belgique"
-sidebar_label: Terre Absente
-description: "Découvrez les implications et obligations de la mise à la terre des prises pour la sécurité électrique selon le RGIE en Belgique. Guide pratique pour prévenir les infractions et garantir la conformité des installations."
+title: "Afwezigheid van Aarding op Stopcontacten - Veiligheid en Conformiteit AREI in België"
+sidebar_label: Aarding Afwezig
+description: "Ontdek de implicaties en vereisten voor de aarding van stopcontacten volgens het AREI in België. Praktische gids om inbreuken te voorkomen en de conformiteit van installaties te waarborgen."
 ---
 
-# Absence de Terre sur les Prises
+# Afwezigheid van Aarding op Stopcontacten
 
-## Introduction
+## Inleiding
 
-La mise à la terre est un élément clé de la sécurité des installations électriques, permettant de protéger les utilisateurs contre les chocs électriques. En Belgique, le **Règlement Général sur les Installations Électriques (RGIE)** impose des exigences strictes concernant la mise à la terre, notamment pour les installations réalisées après 1981. Cependant, des dérogations existent pour les installations plus anciennes, bien que des adaptations soient souvent nécessaires pour améliorer la sécurité.
-
----
-
-## 1. Importance de la Mise à la Terre
-
-### 1.1. Sécurité des Utilisateurs
-
-La mise à la terre crée un chemin sûr pour le courant de fuite en cas de défaut électrique, réduisant ainsi les risques de choc électrique. Cela est particulièrement crucial dans les environnements humides (cuisines, salles de bains), où le risque d'électrocution est amplifié.
-
-> **Saviez-vous ?** Dans les environnements humides, le corps humain présente une faible résistance (1000 à 2000 ohms), ce qui le rend particulièrement vulnérable aux chocs électriques. Une bonne mise à la terre permet de diriger le courant de fuite vers la terre plutôt que vers un utilisateur.
-
-### 1.2. Exigences du RGIE
-
-Selon l’article **4.2.2 du RGIE**, toutes les prises dans les nouvelles installations ou les parties rénovées doivent être mises à la terre. Cependant, les installations **réalisées avant 1981** peuvent bénéficier d’une **dérogation**, sauf pour les locaux humides qui doivent toujours disposer de prises mises à la terre.
+Aarding is een essentieel onderdeel van de veiligheid van elektrische installaties, omdat het gebruikers beschermt tegen elektrische schokken. In België legt het **Algemeen Reglement op de Elektrische Installaties (AREI)** strikte eisen op voor aarding, vooral voor installaties uitgevoerd na 1981. Voor oudere installaties bestaan er echter uitzonderingen, hoewel aanpassingen vaak nodig zijn om de veiligheid te verbeteren.
 
 ---
 
-## 2. Dérogations pour les Installations Avant 1981
+## 1. Belang van Aarding
 
-### 2.1. Contexte Historique et Application
+### 1.1. Veiligheid voor Gebruikers
 
-Les maisons construites avant 1981 n’étaient pas soumises aux mêmes exigences de mise à la terre qu’aujourd’hui. Ces installations bénéficient d’une dérogation, autorisant les prises sans terre, **sauf** dans les locaux humides comme les cuisines et salles de bains, où la mise à la terre est impérative.
+Aarding zorgt voor een veilige afvoer van lekstroom in geval van een elektrische fout, waardoor het risico op een elektrische schok wordt verminderd. Dit is vooral belangrijk in vochtige omgevingen (keukens, badkamers), waar het risico op elektrocutie groter is.
 
-### 2.2. Adaptations Recommandées
+> **Wist u dat?** In vochtige omgevingen heeft het menselijk lichaam een lage weerstand (1000 tot 2000 ohm), wat het extra kwetsbaar maakt voor elektrische schokken. Een goede aarding zorgt ervoor dat lekstroom naar de aarde afvloeit in plaats van naar een gebruiker.
 
-Bien qu'une dérogation soit permise, il est **fortement recommandé** d’envisager la mise à la terre de toutes les prises. L’ajout de câbles de terre peut impliquer de tirer de nouveaux fils dans les conduits existants ou de remplacer des câbles **XVB** intégrés dans les murs en plâtre.
+### 1.2. Vereisten van het AREI
 
-> **Astuce :** Les câbles **XVB** comportent déjà une section de terre, facilitant leur mise à niveau. Dans les installations anciennes, vérifier l’intégrité de cette connexion peut éviter les mises à jour coûteuses.
+Volgens **Artikel 4.2.2 van het AREI** moeten alle stopcontacten in nieuwe installaties of gerenoveerde delen geaard zijn. Installaties **uitgevoerd voor 1981** kunnen echter een **uitzondering** krijgen, behalve in vochtige ruimtes waar aarding altijd vereist is.
 
 ---
 
-## 3. Détection de l'Absence de Terre sur les Prises
+## 2. Uitzonderingen voor Installaties van Voor 1981
 
-### 3.1. Outils et Techniques de Détection
+### 2.1. Historische Context en Toepassing
 
-Pour identifier une prise sans terre, plusieurs outils et méthodes sont disponibles :
+Huizen gebouwd vóór 1981 hoefden niet te voldoen aan dezelfde aardingseisen als vandaag. Deze installaties krijgen een uitzondering, waardoor stopcontacten zonder aarding zijn toegestaan, **behalve** in vochtige ruimtes zoals keukens en badkamers, waar aarding verplicht is.
 
-- **Testeur de Prise** : Facile d'utilisation, cet appareil peut indiquer l’absence de terre par un code de lumière spécifique.
+### 2.2. Aanbevolen Aanpassingen
+
+Hoewel een uitzondering is toegestaan, wordt het **sterk aanbevolen** om alle stopcontacten van aarding te voorzien. Dit kan inhouden dat er nieuwe aardingskabels door bestaande leidingen moeten worden getrokken of dat oude **XVB-kabels** in de muren moeten worden vervangen.
+
+> **Tip:** **XVB-kabels** bevatten al een aardingsdraad, wat het upgraden vergemakkelijkt. Bij oudere installaties kan het controleren van deze verbinding dure updates voorkomen.
+
+---
+
+## 3. Opsporen van Afwezigheid van Aarding op Stopcontacten
+
+### 3.1. Gereedschap en Opsporingstechnieken
+
+Er zijn verschillende methoden en gereedschappen beschikbaar om een stopcontact zonder aarding te identificeren:
+
+- **Stopcontacttester**: Dit apparaat is eenvoudig te gebruiken en geeft de afwezigheid van aarding aan via een specifieke lichtcode.
   
-- **Multimètre** : Pour un test plus approfondi, mesurez la continuité de la terre entre la broche de la prise et un point de terre connu. Une lecture sous 1 ohm est idéale.
+- **Multimeter**: Voor een meer gedetailleerde test kunt u de continuïteit van de aarding meten tussen de aardingspen van het stopcontact en een bekend aardingspunt. Een waarde onder 1 ohm is ideaal.
 
-- **Inspection Visuelle** : Vérifiez les connexions dans le tableau électrique et à chaque prise pour déceler toute anomalie.
+- **Visuele Inspectie**: Controleer de aansluitingen in de verdeelkast en bij elk stopcontact om mogelijke afwijkingen op te sporen.
 
-### 3.2. Procédure de Test
+### 3.2. Testprocedure
 
-1. **Test de Base avec le Testeur de Prise** : Branchez le testeur. Si les voyants signalent une absence de terre, une vérification complémentaire est nécessaire.
+1. **Basiscontrole met Stopcontacttester**: Sluit de tester aan. Als de lampjes aangeven dat er geen aarding is, moet een aanvullende controle worden uitgevoerd.
   
-2. **Mesure de Continuité au Multimètre** : Configurez l’appareil pour mesurer la résistance. Une lecture faible (&lt;1 ohm) indique une bonne connexion à la terre.
+2. **Continuïteitstest met Multimeter**: Zet het apparaat op de weerstandsmeting. Een lage waarde (&lt;1 ohm) duidt op een goede aardingsverbinding.
 
-> **Avertissement :** Une prise avec broche de terre sans connexion réelle est **non conforme** et constitue une infraction RGIE. Cette situation est fréquente dans les rénovations esthétiques où la broche est présente mais la terre absente.
-
----
-
-## 4. Erreurs Fréquentes et Infractions
-
-### 4.1. Prises Esthétiquement Modernisées
-
-Il est courant de rencontrer des prises modernes avec broche de terre dans des installations anciennes où la connexion à la terre est inexistante. Cette pratique est une infraction, surtout si le câblage n’est pas mis à jour.
-
-> **Exemple Pratique :** Un nouvel acheteur peut acquérir une maison rénovée esthétiquement, mais sans terre réelle sur les prises. Lors des inspections, les contrôleurs vérifient chaque prise pour s’assurer de la conformité.
-
-### 4.2. Solutions pour la Conformité
-
-Dans les installations antérieures à 1981, il est possible de remplacer les prises avec broche de terre par des modèles sans broche, disponibles dans les magasins de bricolage. Cependant, si l'installation date d’après 1981, toutes les prises doivent obligatoirement être reliées à la terre.
-
-> **Conseil Sécurité :** Pour les installations sans terre, envisagez de faire appel à un électricien pour une évaluation. La mise à la terre de toutes les prises est recommandée, même si la dérogation le permet, pour un maximum de sécurité.
+> **Waarschuwing:** Een stopcontact met een aardingspen zonder echte aardverbinding is **niet conform** en vormt een inbreuk op het AREI. Dit komt vaak voor bij esthetische renovaties waarbij de pen aanwezig is maar de aarding ontbreekt.
 
 ---
 
-## 5. Coûts et Travaux de Mise en Conformité
+## 4. Veelvoorkomende Fouten en Inbreuken
 
-### 5.1. Remplacement des Prises
+### 4.1. Esthetisch Gemoderniseerde Stopcontacten
 
-Le coût d’une prise avec terre se situe entre **10 € et 30 €** selon la qualité. Si une prise sans broche est nécessaire, elle peut être trouvée à prix modéré.
+Het komt vaak voor dat moderne stopcontacten met een aardingspen worden geïnstalleerd in oude installaties zonder aarding. Deze praktijk vormt een inbreuk, vooral als de bedrading niet is bijgewerkt.
 
-### 5.2. Travaux de Mise à la Terre
+> **Praktijkvoorbeeld:** Een nieuwe eigenaar kan een huis kopen dat esthetisch is gerenoveerd, maar zonder echte aarding op de stopcontacten. Bij inspecties controleren controleurs elk stopcontact om te zorgen voor conformiteit.
 
-La mise à niveau d’une installation entière peut coûter entre **300 € et 1500 €**, en fonction de la complexité. Un électricien qualifié peut évaluer les besoins spécifiques et recommander les meilleures solutions.
+### 4.2. Oplossingen voor Conformiteit
 
-| **Type de Travaux**        | **Coût Estimé**             | **Détails**                                      |
-|----------------------------|-----------------------------|--------------------------------------------------|
-| Remplacement de Prises     | 10 € - 30 € par prise       | Prises avec ou sans broche de terre              |
-| Installation de Mise à la Terre | 300 € - 1500 €               | En fonction de la taille et de la complexité     |
+In installaties van vóór 1981 kunnen stopcontacten met aardingspen worden vervangen door modellen zonder pen, verkrijgbaar in doe-het-zelfwinkels. Als de installatie echter dateert van na 1981, moeten alle stopcontacten verplicht worden geaard.
 
-### 5.3. Inspection et Évaluation
-
-Avant d'entamer des travaux, il est recommandé de faire réaliser un **diagnostic complet** de l’installation par un électricien agréé, afin d’identifier les prises et circuits nécessitant des mises à niveau.
+> **Veiligheidsadvies:** Voor installaties zonder aarding is het raadzaam een elektricien in te schakelen voor een evaluatie. Het is aanbevolen om alle stopcontacten van aarding te voorzien, ook al is er een uitzondering mogelijk.
 
 ---
 
-## 6. Bonnes Pratiques et Conseils
+## 5. Kosten en Werkzaamheden voor Conformiteit
 
-- **Effectuez des tests réguliers** pour vérifier la connexion à la terre, surtout dans les zones humides.
+### 5.1. Vervanging van Stopcontacten
+
+De kosten van een stopcontact met aarding variëren tussen **€10 en €30**, afhankelijk van de kwaliteit. Als een stopcontact zonder aardingspen nodig is, kan dit tegen een lagere prijs worden verkregen.
+
+### 5.2. Aardingswerkzaamheden
+
+Het upgraden van een volledige installatie kan tussen de **€300 en €1500** kosten, afhankelijk van de complexiteit. Een gekwalificeerde elektricien kan de specifieke behoeften beoordelen en de beste oplossingen aanbevelen.
+
+| **Soort Werkzaamheden**   | **Geschatte Kosten**       | **Details**                                      |
+|---------------------------|----------------------------|--------------------------------------------------|
+| Vervanging van Stopcontacten | €10 - €30 per stopcontact  | Stopcontacten met of zonder aardingspen          |
+| Installatie van Aarding   | €300 - €1500               | Afhankelijk van de grootte en complexiteit       |
+
+### 5.3. Inspectie en Evaluatie
+
+Voordat u met werkzaamheden begint, is het raadzaam een **volledige diagnose** van de installatie te laten uitvoeren door een erkende elektricien, om de stopcontacten en circuits te identificeren die een upgrade vereisen.
+
+---
+
+## 6. Goede Praktijken en Adviezen
+
+- **Voer regelmatig tests uit** om de aarding te controleren, vooral in vochtige ruimtes.
   
-- **Optez pour des prises sans broche** dans les installations bénéficiant de la dérogation, afin d’éviter la confusion lors des contrôles.
+- **Gebruik stopcontacten zonder aardingspen** in installaties die onder de uitzondering vallen, om verwarring tijdens inspecties te voorkomen.
   
-- **Mise à la Terre Complète** : Même si la dérogation autorise des prises sans terre, il est recommandé de mettre toutes les prises à la terre pour améliorer la sécurité.
+- **Volledige Aarding**: Hoewel de uitzondering stopcontacten zonder aarding toestaat, is het aanbevolen om alle stopcontacten te aarden voor maximale veiligheid.
 
-> **Note :** En cas de doute, faites appel à un électricien qualifié. La conformité aux normes RGIE est essentielle pour prévenir les risques et garantir la sécurité.
+> **Opmerking:** Neem bij twijfel contact op met een gekwalificeerde elektricien. Naleving van de AREI-normen is essentieel om risico’s te voorkomen en de veiligheid te waarborgen.
 
 ---
 
-## Conclusion
+## Conclusie
 
-L'absence de terre sur les prises est une situation courante dans les installations anciennes, mais elle représente un danger pour la sécurité électrique. Bien que les installations antérieures à 1981 puissent bénéficier d'une dérogation, il est recommandé d'envisager une mise à jour complète. Assurer une connexion à la terre pour toutes les prises est la meilleure manière de protéger les occupants et d'optimiser la conformité de votre installation.
+Het ontbreken van aarding op stopcontacten komt vaak voor in oudere installaties, maar vormt een veiligheidsrisico. Hoewel installaties van vóór 1981 in aanmerking komen voor een uitzondering, wordt een volledige upgrade aanbevolen. Het zorgen voor aarding op alle stopcontacten is de beste manier om de bewoners te beschermen en de conformiteit van uw installatie te optimaliseren.
 
 :::tip
-**Sécurité Avant Tout !** Assurez-vous que votre installation respecte les normes RGIE en vigueur et que les prises sans terre sont correctement identifiées ou remplacées pour éviter toute infraction.
+**Veiligheid Eerst!** Zorg ervoor dat uw installatie voldoet aan de geldende AREI-normen en dat stopcontacten zonder aarding correct worden geïdentificeerd of vervangen om inbreuken te voorkomen.
 :::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---
+

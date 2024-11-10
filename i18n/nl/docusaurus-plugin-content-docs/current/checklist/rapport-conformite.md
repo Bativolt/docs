@@ -1,87 +1,87 @@
 ---
-title: "Rapport de Conformité Électrique - RGIE et Sécurité des Installations"
-sidebar_label: Rapport de Conformité
-description: "Comprenez l'importance du rapport de conformité selon le RGIE pour la sécurité des installations électriques en Belgique. Découvrez pourquoi conserver et présenter l'attestation est essentiel pour les inspections et modifications électriques."
+title: "Conformiteitsrapport Elektrische Installatie - AREI en Veiligheid"
+sidebar_label: Conformiteitsrapport
+description: "Begrijp het belang van het conformiteitsrapport volgens het AREI voor de veiligheid van elektrische installaties in België. Ontdek waarom het bewaren en presenteren van het attest essentieel is voor inspecties en wijzigingen."
 ---
 
-# Rapport de Conformité Électrique
+# Conformiteitsrapport Elektrische Installatie
 
-Présenter l'ancienne **attestation de conformité** lors des inspections est essentiel pour garantir un contrôle optimal de l'installation électrique. Ce document, requis par le **Règlement Général sur les Installations Électriques (RGIE)**, atteste que votre installation répond aux normes de sécurité en vigueur, assurant ainsi la protection des occupants et la conformité réglementaire.
+Het tonen van het oude **conformiteitsattest** tijdens inspecties is essentieel voor een optimale controle van de elektrische installatie. Dit document, vereist door het **Algemeen Reglement op de Elektrische Installaties (AREI)**, bevestigt dat uw installatie voldoet aan de geldende veiligheidsnormen, wat zorgt voor de bescherming van de bewoners en de naleving van de regelgeving.
 
 ---
 
-## 1. Pourquoi Présenter l'Ancienne Attestation de Conformité ?
+## 1. Waarom het Oude Conformiteitsattest Tonen?
 
-### 1.1. Un Historique Précieux pour l’Inspection
+### 1.1. Een Waardevol Historisch Document voor de Inspectie
 
-Le rapport de conformité fournit une vue d'ensemble des installations au moment de la dernière inspection, incluant les correctifs effectués et les éléments nécessitant une vérification particulière. Il permet au contrôleur de :
+Het conformiteitsrapport biedt een overzicht van de installatie tijdens de laatste inspectie, inclusief de uitgevoerde correcties en de onderdelen die extra aandacht vereisen. Het stelt de controleur in staat om:
 
-- **Suivre les Correctifs Précédents** : Assurer que les **non-conformités antérieures** ont bien été corrigées.
-- **Évaluer les Modifications et Ajouts** : Faciliter le contrôle de nouvelles installations (ajout d’un circuit, borne de recharge, etc.).
+- **Vorige Correcties te Controleren**: Verifiëren dat de **vorige niet-conformiteiten** daadwerkelijk zijn gecorrigeerd.
+- **Wijzigingen en Toevoegingen te Evalueren**: Het controleren van nieuwe installaties (toevoeging van een circuit, laadpaal, etc.) wordt vergemakkelijkt.
 
-:::tip 💡 Conseil Pratique
-Gardez le rapport de conformité accessible dans un lieu sûr, idéalement près du tableau principal, conformément à l'**article 206.8 du RGIE**. Cela garantit son accès rapide pour tout contrôle ou modification.
+:::tip 💡 Praktische Tip
+Bewaar het conformiteitsrapport op een veilige plek, bij voorkeur nabij de hoofdverdeelkast, zoals voorgeschreven door **Artikel 206.8 van het AREI**. Dit garandeert snelle toegang tijdens controles of wijzigingen.
 :::
 
-### 1.2. Preuve de Conformité et Sécurité des Installations
+### 1.2. Bewijs van Conformiteit en Veiligheid van de Installatie
 
-Le rapport de conformité atteste de la sécurité de l'installation lors de la dernière inspection, ce qui est crucial pour :
+Het conformiteitsrapport bewijst de veiligheid van de installatie tijdens de laatste inspectie, wat cruciaal is voor:
 
-- **L’Assurance de Sécurité** : Un rapport valide réduit les risques d’infractions et prouve la conformité de votre installation.
-- **Assurances et Litiges** : Certaines assurances exigent un rapport de conformité pour couvrir les sinistres électriques. Un rapport valide peut ainsi faciliter les démarches en cas de problème.
+- **Veiligheidsgarantie**: Een geldig rapport vermindert het risico op overtredingen en bewijst de conformiteit van uw installatie.
+- **Verzekeringen en Geschillen**: Sommige verzekeringen vereisen een conformiteitsrapport voor dekking bij elektrische schade. Een geldig rapport kan het proces vergemakkelijken bij problemen.
 
-:::info 🔍 À Savoir
-En Belgique, un rapport de conformité est généralement valable **25 ans** pour les habitations résidentielles conformes, mais des contrôles plus fréquents peuvent être nécessaires en cas de non-conformité ou de modifications majeures.
-:::
-
----
-
-## 2. Examen des Installations et Identification des Non-Conformités
-
-Lors des inspections, les contrôleurs consultent le rapport de conformité pour vérifier la conformité de chaque composant de l’installation aux exigences du RGIE. Le tableau suivant présente les éléments clés examinés :
-
-| **Élément Vérifié**               | **Vérification par le Contrôleur**                                                                                         |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Tableau Électrique**            | Conformité avec le RGIE **Art. 178.3** : protection des circuits, accessibilité et identification claire de chaque circuit. |
-| **Prises et Circuits Protégés**   | Vérification des disjoncteurs et fusibles, présence d'un différentiel adapté pour chaque circuit.                           |
-| **Mise à la Terre**               | Contrôle de la continuité de la mise à la terre selon le RGIE, **Art. 202.7** ; vérification de la sécurité contre les chocs électriques. |
-| **Modifications Récentes**        | Vérification que les ajouts récents (ex. bornes de recharge) respectent les normes RGIE, garantissant une installation sûre et conforme. |
-
-:::caution ⚠️ Attention
-Toute non-conformité relevée lors de l’inspection doit être soigneusement documentée et accompagnée d’un délai de mise en conformité. Un rapport clair facilite les interventions et les suivis, assurant ainsi la sécurité des installations.
-:::
-
-### Importance de l’Ancienne Attestation en Cas de Modifications
-
-Bien que l’ancienne attestation ne soit pas nécessaire pour un nouveau contrôle complet (l'inspecteur doit revérifier l'intégralité de l'installation), elle peut être précieuse en cas de **modification partielle**. Par exemple, pour des travaux comme l’ajout d’une borne électrique, le rapport permet de vérifier rapidement la **conformité de l'installation de base**, facilitant ainsi l’évaluation de l’impact des nouvelles modifications.
-
----
-
-## 3. Obligation de Conserver le Rapport Près du Tableau Principal
-
-Selon l'**article 206.8 du RGIE**, le rapport de conformité doit être conservé à proximité immédiate du **tableau principal** de l'installation électrique. Cela assure son accessibilité immédiate pour les contrôleurs, électriciens et autres professionnels autorisés. Voici les bénéfices de cette obligation :
-
-- **Accessibilité en Cas d'Urgence** : En cas d'urgence ou de panne, le rapport de conformité permet une intervention rapide et sécurisée.
-- **Transparence pour les Contrôleurs** : Les inspecteurs peuvent consulter directement les détails de l'installation pour éviter des tests redondants ou des erreurs lors de l’évaluation.
-
-:::tip 💡 Astuce
-Si vous envisagez des modifications électriques futures, comme la rénovation de circuits ou l'ajout d'équipements, conservez soigneusement le rapport actuel. Il peut servir de référence précieuse pour les électriciens et simplifier les démarches administratives et réglementaires.
+:::info 🔍 Wist u dat
+In België is een conformiteitsrapport doorgaans **25 jaar** geldig voor residentiële woningen die conform zijn, maar frequenter controles kunnen nodig zijn bij niet-conformiteit of grote wijzigingen.
 :::
 
 ---
 
-## Conclusion
+## 2. Controle van de Installatie en Identificatie van Niet-conformiteiten
 
-Le **rapport de conformité** est plus qu'une simple attestation : c'est un document clé pour la sécurité, la transparence et la conformité des installations électriques. Garder ce rapport à jour et accessible est essentiel pour faciliter les inspections et garantir la protection des usagers. 
+Tijdens inspecties raadplegen controleurs het conformiteitsrapport om te verifiëren dat elk onderdeel van de installatie voldoet aan de eisen van het AREI. In de onderstaande tabel staan de belangrijkste gecontroleerde elementen:
 
-Pour approfondir la compréhension des schémas et plans nécessaires à l'établissement du rapport de conformité, consultez notre page dédiée aux [Plans et Schémas Électriques](https://docs.bativolt.com/docs/checklist/plans-schemas-electriques).
+| **Gecontroleerd Element**          | **Controle door de Inspecteur**                                                                                   |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Hoofdverdeelkast**              | Conformiteit met **Artikel 178.3 van het AREI**: bescherming van circuits, toegankelijkheid en duidelijke identificatie. |
+| **Beschermde Stopcontacten en Circuits** | Controle van automaten en zekeringen, aanwezigheid van een geschikte aardlekschakelaar per circuit.               |
+| **Aarding**                       | Controle van de continuïteit van de aarding volgens **Artikel 202.7 van het AREI**; veiligheid tegen elektrische schokken. |
+| **Recente Wijzigingen**           | Verificatie dat recente toevoegingen (bijv. laadpalen) voldoen aan de AREI-normen, voor een veilige en conforme installatie. |
+
+:::caution ⚠️ Let op
+Elke geconstateerde niet-conformiteit tijdens de inspectie moet zorgvuldig worden gedocumenteerd en vergezeld gaan van een termijn voor correctie. Een duidelijk rapport vergemakkelijkt interventies en opvolging, wat de veiligheid van de installatie garandeert.
+:::
+
+### Belang van het Oude Attest bij Wijzigingen
+
+Hoewel het oude attest niet vereist is voor een volledige nieuwe controle (de inspecteur moet de hele installatie opnieuw controleren), kan het waardevol zijn bij **gedeeltelijke wijzigingen**. Voor werkzaamheden zoals het plaatsen van een laadpaal, kan het rapport snel de **conformiteit van de basisinstallatie** aantonen, wat de evaluatie van nieuwe wijzigingen vereenvoudigt.
+
+---
+
+## 3. Verplichting om het Rapport bij de Hoofdverdeelkast te Bewaren
+
+Volgens **Artikel 206.8 van het AREI** moet het conformiteitsrapport direct naast de **hoofdverdeelkast** van de elektrische installatie worden bewaard. Dit zorgt voor onmiddellijke toegankelijkheid voor controleurs, elektriciens en andere bevoegde professionals. De voordelen van deze verplichting zijn:
+
+- **Toegankelijkheid in Noodsituaties**: Bij nood of storing biedt het conformiteitsrapport snelle en veilige interventiemogelijkheden.
+- **Transparantie voor Controleurs**: Inspecteurs kunnen direct de details van de installatie raadplegen, wat dubbele testen of fouten tijdens de beoordeling voorkomt.
+
+:::tip 💡 Advies
+Als u toekomstige elektrische wijzigingen plant, zoals renovatie van circuits of het toevoegen van apparatuur, bewaar dan het huidige rapport zorgvuldig. Het kan een waardevolle referentie zijn voor elektriciens en de administratieve en regelgevende processen vereenvoudigen.
+:::
+
+---
+
+## Conclusie
+
+Het **conformiteitsrapport** is meer dan alleen een attest: het is een cruciaal document voor de veiligheid, transparantie en conformiteit van elektrische installaties. Het rapport actueel en toegankelijk houden is essentieel om inspecties te vergemakkelijken en de bescherming van de gebruikers te waarborgen.
+
+Voor meer informatie over de schema’s en plannen die nodig zijn voor het opstellen van het conformiteitsrapport, raadpleeg onze pagina over [Plannen en Elektrische Schema’s](https://docs.bativolt.com/nl/docs/checklist/plans-schemas-electriques).
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---
