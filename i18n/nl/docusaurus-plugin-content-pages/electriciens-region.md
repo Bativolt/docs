@@ -43,12 +43,6 @@ Onze dynamische zoekfunctie zal u in staat stellen eenvoudig een **gekwalificeer
 | **Voorbeeld Elektricien B** | Namen            | 5000     | [0472 11 11 11](tel:0472111111) | voorbeeld2@email.com      | [voorbeeld2.com](https://www.voorbeeld2.com) | ⭐⭐⭐☆☆   |
 | **Voorbeeld Elektricien C** | Luik             | 4000     | [0472 22 22 22](tel:0472222222) | voorbeeld3@email.com      | [voorbeeld3.com](https://www.voorbeeld3.com) | ⭐⭐⭐⭐☆   |
 
-> **📸 Voorbeeldafbeelding**
-> 
-> :::info Voorbeeldafbeelding 📸
-> Een voorbeeldillustratie van de dynamische tabel wordt hier toegevoegd zodra de functie live is. Wilt u bijdragen met een foto? Stuur deze naar [docs@bativolt.com](mailto:docs@bativolt.com).
-> :::
-
 ---
 
 ## 📞 Word Partner: Sluit Aan bij Onze Lijst van Erkende Elektriciens

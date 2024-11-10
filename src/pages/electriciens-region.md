@@ -43,12 +43,6 @@ Notre future fonctionnalité de recherche dynamique vous permettra de trouver fa
 | **Exemple Électricien B**  | Namur             | 5000        | [0472 11 11 11](tel:0472111111) | exemple2@email.com         | [exemple2.com](https://www.exemple2.com) | ⭐⭐⭐☆☆       |
 | **Exemple Électricien C**  | Liège             | 4000        | [0472 22 22 22](tel:0472222222) | exemple3@email.com         | [exemple3.com](https://www.exemple3.com) | ⭐⭐⭐⭐☆       |
 
-> **📸 Image d'Exemple**
-> 
-> :::info Image d'Exemple 📸
-> Une illustration du tableau dynamique sera ajoutée ici une fois la fonctionnalité en ligne. Si vous souhaitez contribuer avec une photo, envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com) pour enrichir notre documentation.
-> :::
-
 ---
 
 ## 📞 Devenir Partenaire : Rejoignez Notre Liste d'Électriciens Agréés
