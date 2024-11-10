@@ -150,7 +150,7 @@ De betrokken partijen moeten zorgen voor een goede archivering en toegankelijkhe
 
 Eendraadschema's bieden een vereenvoudigde weergave van de elektrische installatie, waarbij de verbindingen tussen de verschillende componenten worden getoond. Deze schema's zijn essentieel om de basisstructuur van de installatie te begrijpen en om de bescherming van de circuits te waarborgen.
 
-![Voorbeeld van Eendraadschema](/img/bativolt-voorbeeld-eendraadschema.png)
+![Voorbeeld van Eendraadschema](/img/bativolt-exemple-schema-unifilaire.png)
 
 :::tip
 **Tip:** Een goed gedetailleerd eendraadschema geeft een volledig overzicht van de installatie, wat onderhoud vergemakkelijkt en fouten tijdens interventies vermindert. Het dient ook als referentie voor toekomstige aanpassingen of uitbreidingen, waardoor consistentie wordt gegarandeerd.
@@ -160,7 +160,7 @@ Eendraadschema's bieden een vereenvoudigde weergave van de elektrische installat
 
 Positieschema's tonen de exacte locatie van elk element van de installatie, wat interventies en reparaties vergemakkelijkt. Dit type schema helpt elektriciens efficiënter en veiliger te werken door een duidelijke referentie te bieden van elk onderdeel.
 
-![Voorbeeld van Positieschema](/img/bativolt-voorbeeld-positieschema.png)
+![Voorbeeld van Positieschema](/img/bativolt-exemple-schema-de-position.png)
 
 > **Tip:** Positieschema's zijn vooral nuttig bij renovaties of wijzigingen van de installatie, omdat ze aangeven waar elk element fysiek is geplaatst.
 
