@@ -202,47 +202,39 @@ Avant de réaliser des modifications importantes dans une installation existante
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Partie 2 🎯
+### Conclusie van Deel 1 - Algemene Voorschriften voor Elektrische Installaties en Materialen
 
-- **Caractéristiques des Installations** : Utilisez des composants adaptés aux spécifications de chaque type d’installation (domestique, industrielle), en respectant les limites de tension et de courant pour garantir la sécurité et la longévité des équipements.
+Deel 1 van het AREI legt de essentiële basis voor de veiligheid en conformiteit van elektrische installaties. Het beschrijft de vereisten voor de keuze van materialen, het ontwerp van installaties en de bescherming tegen elektrische risico's. Dit eerste deel is cruciaal voor elke installatie, omdat het de fundamentele aspecten behandelt die niet alleen de veiligheid van gebruikers garanderen, maar ook de duurzaamheid en prestaties van de elektrische apparatuur.
 
-- **Protection contre les Chocs Électriques** ⚡ : Installez des dispositifs de protection spécifiques pour chaque classe de matériel. Assurez-vous de respecter les normes d'isolation et d'installation pour minimiser les risques d’électrocution.
+De belangrijkste punten die aan bod komen zijn:
 
-- **Mise à la Terre** 🛠️ : Veillez à une mise à la terre appropriée pour toutes les installations et équipements sensibles. Respectez les schémas de mise à la terre adaptés aux types de réseaux pour une sécurité optimale.
+- **Keuze van Materialen**: Het is essentieel om materialen en apparatuur te selecteren die geschikt zijn voor de kenmerken van elke installatie, of het nu gaat om huishoudelijke, industriële of commerciële toepassingen. Deze keuze moet worden gemaakt in overeenstemming met de kwaliteits- en veiligheidsnormen, zodat een conforme en duurzame installatie wordt gegarandeerd.
 
-- **Gestion des Courants et Dispositifs de Protection** 🔋 : Sélectionnez et dimensionnez avec précision les dispositifs de protection en fonction des courants d’utilisation pour éviter les surcharges et les court-circuits. Documentez toutes les installations pour les interventions futures.
+- **Bescherming tegen Risico’s**: De bescherming van personen en eigendommen is van het grootste belang. Dit omvat de installatie van beschermingsapparatuur tegen elektrische schokken, overbelasting en kortsluiting. Elk gebruikt materiaal moet voldoen aan de isolatie- en weerstandsnormen om optimale veiligheid te waarborgen.
 
-- **Canalisations et Modes de Pose** 🏗️ : Choisissez des canalisations de qualité et adaptez le mode de pose en fonction des contraintes (enterrées, aériennes, conduits, etc.). Fixez solidement les canalisations et protégez-les des influences externes pour une installation durable.
+- **Aarding en Schema’s**: De aarding van apparatuur is een centraal punt in de elektrische veiligheid. Het helpt het risico op elektrocutie bij defecten te verminderen en moet worden uitgevoerd volgens de aanbevolen aardingsschema’s. De elektrische schema’s, zowel enkelvoudige lijnen als plaatsingsschema’s, moeten duidelijk en precies zijn om het begrip en het onderhoud van de installaties te vergemakkelijken.
 
-- **Sectionnement et Commande** 🔒 : Intégrez des dispositifs de commande et de sectionnement clairs et facilement accessibles pour permettre des interventions sécurisées en cas de maintenance ou d'urgence.
+- **Documentatie en Opvolging**: Deel 1 benadrukt ook het belang van het bijhouden van volledige documentatie van de installaties, inclusief de schema’s, conformiteitsrapporten en kenmerken van de apparatuur. Deze documentatie is essentieel voor toekomstige aanpassingen of interventies en zorgt voor transparantie en traceerbaarheid van de installatie.
 
-- **Influences Externes** 🌧️ : Prévoyez des protections contre les effets de la température, de l'humidité, des chocs et des matières corrosives pour prolonger la durée de vie des installations et assurer leur bon fonctionnement.
+Door deze algemene voorschriften na te leven, worden elektrische installaties veiliger, betrouwbaarder en voldoen ze aan de reglementaire vereisten. Ze vormen de basis voor een performante installatie, verminderen het risico op ongevallen en vergemakkelijken het onderhoud gedurende de hele levensduur van de installatie.
 
-- **Travaux et Vérifications** 👷 : Confiez les travaux électriques (sous tension ou hors tension) à des professionnels qualifiés. Procédez à des vérifications régulières pour garantir la sécurité continue des installations et la conformité aux normes.
+:::tip Bonnes Pratiques - Résumé de la Partie 1 🎯
 
-- **Schémas et Documents** 📐 : Maintenez à jour les schémas de câblage et les documents de conformité, incluant les schémas unifilaires, les plans d’installation et les dispositifs de sécurité. Une documentation complète facilite l’entretien et la modification des installations.
+- **Sélection de Matériel Conformément aux Normes** 📦 : Choisissez du matériel certifié et homologué pour garantir la sécurité et la conformité des installations électriques. Le respect des normes assure une fiabilité accrue et une protection optimale.
 
-- **Symboles Graphiques** 🖌️ : Utilisez des symboles normalisés dans vos schémas pour une communication claire et efficace entre les différents intervenants (électriciens, inspecteurs, etc.).
+- **Respect des Règles de l'Art** 🛠️ : Effectuez toutes les installations selon les règles de l’art, en utilisant des méthodes et des matériaux conformes aux standards en vigueur. Cela réduit les risques et améliore la durabilité des équipements.
 
-En appliquant ces bonnes pratiques inspirées du RGIE, vous assurez la conformité, la sécurité et la durabilité de vos installations électriques.
+- **Protection Contre les Risques Électriques** ⚡ : Installez des dispositifs de protection appropriés contre les surcharges, les courts-circuits et les chocs électriques pour garantir la sécurité des utilisateurs et des biens.
+
+- **Mise à la Terre et Schémas** 🌍 : Assurez une mise à la terre correcte des installations selon les schémas recommandés. Cela minimise les risques d’électrocution et garantit un fonctionnement sûr de l'équipement.
+
+- **Documentation Complète et à Jour** 📄 : Maintenez une documentation exhaustive incluant les schémas, les rapports de conformité et les caractéristiques des équipements. Une bonne documentation facilite l’entretien et la conformité des installations.
+
+- **Vérifications et Entretien Réguliers** 🔍 : Effectuez des contrôles périodiques pour s’assurer que les installations restent conformes et sécurisées. Un entretien régulier prolonge la durée de vie des équipements et prévient les défaillances.
+
+En suivant ces bonnes pratiques issues de la Partie 1 du RGIE, vous établissez des bases solides pour des installations électriques sûres et conformes aux normes.
 
 :::
-
-## Conclusion de la Partie 1 - Prescriptions Générales pour les Installations et Matériels Électriques
-
-La Partie 1 du RGIE pose les bases essentielles pour la sécurité et la conformité des installations électriques. Elle détaille les exigences à respecter concernant la sélection des matériaux, la conception des installations, et la protection contre les risques électriques. Cette première partie est cruciale pour toute installation, car elle couvre les aspects fondamentaux qui garantissent non seulement la sécurité des utilisateurs, mais aussi la durabilité et la performance des équipements électriques.
-
-Les principaux points abordés incluent :
-
-- **Choix du Matériel** : Il est essentiel de sélectionner des matériaux et équipements adaptés aux caractéristiques de chaque installation, qu’elle soit domestique, industrielle, ou commerciale. Ce choix doit être effectué en respectant les normes de qualité et de sécurité, garantissant ainsi une installation conforme et durable.
-
-- **Protection Contre les Risques** : La protection des personnes et des biens est primordiale. Cela passe par l’installation de dispositifs de protection contre les chocs électriques, les surcharges, et les courts-circuits. Chaque matériel utilisé doit répondre aux normes d’isolation et de résistance pour assurer une sécurité optimale.
-
-- **Mise à la Terre et Schémas** : La mise à la terre des équipements constitue un point central de la sécurité électrique. Elle permet de réduire les risques d’électrocution en cas de défaut et doit être effectuée conformément aux schémas de mise à la terre recommandés. Les schémas électriques, unifilaires ou de position, doivent être clairs et précis pour faciliter la compréhension et la maintenance des installations.
-
-- **Documentation et Suivi** : La partie 1 insiste également sur l’importance de maintenir une documentation complète des installations, incluant les schémas, les rapports de conformité, et les caractéristiques des équipements. Cette documentation est un support indispensable pour toute modification ou intervention future, garantissant la transparence et la traçabilité de l’installation.
-
-En respectant ces prescriptions générales, les installations électriques deviennent plus sûres, fiables, et conformes aux exigences réglementaires. Elles posent les fondations d’une installation performante, limitant les risques d'accidents et facilitant les interventions de maintenance tout au long de leur cycle de vie.
 
 
 ---

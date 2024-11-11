@@ -1,62 +1,62 @@
 ---
-title: Introduction au Guide RGIE - Livre 3
-sidebar_label: Introduction au Livre 3
-description: Guide RGIE - Livre 3, dédié aux installations spéciales et à la conformité avancée pour les installations de haute exigence en Belgique. Actuellement en préparation pour répondre aux besoins des professionnels.
+title: Introductie tot de AREI-gids - Boek 3
+sidebar_label: Introductie van Boek 3
+description: AREI-gids - Boek 3, gewijd aan speciale installaties en geavanceerde naleving voor installaties met hoge eisen in België. Momenteel in voorbereiding om te voldoen aan de behoeften van professionals.
 ---
 
-# Introduction au Guide RGIE - Livre 3
+# Introductie tot de AREI-gids - Boek 3
 
-:::important Note Importante ⚠️
-Le **Livre 3 du Guide RGIE** est destiné à un niveau avancé de conformité électrique, spécialement conçu pour les installations **spéciales et de haute exigence**. Ce volume s'adresse aux installations critiques et à risque, telles que les hôpitaux, centres de données et infrastructures industrielles. **Ce guide ne s'applique pas aux installations domestiques ni aux environnements classiques de travail.**
+:::important Belangrijke Opmerking ⚠️
+Het **Boek 3 van de AREI-gids** is bedoeld voor een gevorderd niveau van elektrische conformiteit, speciaal ontworpen voor **speciale en hoog-risico installaties**. Dit deel richt zich op kritieke en risicovolle installaties, zoals ziekenhuizen, datacenters en industriële infrastructuren. **Deze gids is niet van toepassing op huishoudelijke installaties of standaard werkomgevingen.**
 :::
 
-Bienvenue dans le **Livre 3 du Guide RGIE**, une extension pour les professionnels travaillant avec des **installations électriques de haute complexité et haute exigence**. Suite aux retours positifs sur les **Livre 1 et Livre 2**, ce troisième volume se concentre sur les besoins de conformité pour les installations critiques, où la sécurité et la précision sont cruciales. 
+Welkom bij het **Boek 3 van de AREI-gids**, een uitbreiding voor professionals die werken met **complexe en veeleisende elektrische installaties**. Na positieve feedback op **Boek 1 en Boek 2**, richt dit derde deel zich op de conformiteitsbehoeften voor kritieke installaties, waar veiligheid en precisie van essentieel belang zijn.
 
-Chez **Bativolt**, nous avons conçu ce guide pour que les techniciens, ingénieurs et installateurs puissent accéder facilement aux informations et techniques spécifiques pour les installations de haute exigence, garantissant un standard élevé de sécurité.
+Bij **Bativolt** hebben we deze gids ontworpen om technici, ingenieurs en installateurs eenvoudig toegang te geven tot specifieke informatie en technieken voor installaties met hoge eisen, en zo een hoog veiligheidsniveau te garanderen.
 
-## Pourquoi un Livre 3 ? 🔍
+## Waarom een Boek 3? 🔍
 
-Le **Livre 3** du Guide RGIE est en cours de développement en réponse à une forte demande de la part des professionnels spécialisés. En abordant les installations critiques, ce guide fournit des **outils avancés** pour gérer des infrastructures où la sécurité électrique ne peut tolérer aucun compromis.
+Het **Boek 3** van de AREI-gids is in ontwikkeling als antwoord op een sterke vraag van gespecialiseerde professionals. Dit deel behandelt kritieke installaties en biedt **geavanceerde tools** om infrastructuren te beheren waar geen enkele compromis mogelijk is op het gebied van elektrische veiligheid.
 
-:::tip Contenu à venir 🎯
-- **Installations en milieux critiques** : Exigences et normes spécifiques pour des environnements tels que les hôpitaux, laboratoires, et centres de données.
-- **Maintenance prédictive et préventive avancée** : Techniques pour garantir un fonctionnement continu et sécuritaire des équipements critiques.
-- **Exigences de sécurité renforcées** : Conseils pour la sécurité électrique dans des infrastructures sensibles.
+:::tip Inhoud die binnenkort beschikbaar is 🎯
+- **Installaties in kritieke omgevingen**: Specifieke eisen en normen voor omgevingen zoals ziekenhuizen, laboratoria en datacenters.
+- **Geavanceerd voorspellend en preventief onderhoud**: Technieken om een continue en veilige werking van kritieke apparatuur te garanderen.
+- **Verhoogde veiligheidsvereisten**: Adviezen voor elektrische veiligheid in gevoelige infrastructuren.
 :::
 
-## Structure du Livre 3
+## Structuur van Boek 3
 
-Le **Livre 3** sera structuré en chapitres dédiés aux installations de haute exigence, incluant des conseils pratiques, des exemples avancés, et des avertissements spécifiques. Voici un aperçu des sections à venir :
+Het **Boek 3** zal worden gestructureerd in hoofdstukken die zijn gewijd aan installaties met hoge eisen, inclusief praktische adviezen, geavanceerde voorbeelden en specifieke waarschuwingen. Hier is een overzicht van de komende secties:
 
-1. **Installations critiques et infrastructures sensibles** : Guide des exigences de conformité pour les installations en environnements critiques.
-2. **Sécurité électrique renforcée** : Normes pour la protection avancée des infrastructures sensibles.
-3. **Maintenance et surveillance** : Techniques de surveillance pour éviter les interruptions dans des environnements à haute exigence.
-4. **Nouveautés et mises à jour réglementaires** : Adaptations aux normes évolutives pour les installations critiques.
+1. **Kritieke installaties en gevoelige infrastructuren**: Gids voor de nalevingsvereisten in kritieke omgevingen.
+2. **Verhoogde elektrische veiligheid**: Normen voor de geavanceerde bescherming van gevoelige infrastructuren.
+3. **Onderhoud en toezicht**: Toezichtstechnieken om onderbrekingen in omgevingen met hoge eisen te voorkomen.
+4. **Nieuwigheden en reglementaire updates**: Aanpassingen aan de evoluerende normen voor kritieke installaties.
 
-Nous nous efforçons de publier ces sections dès que possible pour aider les professionnels à maintenir des installations sécurisées et conformes aux normes les plus strictes.
+We streven ernaar om deze secties zo snel mogelijk te publiceren om professionals te helpen bij het handhaven van veilige en conforme installaties volgens de strengste normen.
 
 ---
 
-### En cours de construction 🚧
+### In aanbouw 🚧
 
-![Page en construction](/img/bativolt_under_construction.svg)
+![Pagina in aanbouw](/img/bativolt_under_construction.svg)
 
-Ce **Livre 3** est en cours de développement pour satisfaire les exigences des **professionnels du secteur électrique en milieux critiques**. Nous vous invitons à revenir bientôt pour découvrir un contenu rigoureux et complet sur les installations de haute exigence.
+Dit **Boek 3** is in ontwikkeling om te voldoen aan de eisen van **professionals in de elektrische sector voor kritieke omgevingen**. We nodigen u uit om binnenkort terug te komen voor een grondige en volledige inhoud over installaties met hoge eisen.
 
-:::warning Attention ⚠️
-Les informations de ce Livre 3 sont conçues pour servir de guide éducatif aux professionnels des installations critiques. Elles ne remplacent pas le RGIE officiel et sont orientées vers des environnements à haut risque ou haute criticité.
+:::warning Let op ⚠️
+De informatie in dit Boek 3 is bedoeld als educatieve gids voor professionals die werken met kritieke installaties. Het vervangt niet het officiële AREI en is gericht op omgevingen met een hoog risico of hoge kritiek.
 :::
 
-## Participez à l'enrichissement de ce guide !
+## Draag bij aan de verrijking van deze gids!
 
-Nous croyons en une démarche de co-construction avec les professionnels du secteur. Si vous avez des suggestions ou des besoins spécifiques pour ce **Livre 3**, n’hésitez pas à nous contacter via [docs@bativolt.com](mailto:docs@bativolt.com). Ensemble, nous pourrons adapter ce guide aux besoins uniques des installations critiques.
+Wij geloven in een co-creatieve aanpak met de professionals uit de sector. Als u suggesties of specifieke behoeften heeft voor dit **Boek 3**, neem dan gerust contact met ons op via [docs@bativolt.com](mailto:docs@bativolt.com). Samen kunnen we deze gids aanpassen aan de unieke behoeften van kritieke installaties.
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

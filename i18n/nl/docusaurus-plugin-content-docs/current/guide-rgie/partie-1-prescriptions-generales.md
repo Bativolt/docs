@@ -1,232 +1,205 @@
 ---
-title: Partie 1 - Prescriptions Générales
-sidebar_label: 1. Prescriptions Générales
-description: Découvrez les prescriptions générales pour les installations électriques basse et très basse tension en Belgique, pour une conformité et sécurité optimales.
+title: Deel 1 - Algemene Voorschriften
+sidebar_label: 1. Algemene Voorschriften
+description: Ontdek de algemene voorschriften voor laag- en zeer laagspanningsinstallaties in België voor optimale naleving en veiligheid.
 ---
 
-# Partie 1 - Prescriptions Générales
+# Deel 1 - Algemene Voorschriften
 
-## CHAPITRE 1.1. INTRODUCTION
+## HOOFDSTUK 1.1. INLEIDING
 
-Ce chapitre introduit les bases des **installations électriques à basse et très basse tension** en Belgique. En tant que guide pratique, notre objectif est de rendre compréhensibles et accessibles les normes essentielles à respecter pour des installations sûres et conformes.
+Dit hoofdstuk introduceert de basis van **laag- en zeer laagspanningsinstallaties** in België. Als praktische gids is ons doel om de essentiële normen die nodig zijn voor veilige en conforme installaties begrijpelijk en toegankelijk te maken.
 
-Le RGIE est structuré en plusieurs livres pour couvrir tous les aspects des installations électriques :
+Het AREI is opgedeeld in meerdere boeken om alle aspecten van elektrische installaties te dekken:
 
-- **Livre 1** : Installations à basse et très basse tension (ce guide).
-- **Livre 2** : Installations à haute tension.
-- **Livre 3** : Installations de transport et distribution d'énergie.
+- **Boek 1**: Installaties voor laag- en zeer laagspanning (deze gids).
+- **Boek 2**: Installaties voor hoogspanning.
+- **Boek 3**: Transport- en distributie-installaties voor energie.
 
-:::tip Remarque
-Ce guide se concentre exclusivement sur le **Livre 1**, destiné aux installations à basse et très basse tension, le plus pertinent pour les applications domestiques et industrielles courantes. Les autres livres, bien que tout aussi importants, répondent à des besoins spécifiques en haute tension et distribution d'énergie.
+:::tip Opmerking
+Deze gids richt zich uitsluitend op **Boek 1**, dat bedoeld is voor laag- en zeer laagspanningsinstallaties, het meest relevant voor huishoudelijke en industriële toepassingen. De andere boeken, hoewel even belangrijk, richten zich op specifieke behoeften voor hoogspanning en energiedistributie.
 :::
 
 ---
 
-## CHAPITRE 1.2. DOMAINE D’APPLICATION
+## HOOFDSTUK 1.2. TOEPASSINGSGEBIED
 
-Ce chapitre définit le domaine d'application des prescriptions du **Livre 1** du RGIE. Il englobe les installations électriques à basse et très basse tension pour la production, transformation, distribution, et utilisation de l'énergie électrique.
+Dit hoofdstuk definieert het toepassingsgebied van de voorschriften van **Boek 1** van het AREI. Het omvat laag- en zeer laagspanningsinstallaties voor de productie, omzetting, distributie en het gebruik van elektrische energie.
 
-### Section 1.2.1. Régime général
+### Sectie 1.2.1. Algemeen Regime
 
-Les prescriptions s'appliquent aux installations :
+De voorschriften zijn van toepassing op installaties:
 
-- Utilisées pour des fréquences nominales jusqu'à **10.000 Hz**.
-- Concerneront également les câbles de communication, signalisation et commande, surtout pour la **prévention des risques d'incendie** (références : sections 4.3.3., 5.2.7., 5.5.6.).
-- Concernent les installations de sécurité (détection incendie, intrusion).
+- Voor nominale frequenties tot **10.000 Hz**.
+- Die ook betrekking hebben op communicatie-, signaal- en stuurkabels, met name voor de **brandpreventie** (referenties: secties 4.3.3., 5.2.7., 5.5.6.).
+- Die betrekking hebben op veiligheidsinstallaties (branddetectie, inbraakbeveiliging).
 
-:::warning Important
-Certaines installations, bien qu'alimentées en basse tension, peuvent nécessiter des mesures supplémentaires, comme les **enseignes lumineuses** de puissance inférieure à 200 VA.
+:::warning Belangrijk
+Bepaalde installaties, hoewel gevoed met laagspanning, kunnen extra maatregelen vereisen, zoals **lichtreclames** met een vermogen onder 200 VA.
 :::
 
-### Section 1.2.2. Exceptions
+### Sectie 1.2.2. Uitzonderingen
 
-Certaines installations ne sont pas couvertes par les prescriptions du RGIE. Ces exclusions comprennent :
+Bepaalde installaties vallen niet onder de voorschriften van het AREI. Deze uitzonderingen omvatten:
 
-| Catégorie                              | Description                                                                 |
-|----------------------------------------|-----------------------------------------------------------------------------|
-| **Transport et distribution d'énergie**| Installations publiques d'éclairage, de chauffage, et de comptage.          |
-| **Transports ferroviaires et urbains** | Traction électrique pour trains, tramways, métros.                          |
-| **Installations militaires**           | Installations créées ou exploitées par les autorités militaires.             |
-| **Signalisation ferroviaire**          | Systèmes de signalisation spécifiques aux Chemins de fer Belges.            |
-| **Télécommunications publiques**       | Infrastructure nationale de défense et voirie.                              |
-| **Installations navales et aéronautiques** | Installations pour navires et infrastructures aéronautiques.          |
-| **Installations informatiques et sécurité** | Systèmes d'alarme et de données soumis à la Loi privée.             |
+| Categorie                               | Beschrijving                                                               |
+|-----------------------------------------|----------------------------------------------------------------------------|
+| **Transport en distributie van energie**| Openbare installaties voor verlichting, verwarming en meting.              |
+| **Spoor- en stadsvervoer**              | Elektrische aandrijving voor treinen, trams en metro's.                    |
+| **Militaire installaties**              | Installaties opgezet of geëxploiteerd door militaire autoriteiten.         |
+| **Spoorwegseininstallaties**            | Specifieke signaleringssystemen voor de Belgische Spoorwegen.              |
+| **Openbare telecommunicatie**           | Nationale defensie-infrastructuur en wegen.                                |
+| **Maritieme en luchtvaartinstallaties** | Installaties voor schepen en luchtvaartinfrastructuren.                    |
+| **IT- en beveiligingsinstallaties**     | Alarmsystemen en gegevens die onder de Privacywet vallen.                  |
 
-Ces exceptions montrent que le RGIE s'applique principalement aux installations courantes, mais des normes spécifiques peuvent régir des secteurs spécialisés comme les **transports** et les **installations militaires**.
+Deze uitzonderingen tonen aan dat het AREI voornamelijk van toepassing is op standaardinstallaties, maar specifieke normen kunnen van toepassing zijn in gespecialiseerde sectoren zoals **transport** en **militaire installaties**.
 
 ---
 
-## CHAPITRE 1.3. OBJECTIF
+## HOOFDSTUK 1.3. DOELSTELLING
 
-Le but du Livre 1 du RGIE est de définir des règles claires et obligatoires pour garantir la **sécurité des installations électriques à basse et très basse tension**. Ces prescriptions couvrent les aspects suivants :
+Het doel van Boek 1 van het AREI is om duidelijke en verplichte regels vast te stellen om de **veiligheid van laag- en zeer laagspanningsinstallaties** te waarborgen. Deze voorschriften dekken de volgende aspecten:
 
-- **Choix des équipements**
-- **Protection des installations**
-- **Utilisation sécurisée**
-- **Contrôle de conformité**
+- **Keuze van apparatuur**
+- **Bescherming van installaties**
+- **Veilig gebruik**
+- **Conformiteitscontrole**
 
-:::tip Pour qui ?
-Ce guide s'adresse autant aux électriciens professionnels qu'aux particuliers, offrant une compréhension des exigences essentielles en termes de sécurité électrique. En suivant ces prescriptions, chacun contribue à prévenir les risques pour les personnes et les biens.
+:::tip Voor wie?
+Deze gids is bedoeld voor zowel professionele elektriciens als particulieren en biedt inzicht in de essentiële veiligheidsvereisten. Door deze voorschriften te volgen, draagt iedereen bij aan het voorkomen van risico's voor mensen en eigendommen.
 :::
 
 ---
 
-## CHAPITRE 1.4. PRINCIPES FONDAMENTAUX
+## HOOFDSTUK 1.4. FUNDAMENTELE PRINCIPES
 
-Les installations électriques doivent suivre des **principes fondamentaux** pour assurer sécurité, durabilité, et conformité aux normes RGIE.
+Elektrische installaties moeten voldoen aan **fundamentele principes** om veiligheid, duurzaamheid en naleving van de AREI-normen te garanderen.
 
-### Section 1.4.1. Installations électriques
+### Sectie 1.4.1. Elektrische Installaties
 
-Les installations doivent être conçues en tenant compte de la **tension nominale**, un paramètre clé qui définit les spécifications techniques et de sécurité de l’équipement.
+De installaties moeten worden ontworpen met inachtneming van de **nominale spanning**, een belangrijke parameter die de technische en veiligheidsvereisten van de apparatuur bepaalt.
 
-| Tension         | Description                                                                                           |
-|-----------------|-------------------------------------------------------------------------------------------------------|
-| **2x230V**      | Monophasé sans neutre, adapté aux installations domestiques simples (éclairage, petits appareils).   |
-| **3x230V**      | Triphasé sans neutre, utilisé dans des installations plus anciennes ou spécifiques.                    |
-| **1x400V+N**    | Monophasé avec neutre, pour les appareils domestiques standards (lumière, cuisine).                    |
-| **3x400V+N**    | Triphasé avec neutre, idéal pour répartir la charge et gérer des appareils à forte puissance.         |
+| Spanning         | Beschrijving                                                                                        |
+|------------------|-----------------------------------------------------------------------------------------------------|
+| **2x230V**       | Eenfase zonder nuldraad, geschikt voor eenvoudige huishoudelijke installaties (verlichting, kleine apparaten). |
+| **3x230V**       | Driefase zonder nuldraad, gebruikt in oudere of specifieke installaties.                           |
+| **1x400V+N**     | Eenfase met nuldraad, voor standaard huishoudelijke apparaten (verlichting, keuken).               |
+| **3x400V+N**     | Driefase met nuldraad, ideaal voor het verdelen van de belasting en het gebruik van krachtige apparatuur. |
 
-### Différences, avantages et inconvénients des différentes tensions :
+### Verschillen, voordelen en nadelen van de verschillende spanningen:
 
-- **2x230V** : 
-  - **Avantages** : Simple et adapté pour de petits appareils.
-  - **Inconvénients** : Limité pour des équipements modernes puissants.
-  - **Usage** : Parfait pour l'éclairage et les petits électroménagers.
+- **2x230V** :
+  - **Voordelen**: Eenvoudig en geschikt voor kleine apparaten.
+  - **Nadelen**: Beperkt vermogen voor moderne, krachtige apparatuur.
+  - **Toepassing**: Ideaal voor verlichting en kleine huishoudelijke apparaten.
 
 - **3x230V** :
-  - **Avantages** : Permet une distribution triphasée sans neutre.
-  - **Inconvénients** : Moins compatible avec les appareils modernes nécessitant un neutre.
-  - **Usage** : Installations anciennes ou spécifiques.
+  - **Voordelen**: Driefasige distributie zonder nuldraad.
+  - **Nadelen**: Minder compatibel met moderne apparaten die een nuldraad vereisen.
+  - **Toepassing**: Oudere of specifieke installaties.
 
 - **1x400V+N** :
-  - **Avantages** : Compatible avec des appareils domestiques standards.
-  - **Inconvénients** : Puissance limitée pour des équipements industriels.
-  - **Usage** : Idéal pour les installations résidentielles modernes.
+  - **Voordelen**: Compatibel met standaard huishoudelijke apparaten.
+  - **Nadelen**: Beperkt vermogen voor industriële apparatuur.
+  - **Toepassing**: Geschikt voor moderne residentiële installaties.
 
 - **3x400V+N** :
-  - **Avantages** : Parfait pour répartir la consommation, compatible avec les équipements puissants.
-  - **Inconvénients** : Installation plus complexe et coûteuse.
-  - **Usage** : Recommandé pour les habitations modernes avec une consommation élevée.
+  - **Voordelen**: Ideaal voor belastingverdeling, compatibel met krachtige apparatuur.
+  - **Nadelen**: Complexere en duurdere installatie.
+  - **Toepassing**: Aanbevolen voor moderne huizen met hoge energiebehoeften.
 
-:::info Conseils Pratiques 💡
-Pour les nouvelles installations, privilégier le **3x400V+N** permet de mieux répartir la charge et d’optimiser la consommation des appareils modernes, notamment dans les maisons avec équipements énergivores comme les bornes de recharge pour véhicules électriques.
+:::info Praktische Tips 💡
+Voor nieuwe installaties is het aanbevolen om **3x400V+N** te kiezen, omdat dit de belasting beter verdeelt en het energieverbruik optimaliseert, vooral in huizen met energievretende apparatuur zoals laadstations voor elektrische voertuigen.
+:::
+#### Subsectie 1.4.1.2. Regels van goed vakmanschap − Naleving van normen
+
+De installaties moeten worden uitgevoerd volgens de **regels van goed vakmanschap**, wat betekent dat ze voldoen aan erkende en goedgekeurde normen, hetzij door een Koninklijk Besluit of door het NBN (Belgisch Bureau voor Normalisatie). Deze normen garanderen een hoog niveau van veiligheid en betrouwbaarheid, in overeenstemming met de wettelijke vereisten en de beste praktijken van de sector.
+
+:::tip Waarom normen naleven?
+Door erkende normen te volgen, zorgen installaties niet alleen voor de veiligheid van de gebruikers, maar vergemakkelijken ze ook de inspecties en de naleving van de regelgeving.
 :::
 
-#### Sous-section 1.4.1.2. Règles de l'art − Conformité aux normes
+#### Subsectie 1.4.1.3. Uitvoering en onderhoud
 
-Les installations doivent être réalisées conformément aux **règles de l’art**, c’est-à-dire en suivant les normes reconnues et homologuées, que ce soit par décret royal ou par le NBN (Bureau de Normalisation Belge). Ces normes garantissent un niveau élevé de sécurité et de fiabilité, répondant aux exigences légales et aux meilleures pratiques du secteur.
+Om de veiligheid op lange termijn te garanderen, moeten de installaties:
+- Ontworpen zijn met veilige en normconforme materialen,
+- Aangepast zijn aan hun specifieke gebruik,
+- Makkelijk te onderhouden zijn.
 
-:::tip Pourquoi respecter les normes ?
-En respectant les normes reconnues, les installations assurent non seulement la sécurité des utilisateurs, mais facilitent également les inspections et la conformité réglementaire.
+| Criterium               | Beschrijving                                                                               |
+|-------------------------|--------------------------------------------------------------------------------------------|
+| Gebruik van veilige materialen | Kiezen voor gecertificeerde apparatuur die geschikt is voor het beoogde gebruik        |
+| Naleving van de bestemming | Zorgen dat de installaties aangepast zijn aan de omgeving en de specifieke behoeften    |
+| Regelmatig onderhoud    | Periodiek onderhoud plannen om risico’s te voorkomen en de levensduur van de apparatuur te verlengen |
+
+:::warning Let op!
+Een slecht onderhouden elektrische installatie of het gebruik van niet-conforme componenten kan een gevaar vormen voor de veiligheid van personen en eigendommen.
 :::
 
-#### Sous-section 1.4.1.3. Réalisation et entretien
+#### Subsectie 1.4.1.4. Herstellingen, toevoegingen en wijzigingen
 
-Pour garantir la sécurité à long terme, les installations doivent être :
-- Conçues avec du matériel sûr et conforme aux normes,
-- Adaptées à leur usage spécifique,
-- Faciles à entretenir.
+Herstellingen, toevoegingen en wijzigingen moeten worden uitgevoerd volgens de **regels van goed vakmanschap** en met gebruik van normconforme materialen, om de veiligheid en betrouwbaarheid van de installatie te behouden.
 
-| Critère                  | Description                                                                                |
-|--------------------------|--------------------------------------------------------------------------------------------|
-| Utilisation de matériel sûr | Choisir des équipements certifiés et adaptés à l'usage prévu                              |
-| Conformité à la destination | Veiller à ce que les installations soient adaptées à l’environnement et aux besoins spécifiques |
-| Entretien régulier       | Planifier un entretien périodique pour prévenir les risques et prolonger la durée de vie des équipements |
-
-:::warning Attention !
-Une installation électrique mal entretenue ou utilisant des composants non conformes peut devenir un danger pour la sécurité des personnes et des biens.
-:::
-
-#### Sous-section 1.4.1.4. Réparations, adjonctions et modifications
-
-Les réparations, les ajouts, et les modifications doivent respecter les **règles de l’art** et être effectués avec du matériel conforme aux normes en vigueur, afin de maintenir la sécurité et la fiabilité de l’installation.
-
-| Type d'intervention      | Exigence                              | Objectif                                                                       |
-|--------------------------|---------------------------------------|---------------------------------------------------------------------------------|
-| Réparations              | Utiliser du matériel conforme         | Maintenir la sécurité et la fiabilité de l'installation                         |
-| Adjonctions              | Respecter les normes actuelles       | Assurer l'intégration sécurisée dans le système existant                        |
-| Modifications            | Respect des règles de l’art           | Garantir la continuité de la conformité et de la sécurité                        |
+| Type ingreep            | Vereiste                               | Doelstelling                                                                  |
+|-------------------------|-----------------------------------------|-------------------------------------------------------------------------------|
+| Herstellingen           | Gebruik van normconforme materialen     | Veiligheid en betrouwbaarheid van de installatie behouden                     |
+| Toevoegingen            | Voldoen aan de huidige normen           | Zorgen voor veilige integratie in het bestaande systeem                       |
+| Wijzigingen             | Naleving van de regels van goed vakmanschap | Continuïteit van conformiteit en veiligheid waarborgen                       |
 
 ---
 
-### Section 1.4.2. Matériel électrique
+### Sectie 1.4.2. Elektrisch Materiaal
 
-Le choix de matériel électrique de qualité est fondamental pour la sécurité et la durabilité des installations. Tout équipement doit être reconnu comme "sûr" et conforme aux règles de l’art pour être utilisé sans risque.
+De keuze van kwalitatief elektrisch materiaal is fundamenteel voor de veiligheid en duurzaamheid van de installaties. Elk apparaat moet worden erkend als "veilig" en voldoen aan de regels van goed vakmanschap om zonder risico te worden gebruikt.
 
-#### Sous-section 1.4.2.1. Le matériel électrique sûr
+#### Subsectie 1.4.2.1. Veilig elektrisch materiaal
 
-Seuls les appareils, machines et canalisations conformes aux normes de sécurité peuvent être utilisés dans les installations. Le matériel doit être :
-- **Certifié** selon les standards en vigueur (ex. : normes CE),
-- **Adapté à l'environnement** (résistant aux conditions de température, humidité, etc.),
-- **Conçu pour un usage spécifique** (domestique, industriel).
+Alleen apparaten, machines en leidingen die voldoen aan de veiligheidsnormen mogen in installaties worden gebruikt. Het materiaal moet:
+- **Gecertificeerd** zijn volgens de geldende standaarden (bijv. CE-normen),
+- **Aangepast aan de omgeving** zijn (bestendig tegen temperatuur, vochtigheid, enz.),
+- **Ontworpen zijn voor een specifiek gebruik** (huishoudelijk, industrieel).
 
-| Matériel        | Critères de sécurité                            | Usage recommandé                                       |
-|-----------------|------------------------------------------------|--------------------------------------------------------|
-| Disjoncteurs    | Certifiés, calibrés selon la puissance requise  | Domestique, industriel                                 |
-| Câblage         | Résistant aux températures et aux charges prévues | Pour installations intérieures et extérieures         |
-| Appareils électroménagers | Conforme aux normes CE et adaptés aux circuits | Installations domestiques                               |
-| Appareils industriels | Normes spécifiques à l’environnement (ex. anti-feu, IP élevé) | Installations industrielles                            |
+| Materiaal       | Veiligheidscriteria                         | Aanbevolen gebruik                                      |
+|-----------------|---------------------------------------------|---------------------------------------------------------|
+| Automatische zekeringen | Gecertificeerd, gekalibreerd naar het vereiste vermogen | Huishoudelijk, industrieel                              |
+| Bekabeling      | Bestendig tegen temperatuur en verwachte belasting | Voor binnen- en buiteninstallaties                      |
+| Huishoudelijke apparaten | Conform CE-normen en aangepast aan de circuits | Huishoudelijke installaties                             |
+| Industriële apparaten | Specifieke normen voor de omgeving (bijv. brandwerend, hoge IP-bescherming) | Industriële installaties                                |
 
-#### Sous-section 1.4.2.2. Réparations, adjonctions et modifications
+#### Subsectie 1.4.2.2. Herstellingen, toevoegingen en wijzigingen
 
-Les réparations et ajouts sur le matériel électrique doivent être réalisés avec des équipements conformes et des matériaux sûrs.
+Herstellingen en toevoegingen aan het elektrische materiaal moeten worden uitgevoerd met normconforme en veilige apparatuur.
 
-| Intervention    | Pratique recommandée                        | Objectif                                    |
-|-----------------|--------------------------------------------|---------------------------------------------|
-| Réparation      | Utiliser des pièces de rechange certifiées | Maintenir la conformité et la sécurité      |
-| Ajout           | Installer du matériel récent et homologué  | Assurer l’intégration dans le circuit existant |
-| Modification    | Respecter les règles de l’art              | Maintenir la conformité de l’installation   |
+| Ingreep         | Aanbevolen praktijk                        | Doelstelling                                   |
+|-----------------|--------------------------------------------|------------------------------------------------|
+| Herstelling     | Gebruik van gecertificeerde vervangstukken | Behoud van conformiteit en veiligheid          |
+| Toevoeging      | Installatie van recent en goedgekeurd materiaal | Integratie in het bestaande circuit verzekeren |
+| Wijziging       | Naleving van de regels van goed vakmanschap | Behoud van conformiteit van de installatie     |
 
-### Sous-section 1.4.2.3. Respect des normes
+### Subsectie 1.4.2.3. Naleving van normen
 
-Tous les équipements et matériaux doivent satisfaire aux critères de la **section 5.1.3** du RGIE. Cela inclut la conformité CE et l'adaptation aux conditions d'environnement.
-
----
-
-## CHAPITRE 1.5. LIMITES DES INSTALLATIONS
-
-Les installations électriques ont des limites techniques, et il est essentiel de les comprendre pour éviter les surcharges et assurer une utilisation sûre.
-
-### Principales limites des installations :
-1. **Capacité de charge** : Les circuits doivent supporter la charge des appareils. Une surcharge entraîne un risque de surchauffe et d’incendie.
-2. **Tension et courant maximal supporté** : Les installations doivent respecter leurs spécifications de tension et de courant.
-3. **Durabilité et vieillissement** : Les installations doivent être entretenues pour compenser les effets de vieillissement, notamment dans des environnements extrêmes.
-
-### Cas pratiques pour l'application des limites :
-- **Installations domestiques** : L'ajout d'une borne de recharge de véhicule électrique nécessite une évaluation de la capacité du circuit.
-- **Installations industrielles** : Pour les équipements puissants, il est essentiel de vérifier régulièrement la capacité du circuit pour éviter des risques de surcharge.
-
-:::info Conseils Pratiques
-Avant de réaliser des modifications importantes dans une installation existante, consultez toujours un électricien agréé pour évaluer les limites de l’installation et garantir la sécurité.
-:::
+Alle apparatuur en materialen moeten voldoen aan de eisen van **sectie 5.1.3** van het AREI. Dit omvat CE-conformiteit en aanpassing aan omgevingsomstandigheden.
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Partie 2 🎯
+## HOOFDSTUK 1.5. GRENZEN VAN INSTALLATIES
 
-- **Caractéristiques des Installations** : Utilisez des composants adaptés aux spécifications de chaque type d’installation (domestique, industrielle), en respectant les limites de tension et de courant pour garantir la sécurité et la longévité des équipements.
+Elektrische installaties hebben technische beperkingen, en het is essentieel deze te begrijpen om overbelasting te voorkomen en een veilig gebruik te garanderen.
 
-- **Protection contre les Chocs Électriques** ⚡ : Installez des dispositifs de protection spécifiques pour chaque classe de matériel. Assurez-vous de respecter les normes d'isolation et d'installation pour minimiser les risques d’électrocution.
+### Belangrijkste grenzen van installaties:
+1. **Belastingscapaciteit**: De circuits moeten de belasting van de apparaten aankunnen. Overbelasting kan leiden tot oververhitting en brandgevaar.
+2. **Maximale spanning en stroomsterkte**: De installaties moeten voldoen aan hun spannings- en stroomcapaciteiten.
+3. **Duurzaamheid en veroudering**: De installaties moeten worden onderhouden om de effecten van veroudering te compenseren, vooral in extreme omgevingen.
 
-- **Mise à la Terre** 🛠️ : Veillez à une mise à la terre appropriée pour toutes les installations et équipements sensibles. Respectez les schémas de mise à la terre adaptés aux types de réseaux pour une sécurité optimale.
+### Praktische gevallen voor het toepassen van de grenzen:
+- **Huishoudelijke installaties**: Het toevoegen van een laadstation voor elektrische voertuigen vereist een evaluatie van de capaciteit van het circuit.
+- **Industriële installaties**: Voor krachtige apparatuur is het essentieel om regelmatig de capaciteit van het circuit te controleren om overbelasting te voorkomen.
 
-- **Gestion des Courants et Dispositifs de Protection** 🔋 : Sélectionnez et dimensionnez avec précision les dispositifs de protection en fonction des courants d’utilisation pour éviter les surcharges et les court-circuits. Documentez toutes les installations pour les interventions futures.
-
-- **Canalisations et Modes de Pose** 🏗️ : Choisissez des canalisations de qualité et adaptez le mode de pose en fonction des contraintes (enterrées, aériennes, conduits, etc.). Fixez solidement les canalisations et protégez-les des influences externes pour une installation durable.
-
-- **Sectionnement et Commande** 🔒 : Intégrez des dispositifs de commande et de sectionnement clairs et facilement accessibles pour permettre des interventions sécurisées en cas de maintenance ou d'urgence.
-
-- **Influences Externes** 🌧️ : Prévoyez des protections contre les effets de la température, de l'humidité, des chocs et des matières corrosives pour prolonger la durée de vie des installations et assurer leur bon fonctionnement.
-
-- **Travaux et Vérifications** 👷 : Confiez les travaux électriques (sous tension ou hors tension) à des professionnels qualifiés. Procédez à des vérifications régulières pour garantir la sécurité continue des installations et la conformité aux normes.
-
-- **Schémas et Documents** 📐 : Maintenez à jour les schémas de câblage et les documents de conformité, incluant les schémas unifilaires, les plans d’installation et les dispositifs de sécurité. Une documentation complète facilite l’entretien et la modification des installations.
-
-- **Symboles Graphiques** 🖌️ : Utilisez des symboles normalisés dans vos schémas pour une communication claire et efficace entre les différents intervenants (électriciens, inspecteurs, etc.).
-
-En appliquant ces bonnes pratiques inspirées du RGIE, vous assurez la conformité, la sécurité et la durabilité de vos installations électriques.
-
+:::info Praktische Tips
+Raadpleeg altijd een erkende elektricien voordat u belangrijke wijzigingen aanbrengt in een bestaande installatie, om de grenzen van de installatie te evalueren en de veiligheid te garanderen.
 :::
+
+---
 
 ## Conclusion de la Partie 1 - Prescriptions Générales pour les Installations et Matériels Électriques
 
@@ -244,13 +217,30 @@ Les principaux points abordés incluent :
 
 En respectant ces prescriptions générales, les installations électriques deviennent plus sûres, fiables, et conformes aux exigences réglementaires. Elles posent les fondations d’une installation performante, limitant les risques d'accidents et facilitant les interventions de maintenance tout au long de leur cycle de vie.
 
+:::tip Goede Praktijken - Samenvatting van Deel 1 🎯
+
+- **Selectie van Normconform Materiaal** 📦 : Kies gecertificeerd en goedgekeurd materiaal om de veiligheid en conformiteit van elektrische installaties te waarborgen. Naleving van de normen verhoogt de betrouwbaarheid en biedt optimale bescherming.
+
+- **Naleving van de Regels van Goed Vakmanschap** 🛠️ : Voer alle installaties uit volgens de regels van goed vakmanschap, met gebruik van conform materiaal en technieken. Dit vermindert risico’s en verhoogt de levensduur van de apparatuur.
+
+- **Bescherming Tegen Elektrische Risico’s** ⚡ : Installeer geschikte beschermingsapparatuur tegen overbelasting, kortsluiting en elektrische schokken om de veiligheid van gebruikers en eigendommen te garanderen.
+
+- **Aarding en Schema’s** 🌍 : Zorg voor een correcte aarding van de installaties volgens de aanbevolen schema’s. Dit minimaliseert het risico op elektrocutie en zorgt voor een veilige werking van de apparatuur.
+
+- **Volledige en Actuele Documentatie** 📄 : Houd volledige documentatie bij, inclusief schema’s, conformiteitsrapporten en kenmerken van de apparatuur. Goede documentatie vergemakkelijkt onderhoud en naleving van de voorschriften.
+
+- **Regelmatige Controle en Onderhoud** 🔍 : Voer periodieke controles uit om ervoor te zorgen dat de installaties conform en veilig blijven. Regelmatig onderhoud verlengt de levensduur van de apparatuur en voorkomt storingen.
+
+Door deze goede praktijken uit Deel 1 van het AREI te volgen, legt u een solide basis voor veilige en conforme elektrische installaties.
+:::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---
+

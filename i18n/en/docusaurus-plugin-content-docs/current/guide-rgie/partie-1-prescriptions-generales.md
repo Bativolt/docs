@@ -202,32 +202,6 @@ Avant de réaliser des modifications importantes dans une installation existante
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Partie 2 🎯
-
-- **Caractéristiques des Installations** : Utilisez des composants adaptés aux spécifications de chaque type d’installation (domestique, industrielle), en respectant les limites de tension et de courant pour garantir la sécurité et la longévité des équipements.
-
-- **Protection contre les Chocs Électriques** ⚡ : Installez des dispositifs de protection spécifiques pour chaque classe de matériel. Assurez-vous de respecter les normes d'isolation et d'installation pour minimiser les risques d’électrocution.
-
-- **Mise à la Terre** 🛠️ : Veillez à une mise à la terre appropriée pour toutes les installations et équipements sensibles. Respectez les schémas de mise à la terre adaptés aux types de réseaux pour une sécurité optimale.
-
-- **Gestion des Courants et Dispositifs de Protection** 🔋 : Sélectionnez et dimensionnez avec précision les dispositifs de protection en fonction des courants d’utilisation pour éviter les surcharges et les court-circuits. Documentez toutes les installations pour les interventions futures.
-
-- **Canalisations et Modes de Pose** 🏗️ : Choisissez des canalisations de qualité et adaptez le mode de pose en fonction des contraintes (enterrées, aériennes, conduits, etc.). Fixez solidement les canalisations et protégez-les des influences externes pour une installation durable.
-
-- **Sectionnement et Commande** 🔒 : Intégrez des dispositifs de commande et de sectionnement clairs et facilement accessibles pour permettre des interventions sécurisées en cas de maintenance ou d'urgence.
-
-- **Influences Externes** 🌧️ : Prévoyez des protections contre les effets de la température, de l'humidité, des chocs et des matières corrosives pour prolonger la durée de vie des installations et assurer leur bon fonctionnement.
-
-- **Travaux et Vérifications** 👷 : Confiez les travaux électriques (sous tension ou hors tension) à des professionnels qualifiés. Procédez à des vérifications régulières pour garantir la sécurité continue des installations et la conformité aux normes.
-
-- **Schémas et Documents** 📐 : Maintenez à jour les schémas de câblage et les documents de conformité, incluant les schémas unifilaires, les plans d’installation et les dispositifs de sécurité. Une documentation complète facilite l’entretien et la modification des installations.
-
-- **Symboles Graphiques** 🖌️ : Utilisez des symboles normalisés dans vos schémas pour une communication claire et efficace entre les différents intervenants (électriciens, inspecteurs, etc.).
-
-En appliquant ces bonnes pratiques inspirées du RGIE, vous assurez la conformité, la sécurité et la durabilité de vos installations électriques.
-
-:::
-
 ## Conclusion de la Partie 1 - Prescriptions Générales pour les Installations et Matériels Électriques
 
 La Partie 1 du RGIE pose les bases essentielles pour la sécurité et la conformité des installations électriques. Elle détaille les exigences à respecter concernant la sélection des matériaux, la conception des installations, et la protection contre les risques électriques. Cette première partie est cruciale pour toute installation, car elle couvre les aspects fondamentaux qui garantissent non seulement la sécurité des utilisateurs, mais aussi la durabilité et la performance des équipements électriques.
@@ -244,6 +218,23 @@ Les principaux points abordés incluent :
 
 En respectant ces prescriptions générales, les installations électriques deviennent plus sûres, fiables, et conformes aux exigences réglementaires. Elles posent les fondations d’une installation performante, limitant les risques d'accidents et facilitant les interventions de maintenance tout au long de leur cycle de vie.
 
+:::tip Best Practices - Summary of Part 1 🎯
+
+- **Selection of Standards-Compliant Material** 📦: Choose certified and approved materials to ensure the safety and compliance of electrical installations. Adhering to standards increases reliability and provides optimal protection.
+
+- **Compliance with Best Practices** 🛠️: Perform all installations according to best practices, using compliant materials and methods. This reduces risks and improves the longevity of the equipment.
+
+- **Protection Against Electrical Hazards** ⚡: Install appropriate protective devices against overloads, short circuits, and electric shocks to ensure the safety of users and property.
+
+- **Grounding and Schematics** 🌍: Ensure proper grounding of installations according to recommended schematics. This minimizes the risk of electrocution and ensures safe operation of the equipment.
+
+- **Comprehensive and Up-to-Date Documentation** 📄: Maintain thorough documentation, including wiring diagrams, compliance reports, and equipment specifications. Good documentation facilitates maintenance and ensures regulatory compliance.
+
+- **Regular Inspections and Maintenance** 🔍: Conduct periodic inspections to ensure that installations remain compliant and safe. Regular maintenance extends the lifespan of equipment and prevents failures.
+
+By following these best practices from Part 1 of the Electrical Installation Guide, you establish a solid foundation for safe and compliant electrical systems.
+
+:::
 
 ---
 

@@ -1,60 +1,60 @@
 ---
-title: Introduction au Guide RGIE - Livre 2
-sidebar_label: Introduction au Livre 2
-description: Guide RGIE - Livre 2, une extension pour approfondir les normes électriques et la sécurité des installations en Belgique. Bientôt disponible en raison d'une forte demande !
+title: Introductie tot de AREI-gids - Boek 2
+sidebar_label: Introductie van Boek 2
+description: AREI-gids - Boek 2, een uitbreiding voor het verdiepen van de elektrische normen en veiligheid van installaties in België. Binnenkort beschikbaar vanwege grote vraag!
 ---
 
-# Introduction au Guide RGIE - Livre 2
+# Introductie tot de AREI-gids - Boek 2
 
-:::important Information Clé ⚠️
-Le **Livre 2 du Guide RGIE** est un **complément** au **Livre 1**, destiné à couvrir des aspects plus avancés des installations électriques. **Il ne s'applique pas aux installations domestiques**. Pour tout ce qui concerne les normes domestiques, veuillez consulter le **Livre 1**.
+:::important Belangrijke Informatie ⚠️
+Het **Boek 2 van de AREI-gids** is een **aanvulling** op **Boek 1**, gericht op meer geavanceerde aspecten van elektrische installaties. **Het is niet van toepassing op huishoudelijke installaties**. Voor alles wat betrekking heeft op huishoudelijke normen, raadpleeg **Boek 1**.
 :::
 
-Bienvenue dans le **Livre 2 du Guide RGIE**, une suite très attendue après le succès du **Livre 1**. Ce second volume a été créé pour fournir des ressources avancées sur les **normes et conformités électriques en milieu professionnel et industriel** en Belgique, en réponse à une forte demande de la part des professionnels du secteur. Chez **Bativolt**, nous travaillons activement à rendre ce guide aussi accessible et complet que possible.
+Welkom bij het **Boek 2 van de AREI-gids**, een langverwacht vervolg na het succes van **Boek 1**. Dit tweede deel is gecreëerd om geavanceerde bronnen te bieden over de **normen en conformiteiten van elektrische installaties in professionele en industriële omgevingen** in België, als reactie op de sterke vraag vanuit de sector. Bij **Bativolt** werken we actief aan het zo toegankelijk en compleet mogelijk maken van deze gids.
 
-## Pourquoi un Livre 2 du Guide RGIE ? 📘
+## Waarom een Boek 2 van de AREI-gids? 📘
 
-Suite à l’enthousiasme généré par le **Livre 1**, de nombreux professionnels nous ont exprimé le besoin de disposer d'un contenu plus spécialisé. Le **Livre 2 du Guide RGIE** répond à cette demande en développant des chapitres avancés, abordant les installations dans des environnements complexes et industriels, et détaillant les dernières pratiques de sécurité.
+Na het enthousiasme rondom **Boek 1** hebben veel professionals aangegeven behoefte te hebben aan meer gespecialiseerde inhoud. Het **Boek 2 van de AREI-gids** speelt hierop in door geavanceerde hoofdstukken te ontwikkelen, waarin installaties in complexe en industriële omgevingen worden besproken en de laatste veiligheidspraktijken worden toegelicht.
 
-:::tip À venir 🎯
-- **Normes spécifiques avancées** : Explication des règles pour les installations dans des milieux à haut risque.
-- **Bonnes pratiques de mise en œuvre** : Guide pour optimiser la sécurité et la durabilité en milieu professionnel.
-- **Dernières mises à jour** : Un survol des nouvelles exigences pour garantir une conformité à jour.
+:::tip Binnenkort beschikbaar 🎯
+- **Geavanceerde specifieke normen**: Uitleg van de regels voor installaties in risicovolle omgevingen.
+- **Goede implementatiepraktijken**: Gids om de veiligheid en duurzaamheid in professionele omgevingen te optimaliseren.
+- **Laatste updates**: Een overzicht van nieuwe vereisten om naleving te garanderen.
 :::
 
-## Structure du Livre 2
+## Structuur van Boek 2
 
-Le **Livre 2** couvrira plusieurs sections dédiées, chacune abordant des points essentiels et avancés pour les installations électriques industrielles et professionnelles. Voici un aperçu de ce qui sera inclus dans les futures sections :
+Het **Boek 2** zal verschillende toegewijde secties bevatten, die elk essentiële en geavanceerde punten voor industriële en professionele elektrische installaties behandelen. Hier is een overzicht van wat in de toekomstige secties zal worden opgenomen:
 
-1. **Installations spécialisées en milieu industriel** : Prescriptions détaillées pour des environnements où les risques sont élevés.
-2. **Évaluation et maintenance des équipements critiques** : Les normes pour les équipements spécifiques et leur entretien en vue de la sécurité des installations.
-3. **Mesures de protection avancées** : Conseils pour optimiser la protection des installations en milieu professionnel.
-4. **Nouveautés réglementaires** : Des mises à jour pour rester en conformité avec les dernières évolutions du RGIE.
+1. **Gespecialiseerde installaties in industriële omgevingen**: Gedetailleerde voorschriften voor omgevingen met hoge risico’s.
+2. **Evaluatie en onderhoud van kritieke apparatuur**: Normen voor specifieke apparatuur en hun onderhoud om de veiligheid van installaties te waarborgen.
+3. **Geavanceerde beschermingsmaatregelen**: Adviezen om de bescherming van installaties in professionele omgevingen te optimaliseren.
+4. **Regelgevende nieuwigheden**: Updates om aan de laatste ontwikkelingen van het AREI te voldoen.
 
-Nous nous engageons à publier ces sections dans les plus brefs délais pour répondre à vos besoins en matière de conformité et sécurité.
+We streven ernaar om deze secties zo snel mogelijk te publiceren om te voldoen aan uw behoeften op het gebied van conformiteit en veiligheid.
 
 ---
 
-### En cours de construction 🚧
+### In aanbouw 🚧
 
-![Page en construction](/img/bativolt_under_construction.svg)
+![Pagina in aanbouw](/img/bativolt_under_construction.svg)
 
-Ce Livre 2 est actuellement en cours de rédaction pour satisfaire la demande des **professionnels du secteur électrique**. Revenez bientôt pour découvrir un contenu de qualité qui vous accompagnera dans vos projets d'installation, de maintenance et de conformité avancée.
+Dit Boek 2 is momenteel in ontwikkeling om te voldoen aan de vraag van **professionals in de elektrische sector**. Kom binnenkort terug voor inhoud van hoge kwaliteit die u zal begeleiden in uw projecten op het gebied van installatie, onderhoud en geavanceerde conformiteit.
 
-:::warning Attention ⚠️
-Les informations de ce Livre 2 sont conçues comme un support éducatif et ne remplacent pas le RGIE officiel. Elles sont orientées vers des installations professionnelles et industrielles, à l’exception des installations domestiques.
+:::warning Let op ⚠️
+De informatie in dit Boek 2 is bedoeld als educatieve ondersteuning en vervangt niet het officiële AREI. De inhoud richt zich op professionele en industriële installaties, met uitzondering van huishoudelijke installaties.
 :::
 
-## Participez au développement de ce guide !
+## Draag bij aan de ontwikkeling van deze gids!
 
-Nous croyons en une démarche collaborative. Si vous avez des suggestions ou des besoins spécifiques pour ce **Livre 2**, n’hésitez pas à nous contacter via [docs@bativolt.com](mailto:docs@bativolt.com). Ensemble, enrichissons ce guide pour mieux répondre aux défis du secteur électrique.
+Wij geloven in een samenwerkingsaanpak. Als u suggesties of specifieke behoeften heeft voor dit **Boek 2**, neem dan gerust contact met ons op via [docs@bativolt.com](mailto:docs@bativolt.com). Samen kunnen we deze gids verrijken om beter in te spelen op de uitdagingen van de elektrische sector.
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

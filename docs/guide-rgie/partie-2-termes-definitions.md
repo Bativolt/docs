@@ -94,10 +94,6 @@ Dans le schéma **IT**, l’alimentation est isolée de la terre, ce qui réduit
 - **Particularité** : En cas de défaut, les installations continuent de fonctionner, offrant un temps de réaction supplémentaire pour les interventions.
 
 ---
-title: Partie 2 - Termes et Définitions
-sidebar_label: 2. Termes et Définitions
-description: Guide des termes et définitions essentiels pour comprendre les installations électriques en Belgique. Assurez-vous de la conformité avec le vocabulaire et les schémas de mise à la terre du RGIE.
----
 
 ### Section 2.2.2. Grandeurs et unités
 
@@ -215,6 +211,7 @@ Les domaines de tension en courant continu (DC) suivent également des classific
 > - **Basse tension (BT)** : Utilisée pour les installations de panneaux solaires et appareils résidentiels.
 > - **Haute tension (HT)** : Conçue pour le transport d’énergie, elle exige des protections renforcées.
 
+---
 
 # CHAPITRE 2.4. PROTECTION CONTRE LES CHOCS ÉLECTRIQUES
 

@@ -1,1120 +1,1109 @@
 ---
-title: Partie 4 - Mesures de Protection | RGIE Bativolt Belgique
-description: Guide détaillé des mesures de protection pour garantir la sécurité des installations électriques selon le RGIE. Conformité, dispositifs de protection, et conseils pratiques.
-sidebar_label: 4. Mesures de Protection
+title: Deel 4 - Beschermingsmaatregelen | RGIE Bativolt België
+description: Gedetailleerde gids over beschermingsmaatregelen om de veiligheid van elektrische installaties volgens het RGIE te waarborgen. Conformiteit, beschermingsapparatuur en praktische adviezen.
+sidebar_label: 4. Beschermingsmaatregelen
 ---
 
-# Partie 4 - Mesures de Protection ⚡️
+# Deel 4 - Beschermingsmaatregelen ⚡️
 
-Les mesures de protection jouent un rôle fondamental pour **assurer la sécurité** des installations électriques et prévenir les risques pour les personnes et les biens. Ces mesures visent notamment à protéger contre les **chocs électriques**, **incendies**, et autres **dommages potentiels**. Comprendre et appliquer ces protections est essentiel pour tout électricien ou utilisateur soucieux de la sécurité et de la conformité aux normes RGIE.
+Beschermingsmaatregelen spelen een fundamentele rol bij het **verzekeren van de veiligheid** van elektrische installaties en het voorkomen van risico's voor personen en eigendommen. Deze maatregelen zijn gericht op het beschermen tegen **elektrische schokken**, **brandgevaar**, en andere **mogelijke schade**. Het begrijpen en toepassen van deze beschermingen is essentieel voor elke elektricien of gebruiker die waarde hecht aan veiligheid en conformiteit met de RGIE-normen.
 
 ---
 
-## CHAPITRE 4.1. INTRODUCTION
+## HOOFDSTUK 4.1. INLEIDING
 
-L’objectif principal des mesures de protection est de garantir un environnement sûr, en réduisant les risques de chocs et de défaillances électriques. Ces mesures, largement définies par le RGIE, sont indispensables pour :
+Het hoofddoel van de beschermingsmaatregelen is om een veilige omgeving te garanderen door de risico's op schokken en elektrische storingen te verminderen. Deze maatregelen, die ruim worden omschreven door het RGIE, zijn onmisbaar om:
 
-1. **Prévenir les chocs électriques** : éviter les contacts dangereux entre les personnes et les parties sous tension.
-2. **Limiter les risques d'incendies** : en réduisant les risques d'étincelles et d'échauffements dangereux.
-3. **Protéger les équipements** : en évitant les dommages aux systèmes électriques eux-mêmes.
+1. **Elektrische schokken te voorkomen**: Gevaarlijke contacten tussen personen en onder spanning staande delen te vermijden.
+2. **Brandgevaar te beperken**: Door het risico op vonken en gevaarlijke oververhitting te verminderen.
+3. **Apparatuur te beschermen**: Schade aan de elektrische systemen zelf te voorkomen.
 
-### Exemples concrets pour renforcer la sécurité 🔧
+### Praktische voorbeelden om de veiligheid te versterken 🔧
 
-Les normes exigent, par exemple, l’utilisation de dispositifs de coupure automatique dans les circuits électriques sensibles et la mise en place de protections isolantes, en particulier dans les lieux publics ou humides. 
+De normen vereisen bijvoorbeeld het gebruik van automatische uitschakelapparaten in gevoelige elektrische circuits en de installatie van isolerende beschermingen, vooral in openbare of vochtige ruimtes.
 
-:::info Bonnes pratiques 📌
-**Conseil** : Lors de toute installation, prévoyez toujours une inspection préalable pour identifier les risques et vérifier que les protections nécessaires sont en place.
+:::info Goede praktijken 📌
+**Tip**: Voer bij elke installatie altijd een voorafgaande inspectie uit om de risico's te identificeren en te controleren of de nodige beschermingen aanwezig zijn.
 :::
 
 ---
 
-## CHAPITRE 4.2. PROTECTION CONTRE LES CHOCS ÉLECTRIQUES 🚫⚡️
+## HOOFDSTUK 4.2. BESCHERMING TEGEN ELEKTRISCHE SCHOKKEN 🚫⚡️
 
-### Section 4.2.1. Généralités
+### Sectie 4.2.1. Algemene principes
 
-La protection contre les chocs électriques est **primordiale** dans les installations. Les risques de choc sont particulièrement graves dans les cas de **contact direct** avec une partie sous tension, pouvant entraîner des blessures graves voire mortelles. La mise en place d’une protection adéquate permet de réduire considérablement ces risques.
+De bescherming tegen elektrische schokken is **van vitaal belang** in elektrische installaties. De risico's van elektrische schokken zijn bijzonder ernstig bij **direct contact** met een onder spanning staand onderdeel, wat kan leiden tot ernstige verwondingen of zelfs de dood. Het installeren van adequate bescherming vermindert deze risico's aanzienlijk.
 
-#### Sous-section 4.2.1.1. Courant de choc
+#### Ondersectie 4.2.1.1. Schokstroom
 
-Le courant de choc désigne le flux électrique traversant le corps humain lors d’un contact avec une source de tension. Selon le **RGIE**, les effets de ce courant varient en fonction de plusieurs critères :
+Schokstroom verwijst naar de elektrische stroom die door het menselijk lichaam vloeit bij contact met een spanningsbron. Volgens het **RGIE** variëren de effecten van deze stroom op basis van verschillende factoren:
 
-- **L’intensité** : Les courants de faible intensité peuvent causer de simples picotements, tandis que les courants plus élevés peuvent être très dangereux.
-- **La durée de contact** : Plus le contact est long, plus les effets sont graves.
-- **Le chemin du courant dans le corps** : Un courant traversant des zones vitales, comme le cœur, augmente considérablement les risques.
+- **De intensiteit**: Zwakke stromen kunnen slechts tintelingen veroorzaken, terwijl hogere stromen zeer gevaarlijk kunnen zijn.
+- **De duur van het contact**: Hoe langer het contact, hoe ernstiger de gevolgen.
+- **Het pad van de stroom door het lichaam**: Een stroom die vitale delen, zoals het hart, passeert, verhoogt het risico aanzienlijk.
 
-**Exemple :** Lors d’une exposition prolongée à un courant de 30 mA, une personne peut rapidement perdre conscience. C'est pourquoi les disjoncteurs différentiels de 30 mA sont indispensables dans les circuits sensibles.
+**Voorbeeld**: Bij een langdurige blootstelling aan een stroom van 30 mA kan een persoon snel het bewustzijn verliezen. Daarom zijn differentieelschakelaars van 30 mA onmisbaar in gevoelige circuits.
 
-:::warning Danger ! ⚠️
-Assurez-vous que les installations électriques comprennent des dispositifs de coupure rapide pour minimiser les risques en cas de choc prolongé.
+:::warning Gevaar! ⚠️
+Zorg ervoor dat elektrische installaties automatische uitschakelapparaten bevatten om de risico's bij langdurige schokken te minimaliseren.
 :::
 
 ---
 
-#### Sous-section 4.2.1.2. Domaines de tension autorisés
+#### Ondersectie 4.2.1.2. Toegestane spanningsgebieden
 
-Les domaines de tension définis dans le RGIE fixent les seuils de sécurité en fonction de la tension. Ils sont regroupés en deux catégories :
+De spanningsgebieden zoals gedefinieerd in het RGIE stellen de veiligheidsdrempels vast afhankelijk van de spanning. Ze worden ingedeeld in twee categorieën:
 
-- **Basse Tension (BT)** : En dessous de 1000 V AC ou 1500 V DC, utilisée dans la majorité des installations domestiques.
-- **Très Basse Tension (TBT)** : En dessous de 50 V AC ou 120 V DC, particulièrement appropriée dans des applications nécessitant une sécurité accrue (comme l'éclairage extérieur).
+- **Laagspanning (LV)**: Onder 1000 V AC of 1500 V DC, gebruikt in de meeste huishoudelijke installaties.
+- **Zeer laagspanning (ZLV)**: Onder 50 V AC of 120 V DC, vooral geschikt voor toepassingen met verhoogde veiligheid (zoals buitenverlichting).
 
-Ces seuils garantissent que les installations restent dans des domaines de tension sécurisés pour limiter les risques de chocs électriques.
+Deze drempels zorgen ervoor dat de installaties binnen veilige spanningsgebieden blijven om de risico's op elektrische schokken te beperken.
 
-:::info Note éducative 💡
-Les installations en **très basse tension** sont privilégiées dans des environnements à risques, comme les aires de jeux ou les espaces publics, afin de garantir une sécurité maximale.
+:::info Educatieve Opmerking 💡
+Installaties met **zeer laagspanning** zijn ideaal in risicovolle omgevingen, zoals speeltuinen of openbare ruimtes, om maximale veiligheid te garanderen.
 :::
 
 ---
 
-### Section 4.2.2. Protection contre les chocs électriques par contact direct
+### Sectie 4.2.2. Bescherming tegen elektrische schokken door direct contact
 
-La **protection contre le contact direct** est essentielle pour prévenir les accidents dans les installations électriques. Cette mesure vise à isoler les parties sous tension des utilisateurs, en s’appuyant sur différents types de protections adaptées au contexte d’utilisation.
+De **bescherming tegen direct contact** is essentieel om ongevallen in elektrische installaties te voorkomen. Deze maatregel is bedoeld om de onder spanning staande delen te isoleren van de gebruikers, door gebruik te maken van verschillende beschermingsmethoden die zijn aangepast aan de gebruiksomgeving.
 
-#### Sous-section 4.2.2.1. Lors de l’emploi de la basse tension
+#### Ondersectie 4.2.2.1. Bij gebruik van laagspanning
 
-Pour les installations en **basse tension**, voici les pratiques recommandées :
+Voor installaties met **laagspanning** worden de volgende aanbevelingen gedaan:
 
-1. **Isolation** : Recouvrez les parties sous tension avec des gaines isolantes pour éviter les contacts.
-2. **Disjoncteurs différentiels (DIF)** : Ces dispositifs coupent automatiquement le courant en cas de fuite, réduisant les risques.
-3. **Sécurisation des accès** : Utilisez des panneaux de protection ou des coffrets pour limiter l'accès aux parties actives.
+1. **Isolatie**: Bedek de onder spanning staande delen met isolerende mantels om contact te voorkomen.
+2. **Differentieelschakelaars (DIF)**: Deze apparaten schakelen automatisch uit bij lekstromen, wat de risico's vermindert.
+3. **Beveiliging van toegang**: Gebruik beschermingspanelen of kasten om toegang tot actieve delen te beperken.
 
-:::tip Astuce 💡
-**Formation des utilisateurs** : Un utilisateur informé est un utilisateur protégé. Informez sur les bonnes pratiques de sécurité en basse tension.
+:::tip Tip 💡
+**Gebruikersopleiding**: Een geïnformeerde gebruiker is een beschermde gebruiker. Geef informatie over de goede veiligheidspraktijken bij laagspanning.
 :::
 
 ---
 
-#### Sous-section 4.2.2.2. Lors de l’emploi de la très basse tension et de la très basse tension de sécurité
+#### Ondersectie 4.2.2.2. Bij gebruik van zeer laagspanning en veiligheidslaagspanning
 
-La très basse tension (TBT) est privilégiée dans les zones où un risque de choc est possible. Utilisez des équipements conçus pour fonctionner avec des niveaux de tension bas et sécurisez les installations pour éviter les accidents.
+Zeer laagspanning (ZLV) wordt gebruikt in zones waar een schokrisico bestaat. Gebruik apparatuur die is ontworpen om te werken bij lage spanningsniveaus en beveilig de installaties om ongevallen te voorkomen.
 
-**Exemple pratique** : Dans les salles de bain, privilégiez les dispositifs TBT pour éviter tout danger même en cas d’humidité élevée.
-
----
-
-#### Sous-section 4.2.2.3. Dans les lieux ordinaires
-
-Dans les habitations et bureaux, la protection doit intégrer les équipements suivants :
-
-- **Prises protégées** : Surtout dans les zones humides comme les cuisines.
-- **Installation conforme** : Par un professionnel qualifié, pour garantir le respect des normes.
-- **Inspections régulières** : Pour assurer le bon fonctionnement des dispositifs de sécurité.
+**Praktisch voorbeeld**: In badkamers heeft ZLV-apparatuur de voorkeur om gevaren te vermijden, zelfs bij hoge luchtvochtigheid.
 
 ---
 
-#### Sous-section 4.2.2.4. Dans les lieux du service électrique
+#### Ondersectie 4.2.2.3. In gewone ruimtes
 
-Les armoires et zones de service électrique nécessitent une vigilance accrue :
+In woningen en kantoren moet de bescherming de volgende voorzieningen omvatten:
 
-1. **Accès sécurisé** : Réservé aux personnes autorisées et formées.
-2. **Signalisation d’avertissement** : Indiquez clairement les dangers.
-3. **Utilisation d'outils isolants** : Limitez les risques de contact accidentel.
-
----
-
-### Section 4.2.3. Protection contre les chocs électriques par contact indirect
-
-La **protection contre les chocs indirects** vise à empêcher les contacts avec des parties conductrices sous tension.
-
-#### Sous-section 4.2.3.1. Principes de la prévention des chocs électriques par contact indirect en basse tension
-
-| Principe de Prévention  | Description                                                  |
-|-------------------------|--------------------------------------------------------------|
-| **Isolation**           | Empêche le contact direct par des matériaux isolants.        |
-| **Équipement de protection** | Les disjoncteurs coupent en cas de défaut.             |
-| **Mise à la terre**     | Dissipe les courants de défaut pour éviter les électrocutions.|
-| **Formation**           | Sensibilisation aux dangers des installations électriques.    |
+- **Beveiligde stopcontacten**: Vooral in vochtige ruimtes zoals keukens.
+- **Conforme installatie**: Door een gekwalificeerde professional, om naleving van de normen te waarborgen.
+- **Regelmatige inspecties**: Om de werking van de beveiligingsapparatuur te controleren.
 
 ---
 
-#### Sous-section 4.2.3.2. Installation de mise à la terre
+#### Ondersectie 4.2.2.4. In elektrische service-ruimtes
 
-L’installation de la **mise à la terre** est essentielle pour limiter les risques de contact indirect. Elle assure :
+Elektrische kasten en servicezones vereisen extra waakzaamheid:
 
-1. **Réduction de la tension de contact** : En cas de défaut, la mise à la terre réduit la tension au niveau des parties conductrices accessibles.
-2. **Évacuation des courants** : Le courant de défaut est dirigé vers la terre, limitant ainsi les risques.
-3. **Respect des normes RGIE** : Conformité avec les exigences de sécurité.
+1. **Veilige toegang**: Toegang is beperkt tot bevoegd en getraind personeel.
+2. **Waarschuwingssignalisatie**: Gevaar duidelijk aangeven met waarschuwingsborden.
+3. **Gebruik van geïsoleerd gereedschap**: Beperk het risico op accidentele contacten.
 
 ---
 
-#### Sous-section 4.2.3.3. Protection passive en basse tension sans coupure automatique de l’alimentation
+### Sectie 4.2.3. Bescherming tegen elektrische schokken door indirect contact
 
-La **protection passive en basse tension** vise à limiter les risques sans nécessiter de coupure automatique de l’alimentation. Cette approche repose sur des mesures de conception et d'isolation, permettant de protéger les utilisateurs tout en assurant la continuité de l’alimentation dans des installations où l'arrêt soudain pourrait causer des problèmes.
+De **bescherming tegen indirect contact** richt zich op het voorkomen van aanrakingen met onder spanning staande geleidende delen.
 
-**Exemples de Protection Passive :**
+#### Ondersectie 4.2.3.1. Principes voor preventie van elektrische schokken door indirect contact bij laagspanning
 
-1. **Conception fermée** : Les parties actives sous tension doivent être enfermées dans des **coffrets sécurisés** et étanches, afin de minimiser tout risque de contact accidentel. Cela est particulièrement important dans les environnements publics ou industriels où le personnel non formé peut être présent.
+| Preventieprincipe        | Beschrijving                                                    |
+|--------------------------|-----------------------------------------------------------------|
+| **Isolatie**             | Voorkomt direct contact door isolatiematerialen.                |
+| **Beschermingsapparatuur** | Automatische uitschakeling door aardlekschakelaars.           |
+| **Aarding**              | Voert foutstromen af om elektrocutie te voorkomen.             |
+| **Training**             | Bewustmaking over de gevaren van elektrische installaties.     |
+
+---
+
+#### Ondersectie 4.2.3.2. Aardingsinstallatie
+
+De **aardingsinstallatie** is essentieel om de risico's van indirect contact te beperken. Deze installatie zorgt voor:
+
+1. **Vermindering van de contactspanning**: Bij een fout verlaagt de aarding de spanning op de blootgestelde delen.
+2. **Afvoer van foutstromen**: De foutstroom wordt naar de aarde geleid, waardoor de risico's worden beperkt.
+3. **Naleving van RGIE-normen**: Voldoet aan de vereiste veiligheidsnormen.
+
+---
+
+#### Ondersectie 4.2.3.3. Passieve bescherming bij laagspanning zonder automatische uitschakeling
+
+De **passieve bescherming bij laagspanning** richt zich op het beperken van risico's zonder dat er een automatische uitschakeling van de stroom nodig is. Deze aanpak maakt gebruik van ontwerp- en isolatiemaatregelen die gebruikers beschermen en tegelijkertijd de continuïteit van de stroomvoorziening handhaven.
+
+**Voorbeelden van passieve bescherming:**
+
+1. **Gesloten ontwerp**: Onder spanning staande delen moeten worden omsloten in **veilige en waterdichte kasten** om accidenteel contact te voorkomen, vooral in industriële en openbare ruimtes.
    
-2. **Isolation renforcée** : Tous les équipements sous tension doivent être recouverts de matériaux isolants de haute qualité, conçus pour empêcher les contacts directs. L'utilisation de gaines et de capots isolants est essentielle pour réduire le risque d'accident.
+2. **Versterkte isolatie**: Alle onder spanning staande apparatuur moet worden bedekt met hoogwaardige isolatiematerialen om direct contact te voorkomen. Het gebruik van geïsoleerde buizen en afdekkappen is essentieel om het risico op ongevallen te verminderen.
 
-3. **Matériaux résistants et durables** : Les installations doivent utiliser des matériaux résistants aux impacts, aux variations de température et à l'humidité. Cela limite le risque de dégradation des isolations qui pourraient exposer les parties sous tension.
+3. **Duurzame materialen**: Gebruik materialen die bestand zijn tegen schokken, temperatuurschommelingen en vochtigheid om slijtage van de isolatie te voorkomen.
 
-:::info Note Pratique 🛠️
-Dans les environnements industriels, les dispositifs passifs sont souvent préférés pour limiter les interruptions de production, mais ils nécessitent un entretien régulier pour garantir leur efficacité.
+:::info Praktische tip 🛠️
+In industriële omgevingen wordt passieve bescherming vaak verkozen om onderbrekingen van de productie te beperken, maar regelmatige inspectie is vereist om de effectiviteit te waarborgen.
 :::
 
 ---
 
-#### Sous-section 4.2.3.4. Protection active en basse tension avec coupure automatique de l’alimentation ⚠️
+#### Ondersectie 4.2.3.4. Actieve bescherming bij laagspanning met automatische uitschakeling ⚠️
 
-La **protection active** repose sur des dispositifs de surveillance qui permettent de détecter les anomalies et de couper automatiquement l’alimentation en cas de défaillance, minimisant ainsi le risque de choc électrique. Cette méthode est particulièrement efficace dans les environnements à risques élevés, car elle réagit immédiatement en cas de défaut.
+De **actieve bescherming** maakt gebruik van bewakingssystemen die afwijkingen detecteren en automatisch de stroom uitschakelen bij storingen, waardoor het risico op een elektrische schok wordt geminimaliseerd. Deze methode is bijzonder effectief in risicovolle omgevingen omdat deze onmiddellijk reageert op fouten.
 
-**Principaux dispositifs de protection active :**
+**Belangrijkste actieve beschermingsapparaten:**
 
-| Protection Active               | Description                                                                                          |
-|---------------------------------|------------------------------------------------------------------------------------------------------|
-| **Disjoncteurs différentiels**   | Ils détectent les fuites de courant et coupent l’alimentation pour éviter les risques de choc.       |
-| **Avertissements visuels et sonores** | Des alarmes visuelles et sonores informent immédiatement des anomalies détectées.            |
-| **Surveillance continue**        | Des systèmes de surveillance détectent les anomalies, avec des alertes pour une intervention rapide.|
+| Actieve Bescherming                | Beschrijving                                                                                             |
+|------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Aardlekschakelaars**             | Detecteren lekstromen en schakelen de stroom uit om elektrocutie te voorkomen.                          |
+| **Visuele en hoorbare waarschuwingen** | Alarmsignalen waarschuwen direct bij gedetecteerde afwijkingen.                                        |
+| **Continue monitoring**            | Systemen voor bewaking detecteren afwijkingen en geven direct meldingen voor snelle interventie.        |
 
-**Fonctionnement des Disjoncteurs Différentiels** : Lorsqu'un défaut est détecté (par exemple, une fuite de courant due à un contact avec une partie métallique), le disjoncteur coupe immédiatement le circuit. Cela permet d'éviter les électrocutions en éliminant rapidement le risque de contact prolongé.
+**Werking van aardlekschakelaars**: Wanneer een fout wordt gedetecteerd (bijvoorbeeld een lekstroom naar een metalen onderdeel), schakelt de aardlekschakelaar onmiddellijk het circuit uit. Dit voorkomt elektrocutie door het risico op langdurig contact te elimineren.
 
-:::warning Attention ! ⚠️
-Les disjoncteurs différentiels doivent être testés régulièrement pour vérifier leur bon fonctionnement et assurer la sécurité continue de l'installation.
+:::warning Let op! ⚠️
+Aardlekschakelaars moeten regelmatig worden getest om te controleren of ze correct functioneren en om de continue veiligheid van de installatie te waarborgen.
 :::
 
-**Exemples Concrets d’Application de la Protection Active :**
+**Voorbeelden van actieve bescherming in de praktijk:**
 
-1. **Appareils domestiques** : Dans les cuisines ou salles de bain, où le risque de contact avec l’eau est élevé, les disjoncteurs différentiels limitent les risques d'électrocution.
+1. **Huishoudelijke apparaten**: In keukens en badkamers, waar het risico op contact met water hoog is, beperken aardlekschakelaars de kans op elektrocutie.
 
-2. **Environnements industriels** : Dans les zones où les équipements sont manipulés fréquemment, comme les chaînes de montage, les systèmes de surveillance continue permettent de réagir aux anomalies avant qu'elles ne causent des accidents.
+2. **Industriële omgevingen**: In gebieden waar vaak apparatuur wordt gehanteerd, zoals productielijnen, zorgen bewakingssystemen voor tijdige reacties op afwijkingen voordat deze ongelukken veroorzaken.
 
-3. **Lieux publics** : Dans les installations publiques, comme les hôpitaux, les dispositifs de coupure automatique et les alarmes alertent le personnel en cas de problème, permettant une intervention rapide.
+3. **Openbare plaatsen**: In installaties zoals ziekenhuizen waarschuwen automatische uitschakelingssystemen en alarmen het personeel bij problemen, zodat er snel ingegrepen kan worden.
 
-En utilisant la **combinaison de protections passives et actives**, les installations peuvent maximiser la sécurité des utilisateurs et réduire les risques d’incidents électriques graves.
-
----
-
-### Section 4.2.4. Utilisation des Mesures de Protection contre les Chocs Électriques par Contacts Indirects en BT et TBT ⚡
-
-#### Sous-section 4.2.4.1. Domaine d'application
-
-Les protections contre les chocs électriques par contact indirect s'appliquent aux installations fonctionnant en **basse tension** (BT) et **très basse tension** (TBT), couvrant ainsi une grande variété de secteurs et d'environnements.
-
-| Type d'installation          | Description                                                                                                                                              | Exemples pratiques                  |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Installations domestiques** 🏠 | Protéger les occupants dans les habitations, surtout dans les zones humides comme les salles de bain et les cuisines.                                    | Maisons, appartements               |
-| **Installations industrielles** 🏭 | Prévenir les risques dans les zones à forte puissance électrique, souvent impliquant des équipements de grande taille et de lourds besoins en énergie. | Usines, chaînes de montage          |
-| **Bâtiments commerciaux** 🏢 | Garantir la sécurité des clients et du personnel dans les lieux ouverts au public.                                                                      | Magasins, bureaux, centres commerciaux |
-| **Installations spécialisées** 🏥 | Assurer une protection optimale dans des environnements sensibles, comme les hôpitaux, où le moindre choc électrique pourrait être critique.         | Hôpitaux, laboratoires              |
-
-Ces domaines exigent des **normes de sécurité strictes**, avec des vérifications régulières pour s’assurer que les mesures de protection sont toujours efficaces.
+Door een **combinatie van passieve en actieve beschermingsmaatregelen** toe te passen, kunnen installaties de veiligheid van gebruikers maximaliseren en de risico's op ernstige elektrische incidenten verminderen.
 
 ---
 
-#### Sous-section 4.2.4.2. Influences Externes 🌦️
+### Sectie 4.2.4. Gebruik van beschermingsmaatregelen tegen elektrische schokken door indirect contact bij LS en ZLS ⚡
 
-Les conditions environnementales peuvent affecter les systèmes de protection, et le **RGIE** impose des précautions spécifiques selon les **influences externes**. Voici quelques facteurs externes à prendre en compte pour optimiser la sécurité des installations électriques :
+#### Ondersectie 4.2.4.1. Toepassingsgebied
 
-1. **Conditions environnementales** : L'humidité, la chaleur excessive, et les substances corrosives accélèrent la dégradation des dispositifs de protection. Il est crucial de sélectionner des équipements résistants à la corrosion pour les installations en milieu humide ou chimique.
+De beschermingsmaatregelen tegen elektrische schokken door indirect contact zijn van toepassing op installaties die werken op **laagspanning** (LS) en **zeer laagspanning** (ZLS), en bestrijken daarmee een breed scala aan sectoren en omgevingen.
 
-   :::warning Attention ! ⚠️
-   Dans des environnements à haute humidité, privilégiez les matériaux isolants certifiés et ajoutez des protections contre la condensation pour éviter les courts-circuits.
+| Type installatie             | Beschrijving                                                                                                                                                 | Praktische voorbeelden                 |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| **Huishoudelijke installaties** 🏠 | Bescherming van bewoners, vooral in vochtige ruimtes zoals badkamers en keukens.                                                                           | Huizen, appartementen                  |
+| **Industriële installaties** 🏭 | Risicobeheersing in gebieden met hoge elektrische belasting, vaak met grote apparatuur en zware energiebehoeften.                                            | Fabrieken, productielijnen             |
+| **Commerciële gebouwen** 🏢   | Veiligheid van klanten en personeel in openbare ruimten waar veel mensen aanwezig zijn.                                                                      | Winkels, kantoren, winkelcentra        |
+| **Speciale installaties** 🏥  | Optimale bescherming in gevoelige omgevingen, zoals ziekenhuizen, waar zelfs een kleine elektrische schok kritieke gevolgen kan hebben.                      | Ziekenhuizen, laboratoria              |
+
+Deze toepassingen vereisen **strenge veiligheidsnormen**, met regelmatige inspecties om ervoor te zorgen dat de beschermingsmaatregelen altijd effectief blijven.
+
+---
+
+#### Ondersectie 4.2.4.2. Externe Invloeden 🌦️
+
+De omgevingsomstandigheden kunnen van invloed zijn op de beschermingssystemen, en het **AREI** stelt specifieke voorzorgsmaatregelen volgens de **externe invloeden**. Hier zijn enkele externe factoren om rekening mee te houden voor een optimale veiligheid van elektrische installaties:
+
+1. **Omgevingscondities**: Vocht, extreme hitte en corrosieve stoffen versnellen de aftakeling van beschermingsapparaten. Het is essentieel om corrosiebestendige apparatuur te kiezen voor installaties in vochtige of chemische omgevingen.
+
+   :::warning Let op! ⚠️
+   In omgevingen met hoge luchtvochtigheid, gebruik gecertificeerde isolatiematerialen en voeg bescherming tegen condensatie toe om kortsluitingen te voorkomen.
    :::
 
-2. **Type de sol** : Le type de sol influence les systèmes de mise à la terre. Un sol humide, par exemple, offre une meilleure conductivité, favorisant la dissipation des courants de défaut et augmentant la sécurité globale de l’installation.
+2. **Soort ondergrond**: Het type ondergrond beïnvloedt de aardingssystemen. Een vochtige ondergrond, bijvoorbeeld, biedt een betere geleidbaarheid, wat bijdraagt aan de afvoer van foutstromen en de algehele veiligheid van de installatie verhoogt.
 
-3. **Utilisation de l’espace** : En zones à risques (entrepôts de produits chimiques, espaces industriels), il est impératif de renforcer la protection contre les chocs indirects par des isolations et des dispositifs de sécurité supplémentaires.
+3. **Gebruik van de ruimte**: In risicovolle zones (chemische opslag, industriële ruimtes) is het noodzakelijk om de bescherming tegen indirecte schokken te versterken door middel van isolatie en aanvullende veiligheidsapparaten.
 
-4. **Accessibilité** : Les installations électriques dans des lieux accessibles au public doivent intégrer des protections visuelles (signalisation) et physiques (protections isolantes) pour empêcher les contacts accidentels.
-
----
-
-#### Sous-section 4.2.4.3. Protection contre les chocs électriques par contacts indirects dans les installations domestiques 🏡
-
-Les installations domestiques nécessitent une protection accrue pour assurer la sécurité des habitants. Le **RGIE** recommande une approche combinant plusieurs mesures préventives :
-
-- **Dispositifs de protection** : L’installation de **disjoncteurs différentiels (DDR)** est essentielle. Ces dispositifs surveillent les fuites de courant et coupent automatiquement l’alimentation en cas de défaut, minimisant ainsi les risques d’accidents.
-
-   :::tip Astuce pratique 💡
-   Choisissez des DDR de 30 mA pour une protection optimale dans les environnements domestiques, en particulier dans les zones humides (cuisine, salle de bain).
-   :::
-
-- **Mise à la terre des appareils** : Tous les appareils électriques doivent être connectés à la terre pour garantir que les courants de défaut soient dirigés vers le sol, empêchant ainsi leur passage à travers le corps humain.
-
-- **Sensibilisation et éducation** : Informer les occupants sur les bonnes pratiques, telles que ne pas surcharger les prises, éviter les appareils endommagés, et ne jamais manipuler les équipements électriques avec les mains mouillées, est crucial pour prévenir les accidents.
-
-- **Contrôles réguliers** 🔍 : Les installations électriques doivent être inspectées régulièrement par des professionnels qualifiés pour garantir leur conformité aux normes et prévenir tout dysfonctionnement.
-
-   :::info Recommandation 📆
-   Il est recommandé de faire inspecter les installations tous les 5 ans pour s’assurer qu’elles restent conformes et sécurisées.
-   :::
+4. **Toegankelijkheid**: Elektrische installaties in openbare ruimtes moeten voorzien zijn van visuele beschermingen (signalering) en fysieke isolatie om onbedoeld contact te voorkomen.
 
 ---
 
-#### Sous-section 4.2.4.4. Protection contre les chocs électriques par contacts indirects dans les installations non-domestiques 🏢
+#### Ondersectie 4.2.4.3. Bescherming tegen indirecte elektrische schokken in huishoudelijke installaties 🏡
 
-Les installations non-domestiques, notamment dans les environnements commerciaux et industriels, requièrent des normes de protection plus strictes pour garantir la sécurité des travailleurs et des usagers.
+Huishoudelijke installaties vereisen extra bescherming om de veiligheid van de bewoners te waarborgen. Het **AREI** beveelt een aanpak aan met verschillende preventieve maatregelen:
 
-| Mesures de Protection      | Description                                                                                                                                               | Exemples d'application              |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Normes de sécurité renforcées** | Les installations doivent respecter des exigences spécifiques en matière de mise à la terre, de protections automatiques et de dispositifs de détection d'anomalies. | Zones industrielles, sites publics |
-| **Systèmes de surveillance** 🖥️  | Intégrer des dispositifs de surveillance et de contrôle pour détecter les défauts en temps réel et permettre une intervention rapide.                      | Hôpitaux, grandes entreprises       |
-| **Planification des infrastructures** | Concevoir des installations qui minimisent l'accès aux parties sous tension, évitant ainsi les risques de contact accidentel.                     | Câbles souterrains, coffrets sécurisés |
-| **Évaluation des risques** | Réaliser des analyses de risques pour identifier et corriger les vulnérabilités spécifiques à chaque type d'installation.                                   | Usines, entrepôts, espaces publics |
+- **Beschermingsapparaten**: De installatie van **differentieelschakelaars (DDR)** is essentieel. Deze apparaten detecteren lekstromen en schakelen automatisch de stroom uit bij een fout, waardoor het risico op ongelukken wordt geminimaliseerd.
 
-   :::warning Alerte sécurité ! ⚠️
-   Dans les environnements à haute densité de passage, comme les centres commerciaux ou les espaces industriels, veillez à ce que les systèmes de protection soient inspectés trimestriellement.
+   :::tip Praktische tip 💡
+   Kies 30 mA DDR’s voor optimale bescherming in huishoudelijke omgevingen, vooral in vochtige zones (keuken, badkamer).
+   :::
+
+- **Aarding van apparaten**: Alle elektrische apparaten moeten geaard zijn om ervoor te zorgen dat foutstromen naar de grond worden geleid, waardoor voorkomen wordt dat ze door het menselijk lichaam gaan.
+
+- **Bewustmaking en educatie**: Het informeren van de bewoners over goede praktijken, zoals het niet overbelasten van stopcontacten, vermijden van beschadigde apparaten en geen elektrische apparaten aanraken met natte handen, is cruciaal om ongelukken te voorkomen.
+
+- **Regelmatige controles** 🔍: Elektrische installaties moeten regelmatig door gekwalificeerde professionals worden geïnspecteerd om hun naleving van de normen te garanderen en storingen te voorkomen.
+
+   :::info Aanbeveling 📆
+   Het wordt aanbevolen om de installaties elke 5 jaar te laten inspecteren om te garanderen dat ze conform en veilig blijven.
    :::
 
 ---
 
-### Section 4.2.5. Mesures de Protection en Très Basse Tension (TBT) 🔋
+#### Ondersectie 4.2.4.4. Bescherming tegen indirecte elektrische schokken in niet-huishoudelijke installaties 🏢
 
-#### Sous-section 4.2.5.1. Alimentation en très basse tension (TBT)
+Niet-huishoudelijke installaties, zoals in commerciële en industriële omgevingen, vereisen strengere beschermingsnormen om de veiligheid van werknemers en gebruikers te waarborgen.
 
-Les circuits en **très basse tension (TBT)** sont couramment utilisés pour réduire les risques de choc dans les environnements où la sécurité est primordiale. 
+| Beschermingsmaatregelen       | Beschrijving                                                                                                                                          | Toepassingsvoorbeelden             |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| **Verhoogde veiligheidsnormen** | Installaties moeten voldoen aan specifieke eisen voor aarding, automatische beschermingen en foutdetectiesystemen.                                   | Industriële zones, openbare sites  |
+| **Toezichtsystemen** 🖥️       | Integratie van toezicht- en controlesystemen om fouten in realtime te detecteren en snelle interventies mogelijk te maken.                             | Ziekenhuizen, grote bedrijven      |
+| **Infrastructuurplanning**    | Ontwerp installaties zodanig dat toegang tot onder spanning staande delen wordt geminimaliseerd om onbedoeld contact te voorkomen.                     | Ondergrondse kabels, beveiligde kasten |
+| **Risicobeoordeling**         | Voer risicoanalyses uit om kwetsbaarheden te identificeren en corrigeren, afhankelijk van het type installatie.                                       | Fabrieken, opslagruimtes, openbare ruimtes |
 
-**Caractéristiques principales :**
-
-1. **Limitation de la tension** : Une tension inférieure à **50 V AC ou 120 V DC** réduit les risques de choc, rendant les circuits TBT particulièrement sûrs.
-
-2. **Isolation renforcée** : Les câbles et équipements en TBT doivent être isolés de manière adéquate pour éviter les contacts accidentels avec des parties conductrices.
-
-3. **Applications courantes** : Les systèmes d’éclairage de sécurité, les dispositifs de contrôle et les installations extérieures utilisent souvent des circuits TBT pour garantir la sécurité de l’utilisateur.
-
-4. **Transformateurs de sécurité** : Ces équipements sont conçus pour fournir l’alimentation TBT tout en maintenant une séparation sécurisée avec les circuits de plus haute tension.
-
-   :::info À savoir 🔌
-   Les transformateurs TBT sont souvent utilisés dans les environnements humides ou extérieurs pour réduire les risques de chocs électriques.
+   :::warning Veiligheidswaarschuwing! ⚠️
+   In omgevingen met veel verkeer, zoals winkelcentra of industriële ruimtes, moeten de beschermingssystemen elk kwartaal worden geïnspecteerd.
    :::
 
 ---
 
-#### Sous-section 4.2.5.2. Installations en Très Basse Tension Fonctionnelle (TBTF)
+### Ondersectie 4.2.5. Beschermingsmaatregelen in Zeer Lage Spanning (ZLS) 🔋
 
-Les installations en **très basse tension fonctionnelle (TBTF)** répondent à des normes spécifiques pour assurer un fonctionnement sécurisé et fiable, surtout dans des situations d'urgence.
+#### Ondersectie 4.2.5.1. Voeding in zeer lage spanning (ZLS)
 
-- **Fonctionnalité et sécurité** : Ces installations sont conçues pour réduire les risques de défaillance, notamment grâce à des protections contre les surcharges et les courts-circuits.
+Zeer lage spanning (ZLS) circuits worden vaak gebruikt om het risico op schokken te verminderen in omgevingen waar veiligheid cruciaal is.
 
-- **Exemples d’utilisation** : Les circuits TBTF sont utilisés dans des systèmes critiques comme les éclairages de secours ou les alarmes incendie, où la sécurité et la fiabilité sont primordiales.
+**Belangrijkste kenmerken:**
 
-- **Vérifications périodiques** 🔍 : Des contrôles réguliers garantissent que l’installation TBTF reste conforme et que tous les composants sont fonctionnels.
+1. **Spanningsbeperking**: Een spanning lager dan **50 V AC of 120 V DC** vermindert het risico op elektrische schokken, waardoor ZLS-circuits bijzonder veilig zijn.
 
----
+2. **Versterkte isolatie**: De kabels en apparatuur in ZLS moeten goed geïsoleerd zijn om onbedoeld contact met geleidende delen te voorkomen.
 
-#### Sous-section 4.2.5.3. Installations en Très Basse Tension de Sécurité (TBTS) et de Protection (TBTP)
+3. **Toepasselijke voorbeelden**: Veiligheidsverlichting, besturingsapparaten en buiteninstallaties maken vaak gebruik van ZLS-circuits voor gebruikersveiligheid.
 
-Les installations **TBTS** et **TBTP** sont des circuits conçus pour une **sécurité maximale**, réduisant drastiquement les risques de choc électrique.
+4. **Veiligheidstransformatoren**: Deze apparaten leveren ZLS-voeding en zorgen voor een veilige scheiding van circuits met hogere spanning.
 
-| Type d'Installation | Objectif | Exemples d'applications |
-|---------------------|----------|--------------------------|
-| **TBTS**           | Garantir la sécurité même en cas de défaut, en maintenant une tension sans risque de choc. | Équipements médicaux |
-| **TBTP**           | Protection contre les contacts indirects, en dissipant les courants de défaut de manière sécurisée. | Systèmes de télécommunication |
-
-**Importance des Normes** : Les installations TBTS et TBTP doivent suivre des normes strictes pour assurer leur sécurité. Cela inclut des matériaux isolants, des dispositifs de protection et des contrôles d’efficacité réguliers.
-
----
-
-#### Sous-section 4.2.5.4. Prescriptions Complémentaires pour les Circuits en TBTP
-
-Pour garantir une protection optimale, les circuits TBTP doivent respecter plusieurs prescriptions :
-
-1. **Protection des circuits** : Les circuits TBTP doivent inclure des disjoncteurs ou des fusibles pour prévenir les surcharges et les courts-circuits.
-
-2. **Identification** : Chaque circuit TBTP doit être clairement étiqueté pour faciliter l’entretien.
-
-3. **Inspections périodiques** : Les circuits TBTP doivent être inspectés périodiquement pour garantir leur conformité aux normes de sécurité.
-
----
-
-#### Sous-section 4.2.5.5. Prescriptions Complémentaires pour les Circuits en TBTS
-
-Les **circuits TBTS** nécessitent également des précautions pour assurer une sécurité maximale :
-
-1. **Tension limitée** : Ces circuits sont conçus pour fonctionner à des tensions qui minimisent les risques de choc.
-
-2. **Équipements de protection** : Utilisation de disjoncteurs différentiels pour détecter les anomalies et couper l’alimentation en cas de défaut.
-
-3. **Accessibilité contrôlée** : Les circuits TBTS doivent être accessibles uniquement aux personnes qualifiées.
-
-   :::tip Documentation 🗂️
-   Une documentation complète des circuits TBTS est essentielle pour assurer une maintenance efficace et sécurisée.
+   :::info Wist je dat? 🔌
+   Veiligheidstransformatoren worden vaak gebruikt in vochtige of buitenomgevingen om het risico op elektrische schokken te verkleinen.
    :::
 
 ---
 
-# CHAPITRE 4.3. PROTECTION CONTRE LES EFFETS THERMIQUES 🔥
+#### Ondersectie 4.2.5.2. Installaties in Functionele Zeer Lage Spanning (FZLS)
 
-Les **effets thermiques** dans les installations électriques peuvent poser des risques sérieux, allant des surchauffes jusqu'aux incendies, et même endommager gravement les équipements. Le **RGIE** impose des mesures de protection pour prévenir ces effets, garantissant la sécurité des installations et la durabilité des composants électriques.
+Functionele zeer lage spanning (FZLS) installaties voldoen aan specifieke normen om een veilige en betrouwbare werking te garanderen, vooral in noodsituaties.
 
----
+- **Functionaliteit en veiligheid**: Deze installaties zijn ontworpen om storingen te verminderen, met beschermingen tegen overbelasting en kortsluiting.
 
-### Section 4.3.1. Généralités 🌡️
+- **Toepassingen**: FZLS-circuits worden gebruikt in kritieke systemen zoals noodverlichting of brandmelders, waar veiligheid en betrouwbaarheid essentieel zijn.
 
-Les effets thermiques sont essentiellement causés par la chaleur produite lorsque le courant électrique circule à travers des conducteurs et composants. Cette chaleur excessive peut endommager l'isolation des câbles, entraîner des courts-circuits, et, dans les cas extrêmes, provoquer des incendies. 
-
-Pour minimiser ces risques, plusieurs éléments doivent être pris en compte dès la conception :
-
-- **Qualité des matériaux** : Optez pour des matériaux isolants de qualité, adaptés aux températures élevées.
-- **Dimensionnement des conducteurs** : Un calcul précis est crucial pour éviter toute surcharge qui pourrait conduire à une surchauffe.
-
-#### Sous-section 4.3.1.1. Principes de protection
-
-La protection contre les effets thermiques repose sur plusieurs **principes fondamentaux**, chacun contribuant à la prévention des surchauffes :
-
-1. **Dimensionnement des conducteurs** 🧮 : Assurez-vous que chaque conducteur est dimensionné en fonction de la charge maximale qu'il transportera. Un mauvais dimensionnement peut entraîner une surchauffe et des risques d'incendie. Référez-vous au tableau de dimensionnement des conducteurs pour choisir la taille correcte selon l'intensité du courant et l’environnement d’installation.
-
-2. **Dispositifs de protection thermique** ⚡ : Utilisez des disjoncteurs thermiques ou des relais de protection. Ces dispositifs coupent le courant dès que la température atteint un niveau dangereux, empêchant ainsi les dégâts thermiques.
-
-3. **Ventilation et dissipation de chaleur** 🌬️ : Dans les installations générant beaucoup de chaleur, comme les armoires de distribution, une ventilation adéquate est cruciale. Des ventilateurs ou des systèmes de refroidissement permettent de maintenir une température de fonctionnement sécurisée.
-
-   :::tip Bonnes pratiques de ventilation 💡
-   Assurez-vous que les armoires électriques sont installées dans des endroits bien ventilés et éloignés des sources de chaleur directe.
-   :::
-
-4. **Matériaux résistants à la chaleur** 🧱 : Les gaines, câbles, et autres isolants doivent être choisis pour leur résistance thermique. Utilisez des matériaux tels que le PVC résistant à la chaleur, ou des câbles en caoutchouc isolant pour garantir la longévité de l’installation.
+- **Periodieke controles** 🔍: Regelmatige inspecties zorgen ervoor dat de FZLS-installatie conform blijft en dat alle componenten goed functioneren.
 
 ---
 
-#### Sous-section 4.3.1.2. Définitions spécifiques
+#### Ondersectie 4.2.5.3. Installaties in Veiligheidszeer Lage Spanning (VZLS) en Beschermingszeer Lage Spanning (BZLS)
 
-Voici quelques **définitions clés** liées aux effets thermiques, indispensables pour bien comprendre les principes de sécurité :
+De VZLS- en BZLS-installaties zijn ontworpen voor **maximale veiligheid**, waarbij de risico’s op elektrische schokken drastisch worden verminderd.
 
-- **Température de service** : La température maximale à laquelle un équipement peut fonctionner en sécurité sans risque de défaillance. Respectez cette limite pour éviter la dégradation des composants.
+| Installatietype | Doelstelling                       | Toepassingsvoorbeelden          |
+|-----------------|------------------------------------|---------------------------------|
+| **VZLS**        | Zorgt voor veiligheid, zelfs bij een storing, door een veilige spanning te handhaven. | Medische apparatuur             |
+| **BZLS**        | Bescherming tegen indirecte contacten, door foutstromen veilig af te voeren.       | Telecommunicatiesystemen        |
 
-- **Résistance thermique** : Capacité d’un matériau à résister à la transmission de chaleur. Une faible résistance thermique peut être bénéfique ou nuisible, selon le contexte.
-
-- **Point de fusion** : La température à laquelle un matériau commence à fondre. Choisissez des conducteurs dont le point de fusion est supérieur aux températures maximales prévues en fonctionnement.
-
-   :::info Note éducative 📝
-   Le point de fusion des conducteurs doit être pris en compte pour prévenir les situations d'extrême surchauffe, en particulier dans les environnements industriels.
-   :::
+**Naleving van normen**: VZLS- en BZLS-installaties moeten voldoen aan strikte normen om hun veiligheid te garanderen, inclusief isolatiematerialen, beschermingsapparatuur en regelmatige controles.
 
 ---
 
-#### Sous-section 4.3.1.3. Influences externes
+#### Ondersectie 4.2.5.4. Aanvullende Voorschriften voor TBTP-circuits
 
-Les **influences externes** peuvent intensifier les effets thermiques. Lors de la conception d'une installation électrique, tenez compte des éléments suivants :
+Om optimale bescherming te garanderen, moeten TBTP-circuits aan de volgende voorschriften voldoen:
 
-1. **Température ambiante** 🌞 : Une température élevée amplifie les effets thermiques. Adaptez les matériaux en fonction de l’environnement pour éviter tout risque de surchauffe.
+1. **Circuitbescherming**: TBTP-circuits moeten voorzien zijn van zekeringen of schakelaars om overbelasting en kortsluiting te voorkomen.
 
-2. **Humidité** 💧 : Elle peut affaiblir l’isolation des conducteurs, augmentant les risques de court-circuit et de surchauffe. Utilisez des matériaux résistants à l’humidité dans les environnements humides.
+2. **Identificatie**: Elk TBTP-circuit moet duidelijk worden gelabeld voor eenvoudig onderhoud.
 
-3. **Exposition au soleil** ☀️ : Pour les installations extérieures, protégez les câbles de l’exposition directe au soleil. Utilisez des gaines résistantes aux UV ou installez des protections pour éviter la dégradation.
+3. **Periodieke inspecties**: TBTP-circuits moeten regelmatig worden gecontroleerd om te voldoen aan de veiligheidsnormen.
 
-4. **Isolation des bâtiments** 🏠 : Une isolation thermique inadaptée peut entraîner une accumulation de chaleur, augmentant ainsi la température autour des installations. 
+---
 
-| Facteur                   | Impact possible sur les installations                                        |
-|---------------------------|------------------------------------------------------------------------------|
-| **Température ambiante**  | Risque accru de surchauffe                                                  |
-| **Humidité**              | Diminution de la résistance de l'isolation                                  |
-| **Exposition au soleil**  | Dégradation accélérée des équipements                                       |
-| **Isolation des bâtiments** | Accumulation de chaleur dans les conduits et armoires électriques          |
+#### Ondersectie 4.2.5.5. Aanvullende Voorschriften voor TBTS-circuits
 
-   :::warning Attention ⚠️
-   Vérifiez l’état des gaines et isolants chaque année dans les environnements chauds et humides pour prévenir les risques de court-circuit.
+Ook **TBTS-circuits** vereisen specifieke voorzorgsmaatregelen om maximale veiligheid te waarborgen:
+
+1. **Beperkte spanning**: Deze circuits zijn ontworpen om te werken bij spanningen die het risico op elektrische schokken minimaliseren.
+
+2. **Beschermingsapparatuur**: Gebruik van differentieelschakelaars om afwijkingen te detecteren en de stroom af te sluiten bij een fout.
+
+3. **Toegangscontrole**: Toegang tot TBTS-circuits is beperkt tot gekwalificeerde personen.
+
+   :::tip Documentatie 🗂️
+   Een volledige documentatie van TBTS-circuits is essentieel voor effectief en veilig onderhoud.
    :::
 
 ---
 
-### Section 4.3.2. Protection contre les brûlures 🔥
+# HOOFDSTUK 4.3. BESCHERMING TEGEN THERMISCHE EFFECTEN 🔥
 
-La **protection contre les brûlures** est essentielle dans toute installation électrique. Les brûlures peuvent survenir lorsqu'une personne entre en contact avec des surfaces chaudes ou des équipements non isolés. Voici comment minimiser ces risques.
+Thermische effecten in elektrische installaties kunnen ernstige risico's vormen, zoals oververhitting, brand en schade aan apparatuur. Het **AREI** stelt beschermingsmaatregelen voor om deze effecten te voorkomen en de veiligheid en duurzaamheid van elektrische componenten te waarborgen.
 
-#### Sous-section 4.3.2.1. Limitations des températures du matériel électrique accessible
+---
 
-Pour éviter les brûlures, il est important de fixer des **limites de température** sur les équipements électriques accessibles :
+### Sectie 4.3.1. Algemeen 🌡️
 
-- **Température maximale autorisée** : En général, la température de surface des équipements exposés doit être inférieure à 60 °C pour prévenir les brûlures. Cette norme garantit une utilisation sécurisée pour les utilisateurs.
+Thermische effecten worden voornamelijk veroorzaakt door warmte die ontstaat wanneer elektrische stroom door geleiders en componenten stroomt. Deze overtollige warmte kan isolatie beschadigen, kortsluitingen veroorzaken en in extreme gevallen brand veroorzaken.
 
-- **Matériaux isolants** : Privilégiez des matériaux capables de supporter des températures élevées sans se détériorer. Cela inclut les gaines isolantes et les câbles résistants à la chaleur.
+Om deze risico's te minimaliseren, moeten verschillende elementen in aanmerking worden genomen bij het ontwerp:
 
-- **Surveillance de la température** : Des dispositifs de surveillance peuvent être installés pour alerter en cas de dépassement de température, renforçant ainsi la sécurité des utilisateurs.
+- **Materiaalkeuze**: Gebruik hoogwaardige isolatiematerialen die bestand zijn tegen hoge temperaturen.
+- **Dimensionering van geleiders**: Zorg voor een nauwkeurige berekening om overbelasting en oververhitting te voorkomen.
 
-   :::tip Astuce de sécurité 🚨
-   Installez des indicateurs de température sur les équipements exposés pour surveiller les variations de chaleur et prévenir les risques de brûlure.
+#### Ondersectie 4.3.1.1. Beschermingsprincipes
+
+Bescherming tegen thermische effecten is gebaseerd op verschillende **fundamentele principes**, die bijdragen aan het voorkomen van oververhitting:
+
+1. **Dimensionering van geleiders** 🧮: Zorg ervoor dat elke geleider is gedimensioneerd op basis van de maximale belasting. Onjuiste dimensionering kan leiden tot oververhitting en brandgevaar.
+
+2. **Thermische beschermingsapparatuur** ⚡: Gebruik thermische schakelaars of relais die de stroom uitschakelen wanneer een gevaarlijke temperatuur wordt bereikt.
+
+3. **Ventilatie en warmteafvoer** 🌬️: Voor installaties die veel warmte genereren, zoals verdeelkasten, is voldoende ventilatie essentieel.
+
+   :::tip Ventilatiepraktijk 💡
+   Zorg ervoor dat elektrische kasten goed geventileerd zijn en zich niet in direct zonlicht bevinden.
+   :::
+
+4. **Hittesbestendige materialen** 🧱: Gebruik materialen zoals hittebestendig PVC of rubberen isolatie om de duurzaamheid van de installatie te garanderen.
+
+---
+
+#### Ondersectie 4.3.1.2. Specifieke Definities
+
+Hier zijn enkele **belangrijke definities** met betrekking tot thermische effecten:
+
+- **Bedrijfstemperatuur**: De maximale veilige temperatuur waarbij een apparaat kan functioneren zonder defecten.
+- **Thermische weerstand**: Het vermogen van een materiaal om warmteoverdracht te weerstaan.
+- **Smeltpunt**: De temperatuur waarbij een materiaal begint te smelten.
+
+   :::info Educatieve opmerking 📝
+   Houd rekening met het smeltpunt van geleiders om oververhitting te voorkomen, vooral in industriële omgevingen.
    :::
 
 ---
 
-#### Sous-section 4.3.2.2. Règles complémentaires pour l’influence externe BA2 (enfants)
+#### Ondersectie 4.3.1.3. Externe Invloeden
 
-Lorsque des enfants peuvent accéder aux installations, le **RGIE** impose des mesures supplémentaires pour assurer leur sécurité :
+**Externe invloeden** kunnen de thermische effecten versterken. Bij het ontwerpen van een elektrische installatie moet rekening worden gehouden met de volgende factoren:
 
-- **Protection physique** : Utilisez des dispositifs de sécurité, comme des couvercles de protection, pour empêcher tout contact direct avec les surfaces chaudes.
+1. **Omgevingstemperatuur** 🌞: Hoge temperaturen versterken de thermische effecten. Kies materialen die geschikt zijn voor de omgeving om oververhitting te voorkomen.
 
-- **Design sécurisé** : Conception des appareils avec des éléments isolés pour minimiser les risques de contact avec des parties chaudes. Par exemple, les poignées des équipements de cuisine doivent être isolées thermiquement.
+2. **Vochtigheid** 💧: Vocht kan de isolatie van geleiders verzwakken en het risico op kortsluiting vergroten.
 
-- **Signalisation** : Les avertissements concernant les risques de brûlures doivent être clairement visibles et compréhensibles, surtout dans les zones accessibles aux enfants.
+3. **Zonblootstelling** ☀️: Voor buiteninstallaties moeten kabels worden beschermd tegen directe blootstelling aan de zon.
 
-   :::warning Attention aux enfants 🧒
-   Dans les lieux où des enfants circulent, vérifiez que les équipements électriques sont bien protégés et inaccessibles.
+4. **Isolatie van gebouwen** 🏠: Onjuiste thermische isolatie kan warmte ophopen rond de installaties.
+
+| Externe Factor              | Mogelijk effect op installaties                         |
+|-----------------------------|---------------------------------------------------------|
+| **Omgevingstemperatuur**    | Verhoogd risico op oververhitting                       |
+| **Vochtigheid**             | Verminderde isolatieweerstand                           |
+| **Zonblootstelling**        | Versnelde degradatie van apparatuur                     |
+| **Gebouwisolatie**          | Warmteophoping in leidingen en elektrische kasten       |
+
+   :::warning Let op! ⚠️
+   Controleer jaarlijks de staat van kabels en isolatie in warme en vochtige omgevingen om kortsluitingsrisico's te voorkomen.
+   :::
+
+### Sectie 4.3.2. Bescherming tegen brandwonden 🔥
+
+**Bescherming tegen brandwonden** is essentieel in elke elektrische installatie. Brandwonden kunnen ontstaan wanneer een persoon in contact komt met hete oppervlakken of niet-geïsoleerde apparatuur. Hier leest u hoe u deze risico's kunt minimaliseren.
+
+#### Ondersectie 4.3.2.1. Beperkingen van de temperatuur van toegankelijke elektrische apparatuur
+
+Om brandwonden te voorkomen, is het belangrijk om **temperatuurbeperkingen** in te stellen voor toegankelijke elektrische apparatuur:
+
+- **Maximaal toegestane temperatuur**: Over het algemeen moet de oppervlaktetemperatuur van blootgestelde apparatuur onder de 60 °C blijven om brandwonden te voorkomen. Deze norm garandeert een veilige werking voor gebruikers.
+
+- **Isolerende materialen**: Gebruik materialen die bestand zijn tegen hoge temperaturen zonder te verslechteren. Dit omvat isolerende kabels en hittebestendige omhulsels.
+
+- **Temperatuurbewaking**: Installeer bewakingssystemen om te waarschuwen bij temperatuuroverschrijdingen, wat de veiligheid van gebruikers verhoogt.
+
+   :::tip Veiligheidstip 🚨
+   Installeer temperatuurindicatoren op blootgestelde apparatuur om temperatuurvariaties te volgen en brandwonden te voorkomen.
    :::
 
 ---
 
-#### Sous-section 4.3.2.3. Installation et maintenance du matériel électrique
+#### Ondersectie 4.3.2.2. Aanvullende regels voor externe invloed BA2 (kinderen)
 
-Une **installation correcte** et une **maintenance régulière** du matériel électrique réduisent le risque de brûlures et de surchauffe. Voici les points essentiels :
+Wanneer kinderen toegang hebben tot installaties, stelt het **AREI** aanvullende maatregelen voor om hun veiligheid te garanderen:
 
-- **Normes d’installation** : Suivez les normes de sécurité, notamment pour l’emplacement des équipements, leur ventilation, et leur accessibilité.
+- **Fysieke bescherming**: Gebruik beveiligingshulpmiddelen, zoals beschermkappen, om direct contact met hete oppervlakken te voorkomen.
 
-- **Ventilation adéquate** 🌬️ : Assurez-vous que les équipements produisant de la chaleur, comme les transformateurs, disposent d'une ventilation suffisante pour dissiper la chaleur.
+- **Veilig ontwerp**: Ontwerp apparaten met geïsoleerde onderdelen om het risico op contact met hete delen te minimaliseren. Bijvoorbeeld, handgrepen van keukentoestellen moeten thermisch geïsoleerd zijn.
 
-- **Maintenance régulière** 🛠️ : Un nettoyage et une vérification des dispositifs de dissipation thermique permettent de s’assurer que les équipements fonctionnent en toute sécurité.
+- **Signalisatie**: Waarschuwingen voor het risico op brandwonden moeten duidelijk zichtbaar en begrijpelijk zijn, vooral in gebieden die toegankelijk zijn voor kinderen.
 
-- **Formation des utilisateurs** 📘 : Formez les utilisateurs à identifier les signes de surchauffe, et informez-les des risques de brûlures.
-
-| Mesure de Protection       | Description                                                    |
-|----------------------------|----------------------------------------------------------------|
-| **Limitation de température** | Maintenir la température des surfaces exposées en dessous de 60 °C |
-| **Protection physique**     | Empêcher tout contact direct avec les équipements chauds      |
-| **Design sécurisé**        | Conception des appareils pour éviter les risques de brûlure   |
-| **Ventilation et dissipation** | Ventilation suffisante pour les équipements produisant de la chaleur |
-| **Formation et sensibilisation** | Apprentissage des bonnes pratiques de sécurité          |
-
-   :::info Note de maintenance 📅
-   Effectuez un contrôle semestriel des équipements pour vérifier qu’ils ne présentent aucun risque thermique.
+   :::warning Waarschuwing voor kinderen 🧒
+   Zorg ervoor dat elektrische apparatuur in ruimtes waar kinderen aanwezig zijn goed beschermd en ontoegankelijk is.
    :::
 
 ---
 
-# CHAPITRE 4.3. PROTECTION CONTRE L’INCENDIE 🔥
+#### Ondersectie 4.3.2.3. Installatie en onderhoud van elektrische apparatuur
 
-La **protection contre l'incendie** est cruciale pour toute installation électrique, car l’électricité peut facilement provoquer des incendies en cas de courts-circuits, de surcharges, ou d’installations défectueuses. Pour garantir la sécurité des personnes et des biens, le **RGIE** impose des mesures préventives et des systèmes de détection et d’extinction pour contrôler tout départ de feu.
+Een **correcte installatie** en **regelmatig onderhoud** van elektrische apparatuur verminderen het risico op brandwonden en oververhitting. Hier zijn de belangrijkste punten:
 
----
+- **Installatienormen**: Volg de veiligheidsnormen, vooral wat betreft de locatie van apparatuur, ventilatie en toegankelijkheid.
 
-### Section 4.3.3. Protection contre l’incendie 🔥
+- **Voldoende ventilatie** 🌬️: Zorg ervoor dat apparatuur die warmte produceert, zoals transformatoren, voldoende ventilatie heeft om warmte af te voeren.
 
-Les mesures de protection contre l’incendie visent à prévenir les incidents en s'assurant que les installations sont conçues et entretenues dans le respect des normes. Les principaux aspects incluent la **prévention**, la **détection**, l’**extinction**, et l’**évacuation**.
+- **Regelmatig onderhoud** 🛠️: Het schoonmaken en controleren van warmteafvoerende onderdelen zorgt ervoor dat apparatuur veilig blijft werken.
 
-#### Sous-section 4.3.3.1. Généralités
+- **Gebruikersopleiding** 📘: Train gebruikers om tekenen van oververhitting te herkennen en informeer hen over het risico op brandwonden.
 
-1. **Prévention** : Il est essentiel de **minimiser les risques d’incendie** dès la conception. Cela inclut le choix de matériaux ignifugés, le dimensionnement correct des câbles, et le respect strict des normes de sécurité.
+| Beschermingsmaatregel         | Beschrijving                                                    |
+|-------------------------------|-----------------------------------------------------------------|
+| **Temperatuurbeperking**      | Houd de temperatuur van blootgestelde oppervlakken onder 60 °C  |
+| **Fysieke bescherming**       | Voorkom direct contact met hete apparatuur                      |
+| **Veilig ontwerp**            | Ontwerp apparaten om risico's op brandwonden te minimaliseren   |
+| **Ventilatie en warmteafvoer**| Zorg voor voldoende ventilatie voor warmteproducerende apparatuur |
+| **Opleiding en bewustmaking** | Leer gebruikers veilige praktijken                             |
 
-2. **Détection** 🔍 : Une détection précoce est cruciale. Installez des détecteurs de fumée et d’incendie dans les zones stratégiques pour permettre une intervention rapide.
-
-3. **Extinction** 💧 : Prévoyez des dispositifs d'extinction, comme des extincteurs, des sprinklers, et des systèmes d'extinction automatiques dans les locaux à risque pour limiter la propagation de l’incendie.
-
-4. **Évacuation** 🚪 : Les installations doivent inclure des voies d'évacuation claires et accessibles pour permettre une évacuation en toute sécurité. 
-
-   :::info Conseil de sécurité 🔥
-   Assurez-vous que les détecteurs de fumée et d’incendie sont vérifiés tous les six mois pour garantir leur bon fonctionnement.
+   :::info Onderhoudstip 📅
+   Voer elke zes maanden een controle uit op apparatuur om te controleren op thermische risico's.
    :::
 
 ---
 
-#### Sous-section 4.3.3.2. Définitions spécifiques
+# HOOFDSTUK 4.3. BESCHERMING TEGEN BRAND 🔥
 
-Pour bien comprendre les mesures de protection contre l’incendie, il est utile de connaître certains termes :
+**Bescherming tegen brand** is cruciaal in elke elektrische installatie, aangezien elektriciteit gemakkelijk brand kan veroorzaken bij kortsluiting, overbelasting of defecte installaties. Om de veiligheid van personen en eigendommen te garanderen, stelt het **AREI** preventieve maatregelen en systemen voor branddetectie en -blussing voor om brand vroegtijdig onder controle te houden.
 
-- **Source d'inflammation** : Tout élément pouvant déclencher un incendie, tel qu’une étincelle, une surface chaude, ou une flamme nue.
-- **Combustible** : Toute substance susceptible de brûler, comme le bois, les liquides inflammables, ou certains gaz.
-- **Zone d'incendie** : Espace où les conditions sont propices au départ et à la propagation du feu.
-- **Système de protection contre l’incendie** : Ensemble de dispositifs et de procédures pour prévenir, détecter, et éteindre les incendies.
+---
 
-   :::tip Bonnes pratiques 🔍
-   Placez des sources d’inflammation à l’écart des combustibles pour réduire les risques d’incendie.
+### Sectie 4.3.3. Bescherming tegen brand 🔥
+
+De beschermingsmaatregelen tegen brand zijn gericht op het voorkomen van incidenten door ervoor te zorgen dat installaties volgens de normen zijn ontworpen en onderhouden. De belangrijkste aspecten omvatten **preventie**, **detectie**, **blussing** en **evacuatie**.
+
+#### Ondersectie 4.3.3.1. Algemeen
+
+1. **Preventie**: Het is essentieel om **brandrisico’s te minimaliseren** vanaf het ontwerp. Dit omvat het kiezen van brandwerende materialen, het correct dimensioneren van kabels en het strikt naleven van veiligheidsnormen.
+
+2. **Detectie** 🔍: Vroege detectie is cruciaal. Installeer rook- en brandmelders op strategische plaatsen om snelle interventie mogelijk te maken.
+
+3. **Blussing** 💧: Voorzie blusmiddelen zoals brandblussers, sprinklers en automatische blussystemen in risicovolle ruimtes om de verspreiding van brand te beperken.
+
+4. **Evacuatie** 🚪: Installaties moeten duidelijke en toegankelijke vluchtwegen hebben om een veilige evacuatie te waarborgen.
+
+   :::info Veiligheidsadvies 🔥
+   Zorg ervoor dat rook- en brandmelders elke zes maanden worden gecontroleerd om hun werking te garanderen.
    :::
 
 ---
 
-#### Sous-section 4.3.3.3. Classification du danger d’incendie dans un lieu
+#### Ondersectie 4.3.3.2. Specifieke definities
 
-La **classification du danger d’incendie** aide à évaluer les risques d’incendie et à choisir les mesures de protection adéquates. Voici les principales catégories :
+Om de beschermingsmaatregelen tegen brand goed te begrijpen, is het nuttig om enkele termen te kennen:
 
-| Classification         | Description                                                                                      | Mesures recommandées                        |
-|------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------|
-| **Zone à risque faible**    | Espaces sans sources d'inflammation ni combustibles significatifs.                         | Mesures de base pour la sécurité incendie.  |
-| **Zone à risque modéré**    | Espaces contenant des sources d'inflammation et des combustibles, mais avec précautions.  | Systèmes de détection, extincteurs.         |
-| **Zone à risque élevé**     | Espaces avec des combustibles et des conditions propices à l’incendie.                    | Extincteurs automatiques, surveillance accrue.|
+- **Ontstekingsbron**: Elk element dat brand kan veroorzaken, zoals een vonk, heet oppervlak of open vlam.
+- **Brandstof**: Elk brandbaar materiaal, zoals hout, brandbare vloeistoffen of bepaalde gassen.
+- **Brandzone**: Gebied waar de omstandigheden brand kunnen veroorzaken en verspreiden.
+- **Brandbeveiligingssysteem**: Geheel van middelen en procedures voor brandpreventie, detectie en blussing.
 
-   :::warning Attention ! ⚠️
-   Dans les zones à risque élevé, effectuez des contrôles réguliers et installez des systèmes de surveillance continue pour détecter les signes de chaleur ou de fumée.
+   :::tip Beste praktijken 🔍
+   Houd ontstekingsbronnen weg van brandbare materialen om brandrisico’s te verminderen.
+   :::
+
+#### Ondersectie 4.3.3.3. Classificatie van brandgevaar op locatie
+
+De **classificatie van brandgevaar** helpt bij het inschatten van brandrisico’s en het kiezen van de juiste beschermingsmaatregelen. Hier zijn de belangrijkste categorieën:
+
+| Classificatie              | Beschrijving                                                                                 | Aanbevolen maatregelen                       |
+|----------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------|
+| **Laag risico zone**       | Gebieden zonder ontstekingsbronnen of significante brandbare materialen.                    | Basismaatregelen voor brandveiligheid.       |
+| **Matig risico zone**      | Gebieden met ontstekingsbronnen en brandbare materialen, maar met voorzorgsmaatregelen.    | Detectiesystemen, brandblussers.             |
+| **Hoog risico zone**       | Gebieden met brandbare materialen en gunstige omstandigheden voor brandontwikkeling.       | Automatische blussystemen, verhoogde bewaking.|
+
+   :::warning Let op! ⚠️
+   In hoogrisicogebieden moeten regelmatige controles worden uitgevoerd en moet continue bewaking worden geïnstalleerd om tekenen van hitte of rook te detecteren.
    :::
 
 ---
 
-#### Sous-section 4.3.3.4. Classification des conducteurs isolés et des câbles
+#### Ondersectie 4.3.3.4. Classificatie van geïsoleerde geleiders en kabels
 
-La **classification des câbles** est essentielle pour minimiser les risques d’incendie en choisissant des matériaux adaptés aux environnements à risque.
+De **classificatie van kabels** is cruciaal om het brandrisico te minimaliseren door materialen te kiezen die geschikt zijn voor risicovolle omgevingen.
 
-1. **Câbles non propagateurs de flammes** 🔥 : Conçus pour ne pas propager les flammes le long de leur longueur, ils sont idéaux pour les zones à haut risque d’incendie.
-
-2. **Câbles à faible émission de fumée** 💨 : En cas de combustion, ces câbles produisent peu de fumée toxique, ce qui améliore la sécurité des occupants lors d’un incendie.
-
-3. **Câbles ignifugés** 💥 : Fabriqués pour résister aux températures élevées et aux expositions aux flammes, ces câbles limitent les risques de propagation du feu.
-
-   :::tip Bonnes pratiques 🔧
-   Dans les bâtiments publics, privilégiez les câbles à faible émission de fumée pour réduire les risques d’intoxication en cas d’incendie.
-   :::
-
----
-
-#### Sous-section 4.3.3.5. Mesures de protection générales contre l’incendie
-
-Les **mesures de protection contre l’incendie** doivent être intégrées dès la phase de conception :
-
-1. **Choix des matériaux** : Privilégiez des matériaux ininflammables ou résistants au feu pour les installations électriques.
-
-2. **Séparation des circuits** 🔌 : Pour éviter la propagation du feu, installez les circuits électriques de façon à minimiser les interférences et les risques d’inflammation croisée.
-
-3. **Équipements de sécurité** ⚙️ : Utilisez des disjoncteurs différentiels pour couper l’alimentation en cas de surcharge, et ajoutez des détecteurs de chaleur dans les zones sensibles.
-
-4. **Plan d’urgence** 🚨 : Préparez un plan d'évacuation et formez les employés à réagir efficacement en cas de départ de feu.
-
-   :::warning Rappel sécurité ⚠️
-   Un plan d'urgence bien établi et régulièrement pratiqué sauve des vies en cas d'incendie. Organisez des exercices tous les ans.
-   :::
-
----
-
-#### Sous-section 4.3.3.6. Mesures de protection complémentaires dans les lieux à risque accru
-
-Les lieux présentant un risque élevé d’incendie nécessitent des **mesures de protection complémentaires** :
-
-1. **Systèmes d'extinction automatiques** 💧 : Installez des systèmes automatiques tels que des sprinklers ou des brouillards d'eau pour éteindre rapidement les débuts d’incendie.
-
-2. **Surveillance continue** 📡 : Utilisez des systèmes de surveillance pour détecter la chaleur et la fumée. Ces dispositifs permettent d’intervenir rapidement en cas d’incident.
-
-3. **Contrôles réguliers** 🛠️ : Planifiez des inspections pour vérifier que tous les systèmes de protection incendie sont en état de fonctionnement optimal.
-
-   :::info Note pratique 🔍
-   En milieu industriel, vérifiez la disponibilité des systèmes d’extinction tous les mois pour assurer leur fiabilité.
-   :::
-
----
-
-#### Sous-section 4.3.3.7. Mesures de protection particulières
-
-Certains lieux peuvent nécessiter des mesures spécifiques en fonction de leur utilisation et des risques présents :
-
-1. **Zones à haut risque** 🔥 : Dans les zones de stockage de matériaux dangereux, adoptez des systèmes de confinement pour limiter la propagation de substances inflammables en cas d’incendie.
-
-2. **Formation spécialisée** 🎓 : Les employés travaillant dans des environnements à haut risque doivent recevoir une formation spécialisée pour leur apprendre à gérer les risques d’incendie et à utiliser les équipements de sécurité.
-
-3. **Équipements spécifiques** 🧯 : Fournissez des extincteurs adaptés aux classes de feu présentes dans les installations (ex. : extincteurs CO₂ pour les feux électriques, poudres pour feux de liquides inflammables).
-
-   :::tip Bonnes pratiques 👷
-   Assurez-vous que chaque employé sait utiliser un extincteur et connaît les points de rassemblement en cas d'évacuation.
-   :::
-
----
-
-### Section 4.3.4. Protection contre les risques d’explosion en atmosphère explosive 💥
-
-Dans les environnements où des mélanges de substances inflammables et d’air peuvent se former, la **protection contre les risques d’explosion** est impérative. Cette protection implique :
-
-1. **Études de cas et analyses de risques** : Évaluez minutieusement les risques potentiels pour mettre en place des mesures de sécurité appropriées.
-
-2. **Systèmes de contrôle des risques** : Limitez les sources d’inflammation et installez des systèmes qui empêchent la formation de mélanges explosifs.
-
-3. **Conformité aux normes ATEX** 📜 : Assurez-vous que les équipements utilisés sont conformes aux normes ATEX, indispensables pour la sécurité dans les zones à risque d’explosion.
-
-   :::warning Rappel sécurité ! ⚠️
-   Dans les atmosphères explosives, n'utilisez jamais d'équipements non certifiés ATEX, car ils pourraient provoquer des explosions dangereuses.
-   :::
-
----
-
-## CHAPITRE 4.4. PROTECTION ÉLECTRIQUE CONTRE LES SURINTENSITÉS ⚡
-
-La protection contre les **surintensités** est essentielle pour garantir la sécurité des installations électriques. Les surintensités, telles que les courts-circuits ou les surcharges, peuvent endommager les équipements, provoquer des incendies, et même mettre en danger les utilisateurs. Des dispositifs de protection adéquats sont donc indispensables pour prévenir ces risques.
-
----
-
-### Section 4.4.1. Généralités sur la protection contre les surintensités
-
-Les systèmes de protection contre les surintensités sont conçus pour **interrompre le circuit** dès que le courant dépasse un certain niveau, empêchant ainsi les dégâts. Voici les principes et dispositifs essentiels.
-
-#### Sous-section 4.4.1.1. Principe de la protection contre les surintensités
-
-Le principe de protection repose sur l’interruption du circuit électrique dès qu'une **intensité de courant anormale** est détectée, ce qui est essentiel pour protéger à la fois les installations et les personnes.
-
-| Dispositif               | Fonctionnement                                                                                              |
-|--------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Disjoncteurs** 🔧      | Détectent les surintensités et coupent automatiquement le circuit. Ils peuvent être réinitialisés.         |
-| **Fusibles** 💥          | Fondent lorsqu’un courant excessif circule, ouvrant le circuit. Ils doivent être remplacés après usage.    |
-| **Relais thermiques** 🌡️ | Interrompent le circuit en cas de surchauffe, principalement utilisés pour les moteurs électriques.         |
-
-   :::info Bonnes pratiques 💡
-   Préférez les disjoncteurs réarmables pour les circuits nécessitant une protection fiable et rapide, car ils permettent une intervention simplifiée après déclenchement.
-   :::
-
----
-
-#### Sous-section 4.4.1.2. Types de surintensités et leurs causes
-
-Les surintensités peuvent être causées par plusieurs facteurs, notamment :
-
-- **Courants de court-circuit** : Causés par une connexion accidentelle entre conducteurs, générant des courants très élevés qui dépassent largement la capacité des circuits.
-
-- **Surtensions** : Une **augmentation temporaire de la tension** due à des événements externes (comme la foudre) ou à des défauts de l’équipement peut également provoquer des surintensités.
-
-- **Surcharges** : Lorsque des appareils consomment plus de courant que leur capacité nominale, cela peut entraîner une surintensité.
-
-   :::warning Attention aux surcharges ⚠️
-   Pour éviter les surcharges, vérifiez régulièrement la consommation des appareils connectés au même circuit et n'ajoutez pas trop d’appareils sur un seul point de branchement.
-   :::
-
----
-
-#### Sous-section 4.4.1.3. Dispositifs de protection communs contre les surintensités
-
-Les dispositifs de protection courants sont variés et permettent une protection adaptée à chaque type de surintensité :
-
-1. **Disjoncteurs à courant différentiel résiduel (DDR)** : Protègent contre les chocs électriques et les surintensités, en détectant les déséquilibres de courant entre les conducteurs.
-
-2. **Disjoncteurs magnéto-thermiques** : Assurent une protection contre les surcharges et les courts-circuits en combinant des mécanismes thermiques et magnétiques pour déclencher l'interruption.
-
-3. **Fusibles à courant élevé** : Conçus pour les applications haute puissance, ils fondent rapidement pour protéger le circuit en cas de surintensité extrême.
-
-| Type de Dispositif                  | Utilisation principale                                        |
-|-------------------------------------|----------------------------------------------------------------|
-| **Disjoncteurs différentiel (DDR)** | Protection des personnes contre les chocs électriques          |
-| **Disjoncteurs magnéto-thermiques** | Protection des équipements contre les courts-circuits et surcharges |
-| **Fusibles à courant élevé**        | Protection des circuits haute puissance                        |
-
-   :::tip Bonnes pratiques 🔌
-   Assurez-vous d’utiliser des dispositifs de protection adaptés aux besoins de chaque circuit pour optimiser la sécurité et prévenir les défaillances.
-   :::
-
----
-
-#### Sous-section 4.4.1.4. Dispositifs de protection placés en série
-
-Lorsque les dispositifs de protection sont installés **en série**, tout le courant passe par chacun d'eux. Cela garantit que si une surintensité est détectée, le circuit est immédiatement interrompu :
-
-- **Exemple** : Dans un tableau électrique, un disjoncteur principal peut être placé en série avec plusieurs disjoncteurs secondaires. Si un court-circuit se produit dans un circuit secondaire, le disjoncteur principal déclenche et protège l'ensemble de l'installation.
-
-   :::info Conseil pratique 🛠️
-   Dans les installations complexes, le placement en série de disjoncteurs permet une protection accrue à différents niveaux de l’installation.
-   :::
-
----
-
-#### Sous-section 4.4.1.5. Courant admissible dans les canalisations électriques
-
-Le **courant admissible** est la limite de courant qu’un conducteur peut transporter sans dépasser sa limite thermique. Cette valeur dépend de plusieurs facteurs :
-
-1. **Section du conducteur** : Plus le conducteur est large, plus le courant admissible est élevé.
+1. **Vlamvertragende kabels** 🔥: Ontworpen om vlammen niet langs de lengte van de kabel te verspreiden. Ideaal voor hoogrisicogebieden.
    
-2. **Type d'isolant** : Les matériaux isolants ont des capacités de résistance thermique différentes, influençant le courant que le conducteur peut supporter.
+2. **Laagrook-emissie kabels** 💨: Deze kabels produceren weinig toxische rook bij verbranding, wat de veiligheid van de gebruikers verhoogt tijdens een brand.
 
-3. **Conditions d'installation** : Les méthodes d’installation (enfouissement, conduits, à l'air libre) influencent la capacité de dissipation thermique.
+3. **Brandwerende kabels** 💥: Gemaakt om bestand te zijn tegen hoge temperaturen en blootstelling aan vlammen. Deze kabels beperken de verspreiding van brand.
 
-| Facteur                   | Impact sur le courant admissible                         |
-|---------------------------|---------------------------------------------------------|
-| **Section du conducteur** | Section plus large = capacité de courant plus élevée    |
-| **Type d'isolant**        | Dépend de la température maximale supportée             |
-| **Conditions d'installation** | Facteurs comme l'air libre augmentent la dissipation |
-
-   :::warning Attention aux courants excessifs ⚠️
-   Veillez à bien dimensionner vos conducteurs selon le courant admissible pour éviter tout risque de surchauffe.
+   :::tip Beste praktijken 🔧
+   Gebruik in openbare gebouwen bij voorkeur laagrook-emissie kabels om het risico op rookintoxicatie tijdens brand te verminderen.
    :::
 
 ---
 
-#### Sous-section 4.4.1.6. Branchements des utilisateurs de réseau
+#### Ondersectie 4.3.3.5. Algemene brandbeveiligingsmaatregelen
 
-Les branchements doivent être conçus pour garantir une **protection adéquate contre les surintensités** :
+De **brandbeveiligingsmaatregelen** moeten al tijdens de ontwerpfase worden geïntegreerd:
 
-- **Points de connexion** : Les connexions doivent être soigneusement réalisées pour éviter tout risque de surintensité causée par des défauts de connexion.
+1. **Materiaalkeuze**: Gebruik onbrandbare of brandwerende materialen voor elektrische installaties.
 
-- **Matériaux de qualité** : Utilisez des câbles et connecteurs adaptés aux charges prévues et conformes aux normes en vigueur.
+2. **Scheiding van circuits** 🔌: Om de verspreiding van brand te voorkomen, moeten elektrische circuits zodanig worden geïnstalleerd dat interferentie en kruisontsteking worden geminimaliseerd.
 
-- **Dispositifs de protection à proximité** : Chaque point de branchement doit inclure des dispositifs de protection pour interrompre rapidement le courant en cas de surintensité.
+3. **Veiligheidsapparatuur** ⚙️: Gebruik aardlekschakelaars om de stroom af te sluiten bij overbelasting en installeer hitte-detectoren in gevoelige gebieden.
 
-   :::tip Note technique ⚙️
-   Effectuez une inspection régulière des points de branchement pour détecter tout signe d’usure ou de surintensité.
+4. **Noodplan** 🚨: Stel een evacuatieplan op en train medewerkers om effectief te reageren bij brand.
+
+   :::warning Veiligheidsherinnering ⚠️
+   Een goed opgesteld en regelmatig geoefend noodplan kan levens redden bij brand. Organiseer jaarlijks oefeningen.
    :::
 
 ---
 
-### Section 4.4.2. Protection contre les courts-circuits en basse et très basse tension
+#### Ondersectie 4.3.3.6. Aanvullende beschermingsmaatregelen in risicovolle gebieden
 
-Les **courts-circuits** peuvent causer des courants très élevés, ce qui entraîne des dommages matériels importants et des risques d’incendie. La protection contre les courts-circuits est essentielle dans les installations électriques.
+Gebieden met een hoog brandrisico vereisen **aanvullende beschermingsmaatregelen**:
 
-#### Sous-section 4.4.2.1. Dispositifs de protection contre les courts-circuits
+1. **Automatische blussystemen** 💧: Installeer automatische systemen zoals sprinklers of waternevel om snel beginnende branden te blussen.
 
-Les dispositifs de protection détectent les courants excessifs et interrompent le circuit pour éviter les dommages :
+2. **Continue bewaking** 📡: Gebruik bewakingssystemen om warmte en rook te detecteren. Deze systemen maken snelle interventie mogelijk bij incidenten.
 
-| Type de Dispositif                  | Action                                       | Réinitialisation  |
-|-------------------------------------|----------------------------------------------|-------------------|
-| **Disjoncteur** ⚡                  | Interruption instantanée en cas de court-circuit | Oui               |
-| **Fusible** 💥                      | Fusion pour ouvrir le circuit                 | Non (remplacement)|
-| **Relais de protection** 🔒         | Déclenche un dispositif de coupure programmé  | Oui               |
+3. **Regelmatige controles** 🛠️: Plan inspecties om te controleren of alle brandbeveiligingssystemen in optimale staat verkeren.
 
-1. **Disjoncteurs** : Détectent les courts-circuits et se déclenchent instantanément pour protéger le circuit. Ils peuvent être magnéto-thermiques ou différentiel (DDR).
-
-2. **Fusibles** : En fondant, ils ouvrent le circuit lorsque le courant atteint un certain seuil, offrant une protection fiable mais nécessitant un remplacement après usage.
-
-3. **Relais de protection** : Utilisés dans les installations complexes, ils surveillent les courants et déclenchent les dispositifs de coupure si un court-circuit est détecté.
-
-   :::info Astuce pratique 📘
-   Préférez les disjoncteurs dans les installations résidentielles, car ils permettent un réarmement sans remplacement, contrairement aux fusibles.
+   :::info Praktische tip 🔍
+   In industriële omgevingen moet de beschikbaarheid van blussystemen maandelijks worden gecontroleerd om betrouwbaarheid te garanderen.
    :::
 
 ---
 
-#### Sous-section 4.4.2.2. Emplacement des dispositifs de protection
+#### Ondersectie 4.3.3.7. Specifieke beschermingsmaatregelen
 
-L’emplacement des dispositifs de protection est essentiel pour leur efficacité :
+Sommige locaties vereisen specifieke maatregelen, afhankelijk van het gebruik en de aanwezige risico’s:
 
-1. **Proximité du tableau électrique** : Installez les dispositifs aussi près que possible des sources d'alimentation pour une intervention rapide en cas de surintensité.
+1. **Hoogrisicogebieden** 🔥: Gebruik in opslagruimtes voor gevaarlijke materialen systemen voor insluiting om de verspreiding van brandbare stoffen bij brand te beperken.
 
-2. **Accessibilité** 🔑 : Les dispositifs doivent être accessibles pour permettre une intervention rapide en cas de panne. Prévoyez un espace autour des dispositifs pour faciliter leur entretien et manipulation.
+2. **Gespecialiseerde training** 🎓: Medewerkers die in risicovolle omgevingen werken, moeten gespecialiseerde training krijgen om brandrisico’s te beheersen en veiligheidsuitrusting te gebruiken.
 
-3. **Protection contre les influences externes** ☔ : Protégez les dispositifs des conditions environnementales comme l'humidité ou la chaleur excessive, qui pourraient affecter leur fonctionnement.
+3. **Specifieke apparatuur** 🧯: Voorzie brandblussers die geschikt zijn voor de aanwezige brandklassen (bijv. CO₂-blussers voor elektrische branden, poederblussers voor brandbare vloeistoffen).
 
-   :::tip Bonnes pratiques de sécurité 🔒
-   Installez les disjoncteurs dans des boîtiers étanches dans les environnements humides pour préserver leur fiabilité.
-   :::
-
-## CHAPITRE 4.4. PROTECTION ÉLECTRIQUE CONTRE LES SURCHARGES ⚡
-
-La **protection contre les surcharges** est cruciale pour éviter la surchauffe des conducteurs et prévenir les risques d'incendie et de défaillances matérielles dans les installations électriques. Une surcharge, qui se produit lorsque le courant dépasse la capacité nominale du circuit, peut provoquer de graves dommages. Les dispositifs de protection contre les surcharges permettent de sécuriser les installations en détectant et en coupant l’alimentation en cas de courant excessif.
-
----
-
-### Section 4.4.3. Protection contre les surcharges en basse et très basse tension 🌡️
-
-La **protection contre les surcharges** est essentielle pour prévenir la surchauffe des conducteurs, un facteur qui peut compromettre la sécurité d'une installation. Les surcharges peuvent survenir en raison d'une consommation excessive de courant par les appareils connectés.
-
-#### Sous-section 4.4.3.1. Principe de protection contre les surcharges
-
-La protection repose sur la **surveillance constante du courant** circulant dans le circuit :
-
-- **Surveillance continue** 🔍 : Les dispositifs de protection mesurent en continu le courant dans le circuit et déclenchent une coupure dès qu’une surcharge est détectée. Cela empêche la surchauffe des conducteurs et protège l’installation.
-
-   :::tip Note pratique 💡
-   Pour des installations résidentielles, utilisez des disjoncteurs thermiques qui offrent une protection efficace contre les surcharges tout en étant réinitialisables.
+   :::tip Beste praktijken 👷
+   Zorg ervoor dat elke medewerker weet hoe een brandblusser te gebruiken en waar de verzamelplaatsen zijn bij een evacuatie.
    :::
 
 ---
 
-#### Sous-section 4.4.3.2. Dispositifs de protection contre les surcharges
+### Sectie 4.3.4. Bescherming tegen explosierisico’s in explosieve atmosferen 💥
 
-Plusieurs dispositifs peuvent être utilisés pour détecter et interrompre le courant en cas de surcharge :
+In omgevingen waar mengsels van brandbare stoffen en lucht kunnen ontstaan, is **bescherming tegen explosierisico’s** van groot belang. Deze bescherming omvat:
 
-1. **Disjoncteurs thermiques** 🌡️ : Ces dispositifs possèdent un élément sensible à la chaleur qui réagit lorsque le courant dépasse le seuil nominal, déclenchant une coupure. Idéal pour les circuits à usage intensif, ils sont couramment utilisés dans les installations résidentielles et commerciales.
+1. **Risicoanalyses en casestudies**: Voer grondige risicoanalyses uit om passende veiligheidsmaatregelen te implementeren.
 
-2. **Fusibles à surcharge** 🔥 : Similaires aux fusibles pour courts-circuits, mais spécialement conçus pour fondre en cas de surcharge. Ils offrent une protection rapide mais doivent être remplacés après chaque utilisation.
+2. **Risicobeheersingssystemen**: Beperk ontstekingsbronnen en installeer systemen die de vorming van explosieve mengsels voorkomen.
 
-| Type de Dispositif         | Temps de réponse | Conditions d'utilisation                  |
-|----------------------------|-----------------|-------------------------------------------|
-| **Disjoncteur thermique**   | Variable        | Circuits sous tension fréquente           |
-| **Fusible à surcharge**     | Rapide          | Applications à faible consommation        |
+3. **ATEX-naleving** 📜: Zorg ervoor dat de gebruikte apparatuur voldoet aan de ATEX-normen, die essentieel zijn voor de veiligheid in explosiegevaarlijke zones.
 
-   :::warning Attention ! ⚠️
-   Assurez-vous de bien dimensionner le disjoncteur ou le fusible en fonction des besoins du circuit pour éviter les coupures inutiles ou les risques de surintensité.
+   :::warning Veiligheidsherinnering! ⚠️
+   Gebruik in explosiegevaarlijke omgevingen nooit apparatuur die niet ATEX-gecertificeerd is, omdat dit gevaarlijke explosies kan veroorzaken.
    :::
 
 ---
 
-#### Sous-section 4.4.3.3. Dispenses
+## HOOFDSTUK 4.4. ELEKTRISCHE BESCHERMING TEGEN OVERSTROMEN ⚡
 
-Dans certaines situations, des **dispenses** de protection contre les surcharges peuvent être accordées. Ces dispenses sont généralement spécifiques et concernent des installations particulières :
+Bescherming tegen **overstromen** is essentieel voor de veiligheid van elektrische installaties. Overstromen, zoals kortsluitingen of overbelasting, kunnen apparatuur beschadigen, brand veroorzaken en gebruikers in gevaar brengen. Adequate beschermingsapparatuur is daarom onmisbaar om deze risico’s te voorkomen.
 
-- **Installations à faible puissance** : Lorsque la consommation reste toujours inférieure à un seuil critique, une protection spécifique contre les surcharges peut être jugée non nécessaire.
+---
+### Sectie 4.4.1. Algemene principes van bescherming tegen overstroom
 
-- **Conception de circuit avec marges de sécurité** : Si l’installation est dimensionnée avec une marge de sécurité suffisante pour gérer les surcharges, des dispenses peuvent être envisagées. 
+Beschermingssystemen tegen overstroom zijn ontworpen om de **stroomkring te onderbreken** zodra de stroom een bepaalde limiet overschrijdt, om schade te voorkomen. Hier zijn de essentiële principes en apparaten.
 
-   :::info À savoir 🔍
-   Les dispenses doivent être validées par un professionnel agréé pour s’assurer qu’elles n’affectent pas la sécurité de l’installation.
+#### Ondersectie 4.4.1.1. Principe van overstroombeveiliging
+
+Het beschermingsprincipe berust op het onderbreken van de elektrische stroomkring zodra er een **abnormale stroomsterkte** wordt gedetecteerd, wat essentieel is om zowel installaties als personen te beschermen.
+
+| Apparaat                   | Werking                                                                                                    |
+|----------------------------|------------------------------------------------------------------------------------------------------------|
+| **Schakelaars** 🔧         | Detecteren overstroom en onderbreken automatisch de stroomkring. Ze kunnen worden gereset.                |
+| **Zekeringen** 💥          | Smelten wanneer er een te hoge stroom doorheen gaat, waardoor de stroomkring wordt onderbroken. Moeten worden vervangen na gebruik. |
+| **Thermische relais** 🌡️   | Onderbreken de stroomkring bij oververhitting, vooral gebruikt voor elektrische motoren.                   |
+
+   :::info Beste praktijken 💡
+   Gebruik herinstelbare schakelaars voor circuits die betrouwbare en snelle bescherming nodig hebben, omdat ze eenvoudig te herstellen zijn na uitschakeling.
    :::
 
 ---
 
-#### Sous-section 4.4.3.4. Canalisations électriques raccordées en parallèle
+#### Ondersectie 4.4.1.2. Typen overstroom en hun oorzaken
 
-Dans les installations avec des **canalisations électriques en parallèle**, des précautions supplémentaires sont nécessaires pour répartir la charge uniformément entre les conducteurs.
+Overstroom kan worden veroorzaakt door verschillende factoren, zoals:
 
-1. **Équilibrage des charges** ⚖️ : Il est essentiel que les charges soient distribuées équitablement pour éviter la surcharge sur un conducteur particulier.
+- **Kortsluitstromen**: Ontstaan door een accidentele verbinding tussen geleiders, wat leidt tot zeer hoge stromen die de capaciteit van het circuit overschrijden.
 
-2. **Protection individuelle** 🔌 : Chaque conducteur parallèle doit être protégé individuellement pour garantir une sécurité optimale en cas de surcharge. 
+- **Overspanningen**: Een **tijdelijke spanningsverhoging**, veroorzaakt door externe gebeurtenissen (zoals blikseminslag) of defecten in de apparatuur, kan ook tot overstroom leiden.
 
-| Type de Canalisation          | Protection requise            | Remarques                      |
-|-------------------------------|-------------------------------|--------------------------------|
-| **Canalisation unique**       | Disjoncteur ou fusible        | Protection standard            |
-| **Canalisation en parallèle** | Dispositifs individuels       | Équilibrage nécessaire         |
+- **Overbelasting**: Wanneer apparaten meer stroom verbruiken dan hun nominale capaciteit, kan dit overstroom veroorzaken.
 
-   :::tip Bonnes pratiques 🔧
-   Assurez-vous d’utiliser des dispositifs de protection adaptés à chaque conducteur dans une configuration en parallèle pour éviter les risques de surcharge.
+   :::warning Let op overbelasting ⚠️
+   Om overbelasting te voorkomen, controleer regelmatig het stroomverbruik van de aangesloten apparaten en voeg niet te veel apparaten toe aan één aansluitpunt.
    :::
 
 ---
 
-### Section 4.4.4. Protection contre les surintensités des conducteurs de phase et des conducteurs neutres 🌍
+#### Ondersectie 4.4.1.3. Gebruikelijke beschermingsapparaten tegen overstroom
 
-La protection contre les **surintensités des conducteurs de phase et neutres** est vitale pour la sécurité et la durabilité des installations. Une surintensité dans ces conducteurs peut entraîner des risques de surchauffe, des dommages matériels, et des incendies.
+Er zijn verschillende veelgebruikte beschermingsapparaten die een geschikte bescherming bieden tegen elk type overstroom:
 
-#### Sous-section 4.4.4.1. Coupure du conducteur affecté
+1. **Aardlekschakelaars (ALS)**: Beschermen tegen elektrische schokken en overstroom door stroomonevenwichtigheden tussen geleiders te detecteren.
 
-La coupure immédiate du **conducteur affecté** par une surintensité est cruciale pour éviter des dommages :
+2. **Magneto-thermische schakelaars**: Bieden bescherming tegen overbelasting en kortsluiting door een combinatie van thermische en magnetische mechanismen die de onderbreking activeren.
 
-- **Prévention des dommages matériels** 🔧 : Une surintensité non interrompue peut provoquer une surchauffe et endommager les équipements.
+3. **Hoogstroomzekeringen**: Ontworpen voor toepassingen met hoge stroom, smelten ze snel om het circuit te beschermen bij extreme overstroom.
 
-- **Sécurité des utilisateurs** 🛡️ : En coupant le conducteur affecté, on réduit les risques de chocs électriques et d'incendie.
+| Type apparaat                 | Hoofdgebruik                                                     |
+|-------------------------------|------------------------------------------------------------------|
+| **Aardlekschakelaars (ALS)**  | Bescherming van personen tegen elektrische schokken             |
+| **Magneto-thermische schakelaars** | Bescherming van apparatuur tegen kortsluiting en overbelasting |
+| **Hoogstroomzekeringen**      | Bescherming van hoogstroomcircuits                              |
 
-- **Maintenance en toute sécurité** 🛠️ : La coupure permet d'effectuer des réparations en toute sécurité sans risque de contact avec une installation sous tension.
-
-   :::warning Attention sécurité ⚠️
-   Assurez-vous que tous les conducteurs affectés par une surintensité sont coupés immédiatement pour protéger l’ensemble du système.
+   :::tip Beste praktijken 🔌
+   Gebruik altijd beschermingsapparaten die passen bij de behoeften van elk circuit om de veiligheid te optimaliseren en storingen te voorkomen.
    :::
 
 ---
 
-#### Sous-section 4.4.4.2. Protection des circuits monophasés
+#### Ondersectie 4.4.1.4. In serie geplaatste beschermingsapparaten
 
-Les circuits monophasés, courants dans les installations domestiques, nécessitent une **protection efficace contre les surintensités** pour assurer un fonctionnement sûr :
+Wanneer beschermingsapparaten **in serie** zijn geïnstalleerd, stroomt de volledige stroom door elk apparaat. Dit zorgt ervoor dat de stroomkring onmiddellijk wordt onderbroken wanneer overstroom wordt gedetecteerd:
 
-- **Utilisation de disjoncteurs adaptés** 🔋 : Installez des disjoncteurs calibrés pour la capacité nominale du circuit afin d’interrompre le courant en cas de surcharge.
+- **Voorbeeld**: In een verdeelkast kan een hoofdschakelaar in serie worden geplaatst met meerdere secundaire schakelaars. Bij een kortsluiting in een secundair circuit schakelt de hoofdschakelaar uit en beschermt de hele installatie.
 
-- **Calcul de la capacité** 🧮 : Dimensionnez les conducteurs et dispositifs de protection pour qu’ils soient compatibles avec la charge maximale prévue.
-
-   :::info Rappel important 📝
-   Un dimensionnement correct des disjoncteurs et des conducteurs garantit une protection efficace contre les surintensités dans les circuits monophasés.
+   :::info Praktisch advies 🛠️
+   In complexe installaties biedt het in serie plaatsen van schakelaars verbeterde bescherming op verschillende niveaus van de installatie.
    :::
 
 ---
 
-#### Sous-section 4.4.4.3. Circuits triphasés en schéma TT et TN à conducteur neutre non distribué
+#### Ondersectie 4.4.1.5. Toelaatbare stroom in elektrische leidingen
 
-Les **circuits triphasés** avec un schéma TT ou TN et un neutre non distribué sont souvent utilisés dans des environnements industriels. Ils nécessitent une protection adaptée :
+De **toelaatbare stroom** is de maximale stroom die een geleider kan vervoeren zonder zijn thermische limiet te overschrijden. Deze waarde hangt af van verschillende factoren:
 
-- **Dispositifs de protection par phase** 🔄 : Chaque conducteur de phase doit être protégé individuellement pour garantir une coupure efficace en cas de surintensité.
+1. **Sectie van de geleider**: Hoe groter de doorsnede van de geleider, hoe hoger de toelaatbare stroom.
 
-- **Équilibrage des charges** ⚖️ : La répartition des charges entre les trois phases doit être équilibrée pour éviter la surcharge d’un conducteur.
+2. **Type isolatiemateriaal**: Isolatiematerialen hebben verschillende thermische weerstanden, wat de hoeveelheid stroom die de geleider kan verdragen beïnvloedt.
 
-   :::warning Rappel de sécurité ⚠️
-   Vérifiez régulièrement l'équilibrage des charges dans les installations triphasées pour éviter les surcharges et maintenir une efficacité optimale.
+3. **Installatieomstandigheden**: De installatiewijze (in de grond, in leidingen, in de open lucht) beïnvloedt de capaciteit voor warmteafvoer.
+
+| Factor                    | Invloed op toelaatbare stroom                                   |
+|---------------------------|-----------------------------------------------------------------|
+| **Sectie van de geleider** | Grotere doorsnede = hogere stroomcapaciteit                     |
+| **Type isolatiemateriaal** | Afhankelijk van de maximale temperatuur die kan worden verdragen|
+| **Installatieomstandigheden** | Factoren zoals open lucht verbeteren de warmteafvoer           |
+
+   :::warning Let op overstroom ⚠️
+   Zorg ervoor dat geleiders correct zijn gedimensioneerd volgens de toelaatbare stroom om oververhitting te voorkomen.
    :::
 
 ---
 
-#### Sous-section 4.4.4.4. Circuits triphasés en schéma TT et TN à conducteur neutre distribué
+#### Ondersectie 4.4.1.6. Aansluitingen van netgebruikers
 
-Dans les **circuits triphasés avec un neutre distribué**, les dispositifs de protection doivent être soigneusement coordonnés pour éviter des interruptions inutiles en cas de surcharge temporaire.
+De aansluitingen moeten zodanig worden ontworpen dat ze een **adequate bescherming tegen overstroom** bieden:
 
-- **Coordination de la protection** 🎯 : Les dispositifs doivent être réglés pour distinguer les surcharges temporaires des surcharges prolongées nécessitant une coupure.
+- **Aansluitpunten**: De verbindingen moeten zorgvuldig worden uitgevoerd om het risico op overstroom door verbindingsfouten te vermijden.
 
-   :::info Astuce pratique 🔧
-   En milieu industriel, l’installation d’équipements de surveillance aide à détecter les déséquilibres et éviter les coupures accidentelles.
+- **Kwaliteitsmaterialen**: Gebruik kabels en connectoren die geschikt zijn voor de verwachte belasting en voldoen aan de geldende normen.
+
+- **Beschermingsapparaten in de buurt**: Elk aansluitpunt moet voorzien zijn van beschermingsapparaten die de stroom snel kunnen onderbreken bij overstroom.
+
+   :::tip Technische notitie ⚙️
+   Voer regelmatig inspecties uit van de aansluitpunten om tekenen van slijtage of overstroom te detecteren.
    :::
 
 ---
 
-#### Sous-section 4.4.4.5. Schéma IT avec conducteur neutre distribué
+### Sectie 4.4.2. Kortsluitbeveiliging in laag- en zeer laagspanning
 
-Les circuits en **schéma IT**, souvent utilisés dans les environnements critiques, permettent de maintenir l’alimentation des autres circuits même en cas de défaut :
+**Kortsluitingen** kunnen zeer hoge stromen veroorzaken, wat leidt tot aanzienlijke materiële schade en brandrisico's. Kortsluitbeveiliging is essentieel in elektrische installaties.
 
-- **Isolation des circuits** 🔒 : En cas de défaut d'isolement, l'alimentation est maintenue sur les autres circuits, sans coupure générale.
+#### Ondersectie 4.4.2.1. Apparaten voor kortsluitbeveiliging
 
-- **Dispositifs de protection spécialisés** 🛡️ : Des relais de protection détectent les défauts et agissent pour prévenir les surintensités.
+Beschermingsapparaten detecteren overmatige stromen en onderbreken de stroomkring om schade te voorkomen:
 
-   :::tip Conseil de sécurité 🧰
-   Effectuez des tests réguliers de l'intégrité des isolations pour garantir la sécurité dans les environnements à risque.
+| Type apparaat                   | Actie                                       | Herstelbaar       |
+|---------------------------------|---------------------------------------------|-------------------|
+| **Schakelaar** ⚡               | Directe onderbreking bij kortsluiting       | Ja                |
+| **Zekering** 💥                 | Smelt om de stroomkring te openen           | Nee (vervanging)  |
+| **Beveiligingsrelais** 🔒      | Activeert een geprogrammeerd uitschakelapparaat | Ja                |
+
+1. **Schakelaars**: Detecteren kortsluitingen en schakelen onmiddellijk uit om de stroomkring te beschermen. Ze kunnen magneto-thermisch of differentieel (ALS) zijn.
+
+2. **Zekeringen**: Smelten wanneer de stroom een bepaald niveau bereikt, waardoor de stroomkring wordt onderbroken. Ze bieden betrouwbare bescherming, maar moeten na gebruik worden vervangen.
+
+3. **Beveiligingsrelais**: Gebruikt in complexe installaties, ze monitoren de stromen en activeren uitschakelapparaten als er een kortsluiting wordt gedetecteerd.
+
+   :::info Praktische tip 📘
+   Gebruik schakelaars in residentiële installaties, omdat ze opnieuw kunnen worden ingesteld, in tegenstelling tot zekeringen die vervangen moeten worden.
    :::
 
 ---
 
-#### Sous-section 4.4.4.6. Conducteur PEN
+#### Ondersectie 4.4.2.2. Locatie van beschermingsapparaten
 
-Le **conducteur PEN** (Protective Earth and Neutral) combine les fonctions de mise à la terre et de neutre, simplifiant ainsi l’installation tout en réduisant le nombre de conducteurs requis.
+De locatie van beschermingsapparaten is cruciaal voor hun effectiviteit:
 
-- **Dimensionnement approprié** 🧮 : Le conducteur PEN doit être correctement dimensionné pour supporter les courants de défaut et les surintensités.
+1. **Dicht bij het verdeelbord**: Installeer de apparaten zo dicht mogelijk bij de stroombron voor een snelle interventie bij overstromen.
 
-- **Respect des normes** 📜 : Assurez-vous que l’installation respecte les normes de sécurité pour que le conducteur PEN fonctionne efficacement.
+2. **Toegankelijkheid** 🔑: De apparaten moeten toegankelijk zijn voor snelle interventie bij storingen. Zorg voor voldoende ruimte rondom de apparaten voor eenvoudig onderhoud.
+
+3. **Bescherming tegen externe invloeden** ☔: Bescherm de apparaten tegen omgevingsfactoren zoals vocht en overmatige hitte, die hun werking kunnen beïnvloeden.
+
+   :::tip Veiligheidspraktijken 🔒
+   Installeer schakelaars in waterdichte kasten in vochtige omgevingen om hun betrouwbaarheid te waarborgen.
+   :::
+
+## HOOFDSTUK 4.4. ELEKTRISCHE BESCHERMING TEGEN OVERBELASTING ⚡
+
+Bescherming tegen **overbelasting** is essentieel om oververhitting van geleiders te voorkomen en om brand- en materiaalschade in elektrische installaties te voorkomen. Een overbelasting treedt op wanneer de stroom de nominale capaciteit van het circuit overschrijdt, wat ernstige schade kan veroorzaken. Beschermingsapparaten detecteren en onderbreken de stroom bij een overbelasting om de installatie te beveiligen.
 
 ---
 
-#### Sous-section 4.4.4.7. Ordre de coupure des conducteurs de phase et du neutre
+### Sectie 4.4.3. Overbelastingsbeveiliging in laag- en zeer laagspanning 🌡️
 
-L’ordre de coupure des conducteurs est essentiel pour minimiser les risques liés aux arcs électriques et surcharges :
+**Overbelastingsbeveiliging** is noodzakelijk om oververhitting van geleiders te voorkomen, wat de veiligheid van een installatie in gevaar kan brengen. Overbelastingen kunnen optreden door een overmatig stroomverbruik van aangesloten apparaten.
 
-- **Séquence de coupure** 🔄 : La coupure des conducteurs de phase et du neutre doit être ordonnée et planifiée pour éviter les arcs dangereux.
+#### Ondersectie 4.4.3.1. Principe van overbelastingsbeveiliging
 
-   :::warning Rappel technique ⚠️
-   L'ordre de coupure est particulièrement critique dans les environnements industriels pour assurer une sécurité optimale.
+De beveiliging berust op de **continue bewaking van de stroom** die door het circuit stroomt:
+
+- **Continue bewaking** 🔍: Beschermingsapparaten meten constant de stroom in het circuit en schakelen uit zodra een overbelasting wordt gedetecteerd. Dit voorkomt oververhitting van de geleiders en beschermt de installatie.
+
+   :::tip Praktische tip 💡
+   Gebruik thermische schakelaars in residentiële installaties voor een effectieve bescherming tegen overbelasting en de mogelijkheid om opnieuw in te schakelen.
    :::
 
 ---
 
-## CHAPITRE 4.5. PROTECTION CONTRE LES SURTENSIONS ⚡
+#### Ondersectie 4.4.3.2. Apparaten voor overbelastingsbeveiliging
 
-La **protection contre les surtensions** est cruciale pour préserver l'intégrité des installations électriques face à des hausses de tension soudaines qui peuvent endommager les équipements, entraîner des pannes, ou même provoquer des incendies. Les causes de surtensions incluent des événements naturels (comme les orages), des manœuvres de commutation, ou des défauts d’isolement.
+Verschillende apparaten kunnen worden gebruikt om de stroom te detecteren en te onderbreken bij overbelasting:
+
+1. **Thermische schakelaars** 🌡️: Deze apparaten bevatten een hittegevoelig element dat reageert wanneer de stroom boven de nominale waarde komt, waardoor de stroom wordt onderbroken. Ze worden veel gebruikt in residentiële en commerciële installaties.
+
+2. **Overbelastingszekeringen** 🔥: Vergelijkbaar met kortsluitzekeringen, maar ontworpen om te smelten bij overbelasting. Ze bieden snelle bescherming maar moeten na gebruik worden vervangen.
+
+| Type apparaat            | Reactietijd        | Gebruikstoepassing                      |
+|--------------------------|-------------------|-----------------------------------------|
+| **Thermische schakelaar**| Variabel          | Circuits met frequente spanning         |
+| **Overbelastingszekering** | Snel             | Toepassingen met lage belasting         |
+
+   :::warning Let op! ⚠️
+   Zorg ervoor dat de schakelaar of zekering correct is gedimensioneerd voor het circuit om ongewenste uitschakelingen of risico's op overstromen te voorkomen.
+   :::
 
 ---
 
-### Section 4.5.1. Principe de protection contre les surtensions
+#### Ondersectie 4.4.3.3. Uitzonderingen
 
-Le principe de protection repose sur la détection rapide et la dissipation des surtensions avant qu’elles n’endommagent les équipements.
+In sommige gevallen kunnen er **uitzonderingen** worden gemaakt op de overbelastingsbeveiliging. Deze uitzonderingen zijn meestal specifiek en van toepassing op bijzondere installaties:
 
-| **Principe**                         | **Description**                                                            |
+- **Installaties met lage belasting**: Wanneer het stroomverbruik altijd onder een kritisch niveau blijft, kan specifieke overbelastingsbeveiliging als niet nodig worden beschouwd.
+
+- **Ontwerp met veiligheidsmarges**: Als de installatie met voldoende veiligheidsmarges is gedimensioneerd om overbelastingen op te vangen, kunnen uitzonderingen worden overwogen.
+
+   :::info Weetje 🔍
+   Uitzonderingen moeten worden gevalideerd door een erkende professional om ervoor te zorgen dat de veiligheid van de installatie niet in gevaar komt.
+   :::
+
+---
+
+#### Ondersectie 4.4.3.4. Parallelle elektrische leidingen
+
+Bij installaties met **parallelle elektrische leidingen** zijn extra voorzorgsmaatregelen nodig om de belasting gelijkmatig over de geleiders te verdelen.
+
+1. **Belastingverdeling** ⚖️: Het is essentieel dat de belasting gelijkmatig wordt verdeeld om overbelasting van een specifieke geleider te voorkomen.
+
+2. **Individuele bescherming** 🔌: Elke parallelle geleider moet individueel worden beschermd om optimale veiligheid te garanderen bij overbelasting.
+
+| Type leiding                | Vereiste bescherming         | Opmerkingen                       |
+|-----------------------------|------------------------------|-----------------------------------|
+| **Enkele leiding**          | Schakelaar of zekering       | Standaardbescherming              |
+| **Parallelle leiding**      | Individuele apparaten        | Belastingverdeling vereist        |
+
+   :::tip Beste praktijken 🔧
+   Zorg ervoor dat de beschermingsapparaten geschikt zijn voor elke geleider in een parallelle configuratie om risico's op overbelasting te vermijden.
+   :::
+
+---
+### Sectie 4.4.4. Bescherming tegen overstroom van fase- en neutrale geleiders 🌍
+
+De bescherming tegen **overstroom van fase- en neutrale geleiders** is essentieel voor de veiligheid en duurzaamheid van elektrische installaties. Overstroom in deze geleiders kan leiden tot oververhitting, materiële schade en brandrisico's.
+
+#### Ondersectie 4.4.4.1. Onderbreking van de aangetaste geleider
+
+Het onmiddellijk onderbreken van de **aangetaste geleider** bij overstroom is cruciaal om schade te voorkomen:
+
+- **Voorkomen van materiële schade** 🔧: Een niet-onderbroken overstroom kan oververhitting veroorzaken en apparatuur beschadigen.
+
+- **Veiligheid van gebruikers** 🛡️: Door de aangetaste geleider te onderbreken, worden de risico's van elektrische schokken en brand verminderd.
+
+- **Veilig onderhoud** 🛠️: Onderbreking maakt veilig onderhoud mogelijk zonder risico op contact met een onder spanning staande installatie.
+
+   :::warning Veiligheidswaarschuwing ⚠️
+   Zorg ervoor dat alle geleiders die door overstroom worden getroffen onmiddellijk worden onderbroken om het hele systeem te beschermen.
+   :::
+
+---
+
+#### Ondersectie 4.4.4.2. Bescherming van eenfasige circuits
+
+Eénfasige circuits, vaak gebruikt in residentiële installaties, vereisen een **efficiënte bescherming tegen overstroom** om een veilige werking te garanderen:
+
+- **Gebruik van geschikte schakelaars** 🔋: Installeer schakelaars die zijn gekalibreerd voor de nominale capaciteit van het circuit om de stroom te onderbreken bij overbelasting.
+
+- **Capaciteitsberekening** 🧮: Dimensioneer de geleiders en beschermingsapparaten zodat ze compatibel zijn met de verwachte maximale belasting.
+
+   :::info Belangrijke herinnering 📝
+   Een correcte dimensionering van schakelaars en geleiders garandeert een effectieve bescherming tegen overstroom in éénfasige circuits.
+   :::
+
+---
+
+#### Ondersectie 4.4.4.3. Driefasige circuits in TT- en TN-systeem met niet-gedistribueerde neutrale geleider
+
+**Driefasige circuits** met een TT- of TN-systeem en een niet-gedistribueerde neutrale geleider worden vaak gebruikt in industriële omgevingen en vereisen aangepaste bescherming:
+
+- **Fasebeschermingsapparaten** 🔄: Elke fasegeleider moet individueel worden beschermd om een effectieve onderbreking te garanderen bij overstroom.
+
+- **Belastingbalans** ⚖️: De belastingverdeling tussen de drie fasen moet in balans zijn om overbelasting van een geleider te voorkomen.
+
+   :::warning Veiligheidsherinnering ⚠️
+   Controleer regelmatig de balans van de belasting in driefasige installaties om overbelasting te voorkomen en een optimale werking te behouden.
+   :::
+
+---
+
+#### Ondersectie 4.4.4.4. Driefasige circuits in TT- en TN-systeem met gedistribueerde neutrale geleider
+
+In **driefasige circuits met een gedistribueerde neutrale geleider** moeten de beschermingsapparaten zorgvuldig worden gecoördineerd om onnodige onderbrekingen bij tijdelijke overbelasting te voorkomen.
+
+- **Beschermingscoördinatie** 🎯: De apparaten moeten worden ingesteld om tijdelijke overbelastingen te onderscheiden van aanhoudende overbelastingen die onderbreking vereisen.
+
+   :::info Praktische tip 🔧
+   In industriële omgevingen helpt de installatie van bewakingsapparatuur bij het detecteren van onbalans en het vermijden van ongewenste onderbrekingen.
+   :::
+
+---
+
+#### Ondersectie 4.4.4.5. IT-systeem met gedistribueerde neutrale geleider
+
+Circuits in een **IT-systeem**, vaak gebruikt in kritieke omgevingen, zorgen ervoor dat de voeding van andere circuits behouden blijft, zelfs bij een fout:
+
+- **Isolatie van circuits** 🔒: Bij een isolatiefout blijft de voeding behouden voor andere circuits zonder algemene onderbreking.
+
+- **Gespecialiseerde beschermingsapparaten** 🛡️: Beveiligingsrelais detecteren fouten en treden op om overstroom te voorkomen.
+
+   :::tip Veiligheidsadvies 🧰
+   Voer regelmatig tests uit om de integriteit van de isolatie te waarborgen in risicovolle omgevingen.
+   :::
+
+---
+
+#### Ondersectie 4.4.4.6. PEN-geleider
+
+De **PEN-geleider** (Protective Earth and Neutral) combineert de functies van aarding en neutraal, waardoor de installatie wordt vereenvoudigd en het aantal benodigde geleiders wordt verminderd.
+
+- **Correcte dimensionering** 🧮: De PEN-geleider moet correct worden gedimensioneerd om foutstromen en overstroom te kunnen dragen.
+
+- **Naleving van normen** 📜: Zorg ervoor dat de installatie voldoet aan de veiligheidsnormen, zodat de PEN-geleider effectief kan functioneren.
+
+---
+
+#### Ondersectie 4.4.4.7. Volgorde van onderbreking van fase- en neutrale geleiders
+
+De volgorde van onderbreking van de geleiders is essentieel om risico's van elektrische bogen en overstroom te minimaliseren:
+
+- **Onderbrekingsvolgorde** 🔄: De onderbreking van fase- en neutrale geleiders moet geordend en gepland zijn om gevaarlijke bogen te voorkomen.
+
+   :::warning Technische herinnering ⚠️
+   De volgorde van onderbreking is bijzonder belangrijk in industriële omgevingen om maximale veiligheid te garanderen.
+   :::
+
+---
+## HOOFDSTUK 4.5. BESCHERMING TEGEN OVERSCHAKELSPANNINGEN ⚡
+
+De **bescherming tegen overspanningen** is essentieel om de integriteit van elektrische installaties te behouden bij plotselinge spanningspieken die schade kunnen veroorzaken aan apparatuur, storingen kunnen veroorzaken of zelfs brand kunnen veroorzaken. Oorzaken van overspanningen zijn onder andere natuurlijke verschijnselen (zoals onweer), schakelmomenten of isolatiefouten.
+
+---
+
+### Sectie 4.5.1. Principe van bescherming tegen overspanningen
+
+Het beschermingsprincipe berust op snelle detectie en dissipatie van overspanningen voordat deze schade aanrichten aan apparatuur.
+
+| **Principe**                         | **Beschrijving**                                                            |
 |--------------------------------------|----------------------------------------------------------------------------|
-| **Détection des surtensions**         | Les dispositifs détectent les hausses de tension et déclenchent des mesures de protection immédiates. |
-| **Économie d’énergie**                | En protégeant les appareils, on augmente leur durée de vie, ce qui réduit les coûts de remplacement. |
-| **Sécurité des utilisateurs**         | La protection des équipements réduit les risques pour les personnes qui utilisent ces installations. |
+| **Detectie van overspanningen**      | Apparaten detecteren spanningspieken en nemen onmiddellijk beschermende maatregelen. |
+| **Energiebesparing**                 | Door apparatuur te beschermen, wordt de levensduur verlengd, wat de vervangingskosten verlaagt. |
+| **Gebruikersveiligheid**             | De bescherming van apparatuur vermindert de risico’s voor gebruikers van de installaties. |
 
-   :::info Astuce 💡
-   Pour les installations domestiques, envisagez d'installer des **parafoudres** pour protéger les équipements sensibles des surtensions dues aux orages.
-   :::
-
----
-
-### Section 4.5.2. Précautions d’installation pour les équipements sensibles
-
-Lors de l’installation de dispositifs électriques, des précautions spécifiques doivent être appliquées pour réduire les risques de surtension.
-
-| **Mesure**                          | **Description**                                                                                       |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Dispositifs de protection**       | Installer des **limiteurs de surtension** près des équipements sensibles pour dévier les surtensions vers la terre. |
-| **Mise à la terre efficace**        | Assurer une bonne mise à la terre pour évacuer rapidement les surtensions sans risque pour l’installation. |
-| **Séparation des circuits**         | Éviter le croisement des circuits d’énergie avec ceux de télécommunication pour limiter les interférences. |
-| **Câbles blindés**                  | Utiliser des câbles blindés pour limiter les interférences externes et protéger contre les surtensions induites. |
-
-   :::warning Attention ! ⚠️
-   Assurez-vous que tous les équipements sensibles, comme les systèmes informatiques, sont protégés par des dispositifs anti-surtensions.
-   :::
-
----
-
-### Section 4.5.3. Limiteurs de surtensions en schéma IT
-
-Dans les installations en **schéma IT** (isolé), les **limiteurs de surtension (LS)** sont essentiels pour éviter les surtensions dans des environnements industriels et spécialisés.
-
-| **Type de Limiteur**           | **Caractéristiques**                                | **Applications**                          |
-|--------------------------------|----------------------------------------------------|-------------------------------------------|
-| **Limiteur à gaz**             | Réagit rapidement aux surtensions, capacité élevée | Installations industrielles et critiques  |
-| **Limiteur à diode**           | Protection continue, adapté aux appareils électroniques sensibles | Équipements informatiques et télécoms |
-
-   :::info Conseil pratique 🔧
-   Pour les environnements industriels, optez pour des limiteurs à gaz qui offrent une réponse rapide et une capacité de protection élevée.
-   :::
-
----
-
-### Section 4.5.4. Conduits communs pour les circuits d'énergie et de télécommunication
-
-Pour éviter les interférences entre circuits électriques et de télécommunication, la **protection des conduits communs** est essentielle.
-
-| **Mesure de protection**            | **Description**                                                                   |
-|-------------------------------------|-----------------------------------------------------------------------------------|
-| **Séparation physique**             | Installez des conduits séparés pour l'énergie et la télécommunication pour éviter les interférences. |
-| **Conduits blindés**                | Utilisez des conduits blindés pour limiter les surtensions et interférences électromagnétiques. |
-| **Évaluation des distances**        | Maintenez une distance minimale entre les conduits d’énergie et de télécommunication. |
-
-   :::tip Bonnes pratiques 🔍
-   Respectez les distances recommandées dans le RGIE entre les circuits d’énergie et les circuits de télécommunication pour réduire les risques d’interférences et de surtensions.
-   :::
-
----
-
-## CHAPITRE 4.6. PROTECTION CONTRE CERTAINS AUTRES EFFETS 🔧
-
-Le chapitre 4.6 couvre divers autres effets qui peuvent affecter les installations électriques, incluant les baisses de tension, les effets biologiques des champs électromagnétiques, les risques de contamination et les mouvements.
-
----
-
-### Section 4.6.1. Protection contre les effets de la baisse de tension
-
-Les **baisses de tension** peuvent nuire au bon fonctionnement des appareils et équipements, entraînant des inefficacités, des surchauffes, ou des dégradations prématurées.
-
-| **Mesure**                         | **Description**                                                                         |
-|------------------------------------|-----------------------------------------------------------------------------------------|
-| **Onduleurs et régulateurs de tension** | Maintenir une tension stable pour les équipements sensibles, afin de prévenir les pannes. |
-| **Surveillance de la tension**     | Installer des systèmes de monitoring pour alerter en cas de baisse de tension.         |
-| **Sélectivité de protection**      | Utiliser des dispositifs pour isoler les circuits affectés sans interrompre tout le réseau. |
-
-   :::tip Conseil d’installation 🛠️
-   Dans les environnements avec des équipements sensibles, envisagez l’installation d’onduleurs pour maintenir une tension constante.
-   :::
-
----
-
-### Section 4.6.2. Protection contre les effets biologiques des champs électriques et magnétiques
-
-Les **champs électromagnétiques** peuvent avoir des effets biologiques sur la santé des personnes exposées. Les installations doivent donc minimiser cette exposition.
-
-| **Mesure**                            | **Description**                                                                                     |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Évaluation des risques**            | Réaliser une étude des champs électromagnétiques pour identifier les zones à risque.               |
-| **Blindage**                          | Utiliser des matériaux de blindage pour réduire l’exposition dans les espaces sensibles.           |
-| **Maintien des distances**            | Garder une distance sécuritaire entre les sources de champs et les lieux de travail ou d’habitation. |
-
-   :::info Rappel santé 🧑‍⚕️
-   L’exposition prolongée aux champs électromagnétiques peut causer des troubles du sommeil et d’autres effets. Maintenir une distance sécuritaire est recommandé.
-   :::
-
----
-
-### Section 4.6.3. Protection contre les risques de contamination
-
-Les risques de **contamination** des installations électriques, par des liquides, poussières, ou autres débris, peuvent entraîner des courts-circuits et des défaillances.
-
-| **Mesure**                            | **Description**                                                                                      |
-|---------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Nettoyage régulier**                | Mettre en place un programme de nettoyage pour réduire l'accumulation de poussières et de contaminants. |
-| **Systèmes de drainage**              | Installer des systèmes pour éviter l’accumulation de liquides dans les zones sensibles.               |
-| **Surveillance environnementale**     | Utiliser des capteurs pour surveiller la qualité de l’air et détecter la présence de contaminants.    |
-
-   :::tip Bonnes pratiques de maintenance 🧹
-   Planifiez des inspections de routine pour maintenir les équipements propres et exempts de poussière ou de liquide.
-   :::
-
----
-
-### Section 4.6.4. Protection contre les risques dus aux mouvements
-
-Les installations doivent être protégées contre les **risques associés aux mouvements**, comme les vibrations et les chocs, qui peuvent endommager les connexions et câblages.
-
-| **Mesure**                             | **Description**                                                                                     |
-|----------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Fixation sécurisée**                 | Assurez-vous que les équipements sont bien fixés pour éviter les déplacements dus aux vibrations.   |
-| **Évaluation des vibrations**          | Surveiller les niveaux de vibration dans les environnements industriels et ajuster les supports si nécessaire. |
-| **Matériaux résistants**               | Utiliser des matériaux robustes et résistants aux mouvements pour les installations.                |
-
-   :::warning Précaution technique ⚠️
-   Dans les environnements à forte vibration, comme les usines, renforcez les fixations pour éviter les dégradations rapides des équipements.
-   :::
-
----
-
-## Conclusion de la Partie 4 - Mesures de Protection
-
-La Partie 4 du RGIE est dédiée aux mesures essentielles de protection des installations électriques, visant à prévenir les incidents et à garantir la sécurité des utilisateurs. Cette section met en avant les précautions et dispositifs indispensables pour limiter les risques associés aux surintensités, aux surtensions, aux chocs électriques, et autres effets pouvant nuire à la sécurité et au bon fonctionnement des installations. En respectant ces directives, les installations électriques peuvent être à la fois fiables, performantes et sécurisées.
-
-Les points clés de cette partie incluent :
-
-- **Protection contre les surintensités** : Les surintensités, causées par des courts-circuits ou des surcharges, présentent un risque important pour la sécurité. L’installation de dispositifs adaptés, tels que des disjoncteurs thermiques et des fusibles, permet de limiter les risques de surchauffe et d’endommagement des installations.
-
-- **Protection contre les surtensions** : Les surtensions peuvent causer des dégâts importants aux équipements. Grâce à l'utilisation de limiteurs de surtension, les installations restent protégées des hausses de tension imprévues, souvent causées par des facteurs externes comme les orages.
-
-- **Protection contre les chocs électriques** : La sécurité des utilisateurs est primordiale. Des dispositifs de protection contre les chocs électriques, comme les disjoncteurs différentiels, assurent la coupure rapide du circuit en cas de fuite de courant, réduisant ainsi le risque d’électrocution.
-
-- **Précautions d'installation** : En respectant les précautions d'installation, telles que la mise à la terre correcte et la séparation des circuits, les installations peuvent limiter les interférences et renforcer la sécurité.
-
-En appliquant rigoureusement ces mesures, il est possible de garantir un environnement électrique sécurisé, réduisant les risques d'incidents et assurant une continuité de service. Une approche réfléchie et conforme aux exigences du RGIE est la clé pour des installations fiables et performantes.
-
----
-
-:::tip Bonnes Pratiques - Résumé de la Partie 4 🔒
-
-- **Surintensités et Surcharges** 🔥 : Utilisez des disjoncteurs thermiques et des fusibles pour protéger les circuits contre les surcharges et les courts-circuits, minimisant les risques d’incendie et de défaillance.
-
-- **Limiteurs de Surtension** ⚡ : Installez des limiteurs de surtension pour protéger les équipements sensibles des hausses de tension inattendues, surtout dans les environnements à risque.
-
-- **Protection contre les Chocs Électriques** 🛡️ : Assurez la sécurité des utilisateurs avec des disjoncteurs différentiels pour une coupure rapide en cas de fuite de courant.
-
-- **Précautions de Mise à la Terre** 🌍 : Vérifiez que les installations sont bien mises à la terre pour garantir une évacuation des surtensions et réduire les risques de choc électrique.
-
-- **Séparation des Circuits** 🚧 : Pour minimiser les interférences, gardez les circuits d'énergie séparés des circuits de télécommunication et utilisez des câbles blindés si nécessaire.
-
-- **Surveillance et Maintenance** 🔧 : Maintenez une surveillance continue et programmez des inspections régulières pour assurer que les dispositifs de protection fonctionnent de manière optimale.
-
-En suivant ces pratiques, vous renforcez la **sécurité, la fiabilité et la durabilité** de vos installations électriques, en respectant les exigences du RGIE pour des installations conformes et sûres.
-
+:::info Tip 💡
+Voor huishoudelijke installaties, overweeg het installeren van **overspanningsbeveiliging** om gevoelige apparaten te beschermen tegen spanningspieken door onweer.
 :::
 
+---
+
+### Sectie 4.5.2. Installatievoorzorgen voor gevoelige apparatuur
+
+Bij het installeren van elektrische apparaten moeten specifieke voorzorgsmaatregelen worden genomen om de risico’s van overspanning te verminderen.
+
+| **Maatregel**                        | **Beschrijving**                                                                                       |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Beschermingsapparaten**           | Installeer **overspanningsbegrenzers** nabij gevoelige apparatuur om overspanningen naar de aarde af te leiden. |
+| **Effectieve aarding**              | Zorg voor een goede aarding om overspanningen snel af te voeren zonder risico voor de installatie.    |
+| **Scheiding van circuits**          | Vermijd het kruisen van energie- en telecommunicatiecircuits om interferentie te beperken.           |
+| **Afgeschermde kabels**             | Gebruik afgeschermde kabels om externe interferentie en geïnduceerde overspanningen te beperken.     |
+
+:::warning Let op! ⚠️
+Zorg ervoor dat alle gevoelige apparaten, zoals computersystemen, beschermd zijn met overspanningsbeveiligingsapparaten.
+:::
+
+---
+
+### Sectie 4.5.3. Overspanningsbegrenzers in IT-systeem
+
+In installaties met een **IT-systeem** (geïsoleerd) zijn **overspanningsbegrenzers (LS)** essentieel om overspanningen in industriële en gespecialiseerde omgevingen te voorkomen.
+
+| **Type Begrenzers**           | **Kenmerken**                                       | **Toepassingen**                           |
+|-------------------------------|----------------------------------------------------|--------------------------------------------|
+| **Gasontladingsbegrenzer**    | Reageert snel op overspanningen, hoge capaciteit   | Industriële en kritieke installaties       |
+| **Diodebegrenzer**            | Continue bescherming, geschikt voor gevoelige elektronische apparaten | IT-apparatuur en telecommunicatie          |
+
+:::info Praktische tip 🔧
+Voor industriële omgevingen, kies gasontladingsbegrenzers vanwege hun snelle respons en hoge beschermingscapaciteit.
+:::
+
+---
+
+### Sectie 4.5.4. Gemeenschappelijke leidingen voor energie- en telecommunicatiecircuits
+
+Om interferentie tussen elektrische en telecommunicatiecircuits te voorkomen, is **bescherming van gemeenschappelijke leidingen** essentieel.
+
+| **Beschermingsmaatregel**           | **Beschrijving**                                                                   |
+|-------------------------------------|-----------------------------------------------------------------------------------|
+| **Fysieke scheiding**               | Installeer gescheiden leidingen voor energie en telecommunicatie om interferentie te voorkomen. |
+| **Afgeschermde leidingen**          | Gebruik afgeschermde leidingen om overspanningen en elektromagnetische interferentie te beperken. |
+| **Afstandsevaluatie**               | Houd een minimale afstand aan tussen energie- en telecommunicatiecircuits.       |
+
+:::tip Beste praktijken 🔍
+Volg de aanbevolen afstanden in het AREI tussen energie- en telecommunicatiecircuits om risico’s van interferentie en overspanningen te minimaliseren.
+:::
+
+---
+
+## HOOFDSTUK 4.6. BESCHERMING TEGEN DIVERSE ANDERE EFFECTEN 🔧
+
+Hoofdstuk 4.6 behandelt verschillende andere effecten die elektrische installaties kunnen beïnvloeden, waaronder spanningsdalingen, biologische effecten van elektromagnetische velden, verontreinigingsrisico’s en beweging.
+
+---
+
+### Sectie 4.6.1. Bescherming tegen spanningsdalingen
+
+**Spanningsdalingen** kunnen het functioneren van apparaten en uitrusting beïnvloeden, wat leidt tot inefficiëntie, oververhitting of voortijdige slijtage.
+
+| **Maatregel**                        | **Beschrijving**                                                                         |
+|-------------------------------------|-----------------------------------------------------------------------------------------|
+| **UPS en spanningsregelaars**       | Behoud een stabiele spanning voor gevoelige apparaten om storingen te voorkomen.       |
+| **Spanningsbewaking**               | Installeer monitorsystemen om te waarschuwen bij spanningsdalingen.                    |
+| **Selectiviteit van bescherming**   | Gebruik apparaten om getroffen circuits te isoleren zonder het gehele netwerk uit te schakelen. |
+
+:::tip Installatietip 🛠️
+Overweeg in omgevingen met gevoelige apparatuur het gebruik van UPS-systemen om een constante spanning te handhaven.
+:::
+
+---
+
+### Sectie 4.6.2. Bescherming tegen biologische effecten van elektrische en magnetische velden
+
+**Elektromagnetische velden** kunnen biologische effecten hebben op de gezondheid van blootgestelde personen. Installaties moeten deze blootstelling minimaliseren.
+
+| **Maatregel**                        | **Beschrijving**                                                                                     |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Risicobeoordeling**               | Voer een studie uit naar elektromagnetische velden om risicogebieden te identificeren.             |
+| **Afscherming**                     | Gebruik afschermingsmaterialen om de blootstelling in gevoelige ruimtes te verminderen.            |
+| **Afstand bewaren**                 | Houd een veilige afstand tussen de bronnen van velden en werk- of woonruimtes.                    |
+
+:::info Gezondheidsadvies 🧑‍⚕️
+Langdurige blootstelling aan elektromagnetische velden kan slaapstoornissen en andere effecten veroorzaken. Het wordt aanbevolen om een veilige afstand te bewaren.
+:::
+
+---
+### Sectie 4.6.3. Bescherming tegen besmettingsrisico's
+
+De risico's van **besmetting** van elektrische installaties door vloeistoffen, stof of andere deeltjes kunnen leiden tot kortsluiting en storingen.
+
+| **Maatregel**                       | **Beschrijving**                                                                                     |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Regelmatige reiniging**          | Voer een schoonmaakprogramma uit om de ophoping van stof en verontreinigende stoffen te verminderen. |
+| **Afvoersystemen**                 | Installeer systemen om ophoping van vloeistoffen in gevoelige zones te voorkomen.                    |
+| **Omgevingsbewaking**              | Gebruik sensoren om de luchtkwaliteit te controleren en de aanwezigheid van verontreinigende stoffen te detecteren. |
+
+:::tip Onderhoudstips 🧹
+Plan regelmatige inspecties om ervoor te zorgen dat de apparatuur schoon is en vrij van stof of vloeistof.
+:::
+
+---
+
+### Sectie 4.6.4. Bescherming tegen risico's door bewegingen
+
+Installaties moeten worden beschermd tegen de **risico's van bewegingen**, zoals trillingen en schokken, die schade kunnen veroorzaken aan verbindingen en bekabeling.
+
+| **Maatregel**                      | **Beschrijving**                                                                                     |
+|-----------------------------------|------------------------------------------------------------------------------------------------------|
+| **Veilige bevestiging**           | Zorg ervoor dat apparatuur stevig is bevestigd om beweging door trillingen te voorkomen.             |
+| **Trillingsbeoordeling**          | Controleer de trillingsniveaus in industriële omgevingen en pas de bevestigingen indien nodig aan.   |
+| **Duurzame materialen**           | Gebruik robuuste en trillingsbestendige materialen voor de installaties.                             |
+
+:::warning Technische waarschuwing ⚠️
+Versterk de bevestigingen in omgevingen met hoge trillingen, zoals fabrieken, om snelle slijtage van de apparatuur te voorkomen.
+:::
+
+---
+
+## Conclusie van Deel 4 - Beschermingsmaatregelen
+
+Deel 4 van het AREI behandelt essentiële beschermingsmaatregelen voor elektrische installaties, gericht op het voorkomen van incidenten en het waarborgen van de veiligheid van gebruikers. Dit deel benadrukt de noodzakelijke voorzorgsmaatregelen en apparaten om risico's te beperken die verband houden met overbelasting, overspanningen, elektrische schokken en andere effecten die de veiligheid en werking van installaties kunnen beïnvloeden. Door deze richtlijnen te volgen, kunnen elektrische installaties betrouwbaar, efficiënt en veilig worden gemaakt.
+
+De belangrijkste punten van dit deel zijn:
+
+- **Bescherming tegen overbelasting**: Overbelasting, veroorzaakt door kortsluitingen of oververhitting, vormt een groot veiligheidsrisico. Het installeren van geschikte apparaten zoals thermische schakelaars en zekeringen minimaliseert het risico op oververhitting en schade aan de installaties.
+
+- **Bescherming tegen overspanningen**: Overspanningen kunnen aanzienlijke schade toebrengen aan apparatuur. Door het gebruik van overspanningsbegrenzers blijven de installaties beschermd tegen onverwachte spanningspieken, vaak veroorzaakt door externe factoren zoals onweer.
+
+- **Bescherming tegen elektrische schokken**: De veiligheid van gebruikers is van het grootste belang. Beschermingsapparaten tegen elektrische schokken, zoals aardlekschakelaars, zorgen voor een snelle uitschakeling van het circuit bij stroomlekkage, waardoor het risico op elektrocutie wordt verminderd.
+
+- **Installatievoorzorgen**: Door installatievoorzorgen te respecteren, zoals correcte aarding en scheiding van circuits, kunnen interferenties worden beperkt en wordt de veiligheid verhoogd.
+
+Door deze maatregelen strikt toe te passen, is het mogelijk om een veilige elektrische omgeving te garanderen, waarbij de risico's op incidenten worden verminderd en continuïteit van de dienstverlening wordt verzekerd. Een doordachte en conforme aanpak volgens de AREI-voorschriften is de sleutel tot betrouwbare en efficiënte installaties.
+
+---
+
+:::tip Beste Praktijken - Samenvatting van Deel 4 🔒
+
+- **Overbelasting en Kortsluiting** 🔥: Gebruik thermische schakelaars en zekeringen om circuits te beschermen tegen overbelasting en kortsluiting, wat het risico op brand en storingen vermindert.
+
+- **Overspanningsbegrenzers** ⚡: Installeer overspanningsbegrenzers om gevoelige apparatuur te beschermen tegen onverwachte spanningspieken, vooral in risicovolle omgevingen.
+
+- **Bescherming tegen Elektrische Schokken** 🛡️: Zorg voor de veiligheid van gebruikers met aardlekschakelaars voor snelle uitschakeling bij stroomlekkage.
+
+- **Aarding Voorzorgsmaatregelen** 🌍: Controleer of installaties goed zijn geaard om overspanningen af te voeren en het risico op elektrische schokken te verminderen.
+
+- **Scheiding van Circuits** 🚧: Houd energiecircuit gescheiden van telecommunicatiecircuits en gebruik afgeschermde kabels indien nodig om interferentie te minimaliseren.
+
+- **Bewaking en Onderhoud** 🔧: Zorg voor continue monitoring en plan regelmatige inspecties om ervoor te zorgen dat beschermingsapparaten optimaal functioneren.
+
+Door deze praktijken te volgen, versterkt u de **veiligheid, betrouwbaarheid en duurzaamheid** van uw elektrische installaties, in overeenstemming met de AREI-vereisten voor conforme en veilige installaties.
+
+:::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

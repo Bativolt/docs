@@ -94,10 +94,6 @@ Dans le schéma **IT**, l’alimentation est isolée de la terre, ce qui réduit
 - **Particularité** : En cas de défaut, les installations continuent de fonctionner, offrant un temps de réaction supplémentaire pour les interventions.
 
 ---
-title: Partie 2 - Termes et Définitions
-sidebar_label: 2. Termes et Définitions
-description: Guide des termes et définitions essentiels pour comprendre les installations électriques en Belgique. Assurez-vous de la conformité avec le vocabulaire et les schémas de mise à la terre du RGIE.
----
 
 ### Section 2.2.2. Grandeurs et unités
 
@@ -215,113 +211,114 @@ Les domaines de tension en courant continu (DC) suivent également des classific
 > - **Basse tension (BT)** : Utilisée pour les installations de panneaux solaires et appareils résidentiels.
 > - **Haute tension (HT)** : Conçue pour le transport d’énergie, elle exige des protections renforcées.
 
+---
 
-# CHAPITRE 2.4. PROTECTION CONTRE LES CHOCS ÉLECTRIQUES
+# HOOFDSTUK 2.4. BESCHERMING TEGEN ELEKTRISCHE SCHOKKEN
 
-La **protection contre les chocs électriques** est primordiale dans toute installation électrique pour garantir la sécurité des utilisateurs et éviter les infractions graves. Ce chapitre décrit les termes essentiels, les types d'isolation, et la classification des équipements pour une protection optimale.
+De **bescherming tegen elektrische schokken** is essentieel in elke elektrische installatie om de veiligheid van de gebruikers te garanderen en ernstige overtredingen te voorkomen. Dit hoofdstuk beschrijft de belangrijkste termen, isolatietypes en de classificatie van apparatuur voor optimale bescherming.
 
-### Section 2.4.1. Termes Généraux
+### Sectie 2.4.1. Algemene Termen
 
-La sécurité électrique repose sur des concepts fondamentaux pour prévenir les **chocs électriques**. Cette section couvre les définitions et les notions clés, telles que les **contacts directs et indirects** et les caractéristiques des conducteurs dans un circuit.
+Elektrische veiligheid berust op fundamentele concepten om **elektrische schokken** te voorkomen. Deze sectie behandelt de definities en kernbegrippen zoals **direct en indirect contact** en de eigenschappen van geleiders in een circuit.
 
-:::tip Pourquoi c'est important ?
-Les chocs électriques peuvent être mortels ou causer des blessures graves. Comprendre les concepts de base est essentiel pour toute personne impliquée dans la gestion des installations électriques.
+:::tip Waarom is dit belangrijk?
+Elektrische schokken kunnen dodelijk zijn of ernstige verwondingen veroorzaken. Begrip van de basisconcepten is essentieel voor iedereen die betrokken is bij het beheer van elektrische installaties.
 :::
 
-#### Définitions des Termes Clés
+#### Definities van Belangrijke Termen
 
-1. **Choc électrique** : 
-   - **Définition** : Réaction physiologique au passage d’un courant électrique dans le corps humain. La gravité varie en fonction de l'intensité, la durée, et le trajet du courant.
-   - **Importance** : Prévenir les situations à risque est essentiel pour assurer la sécurité dans toutes les installations.
+1. **Elektrische schok** :
+   - **Definitie**: Fysiologische reactie op de doorgang van een elektrische stroom door het menselijk lichaam. De ernst varieert afhankelijk van de stroomsterkte, duur en het stroompad.
+   - **Belang**: Voorkomen van risicosituaties is essentieel voor de veiligheid van alle installaties.
 
-2. **Contacts directs et indirects** :
-   - **Contact direct** : Occurs when a person touches live parts like conductors, posing an immediate shock hazard.
-   - **Contact indirect** : Happens when a person touches exposed metal parts accidentally energized due to insulation failure.
+2. **Direct en indirect contact** :
+   - **Direct contact**: Treedt op wanneer iemand onder spanning staande delen aanraakt, wat een direct risico op een schok vormt.
+   - **Indirect contact**: Treedt op wanneer iemand metalen delen aanraakt die per ongeluk onder spanning staan door isolatiefouten.
 
-3. **Courant de choc** : 
-   - **Définition** : Courant traversant le corps humain lors d'un choc, potentiellement dangereux et pouvant causer la mort.
+3. **Schokstroom** :
+   - **Definitie**: Stroom die door het menselijk lichaam gaat tijdens een schok, potentieel gevaarlijk en mogelijk dodelijk.
 
-4. **Conducteurs dans un circuit** :
-   - **Conducteur actif** : Conduit le courant, incluant le neutre en courant alternatif.
-   - **Conducteur neutre** : Relié au point neutre, peut aussi jouer un rôle de protection.
-   - **Conducteur PEN** : Combine les fonctions de neutre et de protection dans un seul conducteur.
+4. **Geleiders in een circuit** :
+   - **Actieve geleider**: Geleidt de stroom, inclusief de neutrale geleider in wisselstroomcircuits.
+   - **Neutrale geleider**: Verbonden met het neutrale punt, kan ook een beschermende functie hebben.
+   - **PEN-geleider**: Combineert de functies van neutraal en bescherming in één geleider.
 
 ---
 
-#### Parties et Pièces dans une Installation Électrique
+#### Onderdelen in een Elektrische Installatie
 
-1. **Parties actives** : 
-   - **Définition** : Composants ou conducteurs sous tension pendant le fonctionnement normal. Le conducteur PEN, bien qu’il transporte de l’énergie, n’est pas classé comme partie active.
-   
-2. **Parties simultanément accessibles** : 
-   - Composants ou conducteurs nus qui peuvent être touchés simultanément. La **distance minimale** entre eux est définie par :
+1. **Actieve onderdelen** :
+   - **Definitie**: Componenten of geleiders die onder spanning staan tijdens normaal gebruik. De PEN-geleider wordt, ondanks zijn energietransportfunctie, niet als actief onderdeel beschouwd.
+
+2. **Gelijktijdig toegankelijke delen** :
+   - Naakte componenten of geleiders die gelijktijdig kunnen worden aangeraakt. De **minimale afstand** tussen hen wordt bepaald door:
    \[
    d = 2,50 + 0,01 \times (UN - 20)
    \]
-   avec un minimum de 2,5 m, où \( UN \) est la tension nominale en kV.
+   met een minimum van 2,5 m, waarbij \( UN \) de nominale spanning in kV is.
 
-#### Tensions Limites Conventionnelles et Courbes de Sécurité
+#### Conventionele Spanningslimieten en Veiligheidscurves
 
-Les tensions limites sont des valeurs de sécurité strictement définies pour éviter les chocs. Le RGIE propose :
+Spanningslimieten zijn strikt gedefinieerde veiligheidswaarden om schokken te voorkomen. Het AREI geeft:
 
-- **Tableau 2.3, page 19** : Tensions limites absolues (UL) selon l’état d'humidité de la peau.
-- **Tableau 2.4, page 19** : Tensions limites relatives (UL(t)) pour différentes durées d'exposition.
+- **Tabel 2.3, pagina 19**: Absolute spanningslimieten (UL) afhankelijk van de vochtigheidsgraad van de huid.
+- **Tabel 2.4, pagina 19**: Relatieve spanningslimieten (UL(t)) voor verschillende blootstellingsduren.
 
-| Code    | État du corps humain                         | UL en V (AC) | UL en V (DC) |
-|---------|---------------------------------------------|--------------|--------------|
-| BB1     | Peau sèche ou légèrement humide             | 50           | 120          |
-| BB2     | Peau mouillée                               | 25           | 60           |
-| BB3     | Peau immergée dans l'eau                    | 12           | 30           |
+| Code    | Toestand van het menselijk lichaam         | UL in V (AC) | UL in V (DC) |
+|---------|-------------------------------------------|--------------|--------------|
+| BB1     | Droge of licht vochtige huid              | 50           | 120          |
+| BB2     | Natte huid                                | 25           | 60           |
+| BB3     | Onder water                               | 12           | 30           |
 
-**Tension relative (UL(t))** : Varie avec le temps d'exposition. Les **courbes de sécurité** du RGIE définissent ces valeurs, limitant les risques selon la durée.
+**Relatieve spanning (UL(t))**: Verandert met de blootstellingsduur. De **veiligheidscurves** van het AREI definiëren deze waarden en beperken het risico op basis van de duur.
 
 ---
 
-### Section 2.4.2. Isolations
+### Sectie 2.4.2. Isolatie
 
-L’isolation est une barrière cruciale contre les chocs électriques. Elle évite le contact direct avec les parties sous tension et utilise des matériaux non conducteurs pour protéger les utilisateurs.
+Isolatie is een essentiële barrière tegen elektrische schokken. Het voorkomt direct contact met onder spanning staande delen en gebruikt niet-geleidende materialen om de gebruikers te beschermen.
 
-| Type d'isolation         | Description                                                                                     | Usage typique                                |
-|--------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Isolation de base        | Protection minimale pour câbles et appareils standards                                         | Équipements domestiques, câblage             |
-| Double isolation         | Protection en deux couches, évitant la nécessité de mise à la terre                            | Appareils portatifs, Classe II               |
-| Isolation renforcée      | Protection accrue pour une sécurité optimale, souvent utilisée dans des environnements sensibles | Environnements industriels, zones humides    |
+| Type isolatie           | Beschrijving                                                                                     | Typisch gebruik                              |
+|-------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Basisisolatie           | Minimale bescherming voor standaardkabels en apparaten                                          | Huishoudelijke apparatuur, bekabeling        |
+| Dubbele isolatie        | Bescherming in twee lagen, waardoor aarding niet nodig is                                       | Draagbare apparaten, Klasse II               |
+| Versterkte isolatie     | Verhoogde bescherming voor optimale veiligheid, vaak gebruikt in gevoelige omgevingen           | Industriële omgevingen, vochtige zones       |
 
-:::warning Attention aux infractions !
-Une isolation inadéquate pour l'environnement (ex. absence de double isolation en milieu humide) constitue une infraction. Remplacez le matériel non conforme pour éviter des sanctions.
+:::warning Let op bij overtredingen!
+Onvoldoende isolatie voor de omgeving (bijv. geen dubbele isolatie in een vochtige ruimte) is een overtreding. Vervang niet-conform materiaal om boetes te vermijden.
 :::
 
 ---
 
-### Section 2.4.3. Classification des Matériels Concernant la Protection contre les Chocs Électriques
+### Sectie 2.4.3. Classificatie van Apparatuur met betrekking tot Bescherming tegen Elektrische Schokken
 
-Les matériels sont classés selon leur isolation et les protections contre les chocs qu’ils offrent. Cela détermine les mesures de sécurité requises pour chaque type de matériel :
+Apparatuur wordt geclassificeerd op basis van isolatie en bescherming tegen schokken. Dit bepaalt de vereiste veiligheidsmaatregelen voor elk type apparaat:
 
-1. **Classe I** : 
-   - **Caractéristiques** : Matériel avec isolation de base nécessitant une mise à la terre pour la protection en cas de défaut.
-   - **Usage** : Appareils fixes comme les machines à laver et les radiateurs.
-   
-2. **Classe II** : 
-   - **Caractéristiques** : Matériel avec double isolation ou isolation renforcée, ne nécessitant pas de mise à la terre.
-   - **Usage** : Outils portables, équipements électroménagers.
+1. **Klasse I** :
+   - **Kenmerken**: Apparaat met basisisolatie dat aarding vereist voor bescherming bij een fout.
+   - **Gebruik**: Vaste toestellen zoals wasmachines en radiatoren.
 
-3. **Classe III** : 
-   - **Caractéristiques** : Fonctionne en **très basse tension de sécurité (TBTS)**, minimisant le risque de choc.
-   - **Usage** : Jouets, éclairages basse tension, équipements électroniques.
+2. **Klasse II** :
+   - **Kenmerken**: Apparaat met dubbele of versterkte isolatie, geen aarding nodig.
+   - **Gebruik**: Draagbare gereedschappen, huishoudelijke apparatuur.
 
-| Classe                  | Description                                                                                     | Exemples d’utilisation                        |
-|-------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Classe I                | Nécessite une mise à la terre ; isolation de base avec protection en cas de défaut              | Chauffage, gros électroménagers              |
-| Classe II               | Double isolation, sans besoin de mise à la terre                                                | Outillage portatif, petits électroménagers   |
-| Classe III              | Fonctionne en TBTS, réduit les risques de choc                                                  | Jouets, lampes basse tension                 |
+3. **Klasse III** :
+   - **Kenmerken**: Werkt op **zeer laagspanning (ZLV)**, minimaliseert het risico op schokken.
+   - **Gebruik**: Speelgoed, laagspanningsverlichting, elektronische apparatuur.
 
-:::tip Bonnes pratiques pour chaque classe
-- **Classe I** : Toujours vérifier la mise à la terre pour éviter les risques de défaut.
-- **Classe II** : Assurez-vous que la double isolation est intacte pour éviter toute défaillance.
-- **Classe III** : Vérifiez régulièrement les câbles et les connecteurs pour garantir une sécurité maximale en très basse tension.
+| Klasse                  | Beschrijving                                                                                     | Voorbeelden van gebruik                       |
+|-------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Klasse I                | Vereist aarding; basisisolatie met bescherming bij fout                                         | Verwarming, grote huishoudelijke apparaten   |
+| Klasse II               | Dubbele isolatie, geen aarding nodig                                                            | Draagbare gereedschappen, kleine apparaten   |
+| Klasse III              | Werkt op ZLV, vermindert schokrisico                                                            | Speelgoed, laagspanningslampen               |
+
+:::tip Beste praktijken voor elke klasse
+- **Klasse I**: Controleer altijd de aarding om risico’s bij defecten te vermijden.
+- **Klasse II**: Zorg ervoor dat de dubbele isolatie intact is om storingen te voorkomen.
+- **Klasse III**: Controleer regelmatig kabels en connectoren voor maximale veiligheid bij zeer laagspanning.
 :::
 
-**Infractions fréquentes** : L'usage incorrect des classes, par exemple l’absence de mise à la terre pour un appareil de Classe I, est une source fréquente de non-conformité. Assurez-vous que chaque appareil respecte les normes de sa classification pour garantir la sécurité des utilisateurs et éviter des sanctions.
+**Veelvoorkomende overtredingen**: Onjuist gebruik van klassen, bijvoorbeeld het ontbreken van aarding bij een Klasse I-apparaat, is een veelvoorkomende oorzaak van niet-naleving. Zorg ervoor dat elk apparaat voldoet aan de normen van zijn classificatie om de veiligheid van gebruikers te garanderen en boetes te vermijden.
 
 ---
 
