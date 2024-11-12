@@ -41,12 +41,13 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
+        blog: false, // Désactivation explicite du blog
         theme: {
           customCss: './src/css/custom.css',
         },
       },
     ],
-  ],
+  ],  
   
   scripts: [
     // Script pour le consentement des cookies
