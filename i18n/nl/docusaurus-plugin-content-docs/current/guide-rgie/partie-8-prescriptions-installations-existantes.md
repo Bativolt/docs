@@ -1,241 +1,265 @@
 ---
-title: Partie 8 - Prescriptions particulières relatives aux installations électriques existantes | Bativolt RGIE
-description: Découvrez les prescriptions RGIE pour les installations électriques existantes, incluant dérogations, mises à niveau, et contrôles pour assurer la sécurité et conformité.
-sidebar_label: 8. Prescriptions pour installations électriques existantes
+title: Deel 8 - Bijzondere voorschriften voor bestaande elektrische installaties | Bativolt AREI
+description: Ontdek de AREI-voorschriften voor bestaande elektrische installaties, inclusief afwijkingen, upgrades en controles om veiligheid en conformiteit te waarborgen.
+sidebar_label: 8. Voorschriften voor bestaande elektrische installaties
 ---
 
-# Partie 8 - Prescriptions particulières relatives aux installations électriques existantes
+# Deel 8 - Bijzondere voorschriften voor bestaande elektrische installaties
 
-## CHAPITRE 8.1. INTRODUCTION
+## HOOFDSTUK 8.1. INLEIDING
 
-La Partie 8 du RGIE traite des prescriptions pour garantir la sécurité des installations électriques existantes, tout en prenant en compte leur ancienneté et les particularités de leur mise en conformité.
+Deel 8 van het AREI behandelt de voorschriften die de veiligheid van bestaande elektrische installaties moeten garanderen, rekening houdend met hun ouderdom en de specifieke eisen voor hun aanpassing aan de huidige normen.
 
-:::info 💡 **À Savoir :**
-Certaines installations anciennes peuvent conserver des caractéristiques spécifiques si elles respectent des conditions de sécurité minimales. L'objectif est d'assurer la sécurité tout en tenant compte des infrastructures en place.
+:::info 💡 **Weet je dat:**
+Oudere installaties kunnen bepaalde kenmerken behouden als ze voldoen aan minimale veiligheidsnormen. Het doel is om de veiligheid te waarborgen met inachtneming van de bestaande infrastructuren.
 :::
 
-### Section 8.1.1. Définitions
+### Afdeling 8.1.1. Definities
 
-Pour bien comprendre les spécificités de cette section, voici quelques définitions importantes :
+Om de specifieke kenmerken van dit deel goed te begrijpen, volgen hier enkele belangrijke definities:
 
-- **Installations électriques existantes** : Systèmes conformes aux anciennes normes, nécessitant parfois des adaptations pour répondre aux exigences actuelles.
-- **Dispositions dérogatoires** : Exceptions aux nouvelles normes, adaptées aux installations en service avant leur mise en vigueur.
+- **Bestaande elektrische installaties**: Systemen die voldoen aan oude normen, maar mogelijk aanpassingen vereisen om te voldoen aan de huidige eisen.
+- **Afwijkende bepalingen**: Uitzonderingen op de nieuwe normen, aangepast voor installaties die in gebruik zijn genomen voordat deze normen van kracht werden.
 
-### Section 8.1.2. Installations électriques existantes contrôlées sur base de l’ancien RGIE
+### Afdeling 8.1.2. Bestaande elektrische installaties gekeurd op basis van het oude AREI
 
-Les installations validées selon l’ancien RGIE peuvent nécessiter une réévaluation pour garantir leur sécurité dans le cadre des nouvelles normes.
+Installaties die zijn goedgekeurd volgens het oude AREI kunnen een herbeoordeling nodig hebben om hun veiligheid te garanderen volgens de nieuwe normen.
 
-| **Étapes de Vérification** | **Description** |
-|----------------------------|-----------------|
-| Évaluation des Risques     | Identification des écarts par rapport aux nouvelles normes et détermination des ajustements requis. |
-| Mise à Niveau              | Selon le niveau de risque, une adaptation partielle ou totale peut être envisagée. |
-
----
-
-## CHAPITRE 8.2. DISPOSITIONS DÉROGATOIRES POUR LES INSTALLATIONS ÉLECTRIQUES DOMESTIQUES EXISTANTES
-
-Les installations domestiques anciennes bénéficient de certaines dérogations, permettant leur mise en conformité sans refonte complète.
-
-### Section 8.2.1. Parties existantes des anciennes installations électriques domestiques
-
-Certaines installations peuvent conserver leurs éléments d’origine, à condition de respecter les principes de sécurité. 
-
-- **Câblage** : Les câbles en bon état peuvent être maintenus.
-- **Dispositifs de Protection** : S'ils fonctionnent correctement et ne présentent pas de danger immédiat, leur remplacement n'est pas obligatoire.
-
-### Section 8.2.2. Parties existantes des installations électriques domestiques ancien RGIE
-
-Les installations conformes à l’ancien RGIE mais non adaptées aux nouvelles normes doivent inclure :
-
-1. **Contrôles Visuels et Fonctionnels**  
-   Permet de détecter les éléments obsolètes ou défectueux.
-
-2. **Solutions Temporaires**  
-   Des protections temporaires peuvent améliorer la sécurité en attendant une adaptation complète.
-
-:::tip Bonnes Pratiques 🔍
-Effectuez des contrôles visuels réguliers pour anticiper les défauts, et planifiez des mises à jour progressives si nécessaire.
-:::
+| **Controle Stappen**    | **Beschrijving**                                       |
+|-------------------------|--------------------------------------------------------|
+| Risicobeoordeling       | Identificeren van afwijkingen van de nieuwe normen en bepalen van noodzakelijke aanpassingen. |
+| Upgrades                | Afhankelijk van het risiconiveau kan gedeeltelijke of volledige aanpassing worden overwogen.  |
 
 ---
 
-## CHAPITRE 8.3. DISPOSITIONS DÉROGATOIRES POUR LES INSTALLATIONS ÉLECTRIQUES NON-DOMESTIQUES EXISTANTES
+## HOOFDSTUK 8.2. AFWIJKENDE BEPALINGEN VOOR BESTAANDE HUISHOUDELIJKE INSTALLATIES
 
-Les installations non-domestiques en service bénéficient également de dérogations pour garantir une mise en conformité progressive.
+Oudere huishoudelijke installaties kunnen profiteren van enkele afwijkingen, waardoor ze conform kunnen worden gemaakt zonder volledige herziening.
 
-### Section 8.3.1. Anciennes installations électriques non-domestiques
+### Afdeling 8.2.1. Bestaande onderdelen van oude huishoudelijke installaties
 
-Les installations électriques non-domestiques en service doivent respecter certaines règles de sécurité sans nécessiter de modifications immédiates.
+Bepaalde elementen van bestaande installaties kunnen behouden blijven, mits ze voldoen aan de veiligheidsprincipes.
 
-#### Sous-section 8.3.1.1. Installations non occupées en permanence
+- **Bekabeling**: Kabels in goede staat kunnen behouden blijven.
+- **Beveiligingsapparatuur**: Als deze correct functioneert en geen direct gevaar vormt, is vervanging niet verplicht.
 
-Dans les environnements non occupés en continu :
+### Afdeling 8.2.2. Bestaande onderdelen van huishoudelijke installaties volgens het oude AREI
 
-- **Protection passive** : Assure la limitation des risques en cas de défaillance.
-- **Contrôles périodiques** : Les inspections régulières permettent de surveiller l’état de l’installation.
+Installaties die voldoen aan het oude AREI maar niet zijn aangepast aan de nieuwe normen, moeten de volgende stappen bevatten:
 
-#### Sous-section 8.3.1.2. Installations dans des lieux où des personnes travaillent
+1. **Visuele en functionele controles**  
+   Detecteert verouderde of defecte elementen.
 
-Dans les lieux de travail, des protections supplémentaires sont requises :
+2. **Tijdelijke oplossingen**  
+   Tijdelijke beveiligingen kunnen de veiligheid verbeteren in afwachting van volledige aanpassing.
 
-- **Dispositifs de Sécurité Additionnels** : Ajouts pour réduire les risques.
-- **Suivi Régulier** : Assure la détection rapide des défauts avant qu'ils ne deviennent dangereux.
-
-### Section 8.3.2. Installations électriques non-domestiques ancien RGIE
-
-Les installations conformes aux normes anciennes nécessitent des ajustements pour répondre aux exigences actuelles.
-
-| Critère d’Évaluation              | Exigence                                                        |
-|-----------------------------------|-----------------------------------------------------------------|
-| État des équipements              | Inspection visuelle et fonctionnelle                            |
-| Niveau de sécurité des dispositifs | Ajout de dispositifs si les risques sont jugés élevés          |
-| Fréquence des contrôles           | Contrôles annuels ou biannuels selon l’état de l’installation   |
-
----
-
-## CHAPITRE 8.4. VISITES DE CONTRÔLE DES INSTALLATIONS ÉLECTRIQUES EXISTANTES
-
-Ce chapitre explique les visites de contrôle obligatoires pour les installations électriques anciennes qui n'ont jamais été inspectées selon l’ancien RGIE, assurant ainsi leur sécurité et leur conformité.
-
-### Section 8.4.1. Visite de contrôle pour augmentation de puissance ⚡
-
-Avant toute augmentation de puissance de raccordement, un contrôle est requis pour vérifier si l’installation peut supporter cette nouvelle capacité sans danger.
-
-:::info Image d'Exemple 📸
-
-Une photo illustrative sera ajoutée ici. Si vous souhaitez contribuer avec une photo en lien avec cette section, envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com), et elle sera ajoutée avec mention de votre nom.
-
-:::
-
-**Objectif du Contrôle :**  
-💡 **Assurer** que l’installation existante peut gérer une augmentation de puissance sans risque de surcharge ou de défaillance.
-
-**Éléments à Inspecter :**
-
-1. 🛠️ **Tableau électrique** : Vérification des disjoncteurs, fusibles et interrupteurs pour s'assurer qu'ils sont conformes et en bon état.
-2. 🔌 **Canalisations électriques** : Validation de l'état et de la capacité des câbles existants afin d’éviter toute surchauffe ou surcharge potentielle.
-
-**Rapport de Visite :**  
-📋 Le rapport doit indiquer si des modifications sont nécessaires avant de procéder au raccordement à une puissance supérieure.
-
-:::tip **Bonnes Pratiques** 🎯
-- Réalisez des contrôles réguliers de vos installations.
-- Planifiez des mises à jour dès que des signes d’usure sont détectés.
-- Utilisez des protections temporaires pour garantir la sécurité avant une mise à jour complète.
+:::tip Beste Praktijken 🔍
+Voer regelmatige visuele inspecties uit om defecten te voorkomen en plan indien nodig geleidelijke updates.
 :::
 
 ---
 
-### Section 8.4.2. Visite de contrôle avant la vente 🏡
+## HOOFDSTUK 8.3. AFWIJKENDE BEPALINGEN VOOR BESTAANDE NIET-HUISHOUDELIJKE INSTALLATIES
 
-Lors de la vente d'un bien, une visite de contrôle est obligatoire pour s'assurer que l'installation est sécurisée pour le futur propriétaire.
+Niet-huishoudelijke installaties in gebruik kunnen ook profiteren van afwijkingen om een geleidelijke conformiteit te garanderen.
 
-#### Sous-section 8.4.2.1. Domaine d’application 📄
+### Afdeling 8.3.1. Oude niet-huishoudelijke elektrische installaties
 
-Applicable à toutes les unités d’habitation dont l’installation électrique est ancienne et n’a jamais été inspectée. Ce contrôle permet d'identifier d’éventuels écarts par rapport aux normes actuelles, assurant ainsi la sécurité des futurs occupants.
+Niet-huishoudelijke installaties moeten voldoen aan bepaalde veiligheidsvoorschriften zonder onmiddellijke wijzigingen.
 
-#### Sous-section 8.4.2.2. Modalités de la visite de contrôle 🔍
+#### Onderafdeling 8.3.1.1. Installaties zonder permanente bezetting
 
-**Étapes du Contrôle :**
+In niet-permanente omgevingen:
 
-| 📝 Étape de la Visite          | Description                                                      |
-|--------------------------------|------------------------------------------------------------------|
-| 👁️ Inspection Visuelle         | Examen des prises, interrupteurs, câblages et tableaux de répartition. |
-| ⚙️ Vérification Fonctionnelle   | Tests des disjoncteurs et fusibles pour vérifier leur réaction aux surcharges. |
-| 🌍 Contrôle de la Mise à la Terre | Assurer la continuité et l'efficacité de la mise à la terre.      |
+- **Passieve bescherming**: Beperkt risico's bij een defect.
+- **Periodieke controles**: Regelmatige inspecties om de staat van de installatie te monitoren.
 
-:::example Exemple Pratique 🔧
-Imaginez que vous vendez un bien avec une installation ancienne. Le contrôle révèlera si les fusibles et disjoncteurs sont adaptés ou s'ils nécessitent une mise à niveau pour une sécurité optimale du nouvel occupant.
-:::
+#### Onderafdeling 8.3.1.2. Installaties in werkplekken
 
-#### Sous-section 8.4.2.3. Rapport, infractions et contrôles futurs 📑
+Op werkplekken zijn aanvullende beveiligingen vereist:
 
-**Contenu du Rapport :**
+- **Extra beveiligingsapparatuur**: Toevoegingen om risico's te verminderen.
+- **Regelmatige opvolging**: Vroegtijdige detectie van defecten voordat ze gevaarlijk worden.
 
-- **Résultats des Tests** : Résumé des tests avec indication des conformités et non-conformités.
-- **Infractions Notées** : Liste des infractions avec une évaluation des risques et des recommandations de mise en conformité.
-- **Contrôles Futurs** : Fréquence des contrôles recommandés en fonction des risques détectés.
+### Afdeling 8.3.2. Niet-huishoudelijke installaties volgens het oude AREI
 
----
+Installaties die voldoen aan oude normen moeten worden aangepast om aan de huidige eisen te voldoen.
 
-### Section 8.4.3. Contrôle Préventif pour les Installations non conformes 🛠️
-
-Pour les installations domestiques qui ne sont pas en vente ni en processus de renforcement de puissance, une visite préventive peut être effectuée pour garantir une sécurité générale.
-
-- **Évaluation des Risques Généraux :**  
-  🛡️ Inspection des connexions, dispositifs de protection et câblages pour identifier d'éventuelles faiblesses.
-
-- **Rapport de Visite :**  
-  📋 Ce rapport documente les observations et les recommandations pour une sécurité renforcée.
-
-:::warning Attention ! ⚠️
-Même si votre installation n’est pas en vente, un contrôle préventif peut éviter des incidents en détectant les points faibles avant qu’ils ne deviennent des problèmes majeurs.
-:::
+| Evaluatiecriteria            | Vereisten                                                 |
+|------------------------------|-----------------------------------------------------------|
+| Staat van de apparatuur      | Visuele en functionele inspectie                          |
+| Veiligheidsniveau van apparaten | Toevoeging van apparaten als het risiconiveau hoog is  |
+| Controlefrequentie           | Jaarlijkse of tweejaarlijkse controles, afhankelijk van de staat van de installatie |
 
 ---
 
-### Section 8.4.4. Contrôle pour les installations non-domestiques peu fréquentées 🏢
+## HOOFDSTUK 8.4. KEURINGEN VAN BESTAANDE ELEKTRISCHE INSTALLATIES
 
-Cette section s'applique aux installations non-domestiques, comme les locaux techniques ou entrepôts rarement utilisés, où les contrôles réguliers sont souvent minimaux.
+Dit hoofdstuk beschrijft de verplichte keuringen voor oudere elektrische installaties die nooit zijn geïnspecteerd volgens het oude AREI, om hun veiligheid en conformiteit te waarborgen.
 
-1. **Contrôle de Base** :  
-   🔍 Inspection des équipements de protection, des câblages et de la mise à la terre pour s'assurer de leur sécurité.
+### Afdeling 8.4.1. Keuring bij vermogensverhoging ⚡
 
-2. **Conformité aux Exigences Minimales** :  
-   🛡️ Les installations doivent répondre aux exigences minimales de sécurité, incluant la protection contre les courts-circuits et les surcharges.
+Voordat een verhoging van de aansluitcapaciteit wordt uitgevoerd, is een keuring vereist om te controleren of de installatie deze nieuwe capaciteit veilig kan ondersteunen.
 
-3. **Rapport et Recommandations** :  
-   📋 Un rapport documente les points d’amélioration et les recommandations, même pour les lieux peu fréquentés.
+:::info Voorbeeldafbeelding 📸
 
-| 🛠️ Contrôle                       | Description                                                    |
-|----------------------------------|----------------------------------------------------------------|
-| 🔍 Contrôle de Base               | Inspection des équipements de protection et de la mise à la terre |
-| 🛡️ Conformité aux Exigences Minimales | Protection contre les courts-circuits et surcharges             |
-| 📋 Rapport et Recommandations     | Documentation des améliorations nécessaires                    |
-
-Les contrôles décrits ici assurent une sécurité continue et progressive des installations anciennes, même pour des lieux peu fréquentés, afin de garantir la protection des usagers.
-
-:::info Image d'Exemple 📸
-
-Une photo illustrative sera ajoutée ici pour les installations en milieu non-domestique. Si vous souhaitez contribuer, envoyez une photo à [docs@bativolt.com](mailto:docs@bativolt.com) et elle sera ajoutée avec mention de votre nom.
+Een illustratieve foto wordt hier toegevoegd. Als u een foto heeft die relevant is voor dit onderwerp, stuur deze naar [docs@bativolt.com](mailto:docs@bativolt.com), en deze zal worden toegevoegd met vermelding van uw naam.
 
 :::
-
-## Conclusion de la Partie 8 - Contrôles et Sécurité des Installations Électriques Anciennes
-
-La Partie 8 du RGIE se concentre sur les mesures de contrôle et de sécurité pour les installations électriques existantes, en particulier celles qui n'ont jamais été inspectées ou dont la mise en conformité reste partielle. Cette partie met en évidence l'importance des visites de contrôle pour évaluer la sécurité et la capacité de ces installations à répondre aux besoins actuels, en particulier lorsqu’elles sont soumises à des changements comme une augmentation de puissance ou lors de la vente d'un bien. Les points clés abordés sont :
-
-- **Objectif des Visites de Contrôle** : Assurer que les installations existantes peuvent gérer les demandes en toute sécurité, tout en identifiant les éventuelles zones de faiblesse. Une évaluation complète permet de déterminer si des modifications sont nécessaires pour renforcer la sécurité.
-
-- **Inspections Spécifiques** : Chaque visite de contrôle comporte des étapes précises, allant de l’inspection visuelle à la vérification des dispositifs de protection, en passant par le contrôle de la mise à la terre. Ces inspections permettent de prévenir les risques de surcharges et de courts-circuits.
-
-- **Rapports de Conformité et Recommandations** : À l’issue de chaque contrôle, un rapport documente les résultats, identifie les infractions éventuelles, et propose des recommandations pour les visites ultérieures, garantissant une amélioration continue de la sécurité.
-
-- **Visites Obligatoires en Cas de Vente** : Lors de la vente d'un bien, une visite de contrôle est obligatoire pour garantir que les installations sont sécurisées pour le futur propriétaire.
-
-- **Contrôles Préventifs pour les Installations Non-Domestiques** : Dans les locaux peu fréquentés, comme les entrepôts ou les espaces techniques, des inspections de base sont réalisées pour s'assurer que les dispositifs de sécurité minimaux sont en place, même si ces installations ne sont pas conformes aux dernières normes.
-
-En suivant ces recommandations, les installations anciennes peuvent être sécurisées et mises à jour progressivement, respectant ainsi les exigences du RGIE tout en limitant les risques pour les utilisateurs et les propriétaires.
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Partie 8 🎯
+## Conclusie van Deel 8 - Bijzondere Voorschriften voor Bestaande Installaties
 
-- **Objectif des Contrôles** 🔍 : Assurez-vous que l’installation peut répondre à de nouvelles demandes, comme une augmentation de puissance, sans risque de surcharge ni de panne.
+Deel 8 van het AREI biedt richtlijnen voor het waarborgen van de veiligheid van bestaande elektrische installaties, rekening houdend met hun ouderdom en specifieke kenmerken. Deze voorschriften helpen gebruikers en eigenaren om geleidelijk aan de huidige normen te voldoen, met behoud van de bestaande infrastructuur waar mogelijk.
 
-- **Inspections Essentielles** 🛠️ : Effectuez des contrôles visuels et fonctionnels pour vérifier l’état des tableaux électriques, canalisations et dispositifs de protection.
+Door het volgen van deze richtlijnen, kunnen risico’s worden geminimaliseerd en wordt de veiligheid van zowel gebruikers als de omgeving gewaarborgd.
 
-- **Rapport et Suivi des Infractions** 📋 : Fournissez un rapport complet incluant les résultats des tests, les infractions identifiées, et les recommandations pour des contrôles futurs.
+---
 
-- **Contrôles en Cas de Vente** 🏠 : Avant toute vente, faites inspecter l’installation pour garantir la sécurité des nouveaux occupants.
+:::tip Samenvatting van Beste Praktijken ⚡
 
-- **Contrôles Préventifs pour les Locaux Peu Fréquentés** 🏢 : Dans les espaces non-domestiques rarement utilisés, vérifiez les équipements de protection et assurez que les exigences de sécurité minimales sont respectées.
+- **Veiligheid Prioriteren** 🛡️: Pas aanvullende beveiligingsmaatregelen toe om risico's te beperken.
+- **Regelmatige Keuringen** 🔍: Voer periodieke controles uit om de staat van de installaties te beoordelen.
+- **Gebruik van Tijdelijke Oplossingen** 🛠️: Implementeer tijdelijke beveiligingen totdat volledige updates kunnen worden uitgevoerd.
+- **Documentatie en Rapportage** 📋: Houd gedetailleerde rapporten bij van inspecties en aanpassingen voor naleving en traceerbaarheid.
 
-- **Mise à Jour et Maintenance Régulière** 🔧 : Prévoyez des mises à jour progressives et des maintenances régulières pour garantir une sécurité continue dans les installations anciennes.
+Het naleven van deze beste praktijken zorgt voor een verhoogde veiligheid en conformiteit, in lijn met de eisen van het AREI.
 
-En appliquant ces bonnes pratiques, vous assurez une **sécurité accrue** et une **conformité durable** de vos installations, en conformité avec les exigences du RGIE pour les infrastructures anciennes.
 :::
 
+## HOOFDSTUK 8.4. CONTROLES VAN BESTAANDE ELEKTRISCHE INSTALLATIES
+
+### Afdeling 8.4.1. Controle bij vermogensverhoging ⚡
+
+**Doel van de controle:**  
+💡 **Verzeker** dat de bestaande installatie een verhoging van het vermogen aankan zonder risico op overbelasting of storingen.
+
+**Te Inspecteren Elementen:**
+
+1. 🛠️ **Elektrisch Paneel**: Controle van schakelaars, zekeringen en aardlekschakelaars om te verzekeren dat ze conform en in goede staat zijn.
+2. 🔌 **Elektrische Bekabeling**: Beoordeling van de staat en capaciteit van de bestaande kabels om oververhitting of potentiële overbelasting te voorkomen.
+
+**Inspectierapport:**  
+📋 Het rapport moet aangeven of er aanpassingen nodig zijn voordat de installatie wordt aangesloten op een hoger vermogen.
+
+:::tip **Beste Praktijken** 🎯
+- Voer regelmatig controles uit op uw installaties.
+- Plan updates zodra er tekenen van slijtage worden gedetecteerd.
+- Gebruik tijdelijke beveiligingen om de veiligheid te garanderen vóór een volledige update.
+:::
+
+---
+
+### Afdeling 8.4.2. Controle voor de verkoop van een woning 🏡
+
+Bij de verkoop van een woning is een inspectie verplicht om ervoor te zorgen dat de installatie veilig is voor de nieuwe eigenaar.
+
+#### Onderafdeling 8.4.2.1. Toepassingsgebied 📄
+
+Van toepassing op alle wooneenheden waarvan de elektrische installatie oud is en nooit eerder is geïnspecteerd. Deze controle helpt eventuele afwijkingen van de huidige normen te identificeren, waardoor de veiligheid van toekomstige bewoners wordt gewaarborgd.
+
+#### Onderafdeling 8.4.2.2. Wijze van Controle 🔍
+
+**Controle Stappen:**
+
+| 📝 Controle Stap                | Beschrijving                                                  |
+|--------------------------------|---------------------------------------------------------------|
+| 👁️ Visuele Inspectie           | Controle van stopcontacten, schakelaars, bedrading en verdeelkasten. |
+| ⚙️ Functionele Test            | Test van zekeringen en aardlekschakelaars om hun reactie op overbelasting te controleren. |
+| 🌍 Aarding Controle             | Verzekeren van de continuïteit en effectiviteit van de aarding. |
+
+:::example Praktisch Voorbeeld 🔧
+Stel dat u een woning verkoopt met een oude installatie. De controle zal onthullen of de zekeringen en schakelaars geschikt zijn of dat ze moeten worden vervangen om de veiligheid van de nieuwe eigenaar te waarborgen.
+:::
+
+#### Onderafdeling 8.4.2.3. Rapport, overtredingen en toekomstige controles 📑
+
+**Inhoud van het Rapport:**
+
+- **Testresultaten**: Samenvatting van de tests met aanduiding van conformiteiten en niet-conformiteiten.
+- **Geregistreerde Overtredingen**: Lijst van overtredingen met risicobeoordeling en aanbevelingen voor conformiteit.
+- **Toekomstige Controles**: Aanbevolen frequentie van controles op basis van de gedetecteerde risico’s.
+
+---
+
+### Afdeling 8.4.3. Preventieve Controle voor Niet-Conforme Installaties 🛠️
+
+Voor huishoudelijke installaties die niet te koop zijn en geen vermogensverhoging ondergaan, kan een preventieve inspectie worden uitgevoerd om de algemene veiligheid te waarborgen.
+
+- **Algemene Risicobeoordeling:**  
+  🛡️ Inspectie van aansluitingen, beveiligingsapparaten en bedrading om mogelijke zwakke punten te identificeren.
+
+- **Inspectierapport:**  
+  📋 Dit rapport documenteert de observaties en aanbevelingen voor een verbeterde veiligheid.
+
+:::warning Let op! ⚠️
+Ook als uw installatie niet te koop is, kan een preventieve controle incidenten voorkomen door zwakke punten te detecteren voordat ze ernstige problemen veroorzaken.
+:::
+
+---
+
+### Afdeling 8.4.4. Controle voor zelden gebruikte niet-huishoudelijke installaties 🏢
+
+Deze afdeling is van toepassing op niet-huishoudelijke installaties, zoals technische ruimtes of magazijnen die zelden worden gebruikt en waar regelmatige controles vaak minimaal zijn.
+
+1. **Basiscontrole:**  
+   🔍 Inspectie van beveiligingsapparatuur, bedrading en aarding om de veiligheid te waarborgen.
+
+2. **Minimale Veiligheidsvereisten:**  
+   🛡️ De installaties moeten voldoen aan de minimale veiligheidsnormen, inclusief bescherming tegen kortsluitingen en overbelasting.
+
+3. **Rapport en Aanbevelingen:**  
+   📋 Een rapport documenteert de verbeterpunten en aanbevelingen, zelfs voor zelden gebruikte locaties.
+
+| 🛠️ Controle                       | Beschrijving                                               |
+|----------------------------------|------------------------------------------------------------|
+| 🔍 Basiscontrole                 | Inspectie van beveiligingsapparaten en aarding             |
+| 🛡️ Minimale Veiligheidsvereisten | Bescherming tegen kortsluitingen en overbelasting          |
+| 📋 Rapport en Aanbevelingen      | Documentatie van noodzakelijke verbeteringen               |
+
+De hier beschreven controles garanderen een continue en geleidelijke veiligheid van oudere installaties, zelfs voor zelden gebruikte locaties, om de bescherming van gebruikers te waarborgen.
+
+:::info Voorbeeldafbeelding 📸
+
+Een illustratieve foto wordt hier toegevoegd voor niet-huishoudelijke installaties. Als u wilt bijdragen, stuur een foto naar [docs@bativolt.com](mailto:docs@bativolt.com), en deze zal worden toegevoegd met vermelding van uw naam.
+
+:::
+
+## Conclusie van Deel 8 - Controles en Veiligheid van Bestaande Elektrische Installaties
+
+Deel 8 van het AREI richt zich op de controle- en veiligheidsmaatregelen voor bestaande elektrische installaties, in het bijzonder voor installaties die nooit eerder zijn geïnspecteerd of waarvan de conformiteit gedeeltelijk is. Dit deel benadrukt het belang van inspecties om de veiligheid te beoordelen en te controleren of deze installaties voldoen aan de huidige eisen, vooral wanneer er wijzigingen plaatsvinden zoals een vermogensverhoging of bij de verkoop van een woning. De belangrijkste punten zijn:
+
+- **Doel van de Controles**: Zekerstellen dat bestaande installaties veilig aan de vraag kunnen voldoen, waarbij mogelijke zwakke punten worden geïdentificeerd. Een volledige evaluatie helpt te bepalen of er wijzigingen nodig zijn om de veiligheid te verbeteren.
+
+- **Specifieke Inspecties**: Elke controle omvat specifieke stappen, van visuele inspectie tot de verificatie van beschermingsapparaten en aardingssystemen. Deze inspecties helpen risico’s zoals overbelasting en kortsluiting te voorkomen.
+
+- **Conformiteitsrapporten en Aanbevelingen**: Na elke controle wordt een rapport opgesteld met de resultaten, de eventuele overtredingen en aanbevelingen voor toekomstige controles, wat zorgt voor een continue verbetering van de veiligheid.
+
+- **Verplichte Controles bij Verkoop**: Bij de verkoop van een woning is een controle verplicht om ervoor te zorgen dat de installaties veilig zijn voor de nieuwe eigenaar.
+
+- **Preventieve Controles voor Niet-Woongebouwen**: In zelden gebruikte ruimten zoals magazijnen of technische ruimtes worden basisinspecties uitgevoerd om te controleren of de minimale veiligheidsvoorzieningen aanwezig zijn, ook al voldoen de installaties niet aan de nieuwste normen.
+
+Door deze aanbevelingen op te volgen, kunnen oudere installaties veilig worden gehouden en geleidelijk worden bijgewerkt, in overeenstemming met het AREI en met een minimale risico voor gebruikers en eigenaren.
+
+---
+
+:::tip Beste Praktijken - Samenvatting van Deel 8 🎯
+
+- **Doel van de Controles** 🔍: Zorg ervoor dat de installatie veilig kan voldoen aan nieuwe eisen, zoals een vermogensverhoging, zonder risico op overbelasting of storing.
+
+- **Essentiële Inspecties** 🛠️: Voer visuele en functionele controles uit om de staat van elektrische verdeelkasten, bekabeling en beschermingsapparaten te verifiëren.
+
+- **Rapportage en Overtredingsopvolging** 📋: Zorg voor een volledig rapport met de testresultaten, geïdentificeerde overtredingen en aanbevelingen voor toekomstige controles.
+
+- **Controles bij Verkoop** 🏠: Laat de installatie inspecteren voordat u de woning verkoopt om de veiligheid van de nieuwe bewoners te garanderen.
+
+- **Preventieve Controles voor Zelden Gebruikte Ruimtes** 🏢: Controleer de beschermingsapparaten en zorg ervoor dat de minimale veiligheidsvereisten worden nageleefd in niet-woongebouwen die zelden worden gebruikt.
+
+- **Regelmatig Onderhoud en Updates** 🔧: Plan geleidelijke updates en regelmatig onderhoud om een continue veiligheid te garanderen in oudere installaties.
+
+Door deze beste praktijken te volgen, zorgt u voor een **verhoogde veiligheid** en een **duurzame naleving** van uw installaties, in overeenstemming met de AREI-vereisten voor oudere infrastructuren.
+:::
 
 ---
 

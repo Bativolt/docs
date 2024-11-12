@@ -1,65 +1,64 @@
 ---
-title: Conclusion du Guide RGIE | Bativolt Belgique
-description: Découvrez la conclusion du Guide RGIE de Bativolt, une synthèse des prescriptions et normes pour garantir la sécurité et conformité des installations électriques en Belgique. Un guide essentiel pour électriciens, particuliers et professionnels.
-sidebar_label: Conclusion
+title: Conclusie van de AREI-Gids | Bativolt België
+description: Ontdek de conclusie van de AREI-gids van Bativolt, een samenvatting van de voorschriften en normen om de veiligheid en conformiteit van elektrische installaties in België te waarborgen. Een essentiële gids voor elektriciens, particulieren en professionals.
+sidebar_label: Conclusie
 ---
 
+# Conclusie
 
-# Conclusion
+We hebben onze verkenning van de **negen belangrijkste delen van het Algemeen Reglement op de Elektrische Installaties (AREI)** afgerond en bieden u een gestructureerd en didactisch overzicht van elk aspect van de elektrische normen in België. Deze gids is ontworpen om het AREI toegankelijk te maken voor zowel professionals als particulieren, door de artikelen te verduidelijken en u te helpen de **veiligheid** en **conformiteit** van al uw elektrische installaties te waarborgen.
 
-Nous avons achevé notre exploration des **neuf parties clés du Règlement Général sur les Installations Électriques (RGIE)**, en vous offrant un aperçu structuré et didactique de chaque aspect des normes électriques en Belgique. Ce guide a été conçu pour rendre accessible le RGIE aux professionnels comme aux particuliers, en décryptant ses articles pour vous aider à assurer la **sécurité** et la **conformité** de toutes vos installations électriques.
+## Overzicht van de Belangrijkste Secties
 
-## Récapitulatif des Sections Principales
+Elk deel van het AREI is diepgaand geanalyseerd om duidelijke uitleg en praktische adviezen te bieden:
 
-Chacune des parties du RGIE a été analysée en profondeur pour fournir des explications claires et des conseils pratiques :
+1. **[Deel 1 - Algemene Voorschriften](https://docs.bativolt.com/nl/guide-rgie/partie-1-prescriptions-generales)** : De basisprincipes voor elke elektrische installatie.
 
-1. **[Partie 1 - Prescriptions Générales](https://docs.bativolt.com/docs/guide-rgie/partie-1-prescriptions-generales)** : Les principes de base qui encadrent toute installation électrique.
-  
-2. **[Partie 2 - Termes et Définitions](https://docs.bativolt.com/docs/guide-rgie/partie-2-termes-definitions)** : Glossaire des termes essentiels pour une compréhension rigoureuse du RGIE.
-  
-3. **[Partie 3 - Détermination des Caractéristiques](https://docs.bativolt.com/docs/guide-rgie/partie-3-determination-caracteristiques)** : Critères techniques des installations pour une alimentation électrique fiable et adaptée.
-  
-4. **[Partie 4 - Mesures de Protection](https://docs.bativolt.com/docs/guide-rgie/partie-4-mesures-protection)** : Les dispositifs et protections nécessaires pour garantir la sécurité.
-  
-5. **[Partie 5 - Choix et Mise en Œuvre](https://docs.bativolt.com/docs/guide-rgie/partie-5-choix-mise-en-oeuvre)** : Directives pour le choix du matériel et l'installation.
-  
-6. **[Partie 6 - Contrôles des Installations](https://docs.bativolt.com/docs/guide-rgie/partie-6-controles-installations)** : Procédures de contrôle à réaliser avant toute mise en service pour valider la conformité.
-  
-7. **[Partie 7 - Règles pour les Installations et Emplacements Spéciaux](https://docs.bativolt.com/docs/guide-rgie/partie-7-regles-installations-emplacements)** : Règles spécifiques pour les environnements à risque particulier.
-  
-8. **[Partie 8 - Prescriptions pour Installations Existantes](https://docs.bativolt.com/docs/guide-rgie/partie-8-prescriptions-installations-existantes)** : Directives pour la mise à niveau et la sécurité des installations déjà en place.
-  
-9. **[Partie 9 - Prescriptions Générales à Observer](https://docs.bativolt.com/docs/guide-rgie/partie-9-prescriptions-personnes)** : Les responsabilités générales des gestionnaires et propriétaires.
+2. **[Deel 2 - Termen en Definities](https://docs.bativolt.com/nl/guide-rgie/partie-2-termes-definitions)** : Woordenlijst van essentiële termen voor een nauwkeurige interpretatie van het AREI.
 
-Ce guide ne couvre pas le **Livre 2 du RGIE**, davantage orienté vers les entreprises, mais pourrait être enrichi si la demande est présente. 
+3. **[Deel 3 - Bepaling van Kenmerken](https://docs.bativolt.com/nl/guide-rgie/partie-3-determination-caracteristiques)** : Technische criteria voor een betrouwbare en geschikte stroomvoorziening.
 
-### Pourquoi ce Guide ?
+4. **[Deel 4 - Beschermingsmaatregelen](https://docs.bativolt.com/nl/guide-rgie/partie-4-mesures-protection)** : Vereiste beschermingsapparaten om de veiligheid te garanderen.
 
-Chez **Bativolt**, nous avons observé que de nombreux particuliers, étudiants, stagiaires, notaires, agents immobiliers, électriciens et même contrôleurs éprouvent des difficultés à interpréter les articles du RGIE. Ce site documentaire a été pensé pour **simplifier** et **démystifier** les éléments du RGIE, avec des explications accessibles et des exemples concrets pour répondre aux besoins de tous.
+5. **[Deel 5 - Keuze en Installatie van Materialen](https://docs.bativolt.com/nl/guide-rgie/partie-5-choix-mise-en-oeuvre)** : Richtlijnen voor de materiaalkeuze en installatie.
 
-Nous rappelons que l’interprétation du RGIE peut varier, et pour des cas particuliers, il est recommandé de consulter un expert. Ce guide vise à fournir un **support pédagogique** et une **aide pratique**, mais pour des applications juridiques officielles, il faut toujours se référer au RGIE publié par le **SPF Économie**.
+6. **[Deel 6 - Inspecties van Installaties](https://docs.bativolt.com/nl/guide-rgie/partie-6-controles-installations)** : Controleprocedures voor ingebruikname om de conformiteit te valideren.
+
+7. **[Deel 7 - Regels voor Speciale Installaties en Locaties](https://docs.bativolt.com/nl/guide-rgie/partie-7-regles-installations-emplacements)** : Specifieke regels voor risicovolle omgevingen.
+
+8. **[Deel 8 - Voorschriften voor Bestaande Installaties](https://docs.bativolt.com/nl/guide-rgie/partie-8-prescriptions-installations-existantes)** : Richtlijnen voor de modernisering en veiligheid van bestaande installaties.
+
+9. **[Deel 9 - Algemene Voorschriften voor Personen](https://docs.bativolt.com/nl/guide-rgie/partie-9-prescriptions-personnes)** : Algemene verantwoordelijkheden van beheerders en eigenaren.
+
+Deze gids behandelt niet het **Boek 2 van het AREI**, dat meer gericht is op bedrijven, maar kan worden uitgebreid als er voldoende vraag is.
+
+### Waarom deze Gids?
+
+Bij **Bativolt** hebben we gemerkt dat veel particulieren, studenten, stagiairs, notarissen, vastgoedmakelaars, elektriciens en zelfs inspecteurs moeite hebben om de artikelen van het AREI te interpreteren. Deze documentatiesite is ontwikkeld om de elementen van het AREI te **vereenvoudigen** en **te verduidelijken**, met toegankelijke uitleg en concrete voorbeelden om aan de behoeften van iedereen te voldoen.
+
+We herinneren eraan dat de interpretatie van het AREI kan variëren. Voor specifieke gevallen is het raadzaam een expert te raadplegen. Deze gids is bedoeld als **onderwijsondersteuning** en praktische hulp, maar voor officiële juridische toepassingen moet altijd worden verwezen naar het AREI, gepubliceerd door de **FOD Economie**.
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Conclusion 🎯
+:::tip Beste Praktijken - Samenvatting van de Conclusie 🎯
 
-- **Utilisez ce Guide comme Référence** 📚 : Parcourez chaque section pour approfondir votre compréhension des normes et sécuriser vos installations.
-  
-- **Consultez des Experts si Nécessaire** 🛠️ : Pour des cas complexes ou des applications juridiques, faites appel à des professionnels pour assurer la conformité totale.
+- **Gebruik deze Gids als Referentie** 📚 : Blader door elke sectie om uw begrip van de normen te verdiepen en uw installaties te beveiligen.
 
-- **Gardez ce Guide comme Support Éducatif** 🎓 : Que vous soyez étudiant, professionnel ou particulier, ce guide est conçu pour vous accompagner dans l’apprentissage et la mise en œuvre du RGIE.
+- **Raadpleeg Experts indien Nodig** 🛠️ : Voor complexe gevallen of juridische toepassingen, schakel professionals in voor volledige conformiteit.
 
-- **Conformité et Sécurité en Priorité** ⚡ : La sécurité et la conformité de vos installations doivent toujours être au cœur de vos préoccupations.
+- **Gebruik deze Gids als Onderwijsinstrument** 🎓 : Of u nu student, professional of particulier bent, deze gids is ontworpen om u te begeleiden bij het leren en toepassen van het AREI.
 
-Nous espérons que ce guide deviendra votre **outil de référence** pour maîtriser le RGIE et garantir la sécurité dans toutes vos installations électriques en Belgique.
+- **Prioriteit aan Conformiteit en Veiligheid** ⚡ : De veiligheid en conformiteit van uw installaties moeten altijd centraal staan.
+
+We hopen dat deze gids uw **referentie-instrument** wordt om het AREI te beheersen en de veiligheid van al uw elektrische installaties in België te waarborgen.
 :::
 
 ---
 
 **Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+De inhoud van deze site, docs.bativolt.com, wordt aangeboden door Bativolt, een erkend elektrotechnisch bedrijf. De informatie is bedoeld voor educatief gebruik en is gebaseerd op onze interpretatie en ervaring met het Algemeen Reglement op de Elektrische Installaties (AREI). Bativolt kan niet verantwoordelijk worden gesteld voor misbruik of onjuiste interpretatie van het AREI of onze documentatie.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. Alle rechten voorbehouden.**  
+Het reproduceren van de inhoud van deze site, zelfs gedeeltelijk, is niet toegestaan zonder voorafgaande toestemming.
 
 ---

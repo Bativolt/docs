@@ -1,433 +1,434 @@
 ---
-title: Partie 9 - Prescriptions générales à observer par les personnes | Bativolt RGIE
-description: Guide des prescriptions générales du RGIE pour les propriétaires et gestionnaires d'installations électriques, incluant devoirs, conformité, et sécurité des installations.
-sidebar_label: 9. Prescriptions générales à observer
+title: Deel 9 - Algemene Voorschriften voor Personen | Bativolt AREI
+description: Gids voor de algemene voorschriften van het AREI voor eigenaars en beheerders van elektrische installaties, inclusief verantwoordelijkheden, conformiteit en veiligheid.
+sidebar_label: 9. Algemene Voorschriften
 ---
 
-# Partie 9. Prescriptions générales à observer par les personnes
+# Deel 9. Algemene Voorschriften voor Personen
 
-La Partie 9 du RGIE définit les responsabilités essentielles des **propriétaires**, **gestionnaires**, et **exploitants** d'installations électriques, couvrant à la fois les environnements domestiques et non-domestiques. Cette section énonce des règles claires pour une gestion conforme, sécurisée, et durable des installations en tenant compte des influences externes et des zones à risque.
+Deel 9 van het AREI beschrijft de essentiële verantwoordelijkheden van **eigenaars**, **beheerders** en **gebruikers** van elektrische installaties, zowel in residentiële als niet-residentiële omgevingen. Deze sectie bevat duidelijke regels voor het veilig en conform beheren van installaties, rekening houdend met externe invloeden en risicogebieden.
 
-## CHAPITRE 9.1. DEVOIRS DU PROPRIÉTAIRE, GESTIONNAIRE OU EXPLOITANT
+## HOOFDSTUK 9.1. VERANTWOORDELIJKHEDEN VAN DE EIGENAAR, BEHEERDER OF GEBRUIKER
 
-### Section 9.1.1. Responsabilités pour les installations non-domestiques 🏢
+### Sectie 9.1.1. Verantwoordelijkheden voor niet-residentiële installaties 🏢
 
-Les propriétaires et gestionnaires de locaux non-domestiques, tels que les entreprises et bâtiments industriels, doivent veiller à la **conformité et à la sécurité** des installations :
+Eigenaars en beheerders van niet-residentiële gebouwen, zoals bedrijven en industriële panden, moeten zorgen voor de **conformiteit en veiligheid** van de installaties:
 
-- **Maintien de la Sécurité** 🔧 : Planifiez des **contrôles réguliers** pour garantir un bon état de fonctionnement et prévenir tout danger électrique.
-- **Suivi des Rapports de Contrôle** 📋 : Mettez en œuvre les recommandations issues des inspections pour corriger les infractions ou non-conformités.
-- **Archivage des Documents** 🗃️ : **Conservez soigneusement** les rapports de conformité pour assurer une gestion documentée et une traçabilité en cas d'inspection.
+- **Behouden van Veiligheid** 🔧: Plan **regelmatige controles** om een goede werking te garanderen en elektrische gevaren te voorkomen.
+- **Opvolgen van Inspectierapporten** 📋: Implementeer de aanbevelingen uit inspecties om overtredingen of non-conformiteiten te corrigeren.
+- **Archivering van Documenten** 🗃️: **Bewaar inspectierapporten zorgvuldig** om documentbeheer en traceerbaarheid te garanderen bij een inspectie.
 
-:::tip Bonnes Pratiques pour les Installations Non-Domestiques 🔍
-- **Inspectez régulièrement** les installations pour éviter les pannes soudaines.
-- **Tenez à jour** les dossiers de conformité pour faciliter la prise de décisions rapides.
+:::tip Beste Praktijken voor Niet-Residentiële Installaties 🔍
+- **Inspecteer regelmatig** de installaties om onverwachte storingen te voorkomen.
+- **Houd conformiteitsdossiers bij** om snelle besluitvorming te vergemakkelijken.
 :::
 
 ---
 
-### Section 9.1.2. Responsabilités pour les installations domestiques 🏠
+### Sectie 9.1.2. Verantwoordelijkheden voor residentiële installaties 🏠
 
-Pour les installations domestiques, les propriétaires ont des **obligations spécifiques** pour garantir la sécurité des habitants et faciliter les transactions immobilières :
+Voor residentiële installaties hebben eigenaars specifieke **verplichtingen** om de veiligheid van de bewoners te garanderen en vastgoedtransacties te faciliteren:
 
-- **Évaluation de Conformité** 🧰 : Avant toute vente ou rénovation majeure, **assurez-vous que l’installation respecte les normes** actuelles.
-- **Maintenance** 🔧 : Corrigez les infractions ou dysfonctionnements pour minimiser les risques électriques et éviter les accidents.
-- **Documentation** 📑 : **Conservez les rapports de conformité**, un atout lors de la vente d'un bien pour prouver la sécurité de l'installation.
+- **Conformiteitsevaluatie** 🧰: Voor elke verkoop of grote renovatie, **zorg ervoor dat de installatie voldoet aan de huidige normen**.
+- **Onderhoud** 🔧: Corrigeer overtredingen of storingen om elektrische risico's te minimaliseren en ongevallen te voorkomen.
+- **Documentatie** 📑: **Bewaar conformiteitsrapporten**, een pluspunt bij de verkoop van een woning om de veiligheid van de installatie aan te tonen.
 
-:::warning Note Importante pour les Propriétaires Domestiques ⚠️
-Une **conformité électrique prouvée** est indispensable pour la vente d'une propriété en Belgique. Assurez-vous que votre installation respecte les standards pour éviter des retards dans les transactions.
+:::warning Belangrijke Opmerking voor Residentiële Eigenaars ⚠️
+Een **bewezen elektrische conformiteit** is essentieel voor de verkoop van een woning in België. Zorg ervoor dat uw installatie aan de normen voldoet om vertragingen in de transactie te voorkomen.
 :::
 
 ---
 
-### Section 9.1.3. Gestion des installations en infraction ⚠️
+### Sectie 9.1.3. Beheer van installaties met overtredingen ⚠️
 
-Lorsqu'une non-conformité est détectée dans une installation, le propriétaire doit agir rapidement pour remédier aux problèmes.
+Wanneer een non-conformiteit wordt gedetecteerd, moet de eigenaar snel handelen om de problemen op te lossen.
 
-#### Sous-section 9.1.3.1. Contrôle de conformité
+#### Subsectie 9.1.3.1. Conformiteitscontrole
 
-Le **contrôle de conformité** vise à vérifier que l’installation respecte toutes les normes applicables. En cas d'infraction :
+De **conformiteitscontrole** beoordeelt of de installatie voldoet aan alle toepasselijke normen. Bij overtredingen:
 
-1. **Notification** 📩 : Le propriétaire reçoit un rapport détaillant les infractions identifiées.
-2. **Recommandations** 🛠️ : Des actions correctives sont proposées pour rectifier les problèmes.
-3. **Re-contrôle** ✅ : Une inspection finale est effectuée pour vérifier que les corrections ont été appliquées.
+1. **Melding** 📩: De eigenaar ontvangt een rapport met gedetailleerde overtredingen.
+2. **Aanbevelingen** 🛠️: Er worden corrigerende maatregelen voorgesteld.
+3. **Hercontrole** ✅: Een laatste inspectie om te bevestigen dat de aanpassingen zijn doorgevoerd.
 
-| Étape                | Description                                     |
-|----------------------|-------------------------------------------------|
-| 📩 Notification      | Le propriétaire est informé de toute infraction |
-| 🛠️ Recommandations   | Conseils pour rectifier les infractions         |
-| ✅ Re-contrôle       | Confirmation finale de la conformité            |
+| Stap                   | Beschrijving                             |
+|------------------------|------------------------------------------|
+| 📩 Melding             | De eigenaar wordt op de hoogte gebracht van overtredingen |
+| 🛠️ Aanbevelingen      | Advies om de overtredingen te corrigeren |
+| ✅ Hercontrole         | Bevestiging van de conformiteit          |
 
-#### Sous-section 9.1.3.2. Visite de contrôle
+#### Subsectie 9.1.3.2. Inspectiebezoek
 
-Lors d'une **visite de contrôle**, plusieurs vérifications sont effectuées pour évaluer l’état de l’installation :
+Tijdens een **inspectiebezoek** worden verschillende controles uitgevoerd om de staat van de installatie te beoordelen:
 
-- **Contrôle des Dispositifs de Sécurité** : Examen des disjoncteurs, fusibles, et de la mise à la terre.
-- **Identification des Zones à Risque** : Localisation des zones nécessitant des ajustements pour une sécurité optimale.
+- **Controle van Veiligheidsapparaten**: Onderzoek van zekeringen, schakelaars en aarding.
+- **Identificatie van Risicogebieden**: Lokalisatie van zones die aanpassingen vereisen voor optimale veiligheid.
 
 ---
 
-### Section 9.1.4. Adaptations des installations anciennes domestiques 🏚️
+### Sectie 9.1.4. Aanpassingen van oude residentiële installaties 🏚️
 
-Pour les installations domestiques anciennes présentant des infractions, les propriétaires doivent :
+Voor oude residentiële installaties met overtredingen moeten eigenaars:
 
-- **Apporter les Ajustements Nécessaires** 🔧 : Effectuez les mises à jour et réparations indispensables pour garantir la sécurité de l'installation.
-- **Collaborer avec un Électricien Certifié** 👷 : Pour assurer la conformité, faites appel à un professionnel qualifié capable de respecter les normes en vigueur.
+- **Nodige Aanpassingen Uitvoeren** 🔧: Voer updates en reparaties uit om de veiligheid van de installatie te waarborgen.
+- **Samenwerken met een Gecertificeerde Elektricien** 👷: Raadpleeg een gekwalificeerde professional om aan de geldende normen te voldoen.
 
-:::tip Bonnes Pratiques pour les Installations Anciennes 🔧
-Une mise à jour complète des installations électriques permet non seulement de se conformer aux normes, mais aussi d’augmenter la **valeur de la propriété** et de garantir la sécurité des occupants.
+:::tip Beste Praktijken voor Oude Installaties 🔧
+Een volledige update van de elektrische installatie verbetert niet alleen de conformiteit, maar verhoogt ook de **waarde van het pand** en de veiligheid van de bewoners.
 :::
 
 ---
 
-### Section 9.1.5. Localisation des canalisations électriques souterraines 🌐
+### Sectie 9.1.5. Lokaliseren van ondergrondse kabels 🌐
 
-La **cartographie des canalisations souterraines** est cruciale pour prévenir les accidents lors des travaux d’excavation ou de construction.
+Het **in kaart brengen van ondergrondse kabels** is cruciaal om ongevallen te voorkomen tijdens graaf- of bouwwerkzaamheden.
 
-- **Procédures de Localisation** 🕵️ : Utilisez des détecteurs spécialisés avant tout travail de terrassement pour identifier la position des conduits.
-- **Plan de Conduits** 🗺️ : Conservez un plan précis et mis à jour de la position des canalisations pour référence lors de futurs travaux.
+- **Lokalisatieprocedures** 🕵️: Gebruik speciale detectoren vóór graafwerkzaamheden om de positie van leidingen te identificeren.
+- **Leidingplan** 🗺️: Houd een nauwkeurig en actueel plan bij van de positie van de leidingen voor toekomstige werkzaamheden.
 
-:::warning Risque d’Endommagement ! ⚠️
-L'absence de localisation des canalisations peut mener à des dommages coûteux et des accidents graves. Assurez-vous de **cartographier avec précision** les conduits souterrains.
+:::warning Risico op Schade! ⚠️
+Het ontbreken van een juiste lokalisatie van leidingen kan leiden tot kostbare schade en ernstige ongevallen. Zorg voor een **nauwkeurige kaart** van de ondergrondse leidingen.
 :::
 
 ---
 
-### Section 9.1.6. Document des influences externes 🌦️
+### Sectie 9.1.6. Document over externe invloeden 🌦️
 
-Le **document des influences externes** évalue les facteurs environnementaux (humidité, chaleur, substances corrosives) qui peuvent impacter les installations électriques.
+Het **document over externe invloeden** evalueert de omgevingsfactoren (vocht, hitte, corrosieve stoffen) die de elektrische installaties kunnen beïnvloeden.
 
-- **Conditions Spécifiques** 🔍 : Documentez les conditions environnementales particulières pour chaque zone de l’installation.
-- **Adaptation des Dispositifs** 🛠️ : Utilisez des matériaux et équipements adaptés aux conditions identifiées pour prolonger la durée de vie de l’installation et prévenir les défaillances.
+- **Specifieke Omstandigheden** 🔍: Documenteer de omgevingscondities voor elke zone van de installatie.
+- **Aanpassing van Apparatuur** 🛠️: Gebruik materialen en apparatuur die geschikt zijn voor de geïdentificeerde omstandigheden om de levensduur van de installatie te verlengen en storingen te voorkomen.
 
-:::tip Gestion des Influences Externes 🎯
-Assurez-vous que chaque zone est équipée de dispositifs conçus pour résister aux conditions de température, humidité ou exposition chimique propres à l’environnement.
+:::tip Beheer van Externe Invloeden 🎯
+Zorg ervoor dat elke zone is uitgerust met apparaten die bestand zijn tegen specifieke condities zoals temperatuur, vochtigheid of chemische blootstelling.
 :::
 
 ---
 
-### Section 9.1.7. Plans de zonage pour les zones à risque 🔥
+### Sectie 9.1.7. Zonering voor risicogebieden 🔥
 
-Les **plans de zonage** sont essentiels pour les installations en environnements à risque, comme les zones industrielles ou les entrepôts de substances inflammables.
+**Zoneringsplannen** zijn essentieel voor installaties in risicovolle omgevingen, zoals industriële gebieden of opslagruimtes met brandbare stoffen.
 
-- **Définition des Zones de Risque** ⚠️ : Classez les zones en fonction du potentiel de chocs électriques ou d'explosions.
-- **Précautions Spécifiques** 🛡️ : Installez des équipements adaptés aux niveaux de risque pour minimiser les accidents.
+- **Definitie van Risicozones** ⚠️: Classificeer de zones op basis van het potentieel voor elektrische schokken of explosies.
+- **Specifieke Voorzorgsmaatregelen** 🛡️: Installeer uitrusting die geschikt is voor de risiconiveaus om ongevallen te minimaliseren.
 
-| Zone de Risque       | Caractéristique                               | Précautions                        |
-|----------------------|-----------------------------------------------|------------------------------------|
-| Zone à risque faible | Risque faible d'explosion ou de choc          | Matériel standard                  |
-| Zone à risque moyen  | Présence de substances inflammables           | Matériel protégé contre les étincelles |
-| Zone à risque élevé  | Risque élevé d'explosion ou de choc électrique | Matériel spécialisé et isolé      |
+| Risicozone         | Kenmerk                                         | Voorzorgsmaatregelen                   |
+|--------------------|--------------------------------------------------|----------------------------------------|
+| Zone met laag risico | Laag risico op explosie of elektrische schok   | Standaard uitrusting                   |
+| Zone met gemiddeld risico | Aanwezigheid van brandbare stoffen            | Uitrusting beschermd tegen vonken      |
+| Zone met hoog risico | Hoog risico op explosie of elektrische schok   | Gespecialiseerde en geïsoleerde uitrusting |
 
 ---
 
-## CHAPITRE 9.2. ATTRIBUTION DE LA CODIFICATION BA4/BA5 🔒
+## HOOFDSTUK 9.2. TOEKENNING VAN BA4/BA5 CODERING 🔒
 
-Les niveaux de codification **BA4** et **BA5** définissent les compétences requises pour les intervenants en milieu électrique :
+De coderingen **BA4** en **BA5** definiëren de vereiste bekwaamheden voor personeel dat met elektrische installaties werkt:
 
-- **BA4** : Personnel qualifié pour effectuer certaines interventions sous conditions, avec les protections appropriées (ex. : assistant technicien sous supervision).
-- **BA5** : Personnel expérimenté et autorisé à travailler en autonomie, ayant une formation poussée en sécurité électrique et connaissance des risques.
+- **BA4**: Gekwalificeerd personeel dat bepaalde interventies kan uitvoeren onder voorwaarden, met de juiste beschermingsmiddelen (bijv. assistent-technicus onder toezicht).
+- **BA5**: Ervaren personeel dat autonoom mag werken, met uitgebreide opleiding in elektrische veiligheid en kennis van de risico’s.
 
-Les **responsables d’installation** doivent veiller à ce que chaque intervenant soit codifié selon son niveau de compétence pour assurer la sécurité de tous.
+De **installatieverantwoordelijken** moeten ervoor zorgen dat elke medewerker correct gecodeerd is volgens zijn/haar niveau van bekwaamheid om de veiligheid te waarborgen.
 
-:::tip Importance de la Codification 🎓
-Un personnel qualifié et bien formé réduit les risques d'accidents et assure une intervention sûre et conforme aux standards du RGIE.
-:::
-
-
-## CHAPITRE 9.3. TRAVAUX AUX INSTALLATIONS ÉLECTRIQUES
-
-Ce chapitre couvre les pratiques sécurisées pour tous les travaux liés aux installations électriques, incluant installation, maintenance, exploitation, et interventions d’urgence. Les prescriptions visent à protéger aussi bien le personnel que l’installation elle-même pendant les travaux.
-
-### Section 9.3.1. Domaine d'application
-
-Les prescriptions s'appliquent à tous types de travaux réalisés par le personnel autorisé, qu’il s’agisse de :
-
-1. **Travaux hors tension** ⚡ : Réalisés uniquement après l'isolation des circuits, garantissant l'absence de courant.
-2. **Travaux sous tension** 🔥 : Les circuits restent alimentés, nécessitant des équipements et compétences spécialisés.
-
-| Type de Travaux          | Description                                                        |
-|--------------------------|--------------------------------------------------------------------|
-| 🛠️ Travaux hors tension  | Intervention sécurisée après isolation de l’alimentation           |
-| 🔥 Travaux sous tension   | Intervention en présence de courant, avec des équipements spécialisés |
-
-:::warning Attention ⚠️
-Les **travaux sous tension** représentent un risque élevé. Seul le personnel formé et équipé de protections spécifiques (EPI) peut réaliser ces interventions.
+:::tip Belang van Codering 🎓
+Gekwalificeerd en goed opgeleid personeel vermindert het risico op ongevallen en zorgt voor veilige interventies volgens de AREI-standaarden.
 :::
 
 ---
 
-### Section 9.3.2. Prescriptions générales
+## HOOFDSTUK 9.3. WERKZAAMHEDEN AAN ELEKTRISCHE INSTALLATIES
 
-Ces prescriptions garantissent une approche sécurisée et organisée des travaux, incluant la **formation** et l’**organisation** du personnel.
+Dit hoofdstuk behandelt veilige praktijken voor alle werkzaamheden aan elektrische installaties, inclusief installatie, onderhoud, exploitatie en noodinterventies. De voorschriften zijn bedoeld om zowel het personeel als de installatie zelf te beschermen tijdens de werkzaamheden.
 
-#### Sous-section 9.3.2.1. Principe de base
+### Sectie 9.3.1. Toepassingsgebied
 
-Le principe fondamental est de prioriser la **sécurité des intervenants**. Avant tout travail :
+De voorschriften zijn van toepassing op alle soorten werkzaamheden die worden uitgevoerd door bevoegd personeel, waaronder:
 
-- **Analyse des Risques** 🔍 : Identifiez les dangers spécifiques de l’intervention.
-- **Équipements de Protection (EPI)** 🧤 : Vérifiez la disponibilité des gants isolants, lunettes, et vêtements ignifugés.
-- **Autorisation de Travail** 📝 : Assurez-vous d'obtenir toutes les autorisations nécessaires.
+1. **Werkzaamheden zonder spanning** ⚡: Alleen uitgevoerd na isolatie van de circuits om de afwezigheid van stroom te garanderen.
+2. **Werkzaamheden onder spanning** 🔥: De circuits blijven onder spanning, wat gespecialiseerde apparatuur en vaardigheden vereist.
 
-#### Sous-section 9.3.2.2. Personnel
+| Type Werkzaamheden   | Beschrijving                                                      |
+|----------------------|-------------------------------------------------------------------|
+| 🛠️ Werkzaamheden zonder spanning | Veilige interventie na isolatie van de voeding               |
+| 🔥 Werkzaamheden onder spanning  | Interventie in aanwezigheid van stroom met gespecialiseerde uitrusting |
 
-Les travaux électriques sont confiés à du personnel qualifié, selon le niveau de compétence requis :
-
-- **BA4** 🧑‍🔧 : Personnel assisté, intervenant sous supervision.
-- **BA5** 👨‍🏭 : Personnel qualifié pour une intervention autonome, particulièrement pour les travaux sous tension.
-
-:::tip Bonnes Pratiques pour le Personnel 👥
-Avant chaque intervention, vérifiez les qualifications des intervenants et assurez-vous qu’ils portent les EPI adéquats.
+:::warning Let op ⚠️
+**Werkzaamheden onder spanning** brengen een hoog risico met zich mee. Alleen getraind personeel met specifieke beschermingsmiddelen (PBM) mag deze interventies uitvoeren.
 :::
 
-#### Sous-section 9.3.2.3. Organisation
+---
 
-Une bonne organisation est primordiale pour une intervention sécurisée et efficace :
+### Sectie 9.3.2. Algemene Voorschriften
 
-1. **Planification** 📅 : Définissez un calendrier et un plan de travail précis.
-2. **Communication** 📢 : Informez toutes les parties prenantes des étapes et du planning.
-3. **Évaluation Pré-Intervention** ✅ : Réalisez une vérification finale des protocoles de sécurité.
+Deze voorschriften waarborgen een veilige en gestructureerde aanpak van werkzaamheden, inclusief de **opleiding** en de **organisatie** van het personeel.
 
-| Étape                   | Description                                       |
+#### Subsectie 9.3.2.1. Basisprincipe
+
+Het basisprincipe is om de **veiligheid van de medewerkers** te waarborgen. Voor aanvang van de werkzaamheden:
+
+- **Risicoanalyse** 🔍: Identificeer de specifieke gevaren van de interventie.
+- **Beschermingsmiddelen (PBM)** 🧤: Zorg ervoor dat isolerende handschoenen, veiligheidsbrillen en brandwerende kleding beschikbaar zijn.
+- **Werkvergunning** 📝: Zorg ervoor dat alle nodige vergunningen zijn verkregen.
+
+#### Subsectie 9.3.2.2. Personeel
+
+Elektrische werkzaamheden worden uitgevoerd door gekwalificeerd personeel volgens het vereiste competentieniveau:
+
+- **BA4** 🧑‍🔧: Ondersteunend personeel dat werkt onder toezicht.
+- **BA5** 👨‍🏭: Gekwalificeerd personeel dat autonoom werkt, met name voor werkzaamheden onder spanning.
+
+:::tip Beste praktijken voor personeel 👥
+Controleer voor elke interventie de kwalificaties van de medewerkers en zorg ervoor dat ze de juiste PBM dragen.
+:::
+
+#### Subsectie 9.3.2.3. Organisatie
+
+Een goede organisatie is essentieel voor een veilige en efficiënte interventie:
+
+1. **Planning** 📅: Stel een gedetailleerde werkplanning op.
+2. **Communicatie** 📢: Informeer alle betrokken partijen over de stappen en de planning.
+3. **Voorafgaande Evaluatie** ✅: Voer een laatste controle uit op de veiligheidsprotocollen.
+
+| Stap                | Beschrijving                                     |
+|---------------------|--------------------------------------------------|
+| Planning            | Werkplanning en stappen definiëren              |
+| Communicatie        | Alle betrokkenen informeren                     |
+| Voorafgaande Evaluatie | Laatste controle van de veiligheidsmaatregelen |
+
+---
+
+### Sectie 9.3.3. Exploitatiewerkzaamheden
+
+Exploitatiewerkzaamheden omvatten **manoeuvres en onderhoud** om de installatie in goede staat te houden.
+
+#### Subsectie 9.3.3.1. Algemeen
+
+Exploitatiewerkzaamheden zijn bedoeld om de **staat van de installatie te monitoren en te diagnosticeren**:
+
+- **Visuele Inspectie** 👀: Controleer visueel de staat van de circuits en apparatuur om eventuele afwijkingen te detecteren.
+- **Functionele Tests** 🛠️: Voer tests uit op de beveiligingsapparatuur, zoals stroomonderbrekers en aardlekschakelaars.
+
+### Ondersectie 9.3.3.2. Schakelingen onder stroom en werkzaamheden onder spanning
+
+Schakelingen onder stroom vereisen **strikte voorzorgsmaatregelen** om ongevallen te voorkomen:
+
+1. **Gespecialiseerde Apparatuur** 🧰: Gebruik geschikte geïsoleerde gereedschappen.
+2. **Specifieke Opleiding** 🎓: Zorg ervoor dat alleen gekwalificeerde technici deze handelingen uitvoeren.
+3. **Naleving van Protocol** 📜: Volg strikt de vastgestelde procedures voor maximale veiligheid.
+
+---
+
+### Sectie 9.3.4. Werkprocedures
+
+De werkprocedures beschrijven de stappen voor de voorbereiding, uitvoering en beveiliging van de interventies.
+
+#### Ondersectie 9.3.4.1. Voorbereiding
+
+**Grondige voorbereiding** van het werk is cruciaal om risico’s te vermijden:
+
+- **Risicoanalyse** 🔍: Identificeer specifieke gevaren van de interventie.
+- **Controle van Gereedschap** 🛠️: Zorg ervoor dat alle apparatuur conform is en in goede staat verkeert.
+- **Personeelscoördinatie** 👥: Organiseer de rollen en taken van iedereen.
+
+:::tip Optimale Werkvoorbereiding 🎯
+Een zorgvuldige voorbereiding minimaliseert risico’s en zorgt voor soepelere en veiligere interventies.
+:::
+
+#### Ondersectie 9.3.4.2. Werkzaamheden zonder spanning
+
+Werkzaamheden zonder spanning zijn veilige interventies op geïsoleerde circuits:
+
+1. **Isoleren van het Circuit** 🚫: Schakel de stroom uit en controleer de spanningsloosheid.
+2. **Aarding en Kortsluiting** 🌍: Neutraliseer restladingen voor volledige veiligheid.
+3. **Signalisatie** 🚧: Plaats waarschuwingsborden om andere werkers te informeren.
+
+| Stap                    | Beschrijving                                      |
 |-------------------------|---------------------------------------------------|
-| Planification           | Définir un calendrier et étapes de travail        |
-| Communication           | Informer toutes les personnes impliquées          |
-| Évaluation Pré-Intervention | Dernière vérification des mesures de sécurité |
+| Isoleren van het Circuit | Uitschakelen en controleren van spanningsloosheid |
+| Aarding en Kortsluiting | Kortsluiten om elk risico te vermijden            |
+| Signalisatie            | Aangeven dat er aan de installatie gewerkt wordt  |
 
----
+#### Ondersectie 9.3.4.3. Werkzaamheden onder spanning
 
-### Section 9.3.3. Travaux d'exploitation
+Werkzaamheden onder spanning vereisen **speciale voorzorgsmaatregelen en uitrusting**:
 
-Les travaux d'exploitation incluent les **manœuvres et actions de maintenance** pour garder l'installation en bon état.
+- **Specifieke PBM** 🧤: Gebruik geïsoleerde handschoenen en beschermende vizieren.
+- **Nauwkeurige Procedures** 🛠️: Werk met precisiegereedschap om elk contact te vermijden.
+- **BA5 Personeel** 🎓: Alleen getrainde en gekwalificeerde BA5-technici mogen deze werkzaamheden uitvoeren.
 
-#### Sous-section 9.3.3.1. Généralités
-
-Les travaux d’exploitation permettent de **surveiller** et de **diagnostiquer** l’état de l’installation :
-
-- **Inspection Visuelle** 👀 : Vérifiez visuellement l’état des circuits et équipements pour déceler des anomalies.
-- **Tests Fonctionnels** 🛠️ : Effectuez des tests sur les dispositifs de sécurité, tels que disjoncteurs et interrupteurs différentiels.
-
-#### Sous-section 9.3.3.2. Manœuvre sous courant et manœuvre sous tension
-
-Les manœuvres sous courant nécessitent des **précautions strictes** pour éviter les accidents :
-
-1. **Équipements Spécialisés** 🧰 : Utilisez des outils isolés adaptés.
-2. **Formation Spécifique** 🎓 : Assurez-vous que seuls les techniciens qualifiés effectuent ces opérations.
-3. **Respect des Protocoles** 📜 : Adhérez aux procédures strictes pour garantir la sécurité.
-
----
-
-### Section 9.3.4. Procédures de travail
-
-Les procédures de travail définissent les étapes pour préparer, réaliser et sécuriser les interventions.
-
-#### Sous-section 9.3.4.1. Préparation
-
-La **préparation minutieuse** des travaux est essentielle pour éviter les risques :
-
-- **Évaluation des Risques** 🔍 : Identifiez les dangers spécifiques de l’intervention.
-- **Vérification des Outils** 🛠️ : Assurez-vous que tout le matériel est conforme et en bon état.
-- **Coordination du Personnel** 👥 : Organisez les rôles et missions de chacun.
-
-:::tip Préparation Optimale des Travaux 🎯
-Une préparation rigoureuse minimise les risques et permet des interventions plus fluides et sûres.
+:::warning Hoog Risico ⚠️
+Werkzaamheden onder spanning vereisen uiterste voorzichtigheid en mogen alleen worden uitgevoerd door gekwalificeerd personeel om ernstige ongevallen te voorkomen.
 :::
 
-#### Sous-section 9.3.4.2. Travaux hors tension
+#### Ondersectie 9.3.4.4. Werkzaamheden in de nabijheid van onder spanning staande onderdelen
 
-Les travaux hors tension sont des interventions sécurisées sur des circuits isolés :
+Bij interventies in de nabijheid van onder spanning staande onderdelen moeten strikte regels worden gevolgd om accidentele contacten te vermijden:
 
-1. **Isolation du Circuit** 🚫 : Coupez l’alimentation et vérifiez l’absence de tension.
-2. **Mise à la Terre et Court-Circuitage** 🌍 : Neutralisez les charges résiduelles pour une sécurité totale.
-3. **Signalisation** 🚧 : Placez des panneaux de signalisation pour avertir les autres intervenants.
+1. **Afstand houden** ↔️: Handhaaf een veilige afstand.
+2. **Fysieke Bescherming** 🛡️: Plaats isolerende barrières om de werkgebieden duidelijk af te bakenen.
+3. **Verhoogde Waakzaamheid** 👀: Houd voortdurend toezicht en vermijd plotselinge bewegingen nabij de onder spanning staande delen.
 
-| Étape                    | Description                                       |
-|--------------------------|---------------------------------------------------|
-| Isolation du Circuit     | Couper et tester l'absence de tension             |
-| Mise à la Terre          | Court-circuitage pour éviter tout risque          |
-| Signalisation            | Indiquer que l'installation est en travaux        |
-
-#### Sous-section 9.3.4.3. Travaux sous tension
-
-Les travaux sous tension nécessitent des **précautions et équipements spécifiques** pour la sécurité :
-
-- **EPI Spécifiques** 🧤 : Utilisez des gants isolants et une visière de protection.
-- **Procédures Précises** 🛠️ : Travaillez avec des outils de précision pour éviter tout contact accidentel.
-- **Personnel BA5** 🎓 : Seuls les techniciens BA5 formés et qualifiés peuvent réaliser ces travaux.
-
-:::warning Risque Élevé ⚠️
-Les travaux sous tension exigent une extrême prudence et sont réservés aux professionnels qualifiés pour éviter tout accident grave.
-:::
-
-#### Sous-section 9.3.4.4. Travaux au voisinage de pièces sous tension
-
-Lorsqu'une intervention a lieu à proximité de pièces sous tension, il est essentiel de respecter des règles strictes pour éviter tout contact accidentel :
-
-1. **Distanciation** ↔️ : Maintenez une distance de sécurité adéquate.
-2. **Protection Physique** 🛡️ : Installez des barrières isolantes pour délimiter clairement les zones de travail.
-3. **Vigilance Renforcée** 👀 : Assurez une attention constante et évitez tout mouvement brusque près des zones sous tension.
-
-:::warning Risque Élevé ⚠️
-Les travaux à proximité de pièces sous tension nécessitent une vigilance extrême pour éviter tout contact accidentel avec les composants sous tension. Seul le personnel formé doit être présent dans cette zone.
+:::warning Hoog Risico ⚠️
+Werkzaamheden in de nabijheid van onder spanning staande onderdelen vereisen extreme waakzaamheid om accidentele contacten te voorkomen. Alleen getraind personeel mag zich in deze zone bevinden.
 :::
 
 ---
 
-### Section 9.3.5. Travaux d'entretien
+### Sectie 9.3.5. Onderhoudswerkzaamheden
 
-Les travaux d’entretien, qu'ils soient préventifs ou correctifs, garantissent la **sécurité et la durabilité** des installations électriques en réduisant les risques de défaillance.
+Onderhoudswerkzaamheden, zowel preventief als correctief, garanderen de **veiligheid en duurzaamheid** van elektrische installaties door het risico op defecten te verminderen.
 
-#### Sous-section 9.3.5.1. Généralités
+#### Ondersectie 9.3.5.1. Algemeen
 
-Les travaux d'entretien couvrent plusieurs opérations importantes :
+Onderhoudswerkzaamheden omvatten verschillende belangrijke operaties:
 
-- **Inspection des Composants** 🔍 : Examen des connecteurs, disjoncteurs, et câbles pour identifier tout signe d'usure ou de dommage.
-- **Remplacement des Éléments Défectueux** 🔧 : Changer les pièces présentant des signes d'usure pour maintenir la sécurité.
-- **Nettoyage et Lubrification** 🧴 : Assurez-vous que les mécanismes fonctionnent correctement pour éviter les incidents liés aux connexions.
+- **Inspectie van Componenten** 🔍: Controle van connectoren, stroomonderbrekers en kabels om slijtage of schade op te sporen.
+- **Vervanging van Defecte Onderdelen** 🔧: Vervang versleten onderdelen om de veiligheid te waarborgen.
+- **Reiniging en Smering** 🧴: Zorg voor correcte werking van mechanismen om incidenten door slechte verbindingen te voorkomen.
 
-#### Sous-section 9.3.5.2. Personnel
+#### Ondersectie 9.3.5.2. Personeel
 
-Pour des travaux d’entretien sécurisés, le personnel doit être qualifié et équipé :
+Voor veilige onderhoudswerkzaamheden moet het personeel gekwalificeerd en uitgerust zijn:
 
-- **Maîtrise des procédures** 🔒 : Connaissance approfondie des procédures de sécurité spécifiques aux installations électriques.
-- **Port des EPI** 🧤 : Utilisation obligatoire de gants isolants, lunettes de protection et autres équipements adaptés.
-- **Connaissance des Équipements** 🛠️ : Familiarité avec le fonctionnement et l’entretien des installations pour éviter les erreurs.
+- **Beheersing van Procedures** 🔒: Diepgaande kennis van veiligheidsprocedures specifiek voor elektrische installaties.
+- **Gebruik van PBM** 🧤: Verplichte inzet van geïsoleerde handschoenen, beschermbrillen en andere aangepaste uitrusting.
+- **Kennis van Apparatuur** 🛠️: Bekendheid met het functioneren en onderhoud van installaties om fouten te voorkomen.
 
-:::tip Bonnes Pratiques pour le Personnel d'Entretien 🎯
-Chaque membre de l’équipe doit être formé à l’utilisation des EPI et des outils de sécurité spécifiques aux travaux d’entretien.
+:::tip Beste Praktijken voor Onderhoudspersoneel 🎯
+Zorg ervoor dat elk teamlid getraind is in het gebruik van PBM en veiligheidsuitrusting die specifiek zijn voor onderhoudswerkzaamheden.
 :::
 
-#### Sous-section 9.3.5.3. Travaux de réparation
+#### Ondersectie 9.3.5.3. Reparatiewerkzaamheden
 
-Les travaux de réparation visent à restaurer la sécurité et le bon fonctionnement des installations en remplaçant ou réparant les composants défectueux.
+Reparatiewerkzaamheden zijn bedoeld om de veiligheid en goede werking van de installaties te herstellen door defecte componenten te vervangen of te repareren.
 
-- **Isolation des Zones Défectueuses** 🔒 : Avant toute intervention, isolez la zone pour éliminer les risques électriques.
-- **Matériel Conforme** 🔧 : Utilisez des pièces de remplacement respectant les normes de sécurité en vigueur.
-- **Journal des Réparations** 📋 : Documentez chaque intervention pour un suivi précis et un historique des réparations.
+- **Isoleren van Defecte Zones** 🔒: Isoleer het gebied voor aanvang van de werkzaamheden om elektrische risico’s te elimineren.
+- **Conform Materiaal** 🔧: Gebruik vervangingsonderdelen die voldoen aan de geldende veiligheidsnormen.
+- **Reparatiedagboek** 📋: Documenteer elke interventie voor nauwkeurig toezicht en een historiek van de reparaties.
 
-#### Sous-section 9.3.5.4. Travaux de remplacement
+#### Ondersectie 9.3.5.4. Vervangingswerkzaamheden
 
-Le remplacement concerne les composants ayant atteint leur durée de vie et nécessitant une mise à jour :
+Vervangingswerkzaamheden omvatten het vervangen van componenten die hun levensduur hebben bereikt en een update vereisen:
 
-- **Sélection des Composants** 🏷️ : Utilisez des pièces de qualité équivalente ou supérieure pour garantir une installation durable.
-- **Documentation des Opérations** 📝 : Inscrivez chaque remplacement dans un rapport de maintenance pour un suivi complet.
-- **Vérification Finale** ✅ : Effectuez un test final pour vérifier que le remplacement est conforme aux exigences de sécurité.
+- **Selectie van Componenten** 🏷️: Gebruik onderdelen van gelijke of betere kwaliteit om de duurzaamheid van de installatie te garanderen.
+- **Documentatie van de Operaties** 📝: Registreer elke vervanging in een onderhoudsrapport voor volledig toezicht.
+- **Eindcontrole** ✅: Voer een laatste test uit om te verifiëren dat de vervanging voldoet aan de veiligheidsvoorschriften.
 
-#### Sous-section 9.3.5.5. Interruption temporaire
+#### Ondersectie 9.3.5.5. Tijdelijke Onderbreking
 
-Les interruptions temporaires doivent être planifiées de manière à minimiser l'impact sur l’utilisation de l’installation :
+Tijdelijke onderbrekingen moeten zorgvuldig worden gepland om de impact op het gebruik van de installatie te minimaliseren:
 
-- **Information des Utilisateurs** 📢 : Informez tous les utilisateurs de la durée de l’interruption prévue.
-- **Vérification Préliminaire** 🔍 : Avant le rétablissement de l’alimentation, vérifiez les installations pour prévenir tout risque.
-- **Mise en Sécurité** 🚧 : Assurez que toutes les zones sensibles sont sécurisées avant et après l’interruption.
+- **Informatie aan Gebruikers** 📢: Informeer alle gebruikers over de verwachte duur van de onderbreking.
+- **Voorafgaande Controle** 🔍: Voer een inspectie uit voordat de stroom opnieuw wordt ingeschakeld om risico's te voorkomen.
+- **Veiligstellen van Gebieden** 🚧: Zorg ervoor dat alle gevoelige zones veilig zijn vóór en na de onderbreking.
 
-#### Sous-section 9.3.5.6. Fin des travaux d'entretien ou de réparation
+#### Ondersectie 9.3.5.6. Einde van Onderhouds- of Reparatiewerkzaamheden
 
-À la fin des travaux d’entretien ou de réparation :
+Aan het einde van de onderhouds- of reparatiewerkzaamheden:
 
-- **Inspection de Conformité** 🛠️ : Vérifiez que les travaux sont conformes aux normes de sécurité en vigueur.
-- **Documenter les Actions** 📄 : Consignez toutes les opérations dans un rapport de fin de travaux pour garantir la traçabilité.
-- **Notification au Personnel** 📢 : Informez toutes les parties prenantes de la fin des travaux.
-
----
-
-### Section 9.3.6. Précautions particulières
-
-#### Sous-section 9.3.6.1. Travaux au voisinage de lignes aériennes et de câbles souterrains
-
-Lors des interventions à proximité de lignes aériennes ou de câbles souterrains, il est crucial de respecter des mesures de sécurité pour éviter les risques d’accidents graves :
-
-1. **Délimiter la Zone de Travail** 🚧 : Installez des barrières pour empêcher tout accès non autorisé et pour réduire le risque de contact accidentel.
-2. **Panneaux d’Avertissement** ⚠️ : Utilisez des panneaux pour indiquer la présence de danger électrique.
-3. **Équipements Isolants** 🧰 : Assurez-vous que tous les outils et équipements utilisés sont isolants et conformes aux normes de sécurité.
-
-| Précautions               | Description                                                      |
-|---------------------------|------------------------------------------------------------------|
-| 🚧 Zone de travail délimitée | Empêcher l'accès non autorisé                                     |
-| ⚠️ Panneaux d’avertissement | Signalisation des risques électriques                             |
-| 🧰 Équipements Isolants      | Utilisation d’outils conformes aux normes de sécurité             |
+- **Conformiteitsinspectie** 🛠️: Controleer of de werkzaamheden voldoen aan de geldende veiligheidsnormen.
+- **Documenteer de Acties** 📄: Leg alle uitgevoerde acties vast in een eindrapport voor traceerbaarheid.
+- **Kennisgeving aan Personeel** 📢: Informeer alle betrokkenen over het einde van de werkzaamheden.
 
 ---
 
-## CHAPITRE 9.4. PANNEAUX DE SIGNALISATION
+### Sectie 9.3.6. Bijzondere Voorzorgsmaatregelen
 
-Les panneaux de signalisation sont essentiels pour prévenir les dangers dans les zones d'installation électrique. Ils doivent être **visibles**, **bien placés**, et conçus pour transmettre clairement les risques potentiels.
+#### Ondersectie 9.3.6.1. Werkzaamheden in de Nabijheid van Bovengrondse Lijnen en Ondergrondse Kabels
 
-### Section 9.4.1. Panneaux d'avertissement contre les dangers des installations électriques
+Bij werkzaamheden in de nabijheid van bovengrondse lijnen of ondergrondse kabels is het cruciaal om veiligheidsmaatregelen te respecteren om ernstige ongevallen te voorkomen:
 
-Les panneaux d’avertissement sont cruciaux pour signaler les risques électriques et avertir les utilisateurs. En général de couleur **jaune** avec un **pictogramme de danger** :
+1. **Afzetten van het Werkgebied** 🚧: Plaats barrières om onbevoegde toegang te voorkomen en het risico op accidenteel contact te verminderen.
+2. **Waarschuwingsborden** ⚠️: Gebruik borden om de aanwezigheid van elektrisch gevaar aan te geven.
+3. **Isolerende Gereedschappen** 🧰: Zorg ervoor dat alle gebruikte gereedschappen isolerend en conform de veiligheidsnormen zijn.
 
-- **Emplacements Stratégiques** 📍 : Positionnez-les à proximité des zones présentant un risque élevé.
-- **Instructions Claires** 📝 : Fournissez des consignes de sécurité visibles et compréhensibles.
-- **Dimensions Standardisées** 📏 : Les panneaux doivent être suffisamment grands pour être lus de loin.
+| Voorzorgsmaatregel       | Beschrijving                                                   |
+|--------------------------|----------------------------------------------------------------|
+| 🚧 Werkgebied afzetten   | Voorkomen van onbevoegde toegang                               |
+| ⚠️ Waarschuwingsborden   | Signalisatie van elektrische risico's                          |
+| 🧰 Isolerende Gereedschappen | Gebruik van gereedschappen conform de veiligheidsnormen     |
 
-### Section 9.4.2. Panneaux d'interdiction
+---
 
-Les panneaux d'interdiction signalent les actions interdites (ex. : accès non autorisé, manipulation dangereuse) et doivent être facilement reconnaissables :
+## HOOFDSTUK 9.4. WAARSCHUWINGSBORDEN
 
-- **Couleur Rouge** 🔴 : Pour une identification rapide et claire.
-- **Pictogrammes Explicites** 🚫 : Utilisez des symboles faciles à comprendre pour éviter toute confusion.
-- **Placement Optimal** 📍 : Positionnez-les à des endroits stratégiques pour empêcher tout accès non autorisé.
+Waarschuwingsborden zijn essentieel om gevaren in elektrische installaties aan te duiden. Ze moeten **zichtbaar**, **goed geplaatst** en ontworpen zijn om duidelijk de potentiële risico's over te brengen.
 
-### Section 9.4.3. Emplacement et dimensions des panneaux de signalisation
+### Sectie 9.4.1. Waarschuwingsborden voor Elektrische Gevaren
 
-Les panneaux doivent être adaptés aux lieux d’installation pour garantir leur efficacité :
+Waarschuwingsborden zijn cruciaal om elektrische gevaren te signaleren en gebruikers te waarschuwen. Meestal in **gele kleur** met een **gevarensymbool**:
 
-- **Hauteur d'Installation** 📏 : Placez-les à hauteur des yeux pour une visibilité optimale.
-- **Dimensions Suffisantes** 🖼️ : Assurez-vous qu’ils soient assez grands pour être lisibles à distance.
-- **Matériaux Résistants** 🌦️ : Utilisez des matériaux durables et résistants aux intempéries pour les installations extérieures.
+- **Strategische Plaatsing** 📍: Plaats ze in de nabijheid van gebieden met hoog risico.
+- **Duidelijke Instructies** 📝: Geef goed zichtbare en begrijpelijke veiligheidsinstructies.
+- **Gestandaardiseerde Afmetingen** 📏: De borden moeten groot genoeg zijn om van veraf gelezen te worden.
 
-:::tip Bonnes Pratiques en Signalisation ⚡
-Pour une **sécurité maximale**, positionnez les panneaux de manière à couvrir tous les angles de vue possibles et choisissez des matériaux résistants pour éviter leur détérioration.
+### Sectie 9.4.2. Verbodsborden
+
+Verbodsborden geven verboden handelingen aan (bijv. onbevoegde toegang, gevaarlijke manipulatie) en moeten gemakkelijk herkenbaar zijn:
+
+- **Rode Kleur** 🔴: Voor snelle en duidelijke identificatie.
+- **Expliciete Pictogrammen** 🚫: Gebruik duidelijke symbolen om misverstanden te voorkomen.
+- **Optimale Plaatsing** 📍: Plaats ze op strategische locaties om onbevoegde toegang te verhinderen.
+
+### Sectie 9.4.3. Plaatsing en Afmetingen van Waarschuwingsborden
+
+Borden moeten worden aangepast aan de installatielocatie om hun effectiviteit te waarborgen:
+
+- **Installatiehoogte** 📏: Plaats de borden op ooghoogte voor optimale zichtbaarheid.
+- **Geschikte Afmetingen** 🖼️: Zorg ervoor dat ze groot genoeg zijn om van afstand leesbaar te zijn.
+- **Weerbestendige Materialen** 🌦️: Gebruik duurzame en weerbestendige materialen voor buiteninstallaties.
+
+:::tip Beste Praktijken voor Signalisatie ⚡
+Voor maximale **veiligheid**, plaats de borden zo dat ze vanuit alle gezichtshoeken zichtbaar zijn en kies materialen die bestand zijn tegen slijtage.
 :::
 
+---
+
+## HOOFDSTUK 9.5. VERBODEN HANDELINGEN
+
+Dit hoofdstuk somt de specifieke verboden op om gevaarlijke handelingen en risicovol gedrag te vermijden. Het is strikt verboden:
+
+1. **Te werken aan installaties onder spanning** zonder toestemming.
+2. **Niet-conforme apparatuur** te gebruiken die niet voldoet aan de veiligheidsnormen.
+3. **Toegang te krijgen tot afgeschermde zones** zonder de juiste bevoegdheden.
+
+Deze verboden zijn bedoeld om gebruikers en technisch personeel te beschermen tegen elektrische ongevallen. Ze moeten strikt worden nageleefd om de veiligheid van alle betrokkenen te waarborgen.
+
+--- 
+
+## Conclusie van Deel 9 - Algemene Voorschriften voor de Veiligheid en Conformiteit van Elektrische Installaties
+
+Deel 9 van het AREI behandelt de verantwoordelijkheden van eigenaars, beheerders en exploitanten van elektrische installaties, zowel voor residentiële als niet-residentiële omgevingen. Het stelt duidelijke veiligheidsregels en beste praktijken vast om ervoor te zorgen dat de installaties in alle situaties veilig en conform zijn. De belangrijkste punten van dit deel zijn:
+
+- **Verantwoordelijkheden van Eigenaars en Beheerders** : Eigenaars en beheerders zijn verantwoordelijk voor het onderhoud, de conformiteit en de documentatie van hun installaties, met regelmatige controles om de veiligheid van bewoners en gebruikers te waarborgen.
+
+- **Veilig Uitvoeren van Werkzaamheden** : Dit deel benadrukt het belang van het plannen van werkzaamheden volgens strikte protocollen, met onderscheid tussen werken zonder spanning en werken onder spanning, en zorgt ervoor dat alleen gekwalificeerd personeel in omgevingen met spanning werkt.
+
+- **Preventief en Correctief Onderhoud** : Onderhoudswerkzaamheden, zowel preventief als correctief, zijn essentieel om storingen te voorkomen en de continuïteit van de installaties te garanderen. De protocollen voor reparaties, vervangingen en tijdelijke stroomonderbrekingen zijn gedefinieerd voor een veilige uitvoering.
+
+- **Signalisatie en Risicozones** : Het belang van waarschuwingsborden wordt benadrukt om gebruikers te waarschuwen voor potentiële gevaren. Risicozones moeten duidelijk worden geïdentificeerd en de beschermingsmiddelen moeten worden aangepast aan de omgeving.
+
+- **Codificatie en Vaardigheden** : De BA4- en BA5-codificaties definiëren de vereiste competentieniveaus voor interventies aan elektrische installaties, zodat bevoegd personeel gekwalificeerd is om veilig werkzaamheden uit te voeren.
+
+Door deze voorschriften te volgen, kunnen elektrische installaties veilig worden beheerd en voldoen aan de eisen van het AREI, waardoor de risico’s voor gebruikers worden geminimaliseerd en de continuïteit van de installaties wordt gewaarborgd.
 
 ---
 
-## CHAPITRE 9.5. INTERDICTIONS
+:::tip Beste Praktijken - Samenvatting van Deel 9 🎯
 
-Ce chapitre énumère les interdictions spécifiques visant à éviter les manipulations dangereuses et les comportements à risque. Il est strictement interdit :
+- **Verantwoordelijkheden van Eigenaars** 🏠 : Waarborg de veiligheid en conformiteit van installaties door middel van regelmatige controles en nauwkeurige documentatie.
 
-1. **D'intervenir sur des installations sous tension** sans autorisation.
-2. **D’utiliser des équipements non conformes** aux normes de sécurité en vigueur.
-3. **D’accéder à des zones restreintes** sans habilitation.
+- **Veiligheid tijdens Werkzaamheden** 🔧 : Zorg ervoor dat werkzaamheden worden uitgevoerd volgens strikte protocollen, met onderscheid tussen werken onder spanning en zonder spanning.
 
-Les interdictions sont destinées à protéger les utilisateurs et le personnel technique contre les risques d’accidents électriques. Elles doivent être respectées rigoureusement pour garantir la sécurité de tous les intervenants.
+- **Preventief Onderhoud** 🛠️ : Voer onderhoudswerkzaamheden uit om storingen te voorkomen en de levensduur van de installatie te verlengen.
 
-## Conclusion de la Partie 9 - Prescriptions Générales pour la Sécurité et la Conformité des Installations Électriques
+- **Signalisatie en Veiligheid in Risicozones** ⚠️ : Gebruik waarschuwingsborden om gevaren aan te geven en pas beschermingsmiddelen aan de risicovolle omgeving aan.
 
-La Partie 9 du RGIE aborde les responsabilités des propriétaires, gestionnaires, et exploitants d'installations électriques, qu’elles soient domestiques ou non-domestiques. Elle fixe les règles de sécurité et les bonnes pratiques à suivre pour garantir la conformité et la sécurité des installations dans toutes les situations. Les principaux points de cette partie sont :
+- **Kwalificatie en Codificatie van Personeel** 👥 : Controleer of de medewerkers over de benodigde kwalificaties (BA4/BA5) beschikken om de veiligheid van de werkzaamheden te waarborgen.
 
-- **Devoirs des Propriétaires et Gestionnaires** : Les propriétaires et gestionnaires sont responsables de l’entretien, de la conformité et de la documentation de leurs installations, en effectuant des contrôles réguliers pour assurer la sécurité des occupants et utilisateurs.
+- **Documentatie en Opvolging** 📋 : Houd logboeken van werkzaamheden, inspectierapporten en onderhoudsverslagen bij voor volledige traceerbaarheid en conformiteitsopvolging.
 
-- **Travaux en Sécurité** : Cette partie insiste sur l’importance de planifier les travaux selon des protocoles stricts, en distinguant les travaux hors tension et sous tension, et en garantissant que seul le personnel qualifié intervient dans les environnements sous tension.
-
-- **Entretien Préventif et Correctif** : Les travaux d’entretien, qu’ils soient préventifs ou correctifs, sont essentiels pour éviter les défaillances et assurer la continuité de fonctionnement des installations. Les protocoles pour les réparations, remplacements et interruptions temporaires de courant sont définis pour une gestion sécurisée.
-
-- **Signalisation et Zones de Risque** : L’importance des panneaux de signalisation est mise en avant pour avertir les utilisateurs des risques potentiels. Les zones de risque doivent être clairement identifiées, et les équipements de protection adaptés aux environnements doivent être utilisés.
-
-- **Codification et Compétences** : La codification BA4 et BA5 délimite les niveaux de compétence requis pour intervenir sur les installations électriques, assurant que les personnes habilitées soient qualifiées pour réaliser des travaux en toute sécurité.
-
-En suivant ces prescriptions, les installations électriques peuvent être gérées de manière sécurisée et conforme aux exigences du RGIE, minimisant les risques pour les utilisateurs et garantissant la continuité des installations.
-
----
-
-:::tip Bonnes Pratiques - Résumé de la Partie 9 🎯
-
-- **Responsabilités des Propriétaires** 🏠 : Maintenez la sécurité et la conformité des installations par des contrôles réguliers et une documentation rigoureuse.
-
-- **Sécurité lors des Travaux** 🔧 : Assurez-vous que les travaux sont effectués selon des protocoles stricts, en distinguant les interventions sous tension et hors tension.
-
-- **Entretien Préventif** 🛠️ : Effectuez des opérations d'entretien pour éviter les pannes et améliorer la durée de vie de l’installation.
-
-- **Signalisation et Sécurité des Zones de Risque** ⚠️ : Utilisez des panneaux de signalisation pour prévenir des dangers et adaptez les équipements de protection aux environnements à risque.
-
-- **Qualification et Codification du Personnel** 👥 : Vérifiez que les intervenants disposent des qualifications (BA4/BA5) nécessaires pour garantir la sécurité des travaux.
-
-- **Documentation et Suivi** 📋 : Tenez à jour les journaux de travaux, rapports d’inspection et suivis de maintenance pour une traçabilité complète et un suivi de la conformité.
-
-En appliquant ces bonnes pratiques, vous contribuez à la **sécurité** et à la **fiabilité** des installations, tout en répondant aux exigences du RGIE pour une gestion des installations durable et conforme.
+Door deze beste praktijken toe te passen, draagt u bij aan de **veiligheid** en **betrouwbaarheid** van de installaties, terwijl u voldoet aan de eisen van het AREI voor duurzaam en conform beheer van installaties.
 :::
-
 
 ---
 

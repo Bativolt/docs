@@ -1,1640 +1,1639 @@
 ---
-title: Partie 5 - Choix et Mise en Œuvre du Matériel | RGIE Bativolt Belgique
-description: Guide des meilleures pratiques pour le choix et l'installation du matériel électrique. Normes de qualité, sécurité et conformité RGIE.
-sidebar_label: 5. Choix et Mise en Œuvre
+title: Deel 5 - Keuze en Gebruik van Materiaal | AREI Bativolt België
+description: Gids voor de beste praktijken voor de keuze en installatie van elektrisch materiaal. Kwaliteitsnormen, veiligheid en conformiteit volgens AREI.
+sidebar_label: 5. Keuze en Gebruik
 ---
 
-# Partie 5 - Choix et Mise en Œuvre du Matériel ⚙️
+# Deel 5 - Keuze en Gebruik van Materiaal ⚙️
 
-La Partie 5 du RGIE présente les principes essentiels pour le choix et la mise en œuvre du matériel électrique. Une sélection et une installation rigoureuses des équipements garantissent non seulement la sécurité des utilisateurs, mais également la performance et la durabilité des installations. 
-
----
-
-## CHAPITRE 5.1. RÈGLES COMMUNES À TOUS LES MATÉRIAUX
-
-### Section 5.1.1. Généralités
-
-Les règles de choix et d’installation des équipements électriques visent à optimiser la sécurité, la durabilité, et la facilité d’entretien.
+Deel 5 van het AREI beschrijft de essentiële principes voor de keuze en implementatie van elektrisch materiaal. Een zorgvuldige selectie en installatie van apparatuur garanderen niet alleen de veiligheid van de gebruikers, maar ook de prestaties en duurzaamheid van de installaties.
 
 ---
 
-#### Sous-section 5.1.1.1. Objectifs de sécurité 🔒
+## HOOFDSTUK 5.1. ALGEMENE REGELS VOOR ALLE MATERIEEL
 
-Les objectifs de sécurité dans le choix des équipements sont cruciaux pour prévenir les accidents, prolonger la durée de vie des installations, et garantir une maintenance facile.
+### Sectie 5.1.1. Algemene Richtlijnen
 
-| Objectif                       | Description                                                                                 |
-|--------------------------------|---------------------------------------------------------------------------------------------|
-| **Prévention des accidents**    | Assurer que l’équipement minimise les risques de chocs, d’incendie et de défaillances.     |
-| **Durabilité**                  | Choisir des matériaux résistants aux conditions de l’environnement (humidité, chaleur).     |
-| **Efficacité énergétique**      | Opter pour des équipements optimisant la consommation d'énergie pour réduire les coûts.     |
-| **Facilité de maintenance**     | Préférer des installations qui facilitent les interventions et réduisent les coûts futurs. |
+De regels voor de keuze en installatie van elektrisch materieel zijn gericht op het optimaliseren van de veiligheid, duurzaamheid en onderhoudsgemak.
 
-   :::tip Astuce Sécurité 🛠️
-   Pour chaque installation, optez pour des équipements certifiés qui respectent les normes de sécurité en vigueur. Cela réduit le risque de défauts et garantit la conformité de votre installation.
+---
+
+#### Onderafdeling 5.1.1.1. Veiligheidsdoelstellingen 🔒
+
+De veiligheidsdoelstellingen bij de keuze van apparatuur zijn cruciaal om ongevallen te voorkomen, de levensduur van installaties te verlengen en eenvoudig onderhoud mogelijk te maken.
+
+| Doelstelling                   | Beschrijving                                                                              |
+|--------------------------------|-------------------------------------------------------------------------------------------|
+| **Ongevallenpreventie**        | Zorgen dat de apparatuur het risico op elektrische schokken, brand en storingen minimaliseert. |
+| **Duurzaamheid**               | Kiezen voor materialen die bestand zijn tegen omgevingsomstandigheden (vocht, hitte).       |
+| **Energie-efficiëntie**        | Apparatuur kiezen die het energieverbruik optimaliseert om kosten te besparen.              |
+| **Onderhoudsgemak**            | Installaties kiezen die interventies vergemakkelijken en toekomstige kosten verlagen.       |
+
+   :::tip Veiligheidstip 🛠️
+   Gebruik gecertificeerde apparatuur die voldoet aan de geldende veiligheidsnormen om het risico op defecten te verminderen en de conformiteit van uw installatie te waarborgen.
    :::
 
 ---
 
-#### Sous-section 5.1.1.2. Mesures préventives contre l'incendie 🔥
+#### Onderafdeling 5.1.1.2. Brandpreventieve Maatregelen 🔥
 
-La prévention des incendies est essentielle dans le choix et l’installation des équipements.
+Brandpreventie is essentieel bij de keuze en installatie van materieel.
 
-- **Choix de matériaux ignifuges** : Utiliser des câbles avec gaine résistante au feu et d’autres matériaux ignifuges qui ralentissent la propagation du feu.
-- **Installation de dispositifs de protection** : Intégrer des détecteurs de fumée et des extincteurs automatiques dans les zones à risque.
-- **Évaluation des risques** : Effectuer une analyse des risques pour identifier les zones sensibles et appliquer des mesures spécifiques.
+- **Gebruik van brandwerende materialen**: Gebruik kabels met brandwerende mantels en andere brandwerende materialen om de brandverspreiding te vertragen.
+- **Installatie van beschermingsinrichtingen**: Rookmelders en automatische brandblussers installeren in risicogebieden.
+- **Risicoanalyse**: Een analyse uitvoeren om gevoelige zones te identificeren en specifieke maatregelen te nemen.
 
-   :::warning Rappel Incendie ⚠️
-   N'oubliez pas de former les utilisateurs aux bonnes pratiques de sécurité incendie et aux procédures d’évacuation.
+   :::warning Brandwaarschuwing ⚠️
+   Zorg ervoor dat gebruikers getraind zijn in brandveiligheid en evacuatieprocedures.
    :::
 
 ---
 
-### Section 5.1.2. Domaine d’application 📏
+### Sectie 5.1.2. Toepassingsgebied 📏
 
-Les règles communes s'appliquent à tous types d'installations électriques, qu'elles soient **résidentielles, commerciales ou industrielles**.
+De algemene regels zijn van toepassing op alle soorten elektrische installaties, zowel **residentieel, commercieel als industrieel**.
 
-| Domaine | Objectif                                                        |
-|---------|------------------------------------------------------------------|
-| **Résidentiel** | Assurer la sécurité des occupants, minimiser les défaillances. |
-| **Industriel**  | Conformité des installations avec des équipements compatibles. |
-| **Commercial**  | Réduire les risques d’incidents, optimiser la sécurité et la durabilité.|
+| Toepassingsgebied | Doelstelling                                                   |
+|-------------------|----------------------------------------------------------------|
+| **Residentieel**  | Veiligheid van bewoners garanderen en storingen minimaliseren.  |
+| **Industrieel**   | Conformiteit van installaties met compatibele apparatuur.       |
+| **Commercieel**   | Incidentenrisico's verminderen en de veiligheid en duurzaamheid optimaliseren.|
 
-   :::tip Bonnes pratiques d'installation 🏠
-   Vérifiez que les matériaux et dispositifs sont adaptés à l’environnement spécifique de l’installation.
+   :::tip Installatietips 🏠
+   Controleer of de materialen en apparaten geschikt zijn voor de specifieke omgeving van de installatie.
    :::
 
 ---
 
-### Section 5.1.3. Conformité aux normes 📜
+### Sectie 5.1.3. Conformiteit met Normen 📜
 
-#### Sous-section 5.1.3.1. Généralités
+#### Onderafdeling 5.1.3.1. Algemene Richtlijnen
 
-La conformité aux normes garantit la sécurité, la fiabilité et l’efficacité des équipements électriques.
+Conformiteit met normen garandeert de veiligheid, betrouwbaarheid en efficiëntie van elektrische apparatuur.
 
-- **Normes internationales** : Adoptez des matériels conformes aux normes **IEC** et européennes.
-- **Certification** : Les équipements doivent porter une certification prouvant leur conformité.
-- **Documentation** : Fournir une documentation complète, incluant les fiches techniques et les manuels d’installation.
+- **Internationale Normen**: Gebruik apparatuur die voldoet aan de **IEC**- en Europese normen.
+- **Certificering**: Apparaten moeten gecertificeerd zijn om hun conformiteit aan te tonen.
+- **Documentatie**: Zorg voor volledige documentatie, inclusief technische fiches en installatiehandleidingen.
 
-   :::tip Conseil Conformité ✔️
-   Maintenez à jour les certificats de conformité de chaque équipement pour faciliter les vérifications et assurer la conformité de votre installation.
+   :::tip Conformiteitstip ✔️
+   Houd de conformiteitscertificaten van elk apparaat up-to-date om controles te vergemakkelijken en de conformiteit van uw installatie te waarborgen.
    :::
 
 ---
 
-#### Sous-section 5.1.3.2. Exceptions aux normes
+#### Onderafdeling 5.1.3.2. Uitzonderingen op de Normen
 
-Certaines exceptions aux normes sont possibles pour les installations temporaires ou les situations spécifiques.
+Bepaalde uitzonderingen op de normen zijn mogelijk voor tijdelijke installaties of specifieke situaties.
 
-- **Évaluation des risques** : Avant toute dérogation, réaliser une évaluation des risques.
-- **Justification des exceptions** : Documentez chaque exception pour assurer une traçabilité en cas de contrôle.
+- **Risicoanalyse**: Voer een risicoanalyse uit voordat u afwijkt van de normen.
+- **Verantwoording van Uitzonderingen**: Documenteer elke uitzondering om traceerbaarheid te waarborgen tijdens controles.
 
-   :::info Exigence Spécifique 📄
-   Les exceptions aux normes doivent être justifiées par une expertise technique et documentées pour garantir la sécurité de l’installation.
+   :::info Specifieke Vereiste 📄
+   Uitzonderingen op de normen moeten technisch onderbouwd en gedocumenteerd zijn om de veiligheid van de installatie te garanderen.
    :::
 
 ---
 
-### Sous-section 5.1.3.3. Dispositifs de protection à courant différentiel-résiduel (RCD)
+### Onderafdeling 5.1.3.3. Differentieelstroombeschermingsinrichtingen (RCD)
 
-Les **RCD** jouent un rôle essentiel en protégeant les utilisateurs contre les chocs électriques.
+**RCD's** spelen een cruciale rol bij de bescherming tegen elektrische schokken.
 
-| Type de RCD        | Sensibilité (mA) | Application                                 |
-|--------------------|------------------|---------------------------------------------|
-| **Domestique**     | 30 mA            | Protection des personnes                    |
-| **Industriel**     | 300 mA           | Protection des équipements et du personnel  |
+| Type RCD          | Gevoeligheid (mA) | Toepassing                                    |
+|-------------------|-------------------|-----------------------------------------------|
+| **Huishoudelijk** | 30 mA             | Bescherming van personen                      |
+| **Industrieel**   | 300 mA            | Bescherming van apparatuur en personeel       |
 
-   :::tip Maintenance des RCD 🔧
-   Testez régulièrement les RCD pour vérifier leur bon fonctionnement. Appuyez sur le bouton de test au moins une fois par mois.
+   :::tip Onderhoudstip voor RCD's 🔧
+   Test RCD's regelmatig om hun werking te controleren. Druk minstens één keer per maand op de testknop.
    :::
 
 ---
 
-### Section 5.1.4. Choix en fonction des influences externes 🌦️
+### Onderafdeling 5.1.3.3. Differentieelstroombeschermingsinrichtingen
 
-Les conditions environnementales influencent le choix des matériaux. L'humidité, la température et les atmosphères corrosives sont des facteurs à considérer.
+Differentieelstroombeschermingsinrichtingen spelen een cruciale rol bij de bescherming tegen elektrische schokken.
 
-| Influence Externe       | Matériaux Recommandés                         | Justification                                      |
-|-------------------------|-----------------------------------------------|---------------------------------------------------|
-| **Humidité élevée**      | Matériaux étanches, dispositifs IP65 et plus | Protection contre l'eau et la condensation         |
-| **Température extrême**  | Matériaux résistants aux températures        | Prévention de la déformation et du dysfonctionnement |
-| **Atmosphère corrosive** | Acier inoxydable, plastiques résistants      | Protection contre l'oxydation et la détérioration   |
+| Type Differentieel | Gevoeligheid (mA) | Toepassing                                    |
+|--------------------|-------------------|-----------------------------------------------|
+| **Huishoudelijk**  | 30 mA             | Bescherming van personen                      |
+| **Industrieel**    | 300 mA            | Bescherming van apparatuur en personeel       |
 
-   :::warning Conseil d'installation 🌍
-   Choisissez des matériaux appropriés pour chaque environnement afin de prolonger la durée de vie des équipements.
+   :::tip Onderhoudstip voor differentieelschakelaars 🔧
+   Test differentieelschakelaars regelmatig om hun werking te controleren. Druk minstens één keer per maand op de testknop.
    :::
 
 ---
 
-### Section 5.1.5. Accessibilité du matériel électrique 🛠️
+### Sectie 5.1.5. Toegankelijkheid van Elektrisch Materieel 🛠️
 
-L’accessibilité est essentielle pour une maintenance efficace.
+Toegankelijkheid is essentieel voor een effectieve onderhoudsplanning.
 
-#### Sous-section 5.1.5.1. Machines et appareils électriques
+#### Onderafdeling 5.1.5.1. Machines en Elektrische Apparaten
 
-Les **machines et appareils** doivent être installés pour permettre un accès facile aux surfaces de commande et de maintenance.
+**Machines en apparaten** moeten zo worden geïnstalleerd dat er eenvoudig toegang is tot de bedienings- en onderhoudsoppervlakken.
 
-   :::info Astuce Accessibilité 🔑
-   Prévoyez un espace dégagé autour des équipements pour faciliter la maintenance et les réparations.
+   :::info Toegankelijkheidstip 🔑
+   Zorg voor voldoende vrije ruimte rondom de apparatuur om onderhoud en reparaties te vergemakkelijken.
    :::
 
-#### Sous-section 5.1.5.2. Canalisations électriques 🛠️
+#### Onderafdeling 5.1.5.2. Elektrische Leidingen 🛠️
 
-Les **canalisations électriques** doivent être installées de manière à permettre un accès facile pour les inspections, réparations et interventions futures. Une bonne planification de leur emplacement et des moyens d'accès est essentielle pour assurer une maintenance efficace et réduire les interruptions de service.
+**Elektrische leidingen** moeten zo worden geïnstalleerd dat inspecties, reparaties en toekomstige interventies eenvoudig uit te voeren zijn. Een goede planning van de locatie en toegangsmogelijkheden is essentieel voor efficiënt onderhoud en het beperken van serviceonderbrekingen.
 
-| **Critère**                | **Recommandation**                                                                                  |
-|----------------------------|-----------------------------------------------------------------------------------------------------|
-| **Accessibilité**          | Installez les canalisations dans des zones dégagées, facilement accessibles en cas d'intervention.  |
-| **Fixations robustes**     | Utilisez des supports solides pour maintenir les canalisations en place et éviter tout mouvement.   |
-| **Marquage des circuits**  | Identifiez clairement chaque circuit avec des étiquettes durables pour faciliter l'identification.  |
-
-   :::tip Bonnes pratiques pour les canalisations électriques 🔧
-   - **Prévoir des accès directs** : En évitant d’enfermer les canalisations dans des murs ou des plafonds inaccessibles, vous facilitez l'accès en cas de panne ou de révision.
-   - **Étiquetage clair** : Chaque canalisation doit être marquée de manière visible avec des indications claires sur son contenu et son origine, surtout dans des environnements complexes comme les bâtiments industriels.
-   - **Supports résistants aux vibrations** : Dans les environnements soumis à des vibrations (par exemple, sites industriels), les supports doivent être spécialement adaptés pour éviter que les canalisations ne se détachent ou ne se déplacent.
-   :::
-
-   :::info Astuce 💡
-   Un bon marquage des canalisations permet de gagner du temps lors des interventions et réduit les risques d'erreur lors des diagnostics ou des réparations. Utilisez des étiquettes résistantes et assurez-vous qu’elles restent visibles et lisibles au fil du temps.
-   :::
-
-L’accessibilité et la robustesse des installations de canalisations électriques contribuent à la sécurité et à la durabilité des installations, facilitant également les interventions en cas de besoin.
-
-### Section 5.1.6. Repérage des Équipements ⚙️
-
-Le **repérage des installations électriques** est essentiel pour garantir une intervention rapide et sécurisée, facilitant ainsi la maintenance et la gestion des équipements. Un système de repérage clair et structuré permet non seulement de comprendre la configuration de l’installation, mais aussi d’éviter les erreurs pendant les travaux, renforçant ainsi la sécurité globale.
-
-   :::tip Pourquoi le Repérage est Essentiel 📌
-   Un bon repérage permet aux techniciens de diagnostiquer rapidement les problèmes et de localiser chaque composant critique en un coup d'œil. Il réduit également les risques d'erreur, car chaque équipement est immédiatement identifiable.
-   :::
-
----
-
-#### Sous-section 5.1.6.1. Repérage du Matériel Électrique 🏷️
-
-Chaque élément du matériel doit être **clairement identifié** pour permettre une compréhension rapide de sa fonction et faciliter les interventions.
-
-- **Étiquettes visibles** : Chaque tableau, disjoncteur et interrupteur doit être pourvu d’une étiquette claire mentionnant sa fonction, son numéro de circuit, et tout avertissement de sécurité pertinent.
-- **Documents de référence** : Placez des schémas et manuels à proximité des équipements principaux. Ces documents doivent contenir des explications détaillées de chaque composant pour faciliter les réparations et le dépannage.
-- **Système de codage** : Utiliser un code couleur ou un système alphanumérique peut simplifier encore davantage le repérage. Par exemple, les disjoncteurs peuvent être codés en rouge pour les surcharges, les interrupteurs différentiels en jaune pour la protection contre les courants de fuite, etc.
-
-| Équipement                | Code de Couleur   | Description                                   |
-|---------------------------|-------------------|-----------------------------------------------|
-| **Disjoncteur**           | Rouge            | Protection contre les surcharges              |
-| **Interrupteur différentiel** | Jaune       | Protection contre les courants de fuite       |
-| **Prises de courant**     | Vert             | Points d'alimentation sécurisés               |
-
-   :::info Astuce Pratique 🛠️
-   Prévoir des étiquettes durables et résistantes aux conditions environnementales (humidité, chaleur) pour s’assurer qu’elles restent lisibles au fil du temps.
-   :::
-
-   ### Exemple Pratique 💡
-   Lors de la mise en place d'un tableau de distribution dans une grande installation, étiquetez chaque disjoncteur avec une description de sa zone desservie (ex. : « Cuisine », « Bureau 1 »). Ajoutez un schéma récapitulatif à l’intérieur de la porte du tableau pour guider les utilisateurs et techniciens.
-
----
-
-#### Sous-section 5.1.6.2. Code de Couleurs des Conducteurs Isolés 🎨
-
-Le **code de couleurs** des conducteurs isolés est un standard essentiel pour garantir la sécurité dans les installations électriques. Un mauvais raccordement des fils peut mener à des courts-circuits ou des risques d'électrocution. En suivant ce code de couleurs, les électriciens peuvent identifier instantanément la fonction de chaque conducteur.
-
-| **Couleur**          | **Fonction**                                |
-|----------------------|---------------------------------------------|
-| Marron               | Phase                                       |
-| Bleu                 | Neutre                                      |
-| Vert/Jaune           | Terre                                       |
-| Gris                 | Phase (pour circuits triphasés)             |
-| Noir                 | Phase (pour circuits triphasés)             |
-| Rouge                | Phase (historique, éviter pour les nouvelles installations) |
-
-   :::warning Rappel Sécurité ⚠️
-   Respecter le code de couleurs est impératif pour éviter les erreurs de branchement et garantir la sécurité des personnes intervenant sur l'installation. Toute déviation doit être documentée et signalée clairement.
-   :::
-
-   ### Exemple Pratique 💡
-   Dans une installation industrielle comportant des circuits triphasés, assurez-vous d’utiliser le code de couleurs standardisé pour chaque phase. Ce système facilite les interventions et garantit une continuité de repérage entre les installations, évitant ainsi toute confusion.
-
----
-
-## CHAPITRE 5.2. RÈGLES COMPLÉMENTAIRES POUR LES CANALISATIONS
-
-Les **règles complémentaires pour les canalisations** visent à garantir que chaque conduite électrique respecte des normes strictes de sécurité et de durabilité. Cela concerne particulièrement la résistance des matériaux utilisés, le type de conduits, et la protection contre les risques externes.
-
----
-
-### Section 5.2.1. Généralités sur les Canalisations 🚧
-
-Les canalisations électriques doivent être choisies et installées selon des critères rigoureux, tenant compte des conditions spécifiques d’utilisation et des influences externes, telles que l'humidité ou la température. Une bonne sélection des canalisations garantit la sécurité et prolonge la durée de vie de l'installation.
-
-   :::tip Conseils pour Choisir des Canalisations 🛠️
-   - **Considérez l'environnement** : Choisissez des matériaux résistants aux conditions locales (humidité, chaleur, corrosif).
-   - **Référencez les normes en vigueur** : Respectez les réglementations locales et européennes pour chaque type de canalisation.
-   :::
-
----
-
-#### Sous-section 5.2.1.1. Code d'Identification des Canalisations Électriques 📋
-
-Un code d'identification permet de repérer facilement les différents types de canalisations dans une installation. Chaque code indique le matériau, la fonction, et l’emplacement, ce qui facilite la maintenance et réduit les risques d’erreur.
-
-| Code   | Description                            |
-|--------|----------------------------------------|
-| **ALU**  | Canalisation en aluminium               |
-| **CU**   | Canalisation en cuivre                  |
-| **PVC**  | Canalisation en PVC                     |
-| **ACIER**| Canalisation en acier                   |
-| **ISOL** | Canalisation isolée pour sécurité       |
-
-   :::info Utilisation du Code d’Identification 🗂️
-   Apposez des étiquettes ou des marques sur chaque conduit pour indiquer clairement le type de canalisation. Cela aide à repérer rapidement le bon conduit en cas d'intervention.
-   :::
-
----
-
-#### Sous-section 5.2.1.2. Choix des Canalisations Électriques ⚡
-
-Le choix des canalisations dépend de plusieurs critères, notamment l’environnement d’installation et les charges électriques.
-
-- **Milieux humides** : Utilisez des conduits en PVC ou en acier inoxydable pour résister à la corrosion.
-- **Températures élevées** : Privilégiez les conduits en métal ou les gaines thermorésistantes.
-- **Charges lourdes** : Dans des environnements industriels, optez pour des canalisations robustes capables de supporter des courants élevés.
-
-   :::warning Sécurité Incendie 🔥
-   Les canalisations doivent être ignifuges dans les zones à risque d'incendie pour limiter la propagation des flammes en cas de surchauffe.
-   :::
-
----
-
-#### Sous-section 5.2.1.3. Pose des Conducteurs 🛠️
-
-Lors de la pose des conducteurs, il est important de respecter des règles de sécurité et de garantir leur accessibilité. Assurez-vous que les distances minimales entre conducteurs sont respectées pour éviter les interférences.
-
-| Critère de Pose                | Mesure Recommandée                                                        |
-|--------------------------------|---------------------------------------------------------------------------|
-| **Distance minimale**          | Respecter les espacements prescrits pour éviter les courts-circuits       |
-| **Protection des conducteurs** | Utiliser des gaines pour protéger les câbles contre les dommages mécaniques|
-| **Accessibilité**              | Prévoir un accès facile pour les réparations et les inspections           |
-
-   :::tip Bonnes Pratiques pour la Pose 🔧
-   Installez les conduits de manière à permettre un accès facile pour les futures interventions. Assurez-vous que les câbles sont bien fixés et protégés contre les vibrations.
-   :::
-
----
-
-#### Sous-section 5.2.1.4. Isolation des Conducteurs 🛡️
-
-L'isolation des conducteurs est essentielle pour prévenir les courts-circuits et les chocs électriques.
-
-- **Matériaux d’isolation** : Choisissez des matériaux adaptés aux conditions de l'installation, comme le PVC pour les zones humides ou le caoutchouc résistant à la chaleur.
-- **Tests réguliers** : Effectuez des contrôles périodiques de l'isolation pour garantir qu'elle reste efficace au fil du temps.
-
-   :::info Isolation : Ce qu’il Faut Savoir 🛡️
-   Une bonne isolation réduit les risques d’électrocution et assure une durabilité accrue des conducteurs.
-   :::
-
----
-
-#### Sous-section 5.2.1.5. Résistance Mécanique - Traversées 🚧
-
-Les traversées de murs, de plafonds ou de planchers doivent être réalisées avec soin pour préserver l’intégrité des canalisations.
-
-- **Protection mécanique** : Utilisez des gaines de protection ou des conduits métalliques pour éviter que les câbles ne soient endommagés lors des traversées.
-- **Étanchéité** : Scellez les traversées pour éviter l’infiltration d’humidité ou de contaminants.
-
-   :::tip Rappel sur les Traversées 🌧️
-   Préservez l’intégrité de l’isolation en évitant toute exposition à l’humidité et en protégeant les câbles des dommages lors des traversées.
-   :::
-
----
-
-### Section 5.2.2. Modes de Pose des Canalisations 🏗️
-
-Le **mode de pose des canalisations** influe directement sur la sécurité et la performance des installations électriques. Chaque méthode de pose doit être choisie en fonction de l'environnement, de la tension et des besoins spécifiques de chaque installation.
-
-   :::tip Bonnes Pratiques pour le Mode de Pose des Canalisations 🛠️
-   - **Analyse de l’environnement** : Tenez compte des conditions environnantes (humidité, température) pour choisir le mode de pose approprié.
-   - **Facilité d’intervention** : Privilégiez les installations accessibles pour simplifier la maintenance.
-   - **Sécurité renforcée** : Utilisez des protections supplémentaires dans les zones à risque.
-   :::
-
----
-
-#### Sous-section 5.2.2.1. Basse Tension ⚡
-
-Les installations en basse tension nécessitent des **précautions spécifiques** pour assurer la sécurité des utilisateurs :
-
-- **Isolation renforcée** : Les canalisations doivent être installées de manière à réduire les risques de contact avec des éléments conducteurs. Utilisez des gaines isolantes ou des boîtiers de protection.
-- **Accessibilité** : Dans des environnements domestiques ou professionnels, privilégiez les canalisations encastrées ou protégées pour éviter les risques d'accident.
-
-| Critère                   | Mesure Recommandée                              |
-|---------------------------|-------------------------------------------------|
-| Isolation                 | Gaines et boîtiers pour éviter le contact       |
-| Positionnement            | Loin des zones accessibles au public           |
-| Normes                    | Conformité aux standards de basse tension       |
-
----
-
-#### Sous-section 5.2.2.2. Très Basse Tension (TBT) 🔋
-
-Les **installations en très basse tension (TBT)** nécessitent également des mesures de sécurité spécifiques :
-
-- **Matériaux adaptés** : Choisissez des matériaux qui résistent aux environnements à faible tension, comme les conduits en PVC.
-- **Signalisation** : Identifiez clairement les circuits TBT pour éviter les confusions lors des interventions.
-
-| Caractéristique            | Matériau recommandé                             |
-|----------------------------|------------------------------------------------|
-| Résistance à l’humidité    | Conduits en PVC                                |
-| Signalisation              | Étiquettes et marquages spécifiques            |
-| Protection des conducteurs | Gaines résistantes aux dommages mécaniques     |
-
-   :::warning Attention 🛑
-   Les installations en très basse tension doivent respecter des normes strictes pour éviter tout risque électrique même dans des environnements à faible intensité.
-   :::
-
----
-
-#### Sous-section 5.2.2.3. Très Basse Tension de Sécurité (TBTS) 🛡️
-
-Dans les installations de **très basse tension de sécurité (TBTS)**, la protection contre les chocs électriques est prioritaire. Voici les points clés :
-
-- **Protection supplémentaire** : Des dispositifs de protection spécifiques, comme des interrupteurs de sécurité, sont nécessaires pour prévenir les chocs électriques.
-- **Isolants renforcés** : Utilisez des matériaux isolants de haute qualité, adaptés aux exigences TBTS, pour garantir une isolation optimale.
-
-| Type de Protection         | Exigence                                         |
-|----------------------------|--------------------------------------------------|
-| Isolant                    | Matériaux avec haute résistance aux chocs        |
-| Dispositif de sécurité     | Interrupteurs et relais de protection            |
-| Norme                      | Conformité aux exigences TBTS                     |
-
----
-
-#### Sous-section 5.2.2.4. Modes de Pose Complémentaires 🔗
-
-Il est parfois nécessaire d'utiliser des **modes de pose complémentaires** pour renforcer la sécurité et la durabilité des installations :
-
-- **Goulottes et chemins de câbles** : Utilisez des goulottes ou des chemins de câbles pour protéger les canalisations dans les environnements industriels.
-- **Supports résistants** : Assurez-vous que les conduits sont solidement fixés pour éviter les vibrations et les déplacements accidentels.
-
-| Mode de Pose Complémentaire | Utilisation                                       |
-|-----------------------------|----------------------------------------------------|
-| Goulottes                   | Protéger et organiser les câbles en surface       |
-| Chemins de câbles           | Sécuriser les canalisations dans les environnements industriels |
-| Supports robustes           | Maintenir la stabilité des câbles                 |
-
-   :::info Note 📝
-   Les goulottes et chemins de câbles facilitent également la maintenance en rendant les câbles plus accessibles.
-   :::
-
----
-
-### Section 5.2.3. Choix et Mise en Œuvre en Fonction des Influences Externes 🌍
-
-Les influences externes, telles que la température, l’humidité ou les vibrations, jouent un rôle clé dans la sélection des canalisations. Adapter les canalisations aux conditions environnementales est essentiel pour maintenir la sécurité et la longévité des installations.
-
----
-
-#### Sous-section 5.2.3.1. Température Ambiante (AA) 🌡️
-
-La **température ambiante** peut affecter les performances des canalisations :
-
-- **Matériaux résistants à la chaleur** : Utilisez des matériaux qui supportent les variations de température.
-- **Isolation thermique** : Dans des environnements chauds, des gaines thermorésistantes sont recommandées pour éviter la dégradation des câbles.
-
-   :::tip Astuce 🧯
-   Pour les environnements où la température fluctue, envisagez des conduits métalliques qui dissipent mieux la chaleur.
-   :::
-
-| Influence Externe           | Mesures Recommandées                                |
-|-----------------------------|-----------------------------------------------------|
-| Température élevée          | Gaines thermorésistantes                            |
-| Fluctuations de température | Conduits métalliques pour meilleure dissipation     |
-
----
-
-#### Sous-section 5.2.3.2. Présence d’Eau (AD) 💧
-
-L’humidité et l’exposition à l’eau nécessitent des **mesures de protection particulières** pour les canalisations :
-
-- **Matériaux étanches** : Privilégiez les conduits en PVC ou en acier inoxydable.
-- **Séparation des circuits** : Évitez les interférences en maintenant une distance sécurisée entre les canalisations et les zones d'eau.
-
-   :::warning Attention aux Environnements Humides 🚨
-   Une protection inadéquate contre l'humidité peut entraîner la corrosion des câbles et des risques d'électrocution.
-   :::
-
-| Influence Externe           | Mesures de Sécurité                                |
-|-----------------------------|----------------------------------------------------|
-| Humidité                     | Gaines en PVC ou acier inoxydable                  |
-| Zones proches de l’eau       | Séparation physique des câbles et des points d’eau |
-
----
-
-#### Sous-section 5.2.3.3. Substances Corrosives et Polluantes (AF) 🏭
-
-Dans des environnements industriels ou chimiques, les **substances corrosives** peuvent endommager les canalisations :
-
-- **Revêtements protecteurs** : Utilisez des gaines avec des revêtements spécifiques pour prévenir la corrosion.
-- **Matériaux résistants** : Optez pour des conduits en matériaux anti-corrosion, comme l’acier inoxydable ou certains plastiques renforcés.
-
-   :::info Exemple Pratique 🛠️
-   Dans les usines chimiques, les canalisations en acier inoxydable sont souvent privilégiées pour leur résistance aux produits corrosifs.
-   :::
-
----
-
-#### Sous-section 5.2.3.4. Contraintes Mécaniques dues aux Chocs (AG) 💥
-
-Les **chocs mécaniques** sont fréquents dans les zones à forte activité industrielle :
-
-- **Canalisations renforcées** : Utilisez des gaines robustes capables de résister aux impacts physiques.
-- **Protections supplémentaires** : Envisagez des boîtiers de protection dans les zones de passage.
-
-| Type de Contrainte          | Mesures Recommandées                                |
-|-----------------------------|-----------------------------------------------------|
-| Chocs physiques             | Conduits renforcés et boîtiers de protection         |
-| Zones industrielles         | Gaines métalliques ou résistantes aux impacts        |
-
----
-
-#### Sous-section 5.2.3.5. Vibrations (AH) 🔊
-
-Les **vibrations**, causées par des machines, peuvent endommager les canalisations au fil du temps :
-
-- **Supports flexibles** : Utilisez des supports et des fixations qui absorbent les vibrations.
-- **Joints amortisseurs** : Installez des joints pour limiter les effets des vibrations sur les canalisations.
-
-   :::tip Prévention des Vibrations 🔧
-   Les joints amortisseurs aident à réduire la transmission des vibrations aux câbles, prolongeant ainsi leur durée de vie.
-   :::
-
----
-
-#### Sous-section 5.2.3.6. Flore, Moisissures (AK) et Faune (AL) 🐾
-
-La **faune** et la **flore** peuvent endommager les canalisations :
-
-- **Matériaux anti-moisissures** : Optez pour des matériaux résistants à l’humidité et aux moisissures dans les environnements tropicaux.
-- **Protection contre la faune** : Assurez-vous que les canalisations ne servent pas de refuge pour les animaux, en installant des grilles ou des protections supplémentaires.
-
----
-
-#### Sous-section 5.2.3.7. Influences Électromagnétiques (AM) et Rayonnements Solaires (AN) ☀️
-
-Les **influences électromagnétiques** peuvent perturber les circuits sensibles :
-
-- **Blindage électromagnétique** : Utilisez des câbles blindés pour protéger contre les interférences.
-- **Protection UV** : Dans les installations extérieures, choisissez des matériaux résistants aux UV pour prévenir la dégradation due au soleil.
-
-| Type d'Influence            | Solution                                         |
-|-----------------------------|--------------------------------------------------|
-| Champs électromagnétiques    | Câbles blindés pour limiter les interférences    |
-| Exposition solaire           | Conduits résistants aux UV                       |
-
----
-
-#### Sous-section 5.2.3.8. Protection Contre les Chocs Électriques (BB et BC) ⚠️
-
-Les installations doivent minimiser les risques de chocs électriques pour la sécurité des utilisateurs :
-
-- **Canalisations isolées** : Privilégiez des gaines isolantes.
-- **Dispositifs de protection** : Installez des disjoncteurs et interrupteurs différentiels pour une sécurité renforcée.
-
-   :::warning Attention Sécurité Électrique 🔌
-   Vérifiez régulièrement l’état des canalisations et des dispositifs de protection pour prévenir les chocs électriques.
-   :::
-
----
-
-### Section 5.2.4. Protection des Conducteurs Nus autres que ceux des Lignes Aériennes 🌞
-
-Les **conducteurs nus** sont exposés à des risques tels que l'usure, l'humidité ou les chocs mécaniques. Pour protéger les conducteurs nus (hors lignes aériennes), plusieurs mesures sont nécessaires pour éviter les courts-circuits et les contacts accidentels.
-
-#### Méthodes de Protection 🔒
-- **Gaines de protection** : Utiliser des gaines résistantes pour protéger contre les impacts et les intempéries.
-- **Positionnement stratégique** : Installer les conducteurs dans des zones à faible risque d'exposition.
-- **Dispositifs de sécurité** : Intégrer des disjoncteurs qui coupent l’alimentation en cas de surcharge.
-
-| Méthode                   | Description                                    |
-|---------------------------|------------------------------------------------|
-| Gaines de protection      | Enveloppe résistante aux chocs                 |
-| Positionnement stratégique | Installation dans des zones peu exposées      |
-| Dispositifs de sécurité   | Disjoncteurs pour couper en cas de surcharge   |
-
-   :::tip Bonnes Pratiques 🛠️
-   Protéger les conducteurs nus avec des matériaux robustes et les installer dans des zones à l’abri des intempéries pour prolonger leur durée de vie.
-   :::
-
----
-
-### Section 5.2.5. Chute de Tension 🔋
-
-La **chute de tension** correspond à la réduction de la tension dans un circuit électrique, ce qui peut affecter les performances et entraîner des pertes d'énergie. Gérer la chute de tension est essentiel pour garantir l’efficacité et la fiabilité des installations.
-
-#### Facteurs influençant la Chute de Tension 📉
-- **Longueur du circuit** : Plus le circuit est long, plus la chute de tension est significative.
-- **Section du conducteur** : Un conducteur de plus grande section offre moins de résistance.
-- **Charge connectée** : Plus la charge est élevée, plus la chute de tension sera importante.
-
-| Facteur                   | Impact                                          |
-|---------------------------|-------------------------------------------------|
-| Longueur du circuit       | Plus de longueur = plus de chute de tension     |
-| Section du conducteur     | Grande section = moins de résistance            |
-| Charge connectée          | Plus de courant = plus de chute de tension      |
-
-   :::warning Attention ⚠️
-   Une chute de tension excessive peut entraîner une défaillance des équipements et des pertes d’énergie significatives.
-   :::
-
----
-
-### Section 5.2.6. Connexions 🔗
-
-Les **connexions électriques** constituent des points critiques dans une installation. Une connexion mal réalisée peut causer des défaillances, des pertes d’énergie, ou même des risques d’incendie.
-
-#### Bonnes Pratiques pour les Connexions 🔧
-- **Utilisation de connecteurs adaptés** : Sélectionner les connecteurs en fonction des matériaux et de l’environnement.
-- **Méthodes de connexion** : Privilégier des méthodes comme le sertissage ou la soudure pour une meilleure fiabilité.
-- **Vérifications régulières** : Contrôler périodiquement les connexions pour détecter les signes d’usure.
-
-| Méthode de Connexion      | Description                                     |
-|---------------------------|-------------------------------------------------|
-| Connecteurs appropriés    | Choisir des connecteurs adaptés aux conducteurs |
-| Soudure ou sertissage     | Assure une connexion durable et fiable          |
-| Vérifications régulières  | Inspection pour prévenir usure et corrosion     |
-
-   :::tip Astuce 🛠️
-   Inspectez régulièrement les connexions, surtout dans des environnements humides ou corrosifs, pour éviter tout problème de contact.
-   :::
-
----
-
-### Section 5.2.7. Choix et Mise en Œuvre pour Limiter la Propagation du Feu 🔥
-
-La protection contre la propagation du feu est cruciale dans la conception des installations électriques. L’utilisation de matériaux adaptés et une installation soignée permettent de limiter les risques d’incendie.
-
-#### Matériaux et Dispositions 🔥
-- **Utilisation de matériaux ignifuges** : Les câbles et conduits doivent être résistants au feu.
-- **Séparation des installations** : Assurer une distance suffisante entre les installations électriques et les matériaux combustibles.
-
-| Mesure                       | Objectif                                      |
-|------------------------------|-----------------------------------------------|
-| Matériaux ignifuges          | Retarde ou empêche la propagation du feu      |
-| Séparation des installations | Limite les risques de propagation d’incendie  |
-
-   :::info Note 🔍
-   Les matériaux non halogénés réduisent l’émission de fumées toxiques en cas d’incendie.
-   :::
-
----
-
-### Section 5.2.8. Voisinage avec d’Autres Canalisations 🚰
-
-La proximité avec d’autres canalisations, comme celles de gaz ou d’eau, peut entraîner des risques pour les installations électriques. Il est crucial de respecter les règles de séparation pour éviter des accidents.
-
-#### Bonnes Pratiques 🔒
-- **Séparation physique** : Maintenir une distance sécurisée entre les canalisations électriques et les conduits de gaz ou d’eau.
-- **Protection supplémentaire** : Utiliser des gaines pour éviter tout contact accidentel entre les conduits.
-
-| Mesure de Sécurité          | Objectif                                      |
-|-----------------------------|-----------------------------------------------|
-| Séparation physique         | Réduit les risques de contact dangereux       |
-| Protection supplémentaire   | Empêche le contact avec d'autres canalisations|
-
----
-
-### Section 5.2.9. Règles Particulières pour les Différents Modes de Pose 🚩
-
-Les règles de pose varient selon le type de canalisation, qu’elle soit aérienne ou souterraine. Ces recommandations assurent la sécurité et la durabilité des installations.
-
-#### Sous-section 5.2.9.1. Lignes Aériennes 🌐
-Les lignes aériennes nécessitent des mesures spécifiques pour assurer leur sécurité :
-
-- **Hauteur minimale** : Installer les lignes à une hauteur suffisante pour éviter les contacts accidentels.
-- **Isolation renforcée** : Utiliser des isolants résistants aux intempéries et aux variations de température.
-
-| Critère                      | Mesure recommandée                            |
-|------------------------------|-----------------------------------------------|
-| Hauteur de pose              | S'assurer qu'elles sont hors de portée       |
-| Isolation                    | Résistance aux intempéries                    |
-
-#### Sous-section 5.2.9.2. Canalisations Électriques Souterraines 🌍
-Les canalisations souterraines doivent être installées avec soin pour résister aux conditions du sol et aux éventuelles pressions.
-
-- **Profondeur d’enfouissement** : Suivre les normes pour éviter les dommages causés par les travaux de terrassement.
-- **Protection contre l’humidité** : Utiliser des matériaux résistants pour éviter la corrosion.
-
-| Critère                      | Mesure recommandée                            |
-|------------------------------|-----------------------------------------------|
-| Profondeur d'enfouissement   | Prévenir les dommages externes               |
-| Protection contre l'humidité | Matériaux résistants à la corrosion          |
-
-   :::tip Astuce 🛠️
-   La vérification régulière de l’état des canalisations souterraines est essentielle pour prévenir les infiltrations et garantir une isolation optimale.
-   :::
-
----
-
-### Sous-section 5.2.9.3. Pose sous Conduits 📏
-
-Lorsque les câbles sont posés sous des conduits, plusieurs éléments doivent être pris en compte pour assurer leur durabilité et leur accessibilité.
-
-- **Accès facile** : Prévoir des conduits permettant un accès aisé pour la maintenance et les réparations.
-- **Protection contre les surcharges** : Les conduits doivent résister aux charges sans déformation.
-
-| Critère               | Mesure recommandée                                    |
-|-----------------------|-------------------------------------------------------|
-| **Accessibilité**     | Conduits permettant une intervention facile           |
-| **Protection**        | Résistance aux charges pour éviter déformation        |
-
----
-
-### Sous-section 5.2.9.4. Pose sous Moulures, Plinthes et Chambranles 🪛
-
-Poser les canalisations sous moulures, plinthes et chambranles permet de dissimuler les câbles tout en préservant l’esthétique.
-
-- **Discrétion et Esthétisme** : Solution élégante pour les intérieurs.
-- **Accessibilité** : Les moulures doivent être amovibles pour faciliter l’accès en cas de besoin.
-- **Normes de sécurité** : Les matériaux utilisés doivent être non combustibles.
-
-| Aspect               | Avantage                                       |
-|----------------------|------------------------------------------------|
-| **Esthétique**       | Câbles dissimulés pour une finition propre     |
-| **Accessibilité**    | Accès rapide pour la maintenance               |
-| **Sécurité**         | Utilisation de matériaux non inflammables      |
-
----
-
-### Sous-section 5.2.9.5. Pose à l'Air Libre et en Montage Apparent 🌞
-
-La pose à l'air libre et en montage apparent est souvent plus simple à mettre en place, mais elle expose les câbles à l'environnement.
-
-- **Avantages** :
-  - **Facilité d'accès** : Maintenance aisée sans démontage.
-  - **Installation rapide** : Réduction du temps et des coûts.
-  
-- **Inconvénients** :
-  - **Exposition aux éléments** : Risque d’endommagement par les intempéries.
-  - **Vulnérabilité** : Les câbles sont plus sujets aux chocs.
-
-**Tableau : Comparaison de la Pose à l'Air Libre et en Montage Apparent**
-
-| Critère                   | Pose à l'Air Libre       | Pose en Montage Apparent |
-|--------------------------|--------------------------|--------------------------|
-| **Accessibilité**        | Très accessible          | Facile                   |
-| **Esthétique**           | Moins esthétique         | Plus esthétique          |
-| **Protection**           | Moins protégé            | Plus protégé             |
-| **Maintenance**          | Facile                   | Facile                   |
-
-   :::info Note
-   En extérieur, utilisez des câbles adaptés aux conditions climatiques pour une meilleure résistance.
-   :::
-
----
-
-### Sous-section 5.2.9.6. Goulottes et Gouttières 💼
-
-Les **goulottes** et **gouttières** permettent une gestion ordonnée et sécurisée des câbles.
-
-- **Protection** : Protègent les câbles contre les chocs et les influences environnementales.
-- **Organisation** : Favorisent un agencement propre des câbles, limitant l’enchevêtrement.
-
-| Type                | Avantage                                     |
-|---------------------|----------------------------------------------|
-| **Goulottes**       | Organisation et protection des câbles        |
-| **Gouttières**      | Facilite l’accès et la gestion des câbles    |
-
----
-
-### Sous-section 5.2.9.7. Gaines 🧵
-
-Les gaines sont essentielles pour protéger les câbles contre les coupures, l'humidité et les produits chimiques.
-
-- **Gaine rigide** : Utilisée pour les installations fixes, offrant une protection robuste.
-- **Gaine flexible** : Pratique pour les installations nécessitant une flexibilité.
-
-| Type de Gaine       | Utilisation                         | Avantage                      |
-|---------------------|-------------------------------------|-------------------------------|
-| **Gaine rigide**    | Installations fixes                 | Protection robuste            |
-| **Gaine flexible**  | Zones avec mouvement               | Facilité d'installation       |
-
----
-
-### Sous-section 5.2.9.8. Caniveaux Ouverts, Fermés ou Remplis de Sable, et Gaines de Sol 🌍
-
-Les **caniveaux** et **gaines de sol** facilitent le passage des câbles dans les installations au sol :
-
-- **Caniveaux ouverts** : Accès facile, mais risques d'exposition.
-- **Caniveaux fermés** : Protection accrue, mais accès restreint.
-- **Caniveaux remplis de sable** : Protection renforcée pour des installations spécifiques.
-
-   :::tip Astuce 🛠️
-   Optez pour des caniveaux fermés dans des environnements exposés pour une protection optimale.
-   :::
-
----
-
-### Sous-section 5.2.9.9. Vides de Construction 🏗️
-
-Les vides de construction permettent de passer les câbles à l’intérieur des murs, planchers ou plafonds.
-
-- **Facilité d'installation** : Évite de percer de nouveaux passages pour les câbles.
-- **Optimisation de l’espace** : Limite le besoin de supports de câbles supplémentaires.
-
-   :::warning Attention ⚠️
-   Assurez-vous que l'intégrité structurelle du bâtiment n'est pas compromise par les installations électriques.
-   :::
-
----
-
-### Sous-section 5.2.9.10. Pose en Encastrement sans Conduit 🔒
-
-La pose en encastrement sans conduit consiste à intégrer les câbles directement dans les murs ou plafonds.
-
-- **Protection des câbles** : Les câbles doivent être bien isolés pour éviter les risques d’incendie.
-- **Conditions de pose** : Suivre les normes de sécurité pour garantir une installation sécurisée.
-
-| Critère                   | Exigence                                       |
-|---------------------------|------------------------------------------------|
-| **Isolation**             | Câbles isolés pour éviter les courts-circuits  |
-| **Conformité**            | Respect des normes de sécurité                 |
-
----
-
-### Sous-section 5.2.9.11. Canalisations Préfabriquées 🏗️
-
-Les canalisations préfabriquées offrent une solution rapide et standardisée pour les installations.
-
-- **Installation rapide** : Gagnez du temps lors de l’installation.
-- **Uniformité** : Assure une qualité constante et réduit les risques d’erreurs.
-
-   :::info Note 📦
-   Les canalisations préfabriquées sont idéales pour des installations répétitives ou standardisées.
-   :::
-
----
-
-### Sous-section 5.2.9.12. Montage en Fils Parallèles sur Isolateurs ⚡
-
-Cette technique est utilisée dans les lignes aériennes, permettant un espacement adéquat entre les fils pour réduire les risques de court-circuit.
-
-- **Avantages** : Espacement sécuritaire entre les fils, réduisant les risques de défauts électriques.
-- **Exigences de sécurité** : Les isolateurs doivent être correctement installés pour prévenir les accidents.
-
----
-
-### Sous-section 5.2.9.13. Canalisations et Panneaux Chauffants 🔥
-
-Les canalisations intégrées aux panneaux chauffants nécessitent des précautions thermiques pour garantir la sécurité.
-
-- **Protection thermique** : Les câbles doivent être isolés pour résister aux températures élevées.
-- **Conformité aux normes** : Assurez-vous que les installations respectent les normes de sécurité incendie.
-
-   :::tip Conseils Pratiques 🔍
-   Utilisez des câbles isolés thermiquement pour toute installation près de sources de chaleur.
-   :::
-
----
-
-#### Sous-section 5.2.9.14. Règles spécifiques pour les installations extérieures 🌧️🌬️
-
-Les installations extérieures doivent tenir compte des conditions environnementales pour assurer sécurité et durabilité :
-
-- **Résistance aux intempéries** : Utilisez des matériaux capables de résister aux **pluies, vents** et **variations d'humidité**. Privilégiez les câbles avec revêtements résistants aux UV et aux conditions climatiques extrêmes.
-- **Sécurité des personnes** : Les câbles doivent être installés à une **hauteur suffisante** pour éviter tout contact accidentel avec les piétons ou véhicules, notamment dans les zones fréquentées.
-
-   :::tip Astuce 🌍
-   Pour les installations extérieures, choisissez des matériaux spécifiques aux environnements extérieurs, comme les conduits en acier galvanisé ou les câbles IP67.
-   :::
-
----
-
-#### Sous-section 5.2.9.15. Règles spécifiques pour les installations à très basse tension (TBT) ⚡
-
-Les installations TBT requièrent des précautions renforcées pour maintenir un haut niveau de sécurité :
-
-- **Protection accrue** : Concevez les installations pour minimiser les risques électriques même en cas de défaut, avec des dispositifs de sécurité adaptés.
-- **Matériaux adaptés** : Utilisez des matériaux et équipements certifiés pour les applications TBT, spécialement conçus pour éviter les risques de choc, notamment dans les zones de travail proches.
-
-   :::warning Attention 🔒
-   Vérifiez que tous les matériaux et appareils TBT respectent les certifications en vigueur, garantissant une protection optimale pour les utilisateurs.
-   :::
-
----
-
-## CHAPITRE 5.3. APPAREILLAGE ÉLECTRIQUE (PROTECTION, COMMANDE, SECTIONNEMENT ET SURVEILLANCE) 🚦
-
-### Section 5.3.1. Généralités ⚙️
-
-L'appareillage électrique est crucial pour la **sécurité et la gestion** des installations électriques. Il englobe l’ensemble des dispositifs de **protection, commande, sectionnement et surveillance** des circuits.
-
-- **Types d'appareillage** : Dispositifs de protection (disjoncteurs, relais), commande (interrupteurs, boutons-poussoirs), et surveillance (capteurs, automates) sont essentiels pour le bon fonctionnement et la protection des installations.
-
-   **Exigences clés** :
-   - Respect des normes de sécurité en vigueur.
-   - Adaptation aux conditions environnementales.
-   - Maintenance régulière pour assurer une performance optimale.
-
-   :::info Note de sécurité 🛠️
-   La maintenance des appareillages est indispensable pour prévenir les défaillances et garantir une intervention rapide en cas de problème.
-   :::
-
----
-
-### Section 5.3.2. Choix et mise en œuvre des machines et appareils électriques en fonction des influences externes 🌡️💧🧲
-
-#### Sous-section 5.3.2.1. En fonction de la température ambiante (AA) 🌞❄️
-
-La température ambiante peut avoir un impact considérable sur les appareils électriques :
-
-- **Températures élevées** : Les appareils doivent dissiper la chaleur pour éviter les surcharges. Des dispositifs de refroidissement peuvent être installés dans les environnements chauds.
-- **Températures basses** : Utiliser des matériaux résistants au froid pour assurer la fiabilité des appareils, même en conditions extrêmes.
-
-   **Tableau : Classement des appareils selon la température ambiante**
-
-   | Température (°C) | Type d'appareil               | Exigences de conception                    |
-   |------------------|-------------------------------|-------------------------------------------|
-   | -20 à 0          | Appareils d'extérieur         | Résistance au gel et à l'humidité         |
-   | 0 à 40           | Appareils domestiques         | Normes de fonctionnement standard         |
-   | 40 à 60          | Appareils industriels         | Dissipation de chaleur accrue nécessaire  |
-
-   :::tip Astuce 👷
-   Dans les environnements industriels, privilégiez les équipements de classe industrielle pour des performances optimales sous haute température.
-   :::
-
----
-
-#### Sous-section 5.3.2.2. En fonction de la présence d'eau (AD) 🌧️
-
-Pour les environnements humides, choisissez des appareils résistants à l'eau :
-
-- **Normes IP** : Optez pour un indice de protection IP élevé pour assurer une résistance contre l'humidité et les projections d’eau.
-- **Systèmes de drainage** : Installez des systèmes de drainage autour des appareils pour prévenir toute accumulation d'eau.
-
-   :::info Note importante 🚰
-   Les appareils avec un indice IP65 ou supérieur sont recommandés pour les environnements à forte humidité.
-   :::
-
----
-
-#### Sous-section 5.3.2.3. En fonction de la présence de corps solides étrangers (AE) 🌫️
-
-Les corps étrangers comme la poussière ou les débris peuvent endommager les appareils. 
-
-- **Matériaux robustes** : Sélectionnez des boîtiers en matériaux résistants aux chocs et étanches à la poussière.
-- **Conception étanche** : Assurez-vous que les appareils sont scellés pour prévenir l’infiltration de particules.
-
----
-
-#### Sous-section 5.3.2.4. En fonction de la présence de substances corrosives ou polluantes (AF) ⚗️
-
-Les substances corrosives nécessitent des matériaux de protection spécifiques :
-
-- **Matériaux résistants** : Privilégiez les matériaux résistants à la corrosion, tels que l’aluminium ou certains plastiques.
-- **Revêtements protecteurs** : Appliquez des revêtements pour prolonger la durée de vie des équipements en environnement agressif.
-
----
-
-#### Sous-section 5.3.2.5. En fonction des contraintes mécaniques dues aux chocs (AG) ⚙️
-
-Les appareils doivent résister aux chocs mécaniques :
-
-- **Tests de résistance** : Procédez à des tests pour garantir que les appareils peuvent supporter les impacts sans défaillance.
-- **Emballage et transport** : Utilisez un emballage renforcé pour protéger les appareils lors du transport.
-
-   :::tip Sécurité Transport 📦
-   Un emballage adapté réduit les risques de dommages lors du transport et de la manipulation.
-   :::
-
----
-
-#### Sous-section 5.3.2.6. En fonction des contraintes mécaniques dues aux vibrations (AH) 🚜
-
-Les vibrations peuvent compromettre la stabilité des appareils :
-
-- **Fixation sécurisée** : Fixez solidement les appareils pour limiter les mouvements.
-- **Conception robuste** : Privilégiez des appareils conçus pour résister aux vibrations, surtout dans les environnements industriels.
-
-   :::warning Précaution 🛑
-   Inspectez régulièrement les fixations pour détecter toute détérioration due aux vibrations.
-   :::
-
----
-
-#### Sous-section 5.3.2.7. En fonction de la présence de flore et/ou moisissures (AK) et de faune (AL) 🌱🦊
-
-La faune et la flore peuvent affecter les appareils, notamment dans les environnements humides :
-
-- **Risques de moisissures** : Les appareils exposés à l’humidité doivent être protégés contre les moisissures, qui peuvent altérer les isolants.
-- **Prévention des infestations** : Utilisez des boîtiers étanches pour éviter que les animaux endommagent les câbles et autres équipements.
-
----
-
-#### Sous-section 5.3.2.8. En fonction des influences électromagnétiques, électrostatiques ou ionisantes (AM) et des rayonnements solaires (AN) 🌞🧲
-
-Les interférences électromagnétiques et les rayonnements UV nécessitent des équipements spécialisés :
-
-- **Protection contre les EMI** : Utilisez des blindages et filtres pour réduire les interférences.
-- **Résistance aux UV** : Pour les installations extérieures, choisissez des matériaux résistants aux rayonnements solaires.
-
----
-
-#### Sous-section 5.3.2.9. En fonction de la compétence des personnes (BA) 🧑‍🔧
-
-La compétence des utilisateurs influence la sécurité des installations :
-
-- **Formation et certification** : Assurez-vous que le personnel est qualifié pour manipuler les installations.
-- **Consignes de sécurité** : Mettez en place des protocoles de sécurité clairs et faciles à comprendre.
-
----
-
-#### Sous-section 5.3.2.10. En fonction de l'état du corps humain (BB) 🧍‍♀️🧍
-
-Les appareils doivent être adaptés aux besoins des utilisateurs :
-
-- **Accessibilité** : Les installations doivent être accessibles aux personnes à mobilité réduite.
-- **Sécurité ergonomique** : Intégrez des éléments ergonomiques pour minimiser les risques lors de l’utilisation.
-
----
-
-#### Sous-section 5.3.2.11. En fonction du contact des personnes avec le potentiel de terre (BC) 🌍⚡
-
-La protection contre les risques liés au potentiel de terre est cruciale :
-
-- **Mise à la terre efficace** : Assurez une mise à la terre appropriée pour éviter les risques de chocs électriques.
-- **Surveillance** : Utilisez des dispositifs de détection de défaut pour surveiller les anomalies.
-
----
-
-#### Sous-section 5.3.2.12. En fonction de la nature des matières traitées ou entreposées (BE) 🏭
-
-Les installations doivent s’adapter aux matières manipulées ou entreposées :
-
-- **Matières inflammables** : Utilisez des équipements ignifuges dans les environnements avec des matières inflammables.
-- **Produits chimiques** : Choisissez des matériaux résistants aux produits corrosifs pour les installations en contact avec des substances chimiques.
-
-   :::warning Attention spécifique 🧯
-   En présence de matières inflammables, respectez les normes ATEX pour éviter tout risque d’explosion.
-   :::
-
----
-
-#### Sous-section 5.3.2.13. En fonction des matériaux de construction (CA)
-
-Les matériaux de construction peuvent grandement influencer la durabilité et la sécurité des installations électriques. Dans les zones à **risque d'incendie**, par exemple, il est essentiel de sélectionner des **matériaux non combustibles**. Par ailleurs, les matériaux isolants sont recommandés pour éviter les pertes d'énergie et prévenir les risques de surchauffe.
-
-   :::tip Matériaux recommandés 🔥
-   Dans les environnements à haut risque, privilégiez les matériaux résistant aux flammes et offrant une bonne isolation thermique pour une protection optimale.
-   :::
-
----
-
-#### Sous-section 5.3.2.14. En fonction de la structure des bâtiments (CB)
-
-La configuration architecturale d'un bâtiment joue un rôle important dans la mise en œuvre des installations électriques. Une conception architecturale qui intègre **la disposition des circuits électriques** facilite une installation optimale et minimise les coûts futurs d'entretien. En parallèle, il est crucial de respecter les **règlements locaux** qui varient en fonction du type de structure, qu'il s'agisse de bâtiments résidentiels, commerciaux, ou industriels.
-
-   :::info Note importante 🏢
-   Avant toute installation, vérifiez les règlements locaux pour garantir la conformité et optimiser l'intégration dans la structure existante.
-   :::
-
----
-
-### Section 5.3.3. Modes de commande et de coupure
-
-#### Sous-section 5.3.3.1. Coupure de sécurité 🚨
-
-Les systèmes de coupure de sécurité sont indispensables pour interrompre rapidement l’alimentation en cas d’urgence. Ils incluent divers dispositifs tels que **disjoncteurs** et **interrupteurs de sécurité**. Placés de manière stratégique, ces dispositifs permettent un accès rapide pour éviter tout incident.
-
-   :::warning Emplacement stratégique ⚠️
-   Placez les dispositifs de coupure dans des zones facilement accessibles et visibles pour permettre une intervention immédiate en cas de danger.
-   :::
-
----
-
-#### Sous-section 5.3.3.2. Commande fonctionnelle 🔌
-
-La commande fonctionnelle permet un contrôle optimal des appareils électriques, offrant des options de commande manuelles pour une flexibilité accrue et des commandes automatiques pour la sécurité. La **conception de l'interface utilisateur** doit être intuitive pour garantir une utilisation sécurisée par les opérateurs.
-
-   **Exemple :** Les interrupteurs automatiques pour l'éclairage dans les bureaux permettent d'optimiser l'efficacité énergétique tout en assurant une gestion sécurisée de l'éclairage.
-
----
-
-#### Sous-section 5.3.3.3. Fonctions simultanées ⚙️
-
-Les fonctions simultanées sont essentielles pour gérer plusieurs opérations à la fois sans compromettre la sécurité. Par exemple, un système électrique bien dimensionné permet de faire fonctionner simultanément un four, un réfrigérateur et un lave-linge dans un environnement domestique. Les **disjoncteurs** et autres dispositifs de protection doivent être choisis en fonction de leur capacité à gérer ces charges simultanées.
-
-   **Remarque :** Assurez-vous que les dispositifs de protection sont dimensionnés pour supporter les charges cumulées des appareils fonctionnant en simultané.
-
----
-
-#### Sous-section 5.3.3.4. Prescriptions applicables aux socles de prise de courant 🔌
-
-Les socles de prise de courant doivent répondre à des normes rigoureuses pour garantir la sécurité. Cela inclut une **hauteur appropriée d’installation** et une **étanchéité renforcée** dans les environnements humides, tels que les salles de bain et cuisines. De plus, chaque socle doit être conforme aux normes en vigueur pour assurer sa durabilité et prévenir les accidents.
-
-   :::info Installation dans les zones humides 🌊
-   Utilisez des prises étanches (IP44 minimum) dans les salles de bain pour prévenir les chocs électriques.
-   :::
-
----
-
-#### Sous-section 5.3.3.5. Dispositifs à refermeture automatique pour disjoncteurs et dispositifs de protection à courant différentiel-résiduel ⚡
-
-Les dispositifs à refermeture automatique apportent une couche de protection supplémentaire. Ces systèmes détectent une panne, interrompent l'alimentation, puis tentent de rétablir le courant après un intervalle prédéterminé. Cette fonctionnalité est particulièrement avantageuse dans les installations où une coupure prolongée pourrait provoquer des pertes ou des dysfonctionnements.
-
-   **Conseil :** Ces dispositifs sont particulièrement utiles pour les installations industrielles et les locaux techniques nécessitant une continuité de service.
-
----
-
-### Section 5.3.4. Appareils d’utilisation
-
-#### Sous-section 5.3.4.1. Appareils électrodomestiques 🍽️
-
-Les appareils électrodomestiques, comme les réfrigérateurs ou les machines à laver, consomment de l'énergie pour leurs diverses fonctions. Pour minimiser les coûts et l’impact environnemental, il est recommandé de choisir des appareils avec une **efficacité énergétique élevée** (classe A+++). Leur installation doit également respecter les normes de sécurité pour éviter les risques de choc ou d’incendie.
-
----
-
-#### Sous-section 5.3.4.2. Appareils d'éclairage 💡
-
-Les appareils d’éclairage doivent être choisis pour leur **efficacité lumineuse** et leur sécurité. Les **ampoules LED** sont par exemple très performantes en termes d'efficacité énergétique et de durabilité. Installez les luminaires conformément aux recommandations pour garantir une sécurité optimale et prolonger leur durée de vie.
-
-   :::tip Éclairage écoénergétique 🌱
-   Optez pour des luminaires LED pour réduire les coûts d’électricité et minimiser l’impact environnemental.
-   :::
-
----
-
-#### Sous-section 5.3.4.3. Appareils de chauffage 🔥
-
-Les appareils de chauffage nécessitent des dispositifs de sécurité pour prévenir les risques de surchauffe et d’incendie. En optant pour des **appareils à haut rendement**, il est possible de réduire la consommation énergétique et les coûts de chauffage tout en maintenant un confort thermique optimal.
-
-   **Exemple :** Un radiateur avec thermostat intégré permet de réguler la température et d’éviter les excès de consommation.
-
----
-
-#### Sous-section 5.3.4.4. Appareils de cuisson et fours 🍲
-
-Les appareils de cuisson, qu’ils soient à gaz, électriques ou à induction, doivent être installés en fonction des **exigences d’aération** et de sécurité. Il est essentiel de veiller à une bonne ventilation pour évacuer la chaleur et les gaz résiduels, en particulier dans les petits espaces.
-
-   **Astuce :** Assurez-vous que les cuisinières et fours disposent de dispositifs de sécurité anti-basculement et de coupure de gaz.
-
----
-
-#### Sous-section 5.3.4.5. Jouets électriques 🧸
-
-Les jouets électriques doivent respecter les normes de sécurité spécifiques pour minimiser les risques de choc électrique, notamment pour les enfants. Les matériaux utilisés doivent être non toxiques et résistants aux chocs pour garantir une utilisation en toute sécurité.
-
-   :::warning Sécurité enfants 👶
-   Vérifiez que les jouets portent la marque CE, garantissant leur conformité avec les normes de sécurité de l'UE.
-   :::
-
----
-
-#### Sous-section 5.3.4.6. Dispositifs enrouleurs 🔄
-
-Les enrouleurs, souvent utilisés pour les rallonges, doivent être conçus pour éviter les surcharges et les enchevêtrements. Lors de l'utilisation, évitez de dépasser la capacité maximale en branchant trop d’appareils, car cela pourrait provoquer une surchauffe.
-
-   **Conseil :** Privilégiez les enrouleurs avec protections thermiques intégrées pour éviter les risques de surchauffe.
-
----
-
-#### Sous-section 5.3.4.7. Prolongateurs 🔌
-
-Les prolongateurs doivent être choisis en fonction de leur capacité de charge et de la distance d’extension. Les modèles avec une **protection contre les surcharges** intégrée sont particulièrement recommandés pour garantir une utilisation sécurisée. Dans les environnements humides, assurez-vous que les prolongateurs sont adaptés à ces conditions.
-
----
-
-#### Sous-section 5.3.4.8. Outils portatifs à moteur 🛠️
-
-Les outils portatifs doivent être choisis et entretenus avec soin pour garantir une sécurité optimale. Il est important que chaque outil dispose de **dispositifs de protection** tels que des interrupteurs de sécurité. L'entretien régulier est également essentiel pour éviter les accidents et prolonger la durée de vie de l'équipement.
-
-   **Exemple :** Les perceuses et scies portatives doivent être inspectées régulièrement pour s'assurer que les protections sont en bon état.
-
----
-
-#### Sous-section 5.3.5.1. Tableaux de répartition et de manœuvre
-
-Les **tableaux de répartition** sont les centres névralgiques des installations électriques, assurant la distribution de l'électricité vers différents circuits tout en protégeant chaque segment contre les risques électriques.
-
-- **Dispositifs de sécurité** : Chaque circuit est protégé par un disjoncteur, qui permet d’isoler un segment en cas de surcharge ou de court-circuit. Cela limite les risques d’incendie et protège les appareils connectés.
-- **Accessibilité** : Les tableaux doivent être facilement accessibles, placés dans des lieux dégagés, bien ventilés et signalés pour faciliter les interventions d'urgence et la maintenance régulière.
-
-   :::warning Danger ! 🔥
-   Assurez-vous que les tableaux sont hors de portée des enfants et situés dans des endroits secs pour éviter tout risque d'humidité, qui pourrait entraîner des courts-circuits.
-   :::
-
-| **Caractéristique** | **Détails**                                                                               |
-|---------------------|-------------------------------------------------------------------------------------------|
-| **Sécurité**        | Protection individuelle pour chaque circuit                                              |
-| **Accessibilité**   | Emplacement dégagé et bien signalé                                                      |
-| **Protection**      | Résistance aux influences externes (poussière, humidité) pour un fonctionnement fiable   |
-
----
-
-#### Sous-section 5.3.5.2. Socles de prise de courant et éclairage
-
-Les **socles de prise de courant** et les dispositifs d'éclairage sont indispensables dans toute installation et doivent être installés pour garantir la sécurité d'usage.
-
-- **Socles de prise de courant** : Ils doivent être installés à des hauteurs adaptées et, dans les lieux fréquentés par des enfants, munis d'obturateurs pour empêcher les contacts accidentels.
-- **Dispositifs d'éclairage** : Ils doivent être choisis en fonction de l’intensité lumineuse nécessaire et de leur efficacité énergétique, et placés dans des zones stratégiques pour éviter les zones d’ombre.
-
-   :::tip Bonne pratique 💡
-   Installez des prises de courant avec protection enfant et veillez à ne pas surcharger les socles de prise pour éviter les surchauffes.
-   :::
-
----
-
-#### Sous-section 5.3.5.3. Dispositifs de protection à courant différentiel-résiduel (DDR)
-
-Les **DDR** détectent les fuites de courant qui peuvent provoquer des chocs électriques ou des incendies. En cas de fuite, le DDR coupe automatiquement l'alimentation.
-
-- **Fonctionnement** : Il compare le courant entre le conducteur de phase et le neutre, et en cas de différence anormale, il interrompt le circuit.
-- **Installations** : Dans les installations domestiques, les DDR de 30 mA sont utilisés dans les salles d'eau. Dans les installations industrielles, la sensibilité varie selon les risques.
-
-   :::info À savoir 📘
-   Les DDR de 300 mA sont souvent préférés dans les environnements industriels, où la protection des équipements est prioritaire, tandis que les DDR de 30 mA sont indispensables pour protéger les utilisateurs dans les habitations.
-   :::
-
----
-
-#### Sous-section 5.3.5.4. Interrupteurs et autres appareils de manœuvre
-
-Les **interrupteurs** et autres dispositifs de manœuvre contrôlent le flux d'électricité dans les circuits. Ils doivent être sélectionnés pour leur capacité à supporter les courants de service sans risque de surchauffe.
-
-   **Point d'attention** : Assurez-vous que les interrupteurs installés dans les zones humides sont étanches pour éviter tout risque de choc.
-
----
-
-#### Sous-section 5.3.5.5. Coupe-circuit à fusible et disjoncteurs
-
-Les **coupe-circuits à fusible** et les **disjoncteurs** protègent les circuits contre les surcharges et les courts-circuits.
-
-| **Type de protection**    | **Utilisation**                 | **Avantages**                           |
-|---------------------------|---------------------------------|-----------------------------------------|
-| **Coupe-circuit à fusible** | Usage domestique et industriel | Réactif, bon marché                     |
-| **Disjoncteur**           | Protection générale             | Réutilisable, permet la coupure manuelle|
-
-   :::tip Sécurité renforcée 🔐
-   Installez des disjoncteurs facilement accessibles pour pouvoir couper le courant en cas d'urgence sans délai.
-   :::
-
----
-
-#### Sous-section 5.4.2.1. Prise de terre
-
-La **prise de terre** joue un rôle essentiel en fournissant un chemin de moindre résistance pour les courants de défaut, limitant ainsi les risques d’électrocution et d’incendie. Elle doit être installée dans un sol de bonne conductivité et maintenue en bon état pour garantir une dissipation efficace du courant.
-
-| **Type de prise de terre** | **Description**                                                                                |
-|----------------------------|------------------------------------------------------------------------------------------------|
-| **Piquet**                 | Tige métallique enfoncée dans le sol, efficace pour les installations domestiques              |
-| **Boucle de fondation**    | Conducteur métallique sous la fondation, assurant une connexion continue                      |
-| **Plaque de terre**        | Plaque métallique enterrée, idéale pour les sols à faible conductivité                         |
-
-   :::example Pratique courante 🛠️
-   Dans les installations résidentielles, les piquets de terre sont courants car ils offrent une solution simple et fiable. Les boucles de fondation, quant à elles, sont souvent privilégiées dans les grandes structures pour assurer une continuité optimale.
-   :::
-
-   :::danger Attention ! 🚨
-   Une mauvaise connexion à la prise de terre augmente considérablement le risque de chocs électriques, notamment en cas de défaut sur un appareil électrique.
-   :::
-
----
-
-#### Section 5.4.1. Généralités
-
-Les **mises à la terre** et les **conducteurs de protection** sont essentiels pour assurer la sécurité des installations électriques. Leur principal rôle est de rediriger les courants de défaut vers la terre, protégeant ainsi les utilisateurs et le matériel. Cela prévient non seulement les électrocutions, mais limite aussi les courts-circuits et les incendies.
-
-> **Exemple :** En cas de fuite de courant, un disjoncteur différentiel associé à une mise à la terre fiable interrompt le circuit pour éviter tout danger pour les personnes.
-
----
-
-### Section 5.3.6. Ensemble d’appareillage
-
-Les ensembles d'appareillage regroupent des dispositifs de commande, de protection et de mesure, permettant une gestion centralisée et sécurisée de la distribution d'énergie dans des installations complexes.
-
-#### Sous-section 5.3.6.1. Domaine d'application
-
-Ces ensembles sont principalement utilisés dans les installations industrielles, les immeubles de bureaux et les infrastructures nécessitant une alimentation électrique stable et bien contrôlée.
-
-   :::tip Utilisation industrielle ⚙️
-   Les ensembles d'appareillage sont adaptés aux installations nécessitant un contrôle centralisé et une sécurité renforcée, comme les chaînes de production.
-   :::
-
-#### Sous-section 5.3.6.2. Prescriptions générales
-
-Les ensembles d'appareillage doivent être installés dans des environnements protégés, afin d’éviter toute surcharge, surchauffe ou exposition à des éléments corrosifs. Les dispositifs de commande, de coupure et de répartition intégrés facilitent la gestion de l'alimentation et la sécurisation des installations.
-
-#### Sous-section 5.3.7.1. Généralités sur les circuits de mesure
-
-Les **circuits de mesure** permettent de surveiller en temps réel la consommation électrique et les performances du réseau. En installant des voltmètres, ampèremètres et wattmètres dans les tableaux de répartition, il devient possible de détecter les surcharges et de contrôler l’efficacité énergétique.
-
-   :::info Surveillance optimale 🔍
-   Ces circuits de mesure permettent une gestion proactive de la consommation d’énergie et aident à détecter les anomalies avant qu’elles ne se transforment en pannes.
-   :::
-
-#### Sous-section 5.3.7.2. Circuits de mesure de courant
-
-Les circuits de mesure de courant jouent un rôle essentiel dans la surveillance des charges, en permettant une détection rapide des surcharges. Dans les grandes installations, l'utilisation de **transformateurs de courant** permet de mesurer avec précision les courants sans risquer de surcharger les appareils de mesure.
-
-   :::example Application pratique ⚡
-   Dans les installations industrielles, les circuits de mesure de courant sont souvent associés à des dispositifs de commande pour ajuster les charges en fonction des besoins énergétiques.
-   :::
-
----
-
-## CHAPITRE 5.4. MISES À LA TERRE, CONDUCTEURS DE PROTECTION ET LIAISONS ÉQUIPOTENTIELLES
-
-Les **mises à la terre** et les **conducteurs de protection** sont des éléments vitaux pour la sécurité électrique, servant de voie de moindre résistance pour les courants de défaut. Cela minimise les risques de choc électrique et les dommages aux équipements. Dans cette section, nous examinons les éléments techniques clés et les exigences pour garantir une mise à la terre fiable.
-
-### Section 5.4.1. Généralités
-
-Assurer la sécurité des installations électriques repose sur la mise en œuvre adéquate des mises à la terre et des conducteurs de protection. En déviant les courants de défaut vers la terre, ces éléments protègent les utilisateurs et les équipements, évitant ainsi les électrocutions, les courts-circuits et les incendies.
-
-> **Exemple pratique** 🔍 : Lorsqu’un disjoncteur différentiel est couplé à une mise à la terre efficace, il interrompt le circuit en cas de courant de fuite, évitant ainsi des chocs électriques potentiellement mortels.
-
----
-
-### Section 5.4.2. Installations de mise à la terre
-
-Les installations de mise à la terre comprennent une **prise de terre** et des **conducteurs de terre**, reliant les équipements à la terre pour garantir la sécurité.
-
-#### Sous-section 5.4.2.1. Prise de terre
-
-La prise de terre est un élément essentiel de la sécurité électrique. Elle constitue le point de contact avec le sol, permettant de dissiper le courant de défaut. Selon le sol et les conditions d’installation, différents types de prises de terre sont recommandés.
-
-| **Type de prise de terre**  | **Description**                                                                                 |
+| **Criteria**                | **Aanbeveling**                                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| **Piquet**                  | Tige métallique enfoncée dans le sol, idéale pour les installations domestiques simples.        |
-| **Boucle de fondation**     | Conducteur placé sous la fondation d'un bâtiment, offrant une connexion durable et continue.    |
-| **Plaque de terre**         | Plaque métallique enfouie, adaptée aux sols à faible conductivité.                              |
+| **Toegankelijkheid**        | Installeer leidingen op gemakkelijk bereikbare locaties voor snelle interventies.               |
+| **Stevige Bevestigingen**   | Gebruik sterke steunen om de leidingen stevig op hun plaats te houden en beweging te voorkomen.  |
+| **Circuitmarkering**        | Voorzie elk circuit van duurzame labels voor een eenvoudige identificatie.                       |
 
-La prise de terre doit être installée dans un sol offrant une conductivité optimale et doit être protégée de la corrosion pour une dissipation efficace du courant.
+   :::tip Beste Praktijken voor Leidingen 🔧
+   - **Directe toegang voorzien**: Vermijd het insluiten van leidingen in onbereikbare muren of plafonds om snelle toegang bij storingen mogelijk te maken.
+   - **Duidelijke markering**: Elke leiding moet zichtbaar worden gemarkeerd met informatie over de inhoud en herkomst, vooral in complexe omgevingen zoals industriële gebouwen.
+   - **Trillingsbestendige steunen**: In omgevingen met veel trillingen (bijvoorbeeld industriële sites), moeten steunen speciaal worden ontworpen om te voorkomen dat leidingen losraken of verschuiven.
+   :::
 
-#### Sous-section 5.4.2.2. Conducteur de terre
+   :::info Tip 💡
+   Een goede markering van leidingen bespaart tijd tijdens interventies en vermindert het risico op fouten bij diagnose of reparaties. Gebruik duurzame labels en zorg ervoor dat deze zichtbaar en leesbaar blijven in de loop der tijd.
+   :::
 
-Le **conducteur de terre** relie la prise de terre aux équipements. Il doit être conçu pour résister aux influences externes et aux courants de défaut.
+De toegankelijkheid en robuustheid van elektrische leidingen dragen bij aan de veiligheid en duurzaamheid van installaties en vergemakkelijken interventies indien nodig.
 
-- **Matériaux** : Le cuivre et l’aluminium sont couramment utilisés pour leur conductivité élevée.
-- **Installation** : Protégé mécaniquement pour éviter les dommages, il doit également être dimensionné correctement pour supporter les courants de défaut.
+### Sectie 5.1.6. Identificatie van Apparatuur ⚙️
 
-   :::tip Bonnes pratiques pour la pose du conducteur de terre 💡
-   Assurez-vous que le conducteur de terre est installé dans un conduit dédié afin de minimiser l'exposition aux chocs et autres interférences.
+De **identificatie van elektrische installaties** is essentieel voor snelle en veilige interventies, en maakt het onderhoud en het beheer van apparatuur eenvoudiger. Een duidelijk en gestructureerd identificatiesysteem zorgt niet alleen voor een beter begrip van de installatieconfiguratie, maar helpt ook fouten tijdens werkzaamheden te voorkomen, waardoor de algehele veiligheid wordt verbeterd.
+
+   :::tip Waarom Identificatie Essentieel is 📌
+   Een goede identificatie stelt technici in staat om snel problemen te diagnosticeren en elk kritisch onderdeel in één oogopslag te lokaliseren. Het vermindert ook de kans op fouten doordat elk apparaat onmiddellijk herkenbaar is.
    :::
 
 ---
 
-### Section 5.4.3. Conducteurs de protection
+#### Onderafdeling 5.1.6.1. Identificatie van Elektrisch Materieel 🏷️
 
-Les **conducteurs de protection** relient les masses des équipements à la terre et jouent un rôle crucial dans la sécurité de l’installation. Ils doivent être installés avec soin, en tenant compte de leur dimensionnement pour gérer les courants de défaut.
+Elk onderdeel van de installatie moet **duidelijk geïdentificeerd** zijn voor een snel begrip van de functie en om interventies te vergemakkelijken.
 
-#### Sous-section 5.4.3.1. Nature des conducteurs
+- **Zichtbare labels**: Elk verdeelbord, elke stroomonderbreker en schakelaar moet voorzien zijn van een duidelijk label met de functie, circuitnummer en relevante veiligheidswaarschuwingen.
+- **Referentiedocumenten**: Plaats schema's en handleidingen in de buurt van de belangrijkste apparatuur. Deze documenten moeten gedetailleerde uitleg bevatten over elk onderdeel om reparaties en troubleshooting te vergemakkelijken.
+- **Codering**: Gebruik kleurcodes of alfanumerieke systemen voor een nog eenvoudigere identificatie. Bijvoorbeeld, stroomonderbrekers kunnen rood worden gemarkeerd voor overbelastingsbeveiliging, en aardlekschakelaars geel voor aardfoutbeveiliging.
 
-Les conducteurs de protection sont principalement en cuivre en raison de ses excellentes propriétés conductrices et de sa résistance à la corrosion. Dans certaines installations, l’aluminium est également utilisé.
+| Apparatuur                 | Kleurcode          | Beschrijving                                   |
+|----------------------------|--------------------|------------------------------------------------|
+| **Stroomonderbreker**      | Rood               | Bescherming tegen overbelasting                |
+| **Aardlekschakelaar**      | Geel               | Bescherming tegen aardlekstromen               |
+| **Stopcontacten**          | Groen              | Beveiligde voedingspunten                      |
 
-#### Sous-section 5.4.3.2. Section minimale des conducteurs
-
-La section des conducteurs de protection est déterminée en fonction des caractéristiques de chaque circuit.
-
-- **Installations domestiques** : Une section minimale de 2,5 mm² est souvent requise.
-- **Installations industrielles** : En fonction des intensités de courant, des sections de 10 mm² ou plus peuvent être nécessaires.
-
-   :::warning Attention 👀
-   Un dimensionnement inapproprié des conducteurs de protection peut entraîner des échauffements et augmenter le risque d’incendie.
+   :::info Praktische Tip 🛠️
+   Gebruik duurzame, weerbestendige labels om ervoor te zorgen dat ze leesbaar blijven onder verschillende omgevingsomstandigheden (vocht, hitte).
    :::
 
-#### Sous-section 5.4.3.3. Repérage des conducteurs
-
-Le repérage des conducteurs de protection est essentiel pour garantir une intervention rapide et sécurisée. Utiliser des couleurs normalisées, comme le vert et jaune, facilite la reconnaissance.
-
-#### Sous-section 5.4.3.4. Installation des conducteurs
-
-Les conducteurs de protection doivent être installés dans des trajets protégés et de préférence en ligne droite, réduisant ainsi la résistance et minimisant les risques de dommage.
-
-   :::example Exemple de pose de conducteurs de protection 🛠️
-   Dans une installation en extérieur, le conducteur de protection doit être protégé par une gaine étanche pour éviter la corrosion et les dommages mécaniques.
-   :::
-
-#### Sous-section 5.4.3.5. Continuité électrique
-
-La continuité électrique est essentielle pour permettre au courant de défaut d’atteindre la terre. Une continuité fiable permet aux dispositifs de protection de détecter immédiatement un défaut et de couper le circuit.
-
-> **À noter :** Une bonne continuité assure que les dispositifs de protection peuvent réagir rapidement en cas de défaut, réduisant les risques pour les utilisateurs.
-
-#### Sous-section 5.4.3.6. Connexion des conducteurs au matériel électrique
-
-Les conducteurs de protection doivent être solidement connectés aux équipements pour garantir la sécurité et éviter toute déconnexion accidentelle.
-
-| **Méthode de connexion**   | **Avantages**                        | **Inconvénients**                        |
-|----------------------------|--------------------------------------|------------------------------------------|
-| **Borniers**               | Faciles à installer et à manipuler   | Risque de desserrage avec le temps       |
-| **Soudure ou sertissage**  | Connexion permanente et fiable       | Moins flexible pour les modifications    |
+   ### Praktisch Voorbeeld 💡
+   Bij het installeren van een verdeelbord in een grote installatie, label elke stroomonderbreker met een beschrijving van het bediende gebied (bijv.: "Keuken", "Kantoor 1"). Voeg een overzichtsschema toe aan de binnenkant van de deur van het verdeelbord om gebruikers en technici te helpen.
 
 ---
 
-### Section 5.4.4. Liaisons équipotentielles
+#### Onderafdeling 5.1.6.2. Kleurcode van Geïsoleerde Geleiders 🎨
 
-Les **liaisons équipotentielles** créent une connexion entre les éléments métalliques conducteurs pour garantir un potentiel uniforme, réduisant ainsi le risque de choc électrique en cas de défaut d'isolement.
+De **kleurcode** van geïsoleerde geleiders is een essentiële standaard voor veiligheid in elektrische installaties. Onjuiste bedrading kan leiden tot kortsluiting of elektrocutiegevaar. Door deze kleurcode te volgen, kunnen elektriciens onmiddellijk de functie van elke geleider identificeren.
 
-#### Sous-section 5.4.4.1. Liaisons équipotentielles principales
+| **Kleur**             | **Functie**                                 |
+|-----------------------|---------------------------------------------|
+| Bruin                 | Fase                                        |
+| Blauw                 | Nulgeleider                                 |
+| Groen/Geel            | Aardgeleider                                |
+| Grijs                 | Fase (voor driefasige circuits)             |
+| Zwart                 | Fase (voor driefasige circuits)             |
+| Rood                  | Fase (historisch, vermijden voor nieuwe installaties) |
 
-Les liaisons équipotentielles principales assurent une connexion entre les conducteurs de protection et les éléments conducteurs de l’installation, tels que la tuyauterie et les armatures métalliques, pour uniformiser le potentiel de l'installation.
+   :::warning Veiligheidswaarschuwing ⚠️
+   Het naleven van de kleurcode is cruciaal om bedradingsfouten te voorkomen en de veiligheid van iedereen die aan de installatie werkt te waarborgen. Elke afwijking moet gedocumenteerd en duidelijk gemarkeerd zijn.
+   :::
 
-> **Exemple d'application :** Dans une salle de bains, relier les tuyaux métalliques à la terre permet d'éviter les chocs en cas de défaut électrique.
+   ### Praktisch Voorbeeld 💡
+   Bij een industriële installatie met driefasige circuits, zorg ervoor dat de gestandaardiseerde kleurcode voor elke fase wordt toegepast. Dit systeem vereenvoudigt interventies en zorgt voor continuïteit in de identificatie tussen installaties, waardoor verwarring wordt voorkomen.
 
-#### Sous-section 5.4.4.2. Liaisons équipotentielles supplémentaires
+---
 
-Les liaisons équipotentielles supplémentaires sont spécifiquement installées dans des pièces à risque, comme les salles de bains ou les cuisines, pour assurer une sécurité accrue en égalisant le potentiel entre les éléments métalliques.
+## HOOFDSTUK 5.2. AANVULLENDE REGELS VOOR LEIDINGEN
 
-| **Lieu**             | **Éléments connectés**                                 |
-|----------------------|--------------------------------------------------------|
-| **Salle de bains**   | Robinets, tuyaux, baignoires, sol chauffant           |
-| **Locaux techniques**| Armoires métalliques, conduits, tuyauterie            |
+De **aanvullende regels voor leidingen** zijn bedoeld om ervoor te zorgen dat elke elektrische leiding voldoet aan strikte normen voor veiligheid en duurzaamheid. Dit betreft met name de materiaalsterkte, het type leiding en de bescherming tegen externe risico's.
 
-   :::tip Importance des liaisons équipotentielles ⚡
-   Ces connexions empêchent les différences de potentiel qui peuvent causer des chocs électriques dangereux en cas de défaut d’isolement.
+---
+
+### Sectie 5.2.1. Algemene Richtlijnen voor Leidingen 🚧
+
+Elektrische leidingen moeten worden gekozen en geïnstalleerd volgens strenge criteria, waarbij rekening wordt gehouden met de specifieke gebruiksomstandigheden en externe invloeden, zoals vocht of temperatuur. Een goede keuze van leidingen garandeert de veiligheid en verlengt de levensduur van de installatie.
+
+   :::tip Tips voor de Keuze van Leidingen 🛠️
+   - **Houd rekening met de omgeving**: Kies materialen die bestand zijn tegen lokale omstandigheden (vocht, hitte, corrosie).
+   - **Respecteer de geldende normen**: Volg de lokale en Europese regelgeving voor elk type leiding.
    :::
 
 ---
 
-## CHAPITRE 5.5. INSTALLATIONS DE SÉCURITÉ
+#### Onderafdeling 5.2.1.1. Identificatiecode van Elektrische Leidingen 📋
 
-Les **installations de sécurité** sont vitales pour maintenir des services essentiels lors de défaillances de l'alimentation principale. Que ce soit l’éclairage de secours ou la ventilation, ces systèmes protègent les occupants et facilitent les opérations de secours en garantissant un environnement sécurisé.
+Een identificatiecode helpt bij het eenvoudig herkennen van de verschillende soorten leidingen in een installatie. Elke code geeft het materiaal, de functie en de locatie aan, wat het onderhoud vergemakkelijkt en het risico op fouten vermindert.
 
----
+| Code   | Beschrijving                            |
+|--------|-----------------------------------------|
+| **ALU**  | Leiding van aluminium                    |
+| **CU**   | Leiding van koper                        |
+| **PVC**  | Leiding van PVC                          |
+| **STAAL**| Leiding van staal                        |
+| **ISOL** | Geïsoleerde leiding voor extra veiligheid |
 
-### Section 5.5.1. Généralités
-
-Les installations de sécurité doivent assurer une **alimentation continue** aux dispositifs critiques, notamment dans les bâtiments publics et industriels. Parmi les équipements clés : **éclairage de secours**, **alarmes incendie**, et **systèmes de ventilation**.
-
----
-
-### Section 5.5.2. Objectifs
-
-Les objectifs principaux des installations de sécurité incluent :
-
-- **Sécurité des occupants** : Maintenir les équipements de secours en état de marche.
-- **Facilitation de l’évacuation** : Assurer des conditions optimales pour une évacuation rapide et sécurisée.
-- **Prévention des accidents** : Réduire les risques en cas de défaillance électrique.
-
-> **Astuce sécurité** 🚨 : Lors de la conception d'une installation de sécurité, envisagez une redondance des systèmes critiques pour pallier toute défaillance de la source principale d’alimentation.
+   :::info Gebruik van Identificatiecode 🗂️
+   Breng labels of markeringen aan op elke leiding om het type leiding duidelijk aan te geven. Dit helpt om snel de juiste leiding te vinden bij interventies.
+   :::
 
 ---
 
-### Section 5.5.3. Détermination des installations de sécurité
+#### Onderafdeling 5.2.1.2. Keuze van Elektrische Leidingen ⚡
 
-Le choix des installations de sécurité dépend du **type de bâtiment**, du **nombre d’occupants**, et des **risques présents**.
+De keuze van leidingen hangt af van verschillende criteria, zoals de installatieomgeving en de elektrische belasting.
 
-> **Exemple pratique** 🏥 : Dans un hôpital, une alimentation de secours fiable est cruciale pour les dispositifs médicaux vitaux. Les générateurs de secours sont généralement utilisés pour garantir la continuité des soins en cas de coupure de courant.
+- **Vochtige omgevingen**: Gebruik PVC- of roestvrijstalen leidingen om bestand te zijn tegen corrosie.
+- **Hoge temperaturen**: Kies voor metalen leidingen of hittebestendige buizen.
+- **Zware belastingen**: In industriële omgevingen, gebruik robuuste leidingen die bestand zijn tegen hoge stromen.
 
----
-
-### Section 5.5.4. Détermination du temps de maintien de la fonction des consommateurs de sécurité
-
-Les équipements de sécurité doivent rester fonctionnels pendant un **temps prédéfini**, en fonction des normes et de la configuration du lieu. Le **temps de maintien** varie en fonction des types d’installations :
-
-| **Type d'installation**   | **Temps de maintien recommandé** |
-|---------------------------|----------------------------------|
-| **Éclairage de secours**  | Minimum 1 heure                 |
-| **Systèmes de ventilation**| Jusqu’à 3 heures               |
+   :::warning Brandveiligheid 🔥
+   Leidingen moeten brandwerend zijn in gebieden met brandrisico om de verspreiding van vlammen bij oververhitting te beperken.
+   :::
 
 ---
 
-### Section 5.5.5. Mesures à prendre en cas de perte de la source normale
+#### Onderafdeling 5.2.1.3. Leggen van Geleiders 🛠️
 
-Les dispositifs de sécurité peuvent intégrer ou non une source de secours. Deux types de consommateurs de sécurité sont courants :
+Bij het leggen van geleiders is het belangrijk om de veiligheidsvoorschriften te respecteren en toegankelijkheid te garanderen. Zorg ervoor dat de minimale afstanden tussen geleiders worden aangehouden om interferentie te voorkomen.
 
-#### Sous-section 5.5.5.1. Consommateurs de sécurité avec source de sécurité intégrée
+| Legcriterium                | Aanbevolen Maatregel                                                   |
+|-----------------------------|------------------------------------------------------------------------|
+| **Minimale afstand**        | Houd voldoende afstand om kortsluiting te voorkomen                    |
+| **Bescherming van geleiders** | Gebruik beschermbuizen om de kabels te beschermen tegen mechanische schade |
+| **Toegankelijkheid**        | Zorg voor eenvoudige toegang voor reparaties en inspecties             |
 
-Certains dispositifs, comme l'éclairage de secours, sont dotés de **sources de sécurité intégrées** (batteries, accumulateurs) qui prennent le relais en cas de coupure. Ces solutions offrent une **réactivité immédiate**, assurant une continuité sans interruption.
-
-#### Sous-section 5.5.5.2. Consommateurs de sécurité avec source de sécurité non-intégrée
-
-D’autres systèmes dépendent d'une source de sécurité externe, telle qu’un générateur de secours. Ces systèmes sont recommandés pour les installations plus vastes et nécessitent des **tests périodiques** pour garantir leur efficacité.
-
----
-
-### Section 5.5.6. Mesures à prendre en cas d’incendie
-
-Lors d’un incendie, certaines installations de sécurité doivent rester actives pour permettre l’évacuation et faciliter l’intervention des secours.
-
-#### Sous-section 5.5.6.1. Généralités
-
-Les installations de sécurité doivent résister aux effets de l’incendie, garantissant le **fonctionnement des circuits critiques** pendant un temps suffisant pour assurer la sécurité des occupants.
-
-#### Sous-section 5.5.6.2. Source de sécurité non-intégrée
-
-Les sources de sécurité non intégrées, comme les groupes électrogènes distants, doivent être **positionnées loin des zones à risque** pour éviter toute exposition directe aux flammes.
-
-> **Point clé** 🔥 : Les groupes électrogènes externes doivent être installés à une distance sécurisée des bâtiments pour éviter leur défaillance en cas de propagation de l’incendie.
-
-#### Sous-section 5.5.6.3. Tableaux de répartition et de manœuvre des circuits de sécurité
-
-Les **tableaux de sécurité** centralisent la gestion des circuits de sécurité, assurant une protection renforcée pour les équipements critiques.
-
-| **Élément**             | **Fonction**                                       |
-|-------------------------|----------------------------------------------------|
-| **Tableau de sécurité** | Centralise et sécurise les circuits de secours     |
-| **Disjoncteurs**        | Protègent contre les surintensités et court-circuits |
-
-#### Sous-section 5.5.6.4. Canalisations électriques des circuits de sécurité
-
-Les canalisations de sécurité doivent être protégées contre les hautes températures et les risques d’incendie. 
-
-> *Note technique* 🔧 : Utilisez des **gaines métalliques** ou des **conduits isolés** pour préserver l'intégrité des câbles de sécurité en cas d'exposition aux flammes.
+   :::tip Beste Praktijken voor Kabellegging 🔧
+   Leg de leidingen zo dat ze eenvoudig toegankelijk zijn voor toekomstige interventies. Zorg ervoor dat de kabels stevig zijn bevestigd en beschermd tegen trillingen.
+   :::
 
 ---
 
-### Section 5.5.7. Mesures à prendre en cas de défaut électrique
+#### Onderafdeling 5.2.1.4. Isolatie van Geleiders 🛡️
 
-Les défauts électriques, tels que les **surcharges**, **courts-circuits**, ou **défauts à la terre**, peuvent perturber les circuits de sécurité. Il est donc essentiel de gérer ces défauts pour préserver l’intégrité de l'installation.
+De isolatie van geleiders is essentieel om kortsluiting en elektrische schokken te voorkomen.
 
-#### Sous-section 5.5.7.1. Généralités
+- **Isolatiematerialen**: Kies materialen die geschikt zijn voor de installatieomstandigheden, zoals PVC voor vochtige omgevingen of hittebestendig rubber.
+- **Regelmatige tests**: Voer periodieke controles uit om ervoor te zorgen dat de isolatie effectief blijft.
 
-Les installations de sécurité doivent pouvoir **résister aux défauts électriques** tout en continuant à fonctionner. Les objectifs incluent :
+   :::info Isolatie: Belangrijke Informatie 🛡️
+   Een goede isolatie vermindert het risico op elektrocutie en verhoogt de duurzaamheid van de geleiders.
+   :::
 
-- **Maintien de l’alimentation des circuits critiques** malgré les défauts.
-- **Protection des équipements** pour limiter les risques pour les utilisateurs.
-- **Réparation rapide** pour un retour à la normale sans délai.
+---
 
-#### Sous-section 5.5.7.2. Mesures de protection générales des circuits de sécurité
+#### Onderafdeling 5.2.1.5. Mechanische Weerstand - Doorvoeringen 🚧
 
-Les dispositifs de sécurité nécessitent des protections spécifiques pour gérer et isoler les défauts, sans compromettre les fonctions essentielles.
+Doorvoeringen door muren, plafonds of vloeren moeten zorgvuldig worden uitgevoerd om de integriteit van de leidingen te waarborgen.
 
-| **Dispositif de protection** | **Fonction**                                      |
+- **Mechanische bescherming**: Gebruik beschermbuizen of metalen leidingen om te voorkomen dat kabels worden beschadigd tijdens de doorvoering.
+- **Waterdichtheid**: Zorg voor afdichtingen om vocht of verontreinigingen buiten te houden.
+
+   :::tip Herinnering bij Doorvoeringen 🌧️
+   Zorg ervoor dat de isolatie intact blijft door vochtinfiltratie te vermijden en de kabels te beschermen tegen beschadigingen bij doorvoeringen.
+   :::
+
+---
+
+### Sectie 5.2.2. Montagewijzen van Leidingen 🏗️
+
+De **montagewijze van leidingen** heeft direct invloed op de veiligheid en prestaties van elektrische installaties. Elke montagetechniek moet worden gekozen op basis van de omgeving, spanning en specifieke behoeften van elke installatie.
+
+   :::tip Beste Praktijken voor Leidingmontage 🛠️
+   - **Omgevingsanalyse**: Houd rekening met de omgevingscondities (vocht, temperatuur) bij het kiezen van de montagetechniek.
+   - **Toegankelijkheid**: Kies voor gemakkelijk toegankelijke installaties om het onderhoud te vereenvoudigen.
+   - **Verhoogde veiligheid**: Gebruik extra beschermingen in risicovolle gebieden.
+   :::
+
+---
+
+#### Onderafdeling 5.2.2.1. Lage Spanning ⚡
+
+Installaties voor lage spanning vereisen **specifieke voorzorgsmaatregelen** om de veiligheid van de gebruikers te garanderen:
+
+- **Versterkte isolatie**: Leidingen moeten zo worden geïnstalleerd dat ze contact met geleidende delen vermijden. Gebruik isolerende buizen of beschermingskasten.
+- **Toegankelijkheid**: In huishoudelijke of commerciële omgevingen, geef de voorkeur aan ingebouwde of beschermde leidingen om het risico op ongelukken te verminderen.
+
+| Criterium                   | Aanbevolen Maatregel                              |
+|-----------------------------|---------------------------------------------------|
+| Isolatie                    | Gebruik buizen en kasten om contact te voorkomen  |
+| Positionering               | Plaats buiten het bereik van het publiek          |
+| Normen                      | Voldoen aan de normen voor lage spanning          |
+
+---
+
+#### Onderafdeling 5.2.2.2. Zeer Lage Spanning (ZLS) 🔋
+
+Installaties met **zeer lage spanning (ZLS)** vereisen ook specifieke veiligheidsmaatregelen :
+
+- **Geschikte materialen** : Kies materialen die bestand zijn tegen laagspanningsomgevingen, zoals PVC-leidingen.
+- **Signalisatie** : Identificeer duidelijk de ZLS-circuits om verwarring tijdens interventies te voorkomen.
+
+| Kenmerk                   | Aanbevolen Materiaal                          |
+|---------------------------|-----------------------------------------------|
+| Vochtbestendigheid        | PVC-leidingen                                 |
+| Signalisatie              | Specifieke labels en markeringen             |
+| Geleiderbescherming       | Schokbestendige buizen                        |
+
+   :::warning Let op 🛑
+   Installaties met zeer lage spanning moeten voldoen aan strikte normen om elk elektrisch risico te vermijden, zelfs in omgevingen met lage stroomsterkte.
+   :::
+
+---
+
+#### Onderafdeling 5.2.2.3. Veiligheidszeerlagenspanning (SELV) 🛡️
+
+Bij **veiligheidszeerlagenspanning (SELV)** ligt de prioriteit op bescherming tegen elektrische schokken. Belangrijke aandachtspunten zijn:
+
+- **Extra bescherming** : Specifieke beveiligingsapparaten, zoals veiligheidschakelaars, zijn vereist om elektrische schokken te voorkomen.
+- **Versterkte isolatie** : Gebruik isolatiematerialen van hoge kwaliteit, geschikt voor de SELV-eisen, om optimale isolatie te garanderen.
+
+| Soort Bescherming          | Eisen                                            |
+|----------------------------|--------------------------------------------------|
+| Isolatiemateriaal          | Materialen met hoge schokbestendigheid           |
+| Beveiligingsapparaten      | Schakelaars en relais voor extra bescherming     |
+| Normen                     | Voldoen aan de SELV-vereisten                     |
+
+---
+
+#### Onderafdeling 5.2.2.4. Aanvullende Installatiewijzen 🔗
+
+Soms zijn **aanvullende installatiewijzen** nodig om de veiligheid en duurzaamheid van de installaties te versterken:
+
+- **Kabelgoten en kabelbruggen** : Gebruik kabelgoten of kabelbruggen om leidingen in industriële omgevingen te beschermen.
+- **Stevige bevestigingen** : Zorg ervoor dat de leidingen stevig zijn vastgezet om trillingen en ongewenste verplaatsingen te voorkomen.
+
+| Aanvullende Installatiewijze | Toepassing                                        |
 |------------------------------|---------------------------------------------------|
-| **Disjoncteurs automatiques** | Isolent rapidement les circuits défaillants      |
-| **Systèmes de surveillance**  | Contrôlent en continu et alertent en cas de défaut |
+| Kabelgoten                   | Bescherming en organisatie van zichtbare kabels   |
+| Kabelbruggen                 | Beveiliging van leidingen in industriële omgevingen |
+| Stevige bevestigingen        | Stabiliteit van kabels waarborgen                 |
 
-#### Sous-section 5.5.7.3. Protection contre les surcharges dans les circuits de sécurité
-
-Pour protéger les équipements de sécurité, les circuits de sécurité sont dotés de **dispositifs anti-surcharge** ajustés à la puissance de chaque appareil. Ces dispositifs empêchent les circuits de dépasser leur capacité, garantissant ainsi une fiabilité maximale.
-
-> **Exemple d'application** 🔋 : Un éclairage de secours protégé contre les surcharges assurera sa disponibilité durant une évacuation, même en cas de panne de la source principale.
-
-#### Sous-section 5.5.7.4. Protection contre les courts-circuits dans les circuits de sécurité
-
-Les **courts-circuits** sont l'une des principales menaces pour les circuits de sécurité. Lorsqu'un court-circuit se produit, il est crucial que le **disjoncteur** réagisse immédiatement pour isoler la partie endommagée sans impacter le reste de l'installation. Une réponse rapide réduit non seulement les risques de dommages matériels mais assure également la sécurité de tous les autres circuits actifs.
-
-| **Type de circuit**       | **Protection recommandée**                                           |
-|---------------------------|----------------------------------------------------------------------|
-| **Circuits d’éclairage**  | Utilisation d’un disjoncteur rapide avec une capacité de rupture élevée. |
-| **Systèmes de ventilation** | Préférer un fusible à haute sensibilité pour éviter la propagation du défaut. |
-
-> **Astuce pour les installateurs** ⚙️ : Optez pour des disjoncteurs à réaction rapide dans les circuits critiques où un temps de coupure minimal est essentiel. Cela minimise les interruptions des fonctions de sécurité.
+   :::info Opmerking 📝
+   Kabelgoten en kabelbruggen vergemakkelijken ook het onderhoud door de kabels beter toegankelijk te maken.
+   :::
 
 ---
 
-#### Sous-section 5.5.7.5. Protection contre les défauts à la terre dans les circuits de sécurité
+### Sectie 5.2.3. Keuze en Installatie op Basis van Externe Invloeden 🌍
 
-Les **défauts à la terre** provoquent des courants de fuite potentiellement dangereux, entraînant des risques de dysfonctionnement dans les circuits de sécurité. Pour contrer cela, il est indispensable d'installer des **dispositifs de protection à courant différentiel (DDR)** qui détectent et isolent rapidement les fuites de courant vers la terre, protégeant ainsi l’installation et les occupants.
-
-*Note technique* 🔍 : Les circuits de sécurité équipés de DDR doivent faire l'objet de tests réguliers pour garantir leur efficacité en cas de défaut. Une vérification périodique assure qu'ils réagiront correctement lors d’un incident.
-
-> **Exemple pratique** 🛠️ : Dans une zone à haut risque, comme une salle technique, l'installation de DDR haute sensibilité (par exemple, 30 mA) réduit le risque de choc électrique en cas de fuite de courant, renforçant la sécurité.
+Externe invloeden, zoals temperatuur, vochtigheid of trillingen, spelen een cruciale rol bij de keuze van leidingen. Het aanpassen van de leidingen aan de omgevingsomstandigheden is essentieel om de veiligheid en levensduur van de installaties te waarborgen.
 
 ---
 
-### Section 5.5.8. Prescriptions particulières
+#### Onderafdeling 5.2.3.1. Omgevingstemperatuur (AA) 🌡️
 
-Les installations de sécurité requièrent des **prescriptions spécifiques** pour garantir leur efficacité et leur robustesse. Ces prescriptions incluent des éléments critiques pour la durabilité et la performance :
+De **omgevingstemperatuur** kan de prestaties van leidingen beïnvloeden:
 
-- **Matériaux résistants au feu 🔥** : Les câbles et équipements doivent être conçus pour résister aux températures élevées et éviter la propagation des flammes.
-  
-  :::caution Attention
-  Veillez à utiliser des matériaux certifiés ignifugés pour éviter les risques d'incendie, surtout dans les zones à forte fréquentation.
-  :::
+- **Hittebestendige materialen** : Gebruik materialen die bestand zijn tegen temperatuurschommelingen.
+- **Thermische isolatie** : In warme omgevingen worden hittebestendige buizen aanbevolen om kabeldegradatie te voorkomen.
 
-- **Redondance des systèmes 🔄** : Des circuits redondants sont recommandés pour assurer le fonctionnement continu en cas de défaillance. Cela permet de garantir que les équipements critiques restent opérationnels même si une partie de l’installation est endommagée.
+   :::tip Tip 🧯
+   Voor omgevingen met temperatuurschommelingen, overweeg metalen buizen die beter warmte afvoeren.
+   :::
 
-  :::info Redondance
-  Les systèmes redondants sont particulièrement utiles dans les hôpitaux ou centres de données où la continuité du service est cruciale.
-  :::
-
-- **Accès et maintenance 🛠️** : Les installations de sécurité doivent être facilement accessibles pour les interventions de maintenance et les tests périodiques, garantissant ainsi une réponse rapide en cas de défaillance.
-
-- **Mise en service et tests 🧪** : Avant la mise en service, chaque circuit de sécurité doit être soumis à des tests rigoureux pour vérifier son fonctionnement et sa conformité aux normes de sécurité.
-
-  :::tip Exemple pratique
-  Dans les hôpitaux, les systèmes de sécurité doivent être testés chaque mois pour garantir que les équipements critiques (éclairage de secours, dispositifs de ventilation) répondent immédiatement en cas de besoin.
-  :::
-
-Ces prescriptions renforcent la **résilience des installations de sécurité** face aux conditions extrêmes et assurent la protection continue des occupants. 
+| Externe Invloed             | Aanbevolen Maatregelen                           |
+|-----------------------------|--------------------------------------------------|
+| Hoge temperatuur            | Hittebestendige buizen                           |
+| Temperatuurschommelingen    | Metalen leidingen voor betere warmteafvoer       |
 
 ---
 
-## CHAPITRE 5.6. INSTALLATIONS CRITIQUES
+#### Onderafdeling 5.2.3.2. Aanwezigheid van Water (AD) 💧
 
-### Section 5.6.1. Généralités
+Vochtigheid en waterblootstelling vereisen **specifieke beschermingsmaatregelen** voor de leidingen:
 
-Les **installations critiques** englobent tous les systèmes indispensables pour les infrastructures sensibles. Dans des contextes où la continuité des opérations est cruciale, comme les hôpitaux, les installations industrielles et les centres de données, ces systèmes doivent rester opérationnels même en cas de défaillance de l'alimentation principale.
+- **Waterdichte materialen** : Kies PVC-leidingen of roestvrijstalen buizen.
+- **Circuitseparatie** : Vermijd interferentie door een veilige afstand te bewaren tussen leidingen en waterzones.
 
-**Principes fondamentaux :**
-1. **Continuité de service 💡** : Garantir un fonctionnement ininterrompu des équipements critiques.
-2. **Protection des personnes et des biens 🔒** : Réduire les risques pour la sécurité en assurant le fonctionnement des dispositifs de sécurité en toute circonstance.
+   :::warning Waarschuwing voor Vochtige Omgevingen 🚨
+   Een onvoldoende bescherming tegen vocht kan leiden tot kabelcorrosie en elektrocutierisico's.
+   :::
 
-  :::example Exemple
-  Dans un hôpital, les équipements de réanimation et d'éclairage de secours doivent fonctionner même lors d'une panne électrique pour éviter des conséquences graves pour les patients.
+| Externe Invloed             | Beschermingsmaatregelen                          |
+|-----------------------------|--------------------------------------------------|
+| Vochtigheid                 | Gebruik van PVC- of roestvrijstalen leidingen    |
+| Waterzones                  | Fysieke scheiding tussen kabels en waterpunten   |
+
+---
+
+#### Onderafdeling 5.2.3.3. Corrosieve en Verontreinigende Stoffen (AF) 🏭
+
+In industriële of chemische omgevingen kunnen **corrosieve stoffen** de leidingen beschadigen:
+
+- **Beschermende coatings** : Gebruik leidingen met speciale coatings om corrosie te voorkomen.
+- **Corrosiebestendige materialen** : Kies voor leidingen van roestvrij staal of versterkte kunststoffen die bestand zijn tegen corrosieve stoffen.
+
+   :::info Praktisch Voorbeeld 🛠️
+   In chemische fabrieken worden roestvrijstalen leidingen vaak gebruikt vanwege hun weerstand tegen corrosieve producten.
+   :::
+
+---
+
+#### Onderafdeling 5.2.3.4. Mechanische Belastingen door Schokken (AG) 💥
+
+**Mechanische schokken** komen vaak voor in gebieden met hoge industriële activiteit:
+
+- **Versterkte leidingen** : Gebruik robuuste leidingen die bestand zijn tegen fysieke schokken.
+- **Extra bescherming** : Overweeg beschermkappen in doorgangsgebieden.
+
+| Soort Belastingen          | Aanbevolen Maatregelen                             |
+|----------------------------|----------------------------------------------------|
+| Fysieke schokken           | Versterkte leidingen en beschermkappen             |
+| Industriële zones          | Metalen of schokbestendige buizen                   |
+
+---
+
+#### Onderafdeling 5.2.3.5. Trillingen (AH) 🔊
+
+**Trillingen**, veroorzaakt door machines, kunnen na verloop van tijd leidingen beschadigen:
+
+- **Flexibele steunen** : Gebruik steunen en bevestigingen die trillingen absorberen.
+- **Demperringen** : Installeer ringen om de effecten van trillingen op de leidingen te verminderen.
+
+   :::tip Trillingspreventie 🔧
+   Demperringen helpen de trillingen naar de kabels te verminderen, wat de levensduur van de leidingen verlengt.
+   :::
+
+---
+
+#### Onderafdeling 5.2.3.6. Flora, Schimmel (AK) en Fauna (AL) 🐾
+
+**Fauna** en **flora** kunnen schade aan leidingen veroorzaken:
+
+- **Schimmelbestendige materialen** : Kies voor materialen die bestand zijn tegen vocht en schimmel in tropische omgevingen.
+- **Bescherming tegen dieren** : Voorkom dat leidingen als schuilplaats dienen voor dieren door roosters of extra bescherming te installeren.
+
+---
+
+#### Onderafdeling 5.2.3.7. Elektromagnetische Invloeden (AM) en Zonnestraling (AN) ☀️
+
+**Elektromagnetische invloeden** kunnen storingen veroorzaken in gevoelige circuits:
+
+- **Elektromagnetische afscherming** : Gebruik afgeschermde kabels om interferentie te verminderen.
+- **UV-bescherming** : Gebruik UV-bestendige materialen voor buitentoepassingen om degradatie door zonlicht te voorkomen.
+
+| Soort Invloed             | Aanbevolen Oplossing                             |
+|---------------------------|--------------------------------------------------|
+| Elektromagnetische velden | Afgeschermde kabels om interferentie te beperken |
+| Zonnestraling             | UV-bestendige leidingen                          |
+
+---
+
+#### Onderafdeling 5.2.3.8. Bescherming tegen Elektrische Schokken (BB en BC) ⚠️
+
+Installaties moeten de risico's van elektrische schokken minimaliseren om de veiligheid van gebruikers te garanderen:
+
+- **Geïsoleerde leidingen** : Gebruik isolerende buizen voor extra bescherming.
+- **Beschermingsapparaten** : Installeer stroomonderbrekers en aardlekschakelaars voor extra veiligheid.
+
+   :::warning Veiligheidswaarschuwing 🔌
+   Controleer regelmatig de staat van de leidingen en de beschermingsapparaten om elektrische schokken te voorkomen.
+   :::
+
+---
+
+### Sectie 5.2.4. Bescherming van Ongeïsoleerde Geleiders anders dan Luchtlijnen 🌞
+
+**Ongeïsoleerde geleiders** zijn blootgesteld aan risico’s zoals slijtage, vocht of mechanische schokken. Voor de bescherming van ongeïsoleerde geleiders (met uitzondering van luchtlijnen) zijn verschillende maatregelen nodig om kortsluiting en accidenteel contact te voorkomen.
+
+#### Beschermingsmethoden 🔒
+- **Beschermende buizen** : Gebruik robuuste buizen om schade door impact en weersomstandigheden te voorkomen.
+- **Strategische plaatsing** : Installeer de geleiders op locaties met een laag blootstellingsrisico.
+- **Veiligheidsapparaten** : Voeg stroomonderbrekers toe die de stroom uitschakelen bij overbelasting.
+
+| Methode                     | Beschrijving                                      |
+|-----------------------------|---------------------------------------------------|
+| Beschermende buizen         | Schokbestendige bescherming tegen invloeden       |
+| Strategische plaatsing      | Installatie op minder blootgestelde locaties      |
+| Veiligheidsapparaten        | Stroomonderbrekers voor bescherming bij overbelasting |
+
+   :::tip Beste Praktijken 🛠️
+   Gebruik robuuste materialen om de geleiders te beschermen en installeer ze op beschutte plaatsen om hun levensduur te verlengen.
+   :::
+
+---
+### Onderafdeling 5.2.5. Spanningsval 🔋
+
+De **spanningsval** is de vermindering van spanning in een elektrisch circuit, wat de prestaties kan beïnvloeden en energieverlies kan veroorzaken. Het beheersen van de spanningsval is essentieel om de efficiëntie en betrouwbaarheid van installaties te waarborgen.
+
+#### Factoren die de Spanningsval Beïnvloeden 📉
+- **Lengte van het circuit** : Hoe langer het circuit, hoe groter de spanningsval.
+- **Doorsnede van de geleider** : Een geleider met een grotere doorsnede biedt minder weerstand.
+- **Aangesloten belasting** : Hoe hoger de belasting, hoe groter de spanningsval.
+
+| Factor                      | Invloed                                        |
+|-----------------------------|------------------------------------------------|
+| Lengte van het circuit      | Meer lengte = grotere spanningsval             |
+| Doorsnede van de geleider   | Grote doorsnede = minder weerstand             |
+| Aangesloten belasting       | Meer stroom = grotere spanningsval             |
+
+   :::warning Let op ⚠️
+   Een overmatige spanningsval kan leiden tot uitval van apparatuur en aanzienlijk energieverlies.
+   :::
+
+---
+
+### Onderafdeling 5.2.6. Verbindingen 🔗
+
+**Elektrische verbindingen** zijn kritieke punten in een installatie. Een slecht uitgevoerde verbinding kan leiden tot storingen, energieverlies of zelfs brandgevaar.
+
+#### Beste Praktijken voor Verbindingen 🔧
+- **Gebruik van geschikte connectoren** : Kies connectoren op basis van de materialen en de omgeving.
+- **Verbindingsmethoden** : Geef de voorkeur aan methoden zoals krimpen of solderen voor meer betrouwbaarheid.
+- **Regelmatige controles** : Inspecteer de verbindingen regelmatig om slijtage te detecteren.
+
+| Verbindingsmethode           | Beschrijving                                     |
+|------------------------------|--------------------------------------------------|
+| Geschikte connectoren        | Kies connectoren die passen bij de geleiders     |
+| Solderen of krimpen          | Zorgt voor een duurzame en betrouwbare verbinding|
+| Regelmatige controles        | Inspectie om slijtage en corrosie te voorkomen   |
+
+   :::tip Tip 🛠️
+   Inspecteer de verbindingen regelmatig, vooral in vochtige of corrosieve omgevingen, om contactproblemen te voorkomen.
+   :::
+
+---
+
+### Onderafdeling 5.2.7. Keuze en Installatie ter Beperking van Brandverspreiding 🔥
+
+Bescherming tegen brandverspreiding is cruciaal bij het ontwerpen van elektrische installaties. Het gebruik van geschikte materialen en een zorgvuldige installatie helpen de brandrisico's te beperken.
+
+#### Materialen en Installatie 🔥
+- **Gebruik van brandwerende materialen** : Kabels en leidingen moeten bestand zijn tegen vuur.
+- **Scheidingsmaatregelen** : Zorg voor voldoende afstand tussen elektrische installaties en brandbare materialen.
+
+| Maatregel                    | Doel                                           |
+|------------------------------|------------------------------------------------|
+| Brandwerende materialen      | Vertraagt of voorkomt de verspreiding van vuur |
+| Scheidingsmaatregelen        | Beperkt het risico op brandverspreiding        |
+
+   :::info Opmerking 🔍
+   Halogeenvrije materialen verminderen de uitstoot van giftige rook bij brand.
+   :::
+
+---
+
+### Onderafdeling 5.2.8. Nabijheid van Andere Leidingen 🚰
+
+De nabijheid van andere leidingen, zoals gas- of waterleidingen, kan risico's opleveren voor elektrische installaties. Het is belangrijk om de regels voor scheiding te volgen om ongelukken te voorkomen.
+
+#### Beste Praktijken 🔒
+- **Fysieke scheiding** : Houd een veilige afstand tussen elektrische leidingen en gas- of waterleidingen.
+- **Extra bescherming** : Gebruik beschermbuizen om contact tussen leidingen te voorkomen.
+
+| Veiligheidsmaatregel         | Doel                                           |
+|------------------------------|------------------------------------------------|
+| Fysieke scheiding            | Vermindert het risico op gevaarlijk contact    |
+| Extra bescherming            | Voorkomt contact met andere leidingen          |
+
+---
+
+### Onderafdeling 5.2.9. Specifieke Regels voor Verschillende Installatiemethoden 🚩
+
+De installatiemethoden verschillen afhankelijk van het type leiding, zoals bovengrondse of ondergrondse leidingen. Deze aanbevelingen waarborgen de veiligheid en duurzaamheid van de installaties.
+
+#### Onderafdeling 5.2.9.1. Bovengrondse Leidingen 🌐
+Bovengrondse leidingen vereisen specifieke maatregelen voor hun veiligheid:
+
+- **Minimale hoogte** : Installeer de leidingen op voldoende hoogte om accidenteel contact te voorkomen.
+- **Versterkte isolatie** : Gebruik isolatoren die bestand zijn tegen weersinvloeden en temperatuurschommelingen.
+
+| Criterium                     | Aanbevolen Maatregel                             |
+|-------------------------------|--------------------------------------------------|
+| Hoogte van installatie        | Zorg ervoor dat ze buiten bereik zijn            |
+| Isolatie                      | Bestand tegen weersinvloeden                     |
+
+#### Onderafdeling 5.2.9.2. Ondergrondse Elektrische Leidingen 🌍
+Ondergrondse leidingen moeten zorgvuldig worden geïnstalleerd om bestand te zijn tegen bodemomstandigheden en eventuele druk.
+
+- **Diepte van installatie** : Volg de normen om schade door graafwerkzaamheden te voorkomen.
+- **Vochtbescherming** : Gebruik materialen die bestand zijn tegen corrosie.
+
+| Criterium                     | Aanbevolen Maatregel                             |
+|-------------------------------|--------------------------------------------------|
+| Diepte van installatie        | Voorkomt externe schade                          |
+| Vochtbescherming              | Materialen die bestand zijn tegen corrosie       |
+
+   :::tip Tip 🛠️
+   Regelmatige inspectie van ondergrondse leidingen is essentieel om infiltraties te voorkomen en optimale isolatie te waarborgen.
+   :::
+
+---
+### Onderafdeling 5.2.9.3. Installatie onder Leidingen 📏
+
+Bij het leggen van kabels onder leidingen moeten verschillende factoren in aanmerking worden genomen om de duurzaamheid en toegankelijkheid te waarborgen.
+
+- **Gemakkelijke toegang** : Voorzie leidingen die eenvoudig toegankelijk zijn voor onderhoud en reparaties.
+- **Bescherming tegen belasting** : Leidingen moeten bestand zijn tegen belasting zonder vervorming.
+
+| Criterium               | Aanbevolen Maatregel                             |
+|-------------------------|--------------------------------------------------|
+| **Toegankelijkheid**    | Leidingen met eenvoudige toegang voor interventie |
+| **Bescherming**         | Bestand tegen belasting om vervorming te voorkomen |
+
+---
+
+### Onderafdeling 5.2.9.4. Installatie onder Lijsten, Plinten en Deurlijsten 🪛
+
+Het plaatsen van leidingen onder lijsten, plinten en deurlijsten biedt een esthetische oplossing om kabels te verbergen.
+
+- **Discretie en Esthetiek** : Elegante oplossing voor interieurinstallaties.
+- **Toegankelijkheid** : Lijsten moeten verwijderbaar zijn voor eenvoudig onderhoud.
+- **Veiligheidsnormen** : Gebruik niet-brandbare materialen.
+
+| Kenmerk                | Voordeel                                       |
+|------------------------|------------------------------------------------|
+| **Esthetiek**          | Verborgen kabels voor een nette afwerking     |
+| **Toegankelijkheid**   | Snelle toegang voor onderhoud                 |
+| **Veiligheid**         | Gebruik van niet-brandbare materialen         |
+
+---
+
+### Onderafdeling 5.2.9.5. Open Installatie en Opbouw 🌞
+
+Open installatie en opbouw zijn vaak eenvoudiger uit te voeren, maar stellen de kabels bloot aan omgevingsinvloeden.
+
+- **Voordelen** :
+  - **Gemakkelijke toegang** : Onderhoud zonder demontage.
+  - **Snelle installatie** : Minder tijd en kosten.
+
+- **Nadelen** :
+  - **Blootstelling aan elementen** : Risico op schade door weersomstandigheden.
+  - **Kwetsbaarheid** : Kabels zijn gevoeliger voor fysieke schokken.
+
+**Tabel : Vergelijking van Open Installatie en Opbouw**
+
+| Criterium               | Open Installatie            | Opbouwinstallatie          |
+|-------------------------|-----------------------------|----------------------------|
+| **Toegankelijkheid**    | Zeer toegankelijk           | Eenvoudig                  |
+| **Esthetiek**           | Minder esthetisch           | Esthetischer               |
+| **Bescherming**         | Minder beschermd            | Beter beschermd            |
+| **Onderhoud**           | Eenvoudig                   | Eenvoudig                  |
+
+   :::info Opmerking
+   Gebruik buitenkabels die geschikt zijn voor omgevingsomstandigheden voor een betere duurzaamheid.
+   :::
+
+---
+
+### Onderafdeling 5.2.9.6. Kabelgoten en Kabelkanalen 💼
+
+**Kabelgoten** en **kabelkanalen** bieden een georganiseerde en veilige manier om kabels te beheren.
+
+- **Bescherming** : Beschermen kabels tegen schokken en omgevingsinvloeden.
+- **Organisatie** : Bevorderen een nette ordening van kabels, wat verwarring vermindert.
+
+| Type                    | Voordeel                                      |
+|-------------------------|-----------------------------------------------|
+| **Kabelgoten**          | Orde en bescherming van kabels                |
+| **Kabelkanalen**        | Gemakkelijke toegang en kabelbeheer           |
+
+---
+
+### Onderafdeling 5.2.9.7. Kabelmantels 🧵
+
+Kabelmantels zijn essentieel voor de bescherming van kabels tegen snijwonden, vocht en chemische stoffen.
+
+- **Stijve mantels** : Gebruikt voor vaste installaties, bieden een robuuste bescherming.
+- **Flexibele mantels** : Handig voor installaties die flexibiliteit vereisen.
+
+| Type Mantel             | Toepassing                         | Voordeel                      |
+|-------------------------|-------------------------------------|-------------------------------|
+| **Stijve mantel**       | Vaste installaties                 | Robuuste bescherming          |
+| **Flexibele mantel**    | Gebieden met beweging               | Gemakkelijk te installeren    |
+
+---
+
+### Onderafdeling 5.2.9.8. Open, Gesloten of Met Zand Gevulde Sleuven, en Grondkokers 🌍
+
+**Sleuven** en **grondkokers** vergemakkelijken de doorgang van kabels in ondergrondse installaties:
+
+- **Open sleuven** : Gemakkelijke toegang, maar blootstellingsrisico.
+- **Gesloten sleuven** : Verhoogde bescherming, maar minder toegankelijk.
+- **Met zand gevulde sleuven** : Versterkte bescherming voor specifieke installaties.
+
+   :::tip Tip 🛠️
+   Gebruik gesloten sleuven in blootgestelde omgevingen voor optimale bescherming.
+   :::
+
+---
+### Onderafdeling 5.2.9.9. Constructieholten 🏗️
+
+Constructieholten worden gebruikt om kabels door muren, vloeren of plafonds te laten lopen.
+
+- **Eenvoudige installatie** : Voorkomt dat er nieuwe doorgangen moeten worden geboord voor de kabels.
+- **Ruimte-optimalisatie** : Beperkt de noodzaak voor extra kabelsteunen.
+
+   :::warning Let op ⚠️
+   Zorg ervoor dat de structurele integriteit van het gebouw niet wordt aangetast door de elektrische installaties.
+   :::
+
+---
+
+### Onderafdeling 5.2.9.10. Inbouw zonder Buis 🔒
+
+Inbouw zonder buis houdt in dat kabels direct in muren of plafonds worden verwerkt.
+
+- **Bescherming van kabels** : Kabels moeten goed geïsoleerd zijn om brandrisico’s te voorkomen.
+- **Installatievoorwaarden** : Volg de veiligheidsnormen om een veilige installatie te garanderen.
+
+| Criterium                | Vereiste                                      |
+|--------------------------|-----------------------------------------------|
+| **Isolatie**             | Geïsoleerde kabels om kortsluiting te voorkomen |
+| **Conformiteit**         | Voldoet aan de veiligheidsnormen              |
+
+---
+
+### Onderafdeling 5.2.9.11. Prefab Leidingen 🏗️
+
+Prefab leidingen bieden een snelle en gestandaardiseerde oplossing voor installaties.
+
+- **Snelle installatie** : Bespaart tijd tijdens de montage.
+- **Uniformiteit** : Zorgt voor constante kwaliteit en vermindert de kans op fouten.
+
+   :::info Opmerking 📦
+   Prefab leidingen zijn ideaal voor repetitieve of gestandaardiseerde installaties.
+   :::
+
+---
+
+### Onderafdeling 5.2.9.12. Parallelle Kabelmontage op Isolatoren ⚡
+
+Deze techniek wordt gebruikt bij bovengrondse lijnen, waarbij voldoende afstand tussen de kabels wordt gehouden om kortsluiting te voorkomen.
+
+- **Voordelen** : Veilige afstand tussen kabels, waardoor het risico op elektrische fouten wordt verminderd.
+- **Veiligheidseisen** : Isolatoren moeten correct worden geïnstalleerd om ongelukken te voorkomen.
+
+---
+
+### Onderafdeling 5.2.9.13. Leidingen en Verwarmingspanelen 🔥
+
+Leidingen die geïntegreerd zijn in verwarmingspanelen vereisen thermische voorzorgsmaatregelen om de veiligheid te waarborgen.
+
+- **Thermische bescherming** : Kabels moeten geïsoleerd zijn om bestand te zijn tegen hoge temperaturen.
+- **Conformiteit met normen** : Zorg ervoor dat de installaties voldoen aan de brandveiligheidsnormen.
+
+   :::tip Praktische Tips 🔍
+   Gebruik thermisch geïsoleerde kabels bij installaties in de buurt van warmtebronnen.
+   :::
+
+---
+
+#### Onderafdeling 5.2.9.14. Specifieke Regels voor Buitentoepassingen 🌧️🌬️
+
+Buitentoepassingen moeten rekening houden met omgevingsfactoren om veiligheid en duurzaamheid te garanderen:
+
+- **Weerbestendigheid** : Gebruik materialen die bestand zijn tegen **regen, wind** en **schommelingen in vochtigheid**. Kies kabels met UV- en weersbestendige mantel voor extreme omstandigheden.
+- **Veiligheid voor personen** : Installeer kabels op een **voldoende hoogte** om contact met voetgangers of voertuigen te vermijden, vooral in drukke zones.
+
+   :::tip Tip 🌍
+   Kies voor buitentoepassingen materialen die speciaal zijn ontworpen voor buitenomgevingen, zoals gegalvaniseerde stalen buizen of kabels met IP67-bescherming.
+   :::
+
+---
+
+#### Onderafdeling 5.2.9.15. Specifieke Regels voor Zeer Lage Spanning (ZLS) ⚡
+
+Zeer lage spanning (ZLS) installaties vereisen extra voorzorgsmaatregelen om een hoog veiligheidsniveau te behouden:
+
+- **Verhoogde bescherming** : Ontwerp de installaties om elektrische risico’s te minimaliseren, zelfs bij fouten, met geschikte veiligheidsapparatuur.
+- **Geschikte materialen** : Gebruik gecertificeerde materialen en apparatuur voor ZLS-toepassingen, speciaal ontworpen om schokrisico’s te voorkomen, vooral in werkgebieden.
+
+   :::warning Let op 🔒
+   Zorg ervoor dat alle materialen en apparatuur voor ZLS voldoen aan de geldende certificeringen voor optimale bescherming van de gebruikers.
+   :::
+
+---
+
+## HOOFDSTUK 5.3. ELEKTRISCH SCHAKELMATERIAAL (BESCHERMING, BESTURING, ONDERBREKING EN MONITORING) 🚦
+
+### Sectie 5.3.1. Algemene Richtlijnen ⚙️
+
+Elektrisch schakelmateriaal is essentieel voor de **veiligheid en het beheer** van elektrische installaties. Het omvat alle apparaten voor **bescherming, besturing, onderbreking en monitoring** van circuits.
+
+- **Soorten schakelmateriaal** : Beschermingsapparaten (stroomonderbrekers, relais), besturing (schakelaars, drukknoppen) en monitoring (sensoren, controllers) zijn cruciaal voor het correcte functioneren en de bescherming van installaties.
+
+   **Belangrijke vereisten** :
+   - Naleving van de geldende veiligheidsnormen.
+   - Aanpassing aan omgevingsomstandigheden.
+   - Regelmatig onderhoud voor optimale prestaties.
+
+   :::info Veiligheidsnotitie 🛠️
+   Onderhoud van schakelmateriaal is noodzakelijk om storingen te voorkomen en snelle interventie mogelijk te maken in geval van problemen.
+   :::
+
+---
+
+### Onderafdeling 5.3.2. Keuze en Installatie van Machines en Elektrische Apparaten op Basis van Externe Invloeden 🌡️💧🧲
+
+#### Onderafdeling 5.3.2.1. Op Basis van Omgevingstemperatuur (AA) 🌞❄️
+
+De omgevingstemperatuur kan een aanzienlijke invloed hebben op elektrische apparaten:
+
+- **Hoge temperaturen** : Apparaten moeten warmte kunnen afvoeren om overbelasting te voorkomen. Koelsystemen kunnen worden geïnstalleerd in warme omgevingen.
+- **Lage temperaturen** : Gebruik koudebestendige materialen om de betrouwbaarheid van de apparaten te waarborgen, zelfs onder extreme omstandigheden.
+
+   **Tabel: Classificatie van Apparaten op Basis van Omgevingstemperatuur**
+
+   | Temperatuur (°C) | Type apparaat             | Ontwerpvereisten                           |
+   |------------------|---------------------------|--------------------------------------------|
+   | -20 tot 0        | Buitenapparatuur          | Vorst- en vochtbestendig                   |
+   | 0 tot 40         | Huishoudelijke apparaten  | Standaard functioneringsnormen             |
+   | 40 tot 60        | Industriële apparatuur    | Verhoogde warmteafvoer vereist             |
+
+   :::tip Tip 👷
+   In industriële omgevingen kies bij voorkeur apparatuur van industriële kwaliteit voor optimale prestaties bij hoge temperaturen.
+   :::
+
+---
+
+#### Onderafdeling 5.3.2.2. Op Basis van Aanwezigheid van Water (AD) 🌧️
+
+Voor vochtige omgevingen dient u apparaten te kiezen die waterbestendig zijn:
+
+- **IP-normen** : Kies een hoge IP-beschermingsgraad om weerstand te bieden tegen vocht en waterspatten.
+- **Drainagesystemen** : Installeer drainagesystemen rondom de apparaten om waterophoping te voorkomen.
+
+   :::info Belangrijke Opmerking 🚰
+   Apparaten met een IP65-classificatie of hoger worden aanbevolen voor zeer vochtige omgevingen.
+   :::
+
+---
+
+#### Onderafdeling 5.3.2.3. Op Basis van Aanwezigheid van Vreemde Voorwerpen (AE) 🌫️
+
+Vreemde voorwerpen zoals stof of puin kunnen apparaten beschadigen:
+
+- **Duurzame materialen** : Kies behuizingen van schokbestendige en stofdichte materialen.
+- **Dichte afdichting** : Zorg ervoor dat de apparaten goed afgesloten zijn om binnendringen van deeltjes te voorkomen.
+
+---
+
+#### Onderafdeling 5.3.2.4. Op Basis van Corrosieve of Verontreinigende Stoffen (AF) ⚗️
+
+Corrosieve stoffen vereisen speciale beschermende materialen:
+
+- **Corrosiebestendige materialen** : Gebruik materialen zoals aluminium of bepaalde versterkte kunststoffen.
+- **Beschermende coatings** : Breng coatings aan om de levensduur van de apparatuur te verlengen in agressieve omgevingen.
+
+---
+
+#### Onderafdeling 5.3.2.5. Op Basis van Mechanische Belastingen door Schokken (AG) ⚙️
+
+Apparaten moeten bestand zijn tegen mechanische schokken:
+
+- **Sterktetests** : Voer tests uit om te garanderen dat de apparaten bestand zijn tegen impact zonder defecten.
+- **Verpakking en transport** : Gebruik versterkte verpakking voor bescherming tijdens transport.
+
+   :::tip Transportveiligheid 📦
+   Geschikte verpakking vermindert de kans op schade tijdens transport en hantering.
+   :::
+
+---
+
+#### Onderafdeling 5.3.2.6. Op Basis van Mechanische Belastingen door Trillingen (AH) 🚜
+
+Trillingen kunnen de stabiliteit van apparaten beïnvloeden:
+
+- **Veilige bevestiging** : Bevestig apparaten stevig om beweging te beperken.
+- **Robuust ontwerp** : Kies apparaten die ontworpen zijn om bestand te zijn tegen trillingen, vooral in industriële omgevingen.
+
+   :::warning Voorzichtigheid 🛑
+   Inspecteer regelmatig de bevestigingen om slijtage door trillingen te detecteren.
+   :::
+
+---
+
+#### Onderafdeling 5.3.2.7. Op Basis van Aanwezigheid van Flora, Schimmel (AK) en Fauna (AL) 🌱🦊
+
+Flora en fauna kunnen invloed hebben op apparaten, vooral in vochtige omgevingen:
+
+- **Risico op schimmelvorming** : Apparaten die worden blootgesteld aan vocht moeten worden beschermd tegen schimmel, die de isolatie kan aantasten.
+- **Bescherming tegen dieren** : Gebruik dichte behuizingen om te voorkomen dat dieren kabels en apparatuur beschadigen.
+
+---
+
+#### Onderafdeling 5.3.2.8. Op Basis van Elektromagnetische, Elektrostatische of Ioniserende Invloeden (AM) en Zonne-instraling (AN) 🌞🧲
+
+Elektromagnetische interferentie en UV-straling vereisen speciale apparatuur:
+
+- **EMI-bescherming** : Gebruik afschermingen en filters om interferentie te verminderen.
+- **UV-bestendigheid** : Voor buiteninstallaties kiest u materialen die bestand zijn tegen UV-straling.
+
+---
+
+#### Onderafdeling 5.3.2.9. Op Basis van de Bekwaamheid van Personen (BA) 🧑‍🔧
+
+De bekwaamheid van de gebruikers beïnvloedt de veiligheid van installaties:
+
+- **Opleiding en certificering** : Zorg ervoor dat het personeel gekwalificeerd is om de installaties te hanteren.
+- **Veiligheidsinstructies** : Stel duidelijke en begrijpelijke veiligheidsprotocollen op.
+
+---
+
+#### Onderafdeling 5.3.2.10. Op Basis van de Lichamelijke Toestand van Personen (BB) 🧍‍♀️🧍
+
+De apparatuur moet worden aangepast aan de behoeften van de gebruikers:
+
+- **Toegankelijkheid** : Installaties moeten toegankelijk zijn voor mensen met beperkte mobiliteit.
+- **Ergonomische veiligheid** : Integreer ergonomische elementen om risico's tijdens het gebruik te minimaliseren.
+
+---
+
+#### Onderafdeling 5.3.2.11. Op Basis van Contact met de Aarde (BC) 🌍⚡
+
+Bescherming tegen risico's gerelateerd aan het potentiaal van de aarde is essentieel:
+
+- **Effectieve aarding** : Zorg voor een correcte aarding om elektrische schokken te voorkomen.
+- **Monitoring** : Gebruik foutdetectiesystemen om afwijkingen te controleren.
+
+---
+
+#### Onderafdeling 5.3.2.12. Op Basis van de Eigenschappen van de Verwerkte of Opgeslagen Stoffen (BE) 🏭
+
+Installaties moeten worden aangepast aan de aard van de verwerkte of opgeslagen stoffen:
+
+- **Brandbare stoffen** : Gebruik vlamvertragende apparatuur in omgevingen met brandbare materialen.
+- **Chemische producten** : Kies corrosiebestendige materialen voor installaties in contact met chemische stoffen.
+
+   :::warning Specifieke Waarschuwing 🧯
+   In de aanwezigheid van brandbare stoffen, volg de ATEX-richtlijnen om explosiegevaar te vermijden.
+   :::
+
+---
+
+#### Onderafdeling 5.3.2.13. Op Basis van de Bouwmaterialen (CA)
+
+Bouwmaterialen kunnen de duurzaamheid en veiligheid van elektrische installaties sterk beïnvloeden. In gebieden met **brandgevaar** is het essentieel om **niet-brandbare materialen** te selecteren. Bovendien worden isolerende materialen aanbevolen om energieverlies te voorkomen en risico's van oververhitting te beperken.
+
+   :::tip Aanbevolen Materialen 🔥
+   In omgevingen met een hoog risico, kies materialen die bestand zijn tegen vlammen en een goede thermische isolatie bieden voor optimale bescherming.
+   :::
+
+---
+
+#### Onderafdeling 5.3.2.14. Op Basis van de Bouwstructuur (CB)
+
+De architectonische configuratie van een gebouw speelt een belangrijke rol in de implementatie van elektrische installaties. Een ontwerp dat rekening houdt met **de plaatsing van de elektrische circuits** vergemakkelijkt een optimale installatie en vermindert toekomstige onderhoudskosten. Daarnaast is het belangrijk om lokale **voorschriften** na te leven, die variëren afhankelijk van het type gebouw, of het nu residentieel, commercieel of industrieel is.
+
+   :::info Belangrijke Opmerking 🏢
+   Controleer altijd de lokale voorschriften voorafgaand aan de installatie om conformiteit te garanderen en een optimale integratie in de bestaande structuur te bereiken.
+   :::
+
+---
+
+### Onderafdeling 5.3.3. Bediening en Uitschakelingsmethoden
+
+#### Onderafdeling 5.3.3.1. Nooduitschakeling 🚨
+
+Nooduitschakelingssystemen zijn essentieel voor het snel onderbreken van de stroomvoorziening in geval van nood. Deze omvatten verschillende apparaten zoals **stroomonderbrekers** en **veiligheidsschakelaars**. Strategisch geplaatst, bieden deze apparaten snelle toegang om incidenten te voorkomen.
+
+   :::warning Strategische Plaatsing ⚠️
+   Plaats uitschakelingsapparaten op goed toegankelijke en zichtbare locaties voor een directe interventie bij gevaar.
+   :::
+
+---
+
+#### Onderafdeling 5.3.3.2. Functionele Bediening 🔌
+
+Functionele bediening biedt optimale controle over elektrische apparaten, met opties voor handmatige bediening voor meer flexibiliteit en automatische bediening voor extra veiligheid. Het **ontwerp van de gebruikersinterface** moet intuïtief zijn om veilig gebruik door operators te garanderen.
+
+   **Voorbeeld:** Automatische schakelaars voor verlichting in kantoren optimaliseren energie-efficiëntie en zorgen voor een veilige verlichting.
+   
+---
+
+#### Onderafdeling 5.3.3.3. Gelijktijdige Functies ⚙️
+
+Gelijktijdige functies zijn essentieel voor het beheren van meerdere operaties tegelijk zonder de veiligheid in gevaar te brengen. Een goed gedimensioneerd elektrisch systeem maakt het mogelijk om tegelijkertijd een oven, een koelkast en een wasmachine te bedienen in een huishoudelijke omgeving. **Stroomonderbrekers** en andere beschermingsapparaten moeten worden geselecteerd op basis van hun capaciteit om deze gelijktijdige belastingen te dragen.
+
+   **Opmerking:** Zorg ervoor dat de beschermingsapparaten zijn gedimensioneerd om de gecombineerde belasting van gelijktijdig werkende apparaten te ondersteunen.
+
+---
+
+#### Onderafdeling 5.3.3.4. Voorschriften voor Stopcontacten 🔌
+
+Stopcontacten moeten voldoen aan strenge normen om de veiligheid te garanderen. Dit omvat een **geschikte installatiehoogte** en een **versterkte afdichting** in vochtige omgevingen, zoals badkamers en keukens. Elk stopcontact moet voldoen aan de geldende normen om duurzaamheid te garanderen en ongevallen te voorkomen.
+
+   :::info Installatie in Vochtige Zones 🌊
+   Gebruik waterdichte stopcontacten (minimaal IP44) in badkamers om elektrische schokken te voorkomen.
+   :::
+
+---
+
+#### Onderafdeling 5.3.3.5. Automatische Herinschakeling voor Stroomonderbrekers en Differentieelschakelaars ⚡
+
+Automatische herinschakelingsapparaten bieden een extra laag bescherming. Deze systemen detecteren een storing, onderbreken de stroomvoorziening en proberen vervolgens de stroom na een vooraf bepaalde tijd te herstellen. Deze functie is bijzonder nuttig in installaties waar een langdurige onderbreking kan leiden tot verliezen of storingen.
+
+   **Aanbeveling:** Deze apparaten zijn vooral nuttig voor industriële installaties en technische ruimtes waar continuïteit van de dienstverlening vereist is.
+   
+---
+### Onderafdeling 5.3.4. Gebruiksapparaten
+
+#### Onderafdeling 5.3.4.1. Huishoudelijke Apparaten 🍽️
+
+Huishoudelijke apparaten, zoals koelkasten en wasmachines, verbruiken energie voor verschillende functies. Om kosten en milieu-impact te minimaliseren, wordt aanbevolen apparaten te kiezen met een **hoge energie-efficiëntie** (klasse A+++). De installatie moet ook voldoen aan de veiligheidsnormen om risico's op schokken of brand te voorkomen.
+
+---
+
+#### Onderafdeling 5.3.4.2. Verlichtingsapparaten 💡
+
+Verlichtingsapparaten moeten worden gekozen op basis van hun **lichtopbrengst** en veiligheid. **LED-lampen** zijn zeer efficiënt op het gebied van energie en duurzaamheid. Installeer de armaturen volgens de aanbevelingen voor optimale veiligheid en een langere levensduur.
+
+   :::tip Energiezuinige Verlichting 🌱
+   Kies voor LED-verlichting om energiekosten te verlagen en de milieu-impact te minimaliseren.
+   :::
+
+---
+
+#### Onderafdeling 5.3.4.3. Verwarmingsapparaten 🔥
+
+Verwarmingsapparaten vereisen veiligheidsvoorzieningen om risico's op oververhitting en brand te voorkomen. Door te kiezen voor **hoogrenderende apparaten**, kan het energieverbruik en de verwarmingskosten worden verlaagd, terwijl het thermisch comfort behouden blijft.
+
+   **Voorbeeld:** Een radiator met geïntegreerde thermostaat reguleert de temperatuur en voorkomt overmatig energieverbruik.
+
+---
+
+#### Onderafdeling 5.3.4.4. Kooktoestellen en Ovens 🍲
+
+Kooktoestellen, of ze nu op gas, elektrisch of inductie zijn, moeten worden geïnstalleerd volgens de **ventilatie- en veiligheidsvereisten**. Zorg voor een goede ventilatie om warmte en restgassen af te voeren, vooral in kleine ruimtes.
+
+   **Tip:** Zorg ervoor dat kookplaten en ovens zijn uitgerust met kantelbeveiliging en gasafsluiters.
+
+---
+
+#### Onderafdeling 5.3.4.5. Elektrisch Speelgoed 🧸
+
+Elektrisch speelgoed moet voldoen aan specifieke veiligheidsnormen om het risico op elektrische schokken, met name bij kinderen, te minimaliseren. De gebruikte materialen moeten niet-toxisch en schokbestendig zijn om veilig gebruik te garanderen.
+
+   :::warning Kinderveiligheid 👶
+   Controleer of het speelgoed het CE-keurmerk draagt, wat aangeeft dat het voldoet aan de veiligheidsnormen van de EU.
+   :::
+
+---
+
+#### Onderafdeling 5.3.4.6. Haspels 🔄
+
+Haspels, vaak gebruikt voor verlengsnoeren, moeten zodanig zijn ontworpen dat overbelasting en verstrikking worden voorkomen. Bij gebruik mag de maximale capaciteit niet worden overschreden, omdat dit kan leiden tot oververhitting.
+
+   **Aanbeveling:** Kies haspels met ingebouwde thermische beveiliging om oververhitting te voorkomen.
+
+---
+
+#### Onderafdeling 5.3.4.7. Verlengsnoeren 🔌
+
+Verlengsnoeren moeten worden gekozen op basis van hun draagvermogen en de afstand van de verlenging. Modellen met **ingebouwde overbelastingsbeveiliging** worden sterk aanbevolen voor een veilige werking. In vochtige omgevingen dient u verlengsnoeren te gebruiken die geschikt zijn voor deze omstandigheden.
+
+---
+
+#### Onderafdeling 5.3.4.8. Handgereedschap met Motor 🛠️
+
+Handgereedschap moet zorgvuldig worden gekozen en onderhouden om optimale veiligheid te garanderen. Elk gereedschap moet beschikken over **veiligheidsvoorzieningen**, zoals veiligheidsschakelaars. Regelmatig onderhoud is essentieel om ongelukken te voorkomen en de levensduur van de apparatuur te verlengen.
+
+   **Voorbeeld:** Boormachines en draagbare zagen moeten regelmatig worden geïnspecteerd om te controleren of de beschermingen in goede staat verkeren.
+
+---
+
+#### Onderafdeling 5.3.5.1. Verdeel- en Bedieningspanelen
+
+**Verdeelpanelen** vormen het hart van elektrische installaties en zorgen voor de verdeling van elektriciteit naar verschillende circuits, terwijl elk segment wordt beschermd tegen elektrische risico's.
+
+- **Veiligheidsvoorzieningen** : Elk circuit wordt beschermd door een zekering of stroomonderbreker, die een segment kan isoleren bij overbelasting of kortsluiting. Dit beperkt het brandrisico en beschermt aangesloten apparaten.
+- **Toegankelijkheid** : Verdeelpanelen moeten goed toegankelijk zijn, geplaatst in open ruimtes, goed geventileerd en duidelijk gemarkeerd om snelle interventies en regelmatig onderhoud te vergemakkelijken.
+
+   :::warning Gevaar! 🔥
+   Zorg ervoor dat de verdeelpanelen buiten bereik van kinderen zijn en zich in droge ruimtes bevinden om kortsluiting door vocht te voorkomen.
+   :::
+
+| **Kenmerk**         | **Details**                                                  |
+|---------------------|--------------------------------------------------------------|
+| **Veiligheid**      | Individuele bescherming voor elk circuit                     |
+| **Toegankelijkheid**| Open ruimte en duidelijke markering                          |
+| **Bescherming**     | Weerstand tegen externe invloeden (stof, vocht) voor betrouwbaarheid |
+
+---
+
+#### Onderafdeling 5.3.5.2. Stopcontacten en Verlichtingsinstallaties
+
+**Stopcontacten** en verlichtingsinstallaties zijn essentieel in elke installatie en moeten zo worden geplaatst dat de veiligheid gewaarborgd is.
+
+- **Stopcontacten** : Moeten op een geschikte hoogte worden geïnstalleerd en in ruimtes waar kinderen aanwezig zijn, moeten deze voorzien zijn van kinderbeveiliging.
+- **Verlichtingsinstallaties** : Moeten worden gekozen op basis van de vereiste lichtintensiteit en energie-efficiëntie, en geplaatst op strategische locaties om schaduwzones te vermijden.
+
+   :::tip Goede Praktijk 💡
+   Installeer stopcontacten met kinderbeveiliging en vermijd overbelasting om oververhitting te voorkomen.
+   :::
+
+---
+#### Onderafdeling 5.3.5.3. Differentieelschakelaars (RCD)
+
+**Differentieelschakelaars** (RCD) detecteren lekstromen die elektrische schokken of brand kunnen veroorzaken. Bij detectie van een lekstroom onderbreekt de RCD automatisch de stroomtoevoer.
+
+- **Werking** : De RCD vergelijkt de stroom tussen de fasedraad en de nuldraad. Bij een abnormaal verschil schakelt de RCD de stroom uit.
+- **Installaties** : In huishoudelijke installaties worden RCD’s van 30 mA gebruikt in natte ruimtes. In industriële installaties varieert de gevoeligheid afhankelijk van de risico's.
+
+   :::info Weetje 📘
+   In industriële omgevingen worden vaak RCD’s van 300 mA gebruikt voor de bescherming van apparatuur, terwijl RCD’s van 30 mA essentieel zijn voor de bescherming van gebruikers in woningen.
+   :::
+
+---
+
+#### Onderafdeling 5.3.5.4. Schakelaars en andere Bedieningsapparaten
+
+**Schakelaars** en andere bedieningsapparaten regelen de stroom in de circuits. Ze moeten worden geselecteerd op basis van hun vermogen om de nominale stroom te verdragen zonder oververhitting.
+
+   **Let op:** Zorg ervoor dat schakelaars in vochtige ruimtes waterdicht zijn om elektrische schokken te voorkomen.
+
+---
+
+#### Onderafdeling 5.3.5.5. Zekeringen en Automatische Stroomonderbrekers
+
+**Zekeringen** en **automatische stroomonderbrekers** beschermen de circuits tegen overbelasting en kortsluiting.
+
+| **Beschermingstype**       | **Toepassing**               | **Voordelen**                          |
+|----------------------------|------------------------------|----------------------------------------|
+| **Zekeringen**             | Huishoudelijk en industrieel | Snelle reactie, goedkoop               |
+| **Stroomonderbrekers**     | Algemene bescherming         | Herbruikbaar, handmatige uitschakeling mogelijk |
+
+   :::tip Verbeterde Veiligheid 🔐
+   Installeer stroomonderbrekers die gemakkelijk bereikbaar zijn, zodat de stroom direct kan worden uitgeschakeld in geval van nood.
+   :::
+
+---
+
+#### Onderafdeling 5.4.2.1. Aarding
+
+**Aarding** speelt een cruciale rol door een pad met lage weerstand te bieden voor foutstromen, waardoor het risico op elektrocutie en brand wordt verminderd. De aardingsinstallatie moet in een goed geleidend grond worden geplaatst en goed worden onderhouden om een effectieve stroomafvoer te garanderen.
+
+| **Type aardingsinstallatie** | **Beschrijving**                                                                              |
+|------------------------------|-----------------------------------------------------------------------------------------------|
+| **Aardpen**                  | Metalen staaf in de grond, effectief voor huishoudelijke installaties                        |
+| **Fundamentlus**             | Metalen geleider onder de fundering, zorgt voor continue verbinding                          |
+| **Aardplaat**                | Metalen plaat in de grond, ideaal voor slecht geleidende grond                               |
+
+   :::example Praktische Tip 🛠️
+   In residentiële installaties zijn aardpennen gebruikelijk vanwege hun eenvoudige en betrouwbare oplossing. Fundamentlussen worden vaak gebruikt in grotere gebouwen voor een optimale continuïteit.
+   :::
+
+   :::danger Waarschuwing! 🚨
+   Een slechte verbinding met de aarde verhoogt aanzienlijk het risico op elektrische schokken, vooral bij een fout in een elektrisch apparaat.
+   :::
+
+---
+
+#### Onderafdeling 5.4.1. Algemene Richtlijnen
+
+**Aardingen** en **beschermingsgeleiders** zijn essentieel voor de veiligheid van elektrische installaties. Hun voornaamste taak is het afvoeren van foutstromen naar de aarde, waardoor gebruikers en apparatuur worden beschermd. Dit voorkomt niet alleen elektrocutie, maar beperkt ook kortsluitingen en brandgevaar.
+
+> **Voorbeeld:** Bij een lekstroom schakelt een differentieelschakelaar in combinatie met een betrouwbare aarding het circuit uit om gevaar voor personen te voorkomen.
+
+---
+
+### Onderafdeling 5.3.6. Schakel- en Verdeelapparatuur
+
+Schakel- en verdeelapparatuur omvat apparaten voor bediening, beveiliging en meting, die een gecentraliseerd en veilig beheer van de energieverdeling in complexe installaties mogelijk maken.
+
+#### Onderafdeling 5.3.6.1. Toepassingsgebied
+
+Deze apparatuur wordt voornamelijk gebruikt in industriële installaties, kantoorgebouwen en infrastructuren die een stabiele en goed gecontroleerde stroomvoorziening vereisen.
+
+   :::tip Industriële Toepassing ⚙️
+   Schakel- en verdeelapparatuur is geschikt voor installaties die een gecentraliseerde besturing en verbeterde veiligheid vereisen, zoals productielijnen.
+   :::
+
+#### Onderafdeling 5.3.6.2. Algemene Voorschriften
+
+Schakel- en verdeelapparatuur moet worden geïnstalleerd in beschermde omgevingen om overbelasting, oververhitting of blootstelling aan corrosieve elementen te voorkomen. Ingebouwde bedienings-, uitschakel- en verdeelapparaten vergemakkelijken het beheer van de stroomvoorziening en de beveiliging van installaties.
+
+#### Onderafdeling 5.3.7.1. Algemene Richtlijnen voor Meetcircuits
+
+**Meetcircuits** maken real-time monitoring van energieverbruik en netwerkprestaties mogelijk. Door het installeren van voltmeters, ampèremeters en wattmeters in verdeelpanelen kunnen overbelastingen worden gedetecteerd en kan de energie-efficiëntie worden gecontroleerd.
+
+   :::info Optimale Monitoring 🔍
+   Deze meetcircuits bieden een proactief beheer van het energieverbruik en helpen afwijkingen te detecteren voordat ze tot storingen leiden.
+   :::
+
+#### Onderafdeling 5.3.7.2. Stroommeetcircuits
+
+Stroommeetcircuits spelen een cruciale rol in de bewaking van belastingen en maken een snelle detectie van overbelastingen mogelijk. In grote installaties wordt gebruik gemaakt van **stroomtransformatoren**, die de stroom nauwkeurig meten zonder de meetapparatuur te overbelasten.
+
+   :::example Praktische Toepassing ⚡
+   In industriële installaties worden stroommeetcircuits vaak gecombineerd met besturingsapparatuur om de belasting aan te passen aan de energiebehoeften.
+   :::
+
+---
+
+## HOOFDSTUK 5.4. AARDING, BESCHERMINGSLEIDERS EN EQUIPOTENTIALE VERBINDINGEN
+
+**Aarding** en **beschermingsleiders** zijn essentiële onderdelen voor de elektrische veiligheid, omdat ze een pad met lage weerstand bieden voor foutstromen. Dit minimaliseert het risico op elektrische schokken en schade aan apparatuur. In dit hoofdstuk bespreken we de belangrijkste technische aspecten en vereisten om een betrouwbare aarding te garanderen.
+
+### Afdeling 5.4.1. Algemene Richtlijnen
+
+De veiligheid van elektrische installaties is afhankelijk van een correcte uitvoering van de aarding en de beschermingsleiders. Door foutstromen naar de aarde af te voeren, beschermen deze elementen zowel gebruikers als apparatuur, en voorkomen ze elektrocutie, kortsluiting en brand.
+
+> **Praktisch voorbeeld** 🔍 : Wanneer een differentieelschakelaar wordt gekoppeld aan een effectieve aarding, onderbreekt hij het circuit bij een lekstroom, waardoor potentieel dodelijke elektrische schokken worden vermeden.
+
+---
+
+### Afdeling 5.4.2. Aardingsinstallaties
+
+Aardingsinstallaties bestaan uit een **aardelektrode** en **aardingsleidingen**, die de apparatuur met de aarde verbinden om de veiligheid te garanderen.
+
+#### Onderafdeling 5.4.2.1. Aardelektrode
+
+De aardelektrode is een essentieel onderdeel van de elektrische veiligheid. Het vormt het contactpunt met de grond, waardoor foutstromen kunnen worden afgevoerd. Afhankelijk van de bodemgesteldheid en de installatiesituatie worden verschillende soorten aardelektroden aanbevolen.
+
+| **Type aardelektrode**     | **Beschrijving**                                                                                 |
+|----------------------------|--------------------------------------------------------------------------------------------------|
+| **Aardpen**                | Metalen staaf in de grond, ideaal voor eenvoudige huishoudelijke installaties.                   |
+| **Fundamentlus**           | Geleider geplaatst onder de fundering van een gebouw, biedt een duurzame en continue verbinding. |
+| **Aardplaat**              | Metalen plaat begraven in de grond, geschikt voor bodems met lage geleidbaarheid.                |
+
+De aardelektrode moet worden geïnstalleerd in goed geleidende grond en beschermd zijn tegen corrosie voor een effectieve afvoer van foutstromen.
+
+#### Onderafdeling 5.4.2.2. Aardingsleiding
+
+De **aardingsleiding** verbindt de aardelektrode met de apparatuur. Hij moet bestand zijn tegen externe invloeden en foutstromen.
+
+- **Materialen** : Koper en aluminium worden vaak gebruikt vanwege hun hoge geleidbaarheid.
+- **Installatie** : Mechanisch beschermd tegen beschadigingen en correct gedimensioneerd om foutstromen te dragen.
+
+   :::tip Beste praktijken voor de installatie van aardingsleidingen 💡
+   Zorg ervoor dat de aardingsleiding in een aparte buis wordt geïnstalleerd om blootstelling aan schokken en andere interferenties te minimaliseren.
+   :::
+
+---
+
+### Afdeling 5.4.3. Beschermingsleiders
+
+**Beschermingsleiders** verbinden de metalen behuizing van apparatuur met de aarde en spelen een cruciale rol in de veiligheid van de installatie. Ze moeten zorgvuldig worden geïnstalleerd en gedimensioneerd om foutstromen te kunnen afvoeren.
+
+#### Onderafdeling 5.4.3.1. Materiaal van de beschermingsleiders
+
+Beschermingsleiders zijn meestal gemaakt van koper vanwege de uitstekende geleidende eigenschappen en corrosiebestendigheid. In sommige gevallen kan aluminium worden gebruikt.
+
+#### Onderafdeling 5.4.3.2. Minimale doorsnede van de beschermingsleiders
+
+De doorsnede van de beschermingsleiders wordt bepaald op basis van de kenmerken van elk circuit.
+
+- **Huishoudelijke installaties** : Een minimale doorsnede van 2,5 mm² is vaak vereist.
+- **Industriële installaties** : Afhankelijk van de stroomsterkte kunnen doorsneden van 10 mm² of meer nodig zijn.
+
+   :::warning Let op 👀
+   Een onjuiste dimensionering van beschermingsleiders kan leiden tot oververhitting en een verhoogd brandrisico.
+   :::
+
+#### Onderafdeling 5.4.3.3. Identificatie van de beschermingsleiders
+
+De identificatie van beschermingsleiders is essentieel voor een snelle en veilige interventie. Gebruik genormaliseerde kleuren zoals groen-geel voor een gemakkelijke herkenning.
+
+#### Onderafdeling 5.4.3.4. Installatie van de beschermingsleiders
+
+Beschermingsleiders moeten worden geïnstalleerd in beschermde leidingen en bij voorkeur in een rechte lijn om de weerstand te verminderen en het risico op beschadiging te minimaliseren.
+
+   :::example Voorbeeld van installatie van beschermingsleiders 🛠️
+   In een buitentoepassing moet de beschermingsleider worden beschermd met een waterdichte buis om corrosie en mechanische schade te voorkomen.
+   :::
+
+#### Onderafdeling 5.4.3.5. Elektrische continuïteit
+
+Elektrische continuïteit is essentieel om foutstromen naar de aarde te kunnen afvoeren. Betrouwbare continuïteit zorgt ervoor dat beschermingsapparaten onmiddellijk een fout kunnen detecteren en het circuit kunnen onderbreken.
+
+> **Opmerking :** Een goede continuïteit zorgt ervoor dat beschermingsapparaten snel kunnen reageren bij een fout, wat het risico voor gebruikers vermindert.
+
+#### Onderafdeling 5.4.3.6. Aansluiting van de beschermingsleiders op elektrische apparatuur
+
+Beschermingsleiders moeten stevig worden verbonden met de apparatuur om de veiligheid te waarborgen en onbedoelde loskoppeling te voorkomen.
+
+| **Verbindingsmethode**    | **Voordelen**                        | **Nadelen**                        |
+|---------------------------|--------------------------------------|------------------------------------|
+| **Klemmen**               | Eenvoudig te installeren en te hanteren | Gevaar voor losraken op termijn   |
+| **Solderen of krimpen**   | Permanente en betrouwbare verbinding   | Minder flexibel bij wijzigingen   |
+
+---
+
+### Afdeling 5.4.4. Equipotentiaalverbindingen
+
+**Equipotentiaalverbindingen** zorgen voor een verbinding tussen metalen geleidende delen om een uniform potentiaal te garanderen, waardoor het risico op elektrische schokken bij isolatiefouten wordt verminderd.
+
+#### Onderafdeling 5.4.4.1. Hoofdequipotentiaalverbindingen
+
+Hoofdequipotentiaalverbindingen verbinden de beschermingsleiders met de geleidende delen van de installatie, zoals leidingen en metalen structuren, om het potentiaal binnen de installatie te egaliseren.
+
+> **Toepassingsvoorbeeld :** In een badkamer worden metalen leidingen verbonden met de aarde om elektrische schokken te voorkomen bij een elektrische fout.
+
+#### Onderafdeling 5.4.4.2. Aanvullende equipotentiale verbindingen
+
+Aanvullende equipotentiale verbindingen worden specifiek geïnstalleerd in risicovolle ruimtes zoals badkamers en keukens om extra veiligheid te bieden door het potentiaal tussen metalen elementen gelijk te maken.
+
+| **Locatie**           | **Verbonden elementen**                              |
+|-----------------------|------------------------------------------------------|
+| **Badkamer**          | Kranen, leidingen, badkuipen, vloerverwarming        |
+| **Technische ruimtes**| Metalen kasten, buizen, leidingen                    |
+
+:::tip Belang van equipotentiale verbindingen ⚡
+Deze verbindingen voorkomen potentiaalverschillen die gevaarlijke elektrische schokken kunnen veroorzaken bij isolatiefouten.
+:::
+
+---
+
+## HOOFDSTUK 5.5. VEILIGHEIDSINSTALLATIES
+
+**Veiligheidsinstallaties** zijn essentieel om essentiële diensten te handhaven bij uitval van de hoofdvoeding. Of het nu gaat om noodverlichting of ventilatiesystemen, deze installaties beschermen de bewoners en vergemakkelijken de hulpverlening door een veilige omgeving te garanderen.
+
+---
+
+### Afdeling 5.5.1. Algemeenheden
+
+Veiligheidsinstallaties moeten zorgen voor een **continue voeding** van kritieke apparaten, met name in openbare en industriële gebouwen. Belangrijke voorzieningen omvatten: **noodverlichting**, **brandalarmen**, en **ventilatiesystemen**.
+
+---
+
+### Afdeling 5.5.2. Doelstellingen
+
+De belangrijkste doelstellingen van veiligheidsinstallaties zijn:
+
+- **Veiligheid van bewoners**: Het waarborgen van de werking van noodapparatuur.
+- **Vergemakkelijking van evacuatie**: Optimale omstandigheden creëren voor een snelle en veilige evacuatie.
+- **Preventie van ongevallen**: Risico's verminderen bij elektrische storingen.
+
+> **Veiligheidstip** 🚨: Overweeg bij het ontwerpen van een veiligheidsinstallatie een redundantie van kritieke systemen om uitval van de hoofdvoeding op te vangen.
+
+---
+
+### Afdeling 5.5.3. Bepaling van veiligheidsinstallaties
+
+De keuze van veiligheidsinstallaties hangt af van het **type gebouw**, het **aantal bewoners**, en de **aanwezige risico's**.
+
+> **Praktisch voorbeeld** 🏥: In een ziekenhuis is een betrouwbare noodvoeding van vitaal belang voor levensondersteunende apparaten. Noodaggregaten worden vaak gebruikt om de continuïteit van zorg te waarborgen bij stroomuitval.
+
+---
+
+### Afdeling 5.5.4. Bepaling van de bedrijfstijd van veiligheidsvoorzieningen
+
+Veiligheidsapparatuur moet gedurende een **vooraf bepaalde tijd** operationeel blijven, afhankelijk van de normen en configuratie van de locatie. De **bedrijfstijd** varieert afhankelijk van het type installatie:
+
+| **Type installatie**      | **Aanbevolen bedrijfstijd**       |
+|---------------------------|-----------------------------------|
+| **Noodverlichting**       | Minimaal 1 uur                    |
+| **Ventilatiesystemen**    | Tot 3 uur                         |
+
+---
+
+### Afdeling 5.5.5. Maatregelen bij uitval van de normale bron
+
+Veiligheidsvoorzieningen kunnen al dan niet een eigen noodvoeding bevatten. Er zijn twee soorten veiligheidsverbruikers:
+
+#### Onderafdeling 5.5.5.1. Veiligheidsverbruikers met geïntegreerde noodvoeding
+
+Bepaalde apparaten, zoals noodverlichting, zijn voorzien van **geïntegreerde noodvoeding** (batterijen, accu's) die onmiddellijk inschakelen bij een storing. Deze oplossingen bieden een **ononderbroken continuïteit**.
+
+#### Onderafdeling 5.5.5.2. Veiligheidsverbruikers met externe noodvoeding
+
+Andere systemen zijn afhankelijk van een externe noodvoeding, zoals een noodgenerator. Deze systemen worden aanbevolen voor grotere installaties en vereisen **regelmatige tests** om hun effectiviteit te waarborgen.
+
+---
+
+### Afdeling 5.5.6. Maatregelen bij brand
+
+Bij brand moeten bepaalde veiligheidsinstallaties operationeel blijven om evacuatie mogelijk te maken en hulpverleners te ondersteunen.
+
+#### Onderafdeling 5.5.6.1. Algemeenheden
+
+Veiligheidsinstallaties moeten bestand zijn tegen de effecten van brand en moeten de **kritieke circuits** lang genoeg operationeel houden om de veiligheid van de bewoners te waarborgen.
+
+#### Onderafdeling 5.5.6.2. Externe noodvoeding
+
+Externe noodvoedingen, zoals noodaggregaten, moeten **ver van risicogebieden** worden geplaatst om blootstelling aan vlammen te voorkomen.
+
+> **Belangrijk punt** 🔥: Externe noodaggregaten moeten op veilige afstand van gebouwen worden geplaatst om storingen te voorkomen bij branduitbreiding.
+
+#### Onderafdeling 5.5.6.3. Verdeel- en schakelkasten van veiligheidsvoorzieningen
+
+**Veiligheidskasten** centraliseren het beheer van de veiligheidsvoorzieningen en bieden extra bescherming voor kritieke apparatuur.
+
+| **Element**             | **Functie**                                       |
+|-------------------------|---------------------------------------------------|
+| **Veiligheidskast**     | Centraliseert en beveiligt noodcircuits          |
+| **Stroomonderbrekers**  | Beschermt tegen overbelasting en kortsluiting     |
+
+#### Onderafdeling 5.5.6.4. Elektrische leidingen van veiligheidscircuits
+
+De leidingen van veiligheidscircuits moeten worden beschermd tegen hoge temperaturen en brandrisico's.
+
+> **Technische opmerking** 🔧: Gebruik **metalen buizen** of **geïsoleerde leidingen** om de integriteit van veiligheidskabels te waarborgen bij blootstelling aan vlammen.
+
+---
+
+### Afdeling 5.5.7. Maatregelen bij elektrische fouten
+
+Elektrische fouten, zoals **overbelasting**, **kortsluiting** of **aardfouten**, kunnen de veiligheidscircuits verstoren. Daarom is het essentieel om deze fouten te beheersen om de integriteit van de installatie te waarborgen.
+
+#### Onderafdeling 5.5.7.1. Algemeenheden
+
+Veiligheidsinstallaties moeten bestand zijn tegen **elektrische fouten** en tegelijkertijd blijven functioneren. De doelstellingen zijn:
+
+- **Handhaving van de voeding van kritieke circuits** ondanks de fouten.
+- **Bescherming van apparatuur** om risico's voor gebruikers te beperken.
+- **Snelle reparatie** voor een spoedig herstel van de normale werking.
+
+#### Onderafdeling 5.5.7.2. Algemene beschermingsmaatregelen voor veiligheidscircuits
+
+Veiligheidsapparaten hebben specifieke beschermingen nodig om fouten te beheren en te isoleren zonder de essentiële functies in gevaar te brengen.
+
+| **Beschermingsapparaat**     | **Functie**                                        |
+|------------------------------|----------------------------------------------------|
+| **Automatische schakelaars** | Snelle isolatie van defecte circuits               |
+| **Bewakingssystemen**        | Continue monitoring en waarschuwing bij fouten     |
+
+#### Onderafdeling 5.5.7.3. Bescherming tegen overbelasting in veiligheidscircuits
+
+Om de veiligheid te waarborgen, zijn veiligheidscircuits voorzien van **overbelastingsbeveiligingen** die zijn afgestemd op de capaciteit van elk apparaat. Deze apparaten voorkomen dat circuits hun maximale belasting overschrijden, waardoor de betrouwbaarheid wordt gemaximaliseerd.
+
+> **Toepassingsvoorbeeld** 🔋: Noodverlichting met overbelastingsbeveiliging blijft beschikbaar tijdens een evacuatie, zelfs bij stroomuitval.
+
+#### Onderafdeling 5.5.7.4. Bescherming tegen kortsluiting in veiligheidscircuits
+
+**Kortsluitingen** vormen een van de grootste bedreigingen voor veiligheidscircuits. Bij een kortsluiting moet de **schakelaar** onmiddellijk reageren om het beschadigde deel te isoleren zonder de rest van de installatie te beïnvloeden. Een snelle reactie vermindert niet alleen de kans op materiële schade, maar garandeert ook de veiligheid van andere actieve circuits.
+
+| **Circuittype**           | **Aanbevolen bescherming**                               |
+|---------------------------|-----------------------------------------------------------|
+| **Verlichtingscircuits**  | Gebruik een snelle schakelaar met hoge breekcapaciteit    |
+| **Ventilatiesystemen**    | Gebruik een hooggevoelige zekering om foutpropagatie te voorkomen |
+
+> **Tip voor installateurs** ⚙️: Gebruik snelle schakelaars in kritieke circuits waar een minimale onderbrekingstijd essentieel is. Dit minimaliseert storingen in de veiligheidsfuncties.
+
+---
+
+#### Onderafdeling 5.5.7.5. Bescherming tegen aardfouten in veiligheidscircuits
+
+**Aardfouten** veroorzaken gevaarlijke lekstromen, wat kan leiden tot storingen in veiligheidscircuits. Het is essentieel om **aardlekschakelaars (ALS)** te installeren die lekstromen naar aarde snel detecteren en isoleren, zodat zowel de installatie als de gebruikers beschermd worden.
+
+*Technische opmerking* 🔍: Veiligheidscircuits uitgerust met ALS moeten regelmatig worden getest om hun effectiviteit te waarborgen bij een storing. Een periodieke controle zorgt ervoor dat ze correct reageren tijdens een incident.
+
+> **Praktisch voorbeeld** 🛠️: In een risicovolle ruimte, zoals een technische ruimte, kan de installatie van een hooggevoelige ALS (bijvoorbeeld 30 mA) het risico op elektrische schokken verminderen bij lekstromen, waardoor de veiligheid wordt versterkt.
+
+---
+
+### Afdeling 5.5.8. Bijzondere voorschriften
+
+Veiligheidsinstallaties vereisen **bijzondere voorschriften** om hun effectiviteit en robuustheid te waarborgen. Deze voorschriften omvatten kritische elementen voor duurzaamheid en prestaties:
+
+- **Brandwerende materialen 🔥**: Kabels en apparatuur moeten bestand zijn tegen hoge temperaturen en de verspreiding van vlammen voorkomen.
+
+  :::caution Let op
+  Gebruik gecertificeerde brandwerende materialen om brandrisico's te minimaliseren, vooral in drukbezochte gebieden.
+  :::
+
+- **Redundantie van systemen 🔄**: Redundante circuits worden aanbevolen om de continue werking te waarborgen in geval van storing. Dit zorgt ervoor dat kritieke apparatuur operationeel blijft, zelfs als een deel van de installatie beschadigd is.
+
+  :::info Redundantie
+  Redundante systemen zijn vooral nuttig in ziekenhuizen of datacenters, waar continuïteit van de dienstverlening cruciaal is.
+  :::
+
+- **Toegankelijkheid en onderhoud 🛠️**: Veiligheidsinstallaties moeten gemakkelijk toegankelijk zijn voor onderhoud en regelmatige tests, om een snelle interventie bij storingen te garanderen.
+
+- **Inbedrijfstelling en tests 🧪**: Voor inbedrijfstelling moet elk veiligheidscircuit worden onderworpen aan strenge tests om de werking en conformiteit met de veiligheidsnormen te verifiëren.
+
+  :::tip Praktisch voorbeeld
+  In ziekenhuizen moeten veiligheidssystemen maandelijks worden getest om te waarborgen dat kritieke apparatuur (noodverlichting, ventilatieapparatuur) direct reageert wanneer dat nodig is.
+  :::
+
+Deze voorschriften versterken de **weerbaarheid van veiligheidsinstallaties** tegen extreme omstandigheden en zorgen voor continue bescherming van de bewoners.
+
+---
+
+## HOOFDSTUK 5.6. KRITISCHE INSTALLATIES
+
+### Afdeling 5.6.1. Algemeenheden
+
+**Kritische installaties** omvatten alle systemen die onmisbaar zijn voor gevoelige infrastructuren. In contexten waar continuïteit van de operaties essentieel is, zoals ziekenhuizen, industriële installaties en datacenters, moeten deze systemen operationeel blijven, zelfs bij uitval van de hoofdvoeding.
+
+**Basisprincipes:**
+1. **Continuïteit van de dienst 💡**: Zorg voor ononderbroken werking van kritieke apparatuur.
+2. **Bescherming van personen en eigendommen 🔒**: Verminder veiligheidsrisico's door het functioneren van veiligheidssystemen onder alle omstandigheden te waarborgen.
+
+  :::example Voorbeeld
+  In een ziekenhuis moeten reanimatieapparatuur en noodverlichting blijven werken, zelfs bij stroomuitval, om ernstige gevolgen voor patiënten te voorkomen.
   :::
 
 ---
 
-### Section 5.6.2. Mesures de protection à prendre
+### Afdeling 5.6.2. Beschermingsmaatregelen
 
-Les installations critiques nécessitent des **mesures de protection spécifiques** pour anticiper et réagir efficacement aux situations de crise, telles que la perte de la source d’alimentation normale, les incendies ou les défauts électriques.
+Kritische installaties vereisen **specifieke beschermingsmaatregelen** om effectief te anticiperen en te reageren op crisissituaties, zoals stroomuitval, brand of elektrische fouten.
 
-#### Sous-section 5.6.2.1. Généralités
+#### Onderafdeling 5.6.2.1. Algemeenheden
 
-Les **mesures de protection** des installations critiques doivent :
-- Être résilientes face aux interruptions d’alimentation.
-- Inclure des systèmes redondants pour compenser la défaillance d’équipement.
-- Permettre une intervention rapide en cas de dysfonctionnement.
+**Beschermingsmaatregelen** voor kritische installaties moeten:
+- Bestand zijn tegen onderbrekingen in de stroomvoorziening.
+- Redundante systemen bevatten om apparatuurstoringen op te vangen.
+- Een snelle interventie mogelijk maken bij een storing.
 
-#### Sous-section 5.6.2.2. En cas de perte de la source normale
+### Onderafdeling 5.6.2.2. In geval van verlies van de normale voedingsbron
 
-Lors d’une perte de la source d’alimentation normale, les installations critiques doivent basculer automatiquement vers une source de sécurité (comme un générateur ou des batteries de secours) pour maintenir le service.
+Bij verlies van de normale stroomvoorziening moeten kritieke installaties automatisch overschakelen naar een noodstroombron (zoals een generator of noodaccu's) om de continuïteit van de dienstverlening te waarborgen.
 
-| **Type de source de secours** | **Exemples d'applications**               | **Durée de transition** |
-|-------------------------------|-------------------------------------------|-------------------------|
-| Générateur de secours         | Hôpitaux, bâtiments industriels          | Quelques secondes à 1 min |
-| Batterie de secours           | Centres de données, systèmes de surveillance | Immédiat               |
+| **Type noodstroombron**   | **Voorbeelden van toepassingen**     | **Overgangstijd**      |
+|---------------------------|--------------------------------------|------------------------|
+| Noodgenerator             | Ziekenhuizen, industriële gebouwen   | Enkele seconden tot 1 minuut |
+| Noodaccu                  | Datacenters, bewakingssystemen       | Direct                 |
 
-  :::warning Important
-  Les systèmes de commutation automatique doivent être testés régulièrement pour garantir leur bon fonctionnement en cas de besoin.
+  :::warning Belangrijk
+  Automatische omschakelsystemen moeten regelmatig getest worden om hun goede werking in geval van nood te garanderen.
   :::
 
 ---
 
-#### Sous-section 5.6.2.3. En cas d’incendie
+### Onderafdeling 5.6.2.3. In geval van brand
 
-Les installations critiques doivent être protégées pour limiter la propagation des flammes et maintenir l'alimentation des dispositifs de sécurité en situation d'incendie. Les câbles et équipements doivent être :
+Kritieke installaties moeten worden beschermd om de verspreiding van brand te beperken en de stroomvoorziening van veiligheidssystemen in geval van brand te handhaven. De kabels en apparatuur moeten:
 
-- **Ignifugés** pour réduire la propagation du feu.
-- **Isolés thermiquement** pour résister aux températures élevées.
+- **Brandwerend** zijn om de verspreiding van vuur te beperken.
+- **Thermisch geïsoleerd** zijn om bestand te zijn tegen hoge temperaturen.
 
-Des **chemins d’évacuation** et des dispositifs d’arrêt d’urgence doivent être accessibles et fonctionnels en toutes circonstances.
+**Vluchtroutes** en noodstopvoorzieningen moeten altijd toegankelijk en functioneel blijven.
 
-#### Sous-section 5.6.2.4. En cas de défaut électrique
+---
 
-Les défauts électriques tels que les surintensités, courts-circuits ou défauts de mise à la terre peuvent endommager gravement les installations critiques. Pour prévenir ces risques :
+### Onderafdeling 5.6.2.4. In geval van een elektrische fout
 
-- **Disjoncteurs différentiel-résiduel** (DDR) : Pour détecter les courants de fuite.
-- **Protection contre les surintensités** : Les circuits doivent être équipés de dispositifs capables d’isoler immédiatement les sections affectées sans affecter le reste du système.
+Elektrische fouten zoals overstromen, kortsluitingen of aardfouten kunnen ernstige schade toebrengen aan kritieke installaties. Om deze risico's te beperken:
 
-| **Type de défaut**             | **Mesure de protection recommandée**               |
-|--------------------------------|----------------------------------------------------|
-| Surcharge                      | Installation de disjoncteurs automatiques          |
-| Court-circuit                  | Isolation de la section affectée par un dispositif de coupure rapide |
-| Défaut de terre                | Utilisation d’un DDR pour interrompre le circuit   |
+- **Aardlekschakelaars (ALS)**: Voor het detecteren van lekstromen naar de aarde.
+- **Overstroombeveiliging**: Circuits moeten voorzien zijn van apparaten die defecte secties onmiddellijk isoleren zonder de rest van het systeem te beïnvloeden.
+
+| **Type fout**             | **Aanbevolen beschermingsmaatregel**                |
+|---------------------------|-----------------------------------------------------|
+| Overbelasting             | Installatie van automatische schakelaars            |
+| Kortsluiting              | Isolatie van de defecte sectie met snelle uitschakeling |
+| Aardfout                  | Gebruik van ALS om het circuit te onderbreken       |
 
   :::tip
-  Assurez-vous que chaque dispositif de protection est installé dans une section appropriée pour un isolement efficace des défauts sans impact sur les autres parties de l'installation.
+  Zorg ervoor dat elk beveiligingsapparaat is geïnstalleerd in de juiste sectie voor effectieve isolatie van fouten zonder impact op andere delen van de installatie.
   :::
-
-#### Sous-section 5.6.2.5. Prescriptions particulières
-
-Les installations critiques sont soumises à des **prescriptions particulières** qui renforcent leur capacité de résistance et de sécurité.
-
-- **Surveillance continue 📡** : Les systèmes critiques doivent être surveillés en permanence pour détecter les anomalies avant qu'elles ne causent des défaillances.
-- **Maintenance périodique 🔧** : Un programme de maintenance régulier est nécessaire pour garantir le bon fonctionnement des équipements et prévenir les pannes.
-  
-  :::info Test des systèmes de secours
-  Les sources de secours doivent être activées régulièrement pour vérifier leur disponibilité et leur fiabilité en cas de besoin.
-  :::
-
-Ces prescriptions permettent de maintenir les installations critiques dans un état optimal, prêtes à intervenir en cas d’urgence.
-
----
-## Conclusion de la Partie 5 - Choix et Mise en Œuvre des Matériels
-
-La Partie 5 du RGIE se concentre sur le choix et la mise en œuvre des matériels électriques, essentiels pour garantir la sécurité, la durabilité et l'efficacité des installations. Cette section détaille les règles à suivre pour sélectionner les équipements et les installer de manière à minimiser les risques, optimiser la performance, et assurer la conformité réglementaire.
-
-Les points clés abordés dans cette partie incluent :
-
-- **Matériels d’installation** : Les tableaux de répartition, socles de prise de courant et dispositifs de protection jouent un rôle fondamental pour une distribution électrique sécurisée et un contrôle efficace des circuits. Leur choix et emplacement influencent directement la sécurité des utilisateurs et la facilité de maintenance.
-
-- **Circuits de mesure et appareillages de commande** : Pour une gestion précise de l’énergie, les circuits de mesure, les interrupteurs et autres dispositifs de commande permettent de contrôler et d’isoler les différentes parties d’une installation. Leur sélection doit garantir la capacité à résister aux contraintes de l’environnement.
-
-- **Mises à la terre et liaisons équipotentielles** : Assurer une mise à la terre efficace et une liaison équipotentielle correcte protège les utilisateurs contre les chocs électriques et prévient les risques de défaillance des équipements.
-
-- **Installations de sécurité et installations critiques** : Dans des environnements sensibles comme les hôpitaux et les sites industriels, des installations de sécurité fiables et des systèmes critiques résilients sont indispensables pour garantir la continuité de service en cas de panne ou de défaut.
-
-En appliquant ces mesures, la fiabilité et la sécurité des installations sont renforcées, et les risques d'incident sont minimisés. La rigueur dans le choix des équipements et l’adaptation aux conditions spécifiques des environnements assurent une efficacité durable, conforme aux exigences du RGIE.
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Partie 5 🛠️
+### Onderafdeling 5.6.2.5. Specifieke voorschriften
 
-- **Choix des Matériels d'Installation** 🎛️ : Optez pour des équipements de qualité et installez-les de manière accessible pour faciliter les interventions de maintenance et garantir la sécurité des utilisateurs.
+Kritieke installaties zijn onderworpen aan **specifieke voorschriften** die hun weerstand en veiligheid versterken.
 
-- **Gestion et Commande des Circuits** 🔌 : Utilisez des dispositifs de commande et des circuits de mesure adaptés pour surveiller et contrôler les installations avec précision.
+- **Continue bewaking 📡**: Kritieke systemen moeten continu worden bewaakt om afwijkingen op te sporen voordat ze tot storingen leiden.
+- **Regelmatig onderhoud 🔧**: Een regelmatig onderhoudsprogramma is vereist om de goede werking van apparatuur te waarborgen en storingen te voorkomen.
 
-- **Protection par Mises à la Terre** 🌍 : Assurez une mise à la terre fiable et des liaisons équipotentielles pour limiter les risques de chocs électriques et préserver l'intégrité des équipements.
+  :::info Test van noodsystemen
+  Noodsystemen moeten regelmatig worden geactiveerd om hun beschikbaarheid en betrouwbaarheid in geval van nood te verifiëren.
+  :::
 
-- **Installations de Sécurité et Critiques** 🏥 : Dans les environnements sensibles, assurez-vous que les installations de sécurité fonctionnent de manière continue avec des systèmes redondants en cas de défaillance.
+Deze voorschriften zorgen ervoor dat kritieke installaties in optimale staat blijven en klaar zijn voor noodsituaties.
 
-- **Résistance aux Influences Externes** 🌡️ : Choisissez des matériaux et des dispositifs capables de résister aux conditions environnementales spécifiques, comme les variations de température, l'humidité ou les substances corrosives.
+---
 
-- **Redondance et Continuité** 🔄 : Intégrez des systèmes de secours pour les installations critiques afin d'assurer la continuité de service en cas de panne, particulièrement dans les infrastructures essentielles.
+## Conclusie van Deel 5 - Keuze en implementatie van apparatuur
 
-- **Maintenance Préventive** 🔧 : Mettez en place un programme de maintenance régulière pour prévenir les pannes et garantir le bon fonctionnement des dispositifs de protection.
+Deel 5 van het AREI richt zich op de keuze en implementatie van elektrische apparatuur, essentieel voor het waarborgen van de veiligheid, duurzaamheid en efficiëntie van installaties. In deze sectie worden de regels uiteengezet voor het selecteren van apparatuur en het installeren ervan op een manier die risico's minimaliseert, prestaties optimaliseert en naleving van de regelgeving verzekert.
 
-En appliquant ces pratiques, vous assurerez la **sécurité, l'efficacité et la longévité** de vos installations électriques, tout en respectant les normes du RGIE pour des installations conformes et fiables.
+Belangrijke punten uit dit deel zijn onder meer:
+
+- **Installatieapparatuur**: Verdeelpanelen, wandcontactdozen en beveiligingsapparaten spelen een cruciale rol bij veilige elektriciteitsverdeling en effectieve circuitbesturing. Hun keuze en plaatsing hebben direct invloed op de veiligheid van gebruikers en het gemak van onderhoud.
+
+- **Meetcircuits en bedieningsapparatuur**: Voor nauwkeurig energiebeheer bieden meetcircuits, schakelaars en andere bedieningsapparaten de mogelijkheid om verschillende delen van een installatie te controleren en te isoleren. Hun selectie moet bestand zijn tegen omgevingsinvloeden.
+
+- **Aarding en potentiaalvereffening**: Een betrouwbare aarding en correcte potentiaalvereffening beschermen gebruikers tegen elektrische schokken en voorkomen uitval van apparatuur.
+
+- **Veiligheids- en kritieke installaties**: In gevoelige omgevingen zoals ziekenhuizen en industriële locaties zijn betrouwbare veiligheidsinstallaties en robuuste kritieke systemen essentieel voor de continuïteit van de dienstverlening bij uitval of storing.
+
+Door deze maatregelen toe te passen, worden de betrouwbaarheid en veiligheid van installaties versterkt en worden incidenten tot een minimum beperkt. Zorgvuldige keuze van apparatuur en aanpassing aan de specifieke omgevingsomstandigheden zorgen voor duurzame en conforme installaties volgens de eisen van het AREI.
+
+---
+
+:::tip Beste Praktijken - Samenvatting van Deel 5 🛠️
+
+- **Keuze van installatieapparatuur** 🎛️: Kies voor apparatuur van hoge kwaliteit en installeer deze op een toegankelijke manier om onderhoud te vergemakkelijken en de veiligheid van gebruikers te waarborgen.
+
+- **Beheer en bediening van circuits** 🔌: Gebruik geschikte bedieningsapparaten en meetcircuits voor nauwkeurige controle en monitoring van installaties.
+
+- **Aarding en potentiaalvereffening** 🌍: Zorg voor een betrouwbare aarding en potentiaalvereffening om risico's van elektrische schokken te beperken en de integriteit van apparatuur te behouden.
+
+- **Veiligheids- en kritieke installaties** 🏥: Zorg ervoor dat de veiligheidsinstallaties continu functioneren met redundante systemen voor noodgevallen in gevoelige omgevingen.
+
+- **Bestandheid tegen externe invloeden** 🌡️: Kies materialen en apparaten die bestand zijn tegen specifieke omgevingsomstandigheden, zoals temperatuurvariaties, vochtigheid of corrosieve stoffen.
+
+- **Redundantie en continuïteit** 🔄: Implementeer noodsystemen voor kritieke installaties om de continuïteit van de dienst te waarborgen bij storingen, vooral in essentiële infrastructuren.
+
+- **Preventief onderhoud** 🔧: Voer regelmatig onderhoud uit om storingen te voorkomen en de goede werking van beveiligingsapparatuur te waarborgen.
+
+Door deze praktijken toe te passen, zorgt u voor de **veiligheid, efficiëntie en duurzaamheid** van uw elektrische installaties, in overeenstemming met de AREI-normen voor betrouwbare en conforme installaties.
 
 :::
 

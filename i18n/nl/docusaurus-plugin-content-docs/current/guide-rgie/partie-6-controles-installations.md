@@ -1,545 +1,539 @@
 ---
-title: Partie 6 - Contrôles des Installations | RGIE Bativolt Belgique
-description: Guide complet pour les contrôles des installations électriques selon le RGIE. Procédures de conformité, vérifications et sécurité pour la mise en service.
-sidebar_label: 6. Contrôles des Installations
+title: Deel 6 - Controle van Installaties | AREI Bativolt België
+description: Volledige gids voor de controle van elektrische installaties volgens het AREI. Conformiteitsprocedures, verificaties en veiligheid voor de ingebruikname.
+sidebar_label: 6. Controle van Installaties
 ---
 
+# Deel 6 - Controle van Installaties
 
-# Partie 6 - Contrôles des Installations
+## HOOFDSTUK 6.1. INLEIDING
 
-## CHAPITRE 6.1. INTRODUCTION
+De **controle van elektrische installaties** is essentieel om de veiligheid van personen en eigendommen te waarborgen, en om te voldoen aan de normen en voorschriften. Deze controles helpen defecten of zwakke punten in het systeem te identificeren, die anders kunnen leiden tot brandgevaar, elektrocutie of andere ernstige incidenten.
 
-Le **contrôle des installations électriques** est essentiel pour garantir la sécurité des personnes et des biens, ainsi que pour maintenir la conformité aux normes et réglementations. Ces contrôles permettent de détecter les défauts ou faiblesses dans les systèmes électriques, qui pourraient sinon entraîner des risques d'incendie, d'électrocution ou d'autres incidents graves.
-
-:::warning ⚠️ Importance de l’inspection régulière
-Les installations électriques qui ne sont pas régulièrement contrôlées peuvent développer des défauts cachés qui augmentent les risques d’accidents graves, tels que les courts-circuits et les incendies.
+:::warning ⚠️ Belang van regelmatige inspectie
+Elektrische installaties die niet regelmatig worden gecontroleerd, kunnen verborgen gebreken ontwikkelen die het risico op ernstige ongevallen, zoals kortsluitingen en brand, aanzienlijk vergroten.
 :::
 
-Les inspections régulières sont particulièrement importantes dans des environnements à haut risque, comme les installations industrielles ou les bâtiments publics, et sont obligatoires pour certaines installations afin d'assurer leur conformité continue.
+Regelmatige inspecties zijn vooral belangrijk in risicovolle omgevingen, zoals industriële installaties of openbare gebouwen, en zijn verplicht voor bepaalde installaties om voortdurende conformiteit te garanderen.
 
 ---
 
-## CHAPITRE 6.2. DOMAINE D'APPLICATION
+## HOOFDSTUK 6.2. TOEPASSINGSGEBIED
 
-Le domaine d'application des **contrôles des installations électriques** couvre toutes les installations soumises aux normes de sécurité en vigueur. Cela inclut les installations à basse tension, très basse tension, et les installations critiques nécessitant une attention particulière. Les inspections varient selon le type d'installation, son usage, et l'environnement dans lequel elle est installée.
+Het toepassingsgebied van **controle van elektrische installaties** omvat alle installaties die vallen onder de geldende veiligheidsnormen. Dit omvat installaties op laagspanning, zeer laagspanning, en kritieke installaties die extra aandacht vereisen. De inspecties variëren afhankelijk van het type installatie, het gebruik ervan, en de omgeving waarin ze zijn geïnstalleerd.
 
-:::example 🔍 Exemple concret 
-Dans le cas des établissements recevant du public, les contrôles sont souvent plus fréquents et rigoureux en raison de la densité de personnes présentes et des risques associés.
-:::
-
----
-
-## CHAPITRE 6.3. ORGANISMES AGRÉÉS
-
-Les **organismes agréés** jouent un rôle central dans le contrôle des installations, en vérifiant la conformité des installations électriques aux standards de sécurité. Ces organismes possèdent une expertise et une accréditation spécifiques, qui leur permettent de réaliser des inspections et de délivrer des certificats de conformité.
-
-### Section 6.3.1. Objet de l'agrément
-
-L'objet de l'agrément consiste à **habiliter un organisme** à effectuer des contrôles et à attester de la conformité des installations électriques. Cet agrément est délivré par une autorité compétente, qui évalue les compétences techniques, la rigueur des procédures, et la qualité des inspections de l'organisme.
-
-> **En résumé :** L'agrément permet à l'organisme d'assurer que ses contrôles sont reconnus et fiables, contribuant ainsi à la sécurité des installations inspectées.
-
----
-
-### Section 6.3.2. Définitions
-
-Les définitions suivantes sont pertinentes dans le contexte des organismes agréés :
-
-- **Agrément** : Autorisation officielle permettant à un organisme de procéder aux contrôles réglementaires des installations électriques.
-- **Organisme agréé** : Entité accréditée pour effectuer les inspections de conformité des installations électriques.
-- **Contrôle de conformité** : Vérification que l'installation respecte toutes les exigences de sécurité en vigueur.
-
-Ces définitions posent les bases pour comprendre le rôle, les obligations et les responsabilités des organismes agréés.
-
----
-
-### Section 6.3.3. Conditions d'agrément
-
-Les organismes doivent satisfaire plusieurs **conditions d'agrément** pour être reconnus et obtenir le droit de réaliser des inspections de sécurité sur les installations électriques.
-
-#### Sous-section 6.3.3.1. Conditions générales
-
-Les conditions générales incluent :
-
-- **Compétence technique** : L'organisme doit démontrer une connaissance approfondie des normes de sécurité et des réglementations en vigueur.
-- **Impartialité** : L'organisme doit être indépendant et n'avoir aucun lien commercial avec les installations qu'il inspecte, pour garantir une évaluation objective.
-- **Capacité opérationnelle** : Il doit disposer des ressources humaines et matérielles nécessaires pour réaliser des contrôles fiables et rigoureux.
-
-> **Note :** Ces conditions visent à garantir que seuls les organismes qualifiés et impartiaux effectuent des contrôles de conformité, afin de maintenir un niveau élevé de sécurité.
-
-#### Sous-section 6.3.3.2. Cas particulier
-
-Dans certains cas, des conditions particulières d’agrément peuvent s'appliquer. Par exemple, des critères supplémentaires peuvent être requis pour les organismes inspectant des **installations critiques** ou des **environnements à haut risque**.
-
----
-
-### Section 6.3.4. Procédure d'agrément
-
-La procédure d'agrément comporte plusieurs étapes rigoureuses pour s'assurer que l'organisme candidat satisfait toutes les conditions nécessaires :
-
-1. **Demande officielle** : L’organisme soumet une demande incluant ses qualifications, méthodes de contrôle, et preuve de conformité aux exigences.
-2. **Évaluation** : L'autorité compétente évalue la documentation fournie, vérifie les compétences techniques, et peut effectuer des audits.
-3. **Décision** : Si les critères sont remplis, l'agrément est accordé. Sinon, l'organisme reçoit des recommandations pour atteindre le niveau requis.
-
-> **Tableau récapitulatif : Procédure d’agrément**
-
-| Étape                 | Description                                                              |
-|-----------------------|--------------------------------------------------------------------------|
-| Demande officielle    | Soumission des documents et preuves de compétence.                      |
-| Évaluation            | Examen de la documentation et audits éventuels.                          |
-| Décision              | Accord de l’agrément ou recommandations d’amélioration.                  |
-
----
-
-### Section 6.3.5. Renouvellement de l'agrément
-
-L'agrément doit être **renouvelé régulièrement** pour garantir que l'organisme continue de respecter les normes et exigences en vigueur. Ce renouvellement passe par une réévaluation complète de l'organisme, y compris de sa capacité à fournir des contrôles de qualité.
-
-Le processus de renouvellement suit une procédure similaire à celle de l'agrément initial, avec une vérification supplémentaire des mises à jour des compétences et équipements de l'organisme pour répondre aux évolutions des normes de sécurité.
-
----
-
-### Section 6.3.6. Déclaration d’habilitation d'agents-visiteurs
-
-Les **agents-visiteurs** sont des professionnels qualifiés qui effectuent les inspections sur site pour vérifier la conformité des installations électriques. Afin de garantir leur compétence et intégrité, une **déclaration d'habilitation** est nécessaire pour chaque agent, assurant qu'ils possèdent les qualifications techniques et le savoir-faire nécessaires.
-
-La déclaration d'habilitation implique que :
-
-- **L'agent respecte les normes de sécurité** : Il doit posséder une connaissance approfondie des protocoles et normes de sécurité en vigueur.
-- **Les compétences techniques** : Une mise à jour régulière de leurs connaissances est requise pour s'adapter aux évolutions réglementaires.
-- **L'impartialité et l'intégrité** : L'agent ne doit pas avoir de conflits d'intérêt avec les installations qu'il inspecte.
-
-:::tip 📌 But de l’habilitation 
-Cette déclaration vise à renforcer la fiabilité des inspections et la sécurité des installations.
+:::example 🔍 Praktisch voorbeeld
+In het geval van publiek toegankelijke gebouwen zijn de controles vaak frequenter en strenger vanwege de hoge bezettingsgraad en de bijbehorende risico's.
 :::
 
 ---
 
-### Section 6.3.7. Critères de fonctionnement
+## HOOFDSTUK 6.3. ERKENDE ORGANISMEN
 
-Les **critères de fonctionnement des organismes agréés** déterminent les standards de qualité, de régularité, et d'indépendance nécessaires pour mener des inspections fiables. Voici quelques critères clés :
+**Erkende organismen** spelen een centrale rol in de controle van installaties door te verifiëren dat de installaties voldoen aan de veiligheidsnormen. Deze organismen beschikken over specifieke expertise en accreditatie, waardoor zij inspecties kunnen uitvoeren en conformiteitscertificaten kunnen uitreiken.
 
-- **Qualité des contrôles** : L'organisme doit employer des méthodes rigoureuses et éprouvées pour réaliser des contrôles exhaustifs.
-- **Fréquence des inspections** : Les inspections doivent être réalisées à intervalles réguliers, avec une fréquence adaptée au type et à l'usage de l'installation.
-- **Documentation et traçabilité** : Chaque inspection doit être documentée pour assurer la transparence et permettre des audits.
-- **Formation continue** : Les agents doivent régulièrement suivre des formations pour rester à jour avec les dernières normes et réglementations.
+### Afdeling 6.3.1. Doel van de erkenning
 
-Ces critères assurent que l'organisme agréé maintient des standards de contrôle élevés et constants.
+Het doel van de erkenning is om een **organisatie te machtigen** om controles uit te voeren en de conformiteit van elektrische installaties te bevestigen. Deze erkenning wordt verleend door een bevoegde autoriteit die de technische bekwaamheid, striktheid van de procedures en kwaliteit van de inspecties van de organisatie beoordeelt.
 
---- 
-
-### Section 6.3.8. Commission d'Avis et de Surveillance
-
-La **Commission d'Avis et de Surveillance** est un organe consultatif jouant un rôle crucial dans le suivi des organismes agréés. Ses missions principales sont :
-
-1. **Fournir des recommandations** : Conseiller sur les meilleures pratiques et l’évolution des méthodes de contrôle.
-2. **Assurer la qualité des inspections** : Surveiller les organismes agréés pour garantir que leurs inspections restent conformes aux normes en vigueur.
-3. **Enquêter en cas de litiges ou non-conformités** : Mener des enquêtes sur les activités des organismes en cas de plainte ou d'anomalie constatée.
-
-> **En résumé** : La Commission agit comme un garant de la fiabilité et de l'objectivité des organismes agréés, renforçant ainsi la sécurité et la confiance dans les installations.
+> **Samengevat:** De erkenning stelt de organisatie in staat om erkende en betrouwbare controles uit te voeren, wat bijdraagt aan de veiligheid van de geïnspecteerde installaties.
 
 ---
 
-### Section 6.3.9. Surveillance et sanctions
+### Afdeling 6.3.2. Definities
 
-Les **organismes agréés** sont soumis à une **surveillance stricte** pour garantir leur respect des normes de sécurité. En cas de non-conformités, des **sanctions** peuvent être appliquées :
+De volgende definities zijn relevant in de context van erkende organismen:
 
-:::warning ⚠️ Types de sanctions possibles
-- **Avertissements** : Émis pour des manquements mineurs, avec rappel des règles.
-- **Suspension temporaire de l'agrément** : En cas de défauts graves, l'organisme peut être suspendu jusqu'à correction.
-- **Révocation de l'agrément** : Pour des non-conformités graves et récurrentes, l'agrément peut être révoqué définitivement.
-:::
+- **Erkenning**: Officiële toestemming die een organisatie machtigt om wettelijke controles van elektrische installaties uit te voeren.
+- **Erkend organisme**: Een geaccrediteerde entiteit die conformiteitsinspecties van elektrische installaties uitvoert.
+- **Conformiteitscontrole**: Verificatie dat de installatie voldoet aan alle geldende veiligheidsvereisten.
 
-Ces mesures garantissent que les organismes restent responsables et respectent rigoureusement leurs obligations de sécurité.
+Deze definities leggen de basis voor het begrijpen van de rol, verplichtingen en verantwoordelijkheden van erkende organismen.
 
 ---
 
-### Section 6.3.10. Installations électriques des services publics
+### Afdeling 6.3.3. Voorwaarden voor erkenning
 
-Les **installations des services publics** nécessitent des inspections spécifiques, étant donné leur impact sur le public. Les exigences pour ces installations incluent :
+Om erkend te worden, moeten organisaties voldoen aan diverse **erkenningsvoorwaarden** voordat zij veiligheidsinspecties mogen uitvoeren op elektrische installaties.
 
-- **Des inspections plus fréquentes** : En raison de leur usage intensif, les installations publiques sont soumises à une surveillance accrue.
-- **Des standards de sécurité renforcés** : Les normes de sécurité sont souvent plus strictes pour ces installations, afin de protéger les usagers.
-- **Suivi en cas de modifications** : Toute modification doit être suivie d'une inspection pour garantir le maintien de la sécurité optimale.
+#### Onderafdeling 6.3.3.1. Algemene voorwaarden
 
----
+De algemene voorwaarden omvatten:
 
-## CHAPITRE 6.4. CONTRÔLE DE CONFORMITÉ AVANT MISE EN USAGE
+- **Technische bekwaamheid**: De organisatie moet uitgebreide kennis hebben van de geldende veiligheidsnormen en voorschriften.
+- **Onpartijdigheid**: De organisatie moet onafhankelijk zijn en geen commerciële banden hebben met de installaties die zij inspecteert, om een objectieve beoordeling te garanderen.
+- **Operationele capaciteit**: De organisatie moet beschikken over de benodigde personele en materiële middelen om betrouwbare en nauwkeurige controles uit te voeren.
 
-Le **contrôle de conformité avant mise en usage** est essentiel pour vérifier qu'une installation respecte les normes de sécurité avant sa mise en service. 
+> **Opmerking:** Deze voorwaarden zorgen ervoor dat alleen gekwalificeerde en onpartijdige organisaties conformiteitscontroles uitvoeren, om een hoog veiligheidsniveau te handhaven.
 
-### Section 6.4.1. Généralités
+#### Onderafdeling 6.3.3.2. Bijzondere gevallen
 
-Les contrôles de conformité avant la première utilisation assurent que toutes les mesures de sécurité ont été mises en place. Ce processus comprend des vérifications **administratives**, **visuelles**, et **techniques**.
-
----
-
-### Section 6.4.2. Contrôles administratifs
-
-Les **contrôles administratifs** consistent à vérifier que toute la documentation relative à l'installation est complète et conforme. Cela inclut :
-
-:::info 📄 Documentation requise
-- **Plans et schémas** : Schémas de câblage, mise à la terre, et plans d'installation, à jour et complets.
-- **Certificats** : Certificats de conformité antérieurs et documents attestant de la sécurité des équipements installés.
-:::
+In bepaalde gevallen kunnen aanvullende erkenningsvoorwaarden van toepassing zijn. Bijvoorbeeld, extra criteria kunnen vereist zijn voor organisaties die inspecties uitvoeren in **kritieke installaties** of **hoogrisico-omgevingen**.
 
 ---
 
-### Section 6.4.3. Contrôles visuels
+### Afdeling 6.3.4. Erkenningsprocedure
 
-Le contrôle visuel permet de détecter des anomalies évidentes dans l’installation :
+De erkenningsprocedure bestaat uit verschillende rigoureuze stappen om te garanderen dat de kandidaat-organisatie voldoet aan alle benodigde voorwaarden:
 
-1. **Endommagements matériels** : Vérification de l'intégrité des câbles, des appareils et des dispositifs de protection.
-2. **Respect des distances de sécurité** : Vérifier que les distances réglementaires sont respectées pour éviter les risques de court-circuit ou de surchauffe.
-3. **Signalétique et marquage** : Assurer une signalétique claire et visible pour faciliter une manipulation en toute sécurité.
+1. **Officiële aanvraag**: De organisatie dient een aanvraag in met haar kwalificaties, controlemethoden, en bewijs van naleving van de vereisten.
+2. **Evaluatie**: De bevoegde autoriteit beoordeelt de ingediende documentatie, controleert de technische bekwaamheid en kan audits uitvoeren.
+3. **Beslissing**: Als aan de criteria is voldaan, wordt de erkenning verleend. Anders ontvangt de organisatie aanbevelingen om aan de vereiste norm te voldoen.
 
-> **Note** : Un contrôle visuel attentif peut révéler des problèmes potentiels avant qu'ils ne deviennent dangereux.
+> **Samenvattende tabel: Erkenningsprocedure**
 
----
-
-### Section 6.4.4. Contrôles par essais
-
-Les essais permettent de tester l'installation dans des conditions contrôlées :
-
-- **Essais des dispositifs de sécurité** : Vérification du bon fonctionnement des disjoncteurs, fusibles, et autres dispositifs de protection.
-- **Test de continuité** : Assurer que toutes les connexions sont solides et que la continuité électrique est assurée.
-- **Simulation d'urgence** : Test des dispositifs dans des scénarios d'urgence pour évaluer leur réactivité.
+| Stap                      | Beschrijving                                                   |
+|---------------------------|----------------------------------------------------------------|
+| Officiële aanvraag        | Indienen van documenten en bewijzen van bekwaamheid.           |
+| Evaluatie                 | Beoordeling van de documentatie en eventuele audits.           |
+| Beslissing                | Toekenning van erkenning of aanbevelingen voor verbetering.    |
 
 ---
 
-### Section 6.4.5. Contrôles par mesures
+### Afdeling 6.3.5. Verlenging van de erkenning
 
-Les contrôles par mesures incluent la collecte de données précises pour évaluer la sécurité de l’installation.
+De erkenning moet **regelmatig worden verlengd** om ervoor te zorgen dat de organisatie blijft voldoen aan de geldende normen en vereisten. Deze verlenging omvat een volledige herbeoordeling van de organisatie, inclusief een controle op de bijgewerkte vaardigheden en apparatuur van de organisatie om te voldoen aan de evoluerende veiligheidsnormen.
 
-#### Sous-section 6.4.5.1. Mesures d'isolement
-
-Les **mesures d'isolement** s’assurent qu’il n'y a pas de fuite de courant. Cela comprend :
-
-- **Mesure de la résistance d'isolement** : Vérifier l’efficacité des isolants pour prévenir les fuites.
-- **Vérification de la sécurité des conducteurs** : Évaluer la capacité des conducteurs à résister aux influences externes.
-- **Relevé des données** : Enregistrer toutes les valeurs et les comparer aux normes pour vérifier la conformité.
+De verlengingsprocedure volgt een soortgelijke procedure als de initiële erkenning, met aanvullende controles op de actuele bekwaamheid van de organisatie.
 
 ---
+### Sectie 6.3.6. Verklaring van bekwaamheid voor inspecteurs
 
-#### Sous-section 6.4.5.2. Mesures de la résistance de dispersion des prises de terre
+**Inspecteurs** zijn gekwalificeerde professionals die ter plaatse inspecties uitvoeren om de conformiteit van elektrische installaties te controleren. Om hun bekwaamheid en integriteit te garanderen, is een **verklaring van bekwaamheid** vereist voor elke inspecteur, wat aantoont dat ze over de nodige technische kwalificaties en expertise beschikken.
 
-Les **mesures de résistance de dispersion des prises de terre** assurent la sécurité en cas de défaut électrique.
+De verklaring van bekwaamheid houdt in dat:
 
-:::tip 💡 Importance des mesures de dispersion
-- **Technique de mesure** : Réaliser la mesure avec un ohmmètre de terre et des piquets de mesure autour de la prise.
-- **Normes de sécurité** : Une résistance typique acceptable est inférieure à 30 ohms dans les installations domestiques, mais peut varier selon les installations.
-- **Interprétation** : Des valeurs élevées indiquent un risque accru. Dans ce cas, renforcer la prise de terre avec des conducteurs supplémentaires peut être nécessaire.
+- **De inspecteur voldoet aan de veiligheidsnormen**: Hij moet grondige kennis hebben van de geldende veiligheidsprotocollen en -normen.
+- **Technische bekwaamheid**: Regelmatige bijscholing is vereist om op de hoogte te blijven van de wijzigingen in de regelgeving.
+- **Onpartijdigheid en integriteit**: De inspecteur mag geen belangenconflict hebben met de installaties die hij inspecteert.
+
+:::tip 📌 Doel van de bekwaamheidsverklaring
+Deze verklaring versterkt de betrouwbaarheid van de inspecties en de veiligheid van de installaties.
 :::
 
 ---
 
-### Section 6.4.6. Rapports
+### Sectie 6.3.7. Functioneringscriteria
 
-Les **rapports de contrôle** sont essentiels pour documenter les résultats des inspections de conformité et servir de preuve de la sécurité des installations. Ils permettent aux inspecteurs, propriétaires et gestionnaires de garantir la maintenance et la sécurité continues des installations.
+De **functioneringscriteria voor erkende instanties** bepalen de kwaliteitsnormen, regelmatigheid en onafhankelijkheid die nodig zijn voor betrouwbare inspecties. Enkele belangrijke criteria zijn:
 
-#### Sous-section 6.4.6.1. Généralités
+- **Kwaliteit van de controles**: De instantie moet strikte en beproefde methoden gebruiken voor grondige inspecties.
+- **Frequentie van inspecties**: Inspecties moeten regelmatig worden uitgevoerd, met een frequentie die is afgestemd op het type en gebruik van de installatie.
+- **Documentatie en traceerbaarheid**: Elke inspectie moet gedocumenteerd worden om transparantie te waarborgen en audits mogelijk te maken.
+- **Voortdurende opleiding**: Inspecteurs moeten regelmatig bijscholing volgen om op de hoogte te blijven van de nieuwste normen en voorschriften.
 
-Les rapports de contrôle doivent inclure :
+Deze criteria zorgen ervoor dat de erkende instantie een hoog en consistent controle-niveau handhaaft.
 
-1. **Informations détaillées** : Localisation, date, description de l'installation.
-2. **Résultats des mesures** : Mesures d'isolement, résistance de dispersion, etc.
-3. **Non-conformités** : Détail des anomalies détectées avec recommandations de mise en conformité.
+---
 
-:::note 📝 Exemple de contenu d’un rapport
-- **Détails sur l’installation** : Localisation, équipements contrôlés.
-- **Résultats de conformité** : Mesures effectuées, valeurs obtenues.
-- **Recommandations** : Liste des actions à entreprendre pour corriger les non-conformités.
+### Sectie 6.3.8. Advies- en Toezichtscommissie
+
+De **Advies- en Toezichtscommissie** is een adviesorgaan dat een cruciale rol speelt bij het toezicht op erkende instanties. De belangrijkste taken van de commissie zijn:
+
+1. **Adviezen geven**: Aanbevelingen doen over de beste praktijken en de ontwikkeling van controlemethoden.
+2. **Kwaliteit van inspecties waarborgen**: Toezicht houden op erkende instanties om te garanderen dat hun inspecties voldoen aan de geldende normen.
+3. **Onderzoeken uitvoeren bij geschillen of niet-conformiteiten**: Onderzoeken instellen naar de activiteiten van instanties in geval van klachten of geconstateerde onregelmatigheden.
+
+> **Samenvatting**: De commissie fungeert als garantie voor de betrouwbaarheid en objectiviteit van erkende instanties, wat bijdraagt aan de veiligheid en het vertrouwen in de installaties.
+
+---
+
+### Sectie 6.3.9. Toezicht en sancties
+
+Erkende instanties staan onder **strikt toezicht** om ervoor te zorgen dat ze voldoen aan de veiligheidsnormen. In geval van niet-conformiteit kunnen er **sancties** worden opgelegd:
+
+:::warning ⚠️ Mogelijke sancties
+- **Waarschuwingen**: Uitgegeven voor kleine overtredingen, met een herinnering aan de regels.
+- **Tijdelijke schorsing van de erkenning**: Bij ernstige tekortkomingen kan de instantie worden geschorst tot de tekortkomingen zijn verholpen.
+- **Intrekking van de erkenning**: Bij ernstige en herhaalde niet-conformiteiten kan de erkenning definitief worden ingetrokken.
+:::
+
+Deze maatregelen zorgen ervoor dat instanties verantwoordelijk blijven en hun veiligheidsverplichtingen strikt naleven.
+
+---
+
+### Sectie 6.3.10. Elektrische installaties van openbare diensten
+
+De **installaties van openbare diensten** vereisen specifieke inspecties vanwege hun impact op het publiek. De eisen voor deze installaties omvatten:
+
+- **Frequentere inspecties**: Door hun intensieve gebruik zijn openbare installaties onderworpen aan strengere controles.
+- **Verhoogde veiligheidsnormen**: De veiligheidsnormen zijn vaak strenger voor deze installaties om de gebruikers te beschermen.
+- **Opvolging bij wijzigingen**: Elke wijziging moet worden gevolgd door een inspectie om de optimale veiligheid te garanderen.
+
+---
+
+## Hoofdstuk 6.4. Conformiteitscontrole vóór ingebruikname
+
+De **conformiteitscontrole vóór ingebruikname** is essentieel om te verifiëren dat een installatie voldoet aan de veiligheidsnormen voordat deze in gebruik wordt genomen.
+
+### Sectie 6.4.1. Algemeen
+
+De conformiteitscontroles vóór eerste gebruik zorgen ervoor dat alle veiligheidsmaatregelen zijn geïmplementeerd. Dit proces omvat **administratieve**, **visuele**, en **technische** controles.
+
+---
+
+### Sectie 6.4.2. Administratieve controles
+
+De **administratieve controles** omvatten de verificatie dat alle documentatie met betrekking tot de installatie compleet en conform is. Dit omvat:
+
+:::info 📄 Vereiste documentatie
+- **Plannen en schema's**: Up-to-date schema's voor bedrading, aarding en installatieplannen.
+- **Certificaten**: Vorige conformiteitscertificaten en documenten die de veiligheid van de geïnstalleerde apparatuur bevestigen.
 :::
 
 ---
 
-#### Sous-section 6.4.6.2. Dispositions spécifiques concernant les rapports d’une nouvelle installation électrique
+### Sectie 6.4.3. Visuele controles
 
-Pour une nouvelle installation, le rapport doit inclure :
+De visuele controle maakt het mogelijk om duidelijke afwijkingen in de installatie te detecteren:
 
-- **Description complète** : Plans, schémas et caractéristiques des composants installés.
-- **Conformité aux normes** : Toutes les sections doivent respecter le RGIE.
-- **Signatures** : Attestation signée par le propriétaire et l'inspecteur.
+1. **Materiële beschadigingen**: Controle van de integriteit van kabels, apparaten en beschermingsmiddelen.
+2. **Naleving van de veiligheidsafstanden**: Verificatie dat de voorgeschreven afstanden zijn nageleefd om kortsluitings- of oververhittingsrisico's te vermijden.
+3. **Signalisatie en markering**: Zorgen voor duidelijke en zichtbare signalisatie voor veilig gebruik en onderhoud.
 
-> **Attention** : Les signatures de toutes les parties responsables renforcent l'authenticité et la fiabilité du rapport.
+> **Opmerking**: Een zorgvuldige visuele controle kan potentiële problemen opsporen voordat ze gevaarlijk worden.
 
 ---
 
-#### Sous-section 6.4.6.3. Dispositions spécifiques concernant les rapports des installations dans les zones à risques d'explosion
+### Sectie 6.4.4. Testcontroles
 
-Les installations en zones à risque d’explosion nécessitent une documentation précise :
+De testcontroles omvatten het testen van de installatie onder gecontroleerde omstandigheden:
 
-| Critère                       | Exigences spécifiques                                     |
-|-------------------------------|----------------------------------------------------------|
-| **Identification des zones**  | Précision sur les zones de danger d’explosion.           |
-| **Équipements adaptés**       | Vérification de la compatibilité des équipements.        |
-| **Mesures de prévention**     | Contrôle des mesures de prévention mises en œuvre.       |
+- **Testen van beveiligingsapparaten**: Verificatie van de correcte werking van zekeringen, schakelaars en andere beschermingsmiddelen.
+- **Continuïteitstest**: Verzekeren dat alle verbindingen stevig zijn en dat elektrische continuïteit gewaarborgd is.
+- **Noodsimulaties**: Testen van apparatuur in noodscenario's om hun responsiviteit te evalueren.
 
-:::warning ⚠️ Zones à risques d’explosion
-Les rapports doivent démontrer que des précautions supplémentaires ont été prises pour minimiser les risques.
+---
+### Sectie 6.4.5. Metingen tijdens controles
+
+De metingen tijdens controles omvatten het verzamelen van nauwkeurige gegevens om de veiligheid van de installatie te beoordelen.
+
+#### Subsectie 6.4.5.1. Isolatiemetingen
+
+De **isolatiemetingen** zorgen ervoor dat er geen lekstromen aanwezig zijn. Dit omvat:
+
+- **Meten van de isolatieweerstand**: Controleren van de effectiviteit van de isolatiematerialen om lekstromen te voorkomen.
+- **Controle van de veiligheid van de geleiders**: Beoordelen van het vermogen van de geleiders om bestand te zijn tegen externe invloeden.
+- **Gegevensregistratie**: Alle meetwaarden worden vastgelegd en vergeleken met de normen om de conformiteit te waarborgen.
+
+---
+
+#### Subsectie 6.4.5.2. Metingen van de aardingsweerstand
+
+De **metingen van de aardingsweerstand** garanderen de veiligheid bij een elektrisch defect.
+
+:::tip 💡 Belang van aardingsmetingen
+- **Meetmethode**: Voer de meting uit met een aardingsweerstandsmeter en meetpennen rond de aardelektrode.
+- **Veiligheidsnormen**: Een typische aanvaardbare weerstand is minder dan 30 ohm in huishoudelijke installaties, maar dit kan variëren afhankelijk van het type installatie.
+- **Interpretatie**: Hoge waarden wijzen op een verhoogd risico. In dit geval kan het nodig zijn om de aarding te versterken met extra geleiders.
 :::
 
 ---
 
-#### Sous-section 6.4.6.4. Contenu du rapport de contrôle de conformité concernant les installations domestiques
+### Sectie 6.4.6. Rapportages
 
-Pour les installations domestiques, le rapport doit inclure :
+De **controlerapporten** zijn essentieel om de resultaten van conformiteitsinspecties te documenteren en dienen als bewijs van de veiligheid van de installaties. Ze stellen inspecteurs, eigenaren en beheerders in staat om de voortdurende veiligheid en het onderhoud van de installaties te waarborgen.
 
-- **Vérification des systèmes de protection** : Différentiels, prises de terre, continuité des conducteurs.
-- **Conformité des circuits** : État des câbles, connexions et appareils.
-- **Recommandations** : Conseils d’amélioration et mises à jour de sécurité.
+#### Subsectie 6.4.6.1. Algemene vereisten
 
-> **Conseil pratique** : Ajouter une section spécifique aux recommandations pour faciliter les futures maintenances et mises à jour.
+De controlerapporten moeten het volgende bevatten:
 
----
+1. **Gedetailleerde informatie**: Locatie, datum, beschrijving van de installatie.
+2. **Meetresultaten**: Isolatiemetingen, aardingsweerstand, enz.
+3. **Niet-conformiteiten**: Gedetailleerde beschrijving van gedetecteerde afwijkingen met aanbevelingen voor correctie.
 
-#### Sous-section 6.4.6.5. Contenu du rapport de contrôle de conformité concernant les installations non-domestiques
-
-Pour les installations non-domestiques, le rapport doit inclure :
-
-1. **Analyse de la sécurité fonctionnelle** : État des dispositifs de commande et sécurité.
-2. **Contrôle des circuits de secours** : Vérification des installations de sécurité.
-3. **Documentation des protections** : Selon les exigences spécifiques de l'installation (laboratoires, usines, etc.).
-
-> **Info** : Les installations non-domestiques peuvent nécessiter des dispositifs de sécurité supplémentaires en fonction de leur usage.
-
----
-
-### Section 6.4.7. Cas spécifiques de contrôle de conformité avant mise en usage
-
-Certaines situations nécessitent des contrôles de conformité spécifiques avant mise en service.
-
-#### Sous-section 6.4.7.1. Machines et appareils électriques
-
-Les **machines et appareils électriques** doivent être contrôlés pour :
-
-- **Sécurité des connexions** : Inspection complète des câblages internes.
-- **Protection intégrée** : Vérification des dispositifs de coupure et de mise à la terre.
-- **Composants critiques** : Examen des systèmes de contrôle et des éléments sous haute tension.
-
-:::tip 🔍 Contrôle des machines
-Inspectez les dispositifs de protection et les composants critiques pour anticiper les défaillances.
+:::note 📝 Voorbeeld van een rapportinhoud
+- **Installatiedetails**: Locatie, gecontroleerde apparatuur.
+- **Conformiteitsresultaten**: Uitgevoerde metingen, verkregen waarden.
+- **Aanbevelingen**: Lijst van acties voor het corrigeren van niet-conformiteiten.
 :::
 
 ---
 
-#### Sous-section 6.4.7.2. Installation transportable, mobile ou temporaire
+#### Subsectie 6.4.6.2. Specifieke vereisten voor rapporten van nieuwe elektrische installaties
 
-Les installations temporaires incluent des chantiers, événements et équipements de secours. Les contrôles comprennent :
+Voor een nieuwe installatie moet het rapport bevatten:
 
-- **Normes de connexion temporaire** : Respect des règles de sécurité.
-- **Dispositifs de protection** : Vérification des disjoncteurs et des prises de terre.
-- **Robustesse des équipements** : Adaptation aux conditions d'installation temporaire.
+- **Volledige beschrijving**: Plannen, schema's en kenmerken van de geïnstalleerde componenten.
+- **Normconformiteit**: Alle onderdelen moeten voldoen aan de AREI-voorschriften.
+- **Handtekeningen**: Ondertekende verklaring door de eigenaar en de inspecteur.
 
-> **Exemple pratique** : Assurer la protection des connexions sur les sites de chantiers pour prévenir tout risque de coupure accidentelle.
+> **Belangrijk**: De handtekeningen van alle verantwoordelijke partijen verhogen de authenticiteit en betrouwbaarheid van het rapport.
 
 ---
 
-#### Sous-section 6.4.7.3. Modification ou extension
+#### Subsectie 6.4.6.3. Specifieke vereisten voor rapporten van installaties in explosiegevaarlijke zones
 
-Lors de la modification ou de l'extension d'une installation, un contrôle de conformité est nécessaire avant remise en service. Les points évalués incluent :
+Installaties in explosiegevaarlijke zones vereisen nauwkeurige documentatie:
 
-- **Impact sur l’installation d’origine** : La modification ne doit pas altérer la sécurité ni la performance.
-- **Compatibilité des équipements** : Les nouveaux équipements doivent être compatibles et conformes.
-- **Documentation mise à jour** : Tous les changements doivent être intégrés aux schémas de l’installation.
+| **Criterium**                    | **Specifieke eisen**                                  |
+|----------------------------------|-------------------------------------------------------|
+| **Zone-identificatie**           | Duidelijke aanduiding van de explosiegevaarlijke zones. |
+| **Geschikte apparatuur**         | Controle van de compatibiliteit van de apparatuur.    |
+| **Preventiemaatregelen**         | Inspectie van de genomen preventiemaatregelen.        |
 
-:::note 📋 Modification ou extension
-Mettre à jour la documentation après chaque modification pour maintenir une traçabilité de l'installation.
+:::warning ⚠️ Explosiegevaarlijke zones
+De rapporten moeten aantonen dat er extra voorzorgsmaatregelen zijn genomen om de risico's te minimaliseren.
 :::
 
 ---
 
-## CHAPITRE 6.5. VISITES DE CONTRÔLE
+#### Subsectie 6.4.6.4. Inhoud van het conformiteitsrapport voor huishoudelijke installaties
 
-Les **visites de contrôle** sont des vérifications périodiques visant à assurer la sécurité et la conformité des installations électriques.
+Voor huishoudelijke installaties moet het rapport bevatten:
 
-### Section 6.5.1. Généralités
+- **Controle van beveiligingssystemen**: Differentieelschakelaars, aardingssystemen, continuïteit van de geleiders.
+- **Conformiteit van de circuits**: Staat van de kabels, aansluitingen en apparaten.
+- **Aanbevelingen**: Adviezen voor verbeteringen en veiligheidsupdates.
 
-Les visites de contrôle incluent des **contrôles administratifs, visuels, essais et mesures** pour vérifier la sécurité et le bon fonctionnement des installations.
-
-- **Objectif** : Identifier les défaillances potentielles.
-- **Importance** : Réduction des risques d’accidents et de dysfonctionnements.
-
-> **Bonnes pratiques** : Effectuer ces visites à intervalles réguliers pour minimiser les risques de panne.
+> **Praktische tip**: Voeg een specifieke aanbevelingssectie toe om toekomstige onderhouds- en updatebehoeften te vergemakkelijken.
 
 ---
 
-### Section 6.5.2. Périodicité des visites de contrôle
+#### Subsectie 6.4.6.5. Inhoud van het conformiteitsrapport voor niet-huishoudelijke installaties
 
-La fréquence des visites dépend du type d'installation :
+Voor niet-huishoudelijke installaties moet het rapport bevatten:
 
-| Type d'installation                | Périodicité recommandée        |
-|------------------------------------|--------------------------------|
-| Installations domestiques          | Tous les 5 ans                 |
-| Installations industrielles        | Annuellement                   |
-| Installations dans des zones à risque (ex. : hôpitaux) | Tous les 3 ans |
+1. **Functionele veiligheidsanalyse**: Toestand van de bedienings- en veiligheidsapparaten.
+2. **Controle van noodcircuits**: Inspectie van de noodsystemen en beveiligingsinstallaties.
+3. **Documentatie van de beveiligingen**: Conform de specifieke eisen van de installatie (laboratoria, fabrieken, enz.).
 
-> **Note importante** : Respecter la périodicité recommandée pour assurer une protection continue des installations.
+> **Info**: Niet-huishoudelijke installaties kunnen extra beveiligingsmaatregelen vereisen afhankelijk van hun gebruik.
 
 ---
 
-### Section 6.5.3. Contrôles administratifs
+### Sectie 6.4.7. Specifieke gevallen van conformiteitscontrole vóór ingebruikname
 
-Lors des visites de contrôle, une vérification des **documents administratifs** s'impose pour s'assurer qu'ils sont à jour et complets. Ces documents sont cruciaux pour tracer l'historique et garantir la sécurité de l'installation.
+Bepaalde situaties vereisen specifieke conformiteitscontroles vóór ingebruikname van de installatie.
+### Sectie 6.4.7.1. Elektrische machines en toestellen
 
-- **Rapports des inspections précédentes** 📋 : Ils permettent une comparaison entre l'état actuel de l'installation et celui des inspections antérieures, facilitant la détection des dégradations progressives.
-- **Dossiers de maintenance** 🛠️ : Vérification que toutes les interventions de maintenance ont été réalisées selon les normes et correctement documentées.
-- **Plans de l’installation** 🗺️ : S'assurer que les schémas reflètent fidèlement l'installation actuelle, un élément essentiel pour toute intervention de mise à jour ou de réparation.
+De **elektrische machines en toestellen** moeten worden gecontroleerd op:
 
-> :::tip **Bonnes pratiques** 📝
-> Garder une documentation administrative bien organisée facilite les inspections futures et renforce la sécurité des installations.
+- **Veiligheid van de verbindingen**: Volledige inspectie van de interne bedrading.
+- **Geïntegreerde bescherming**: Controle van de uitschakel- en aardingssystemen.
+- **Kritische componenten**: Inspectie van controlesystemen en onderdelen met hoge spanning.
+
+:::tip 🔍 Controle van machines
+Controleer de beschermingssystemen en kritische componenten om defecten te anticiperen.
+:::
+
+---
+
+### Sectie 6.4.7.2. Verplaatsbare, mobiele of tijdelijke installaties
+
+Verplaatsbare en tijdelijke installaties omvatten werven, evenementen en noodvoorzieningen. De controles omvatten:
+
+- **Normen voor tijdelijke verbindingen**: Naleving van de veiligheidsvoorschriften.
+- **Beschermingssystemen**: Controle van aardlekschakelaars en aardingssystemen.
+- **Robuustheid van de apparatuur**: Geschikt voor de omstandigheden van tijdelijke installatie.
+
+> **Praktisch voorbeeld**: Zorg voor bescherming van verbindingen op bouwplaatsen om het risico van onopzettelijke uitschakeling te voorkomen.
+
+---
+
+### Sectie 6.4.7.3. Wijziging of uitbreiding
+
+Bij wijziging of uitbreiding van een installatie is een conformiteitscontrole vereist voordat deze opnieuw in gebruik wordt genomen. De evaluatiepunten omvatten:
+
+- **Impact op de oorspronkelijke installatie**: De wijziging mag de veiligheid of prestaties niet aantasten.
+- **Compatibiliteit van de apparatuur**: De nieuwe apparatuur moet compatibel en conform zijn.
+- **Geactualiseerde documentatie**: Alle wijzigingen moeten worden opgenomen in de schema’s van de installatie.
+
+:::note 📋 Wijziging of uitbreiding
+Werk de documentatie bij na elke wijziging om de traceerbaarheid van de installatie te behouden.
+:::
+
+---
+
+## HOOFDSTUK 6.5. CONTROLEBEZOEKEN
+
+De **controlebezoeken** zijn periodieke inspecties die gericht zijn op het waarborgen van de veiligheid en conformiteit van elektrische installaties.
+
+### Sectie 6.5.1. Algemeen
+
+De controlebezoeken omvatten **administratieve, visuele, test- en meetcontroles** om de veiligheid en goede werking van de installaties te controleren.
+
+- **Doelstelling**: Potentiële defecten identificeren.
+- **Belang**: Vermindering van het risico op ongevallen en storingen.
+
+> **Goede praktijken**: Voer deze bezoeken op regelmatige tijdstippen uit om het risico op storingen te minimaliseren.
+
+---
+
+### Sectie 6.5.2. Frequentie van controlebezoeken
+
+De frequentie van de bezoeken hangt af van het type installatie:
+
+| Type installatie                  | Aanbevolen frequentie            |
+|-----------------------------------|----------------------------------|
+| Huishoudelijke installaties       | Om de 5 jaar                     |
+| Industriële installaties          | Jaarlijks                        |
+| Installaties in risicogebieden (bv. ziekenhuizen) | Om de 3 jaar                     |
+
+> **Belangrijke opmerking**: Houd de aanbevolen frequentie aan om continue bescherming van de installaties te garanderen.
+
+---
+
+### Sectie 6.5.3. Administratieve controles
+
+Tijdens de controlebezoeken is een controle van de **administratieve documenten** vereist om te verifiëren dat ze up-to-date en compleet zijn. Deze documenten zijn cruciaal voor het traceren van de geschiedenis en het waarborgen van de veiligheid van de installatie.
+
+- **Rapporten van eerdere inspecties** 📋: Hiermee kan de huidige staat van de installatie worden vergeleken met eerdere inspecties, waardoor progressieve degradatie kan worden opgespoord.
+- **Onderhoudsdossiers** 🛠️: Controleer of alle onderhoudswerkzaamheden volgens de normen zijn uitgevoerd en correct zijn gedocumenteerd.
+- **Installatieschema's** 🗺️: Controleer of de schema’s nauwkeurig overeenkomen met de huidige installatie, een essentieel onderdeel voor updates of reparaties.
+
+> :::tip **Goede praktijken** 📝
+> Een goed georganiseerde administratie vergemakkelijkt toekomstige inspecties en verhoogt de veiligheid van de installaties.
 > :::
 
 ---
 
-### Section 6.5.4. Contrôles visuels
+### Sectie 6.5.4. Visuele controles
 
-Les contrôles visuels sont essentiels pour identifier rapidement des signes de défaillance visibles :
+Visuele controles zijn essentieel om snel zichtbare defecten te identificeren:
 
-- **Dommages physiques** 🛡️ : Fissures, dégradations ou signes d'usure sur les câbles, boîtiers ou dispositifs de protection.
-- **Signes de surchauffe** 🔥 : Décolorations ou odeurs de brûlé, indicateurs possibles de dysfonctionnements.
-- **Conformité de l’installation** ✅ : Vérification de l’installation correcte des équipements, respectant les normes en vigueur.
+- **Fysieke schade** 🛡️: Barsten, degradatie of slijtage van kabels, behuizingen of beveiligingsapparatuur.
+- **Tekenen van oververhitting** 🔥: Verkleuringen of brandgeuren die mogelijke storingen aangeven.
+- **Conformiteit van de installatie** ✅: Controle of de apparatuur correct is geïnstalleerd volgens de geldende normen.
 
-> :::warning **Attention aux signaux d'alerte !** ⚠️
-> Ne négligez jamais les signes de surchauffe et les dommages visibles ; ils pourraient précéder des pannes critiques.
+> :::warning **Let op waarschuwingssignalen!** ⚠️
+> Negeer nooit tekenen van oververhitting of zichtbare schade; dit kan leiden tot ernstige storingen.
 > :::
 
 ---
 
-### Section 6.5.5. Contrôles par essais
+### Sectie 6.5.5. Testcontroles
 
-Les **essais** visent à tester le bon fonctionnement des dispositifs de protection et de coupure. Ils incluent :
+De **tests** zijn bedoeld om de werking van de beveiligings- en uitschakelsystemen te verifiëren. Dit omvat:
 
-1. **Essais de disjoncteurs et fusibles** 💥 : S'assurer qu'ils réagissent efficacement aux surcharges.
-2. **Essais de dispositifs de courant différentiel-résiduel (DDR)** 🛡️ : Vérifier qu’ils interrompent l’alimentation en cas de fuite pour éviter les chocs électriques.
-3. **Simulations de scénarios d'urgence** 🚨 : Pour les installations critiques, ces essais garantissent que tous les dispositifs de sécurité répondent correctement.
+1. **Testen van aardlekschakelaars en zekeringen** 💥: Verifiëren dat ze effectief reageren op overbelasting.
+2. **Testen van differentieelschakelaars (RCD’s)** 🛡️: Controleren of ze de voeding onderbreken bij lekstromen om elektrische schokken te voorkomen.
+3. **Simulatie van noodscenario's** 🚨: Voor kritieke installaties garanderen deze tests dat alle beveiligingsapparaten correct reageren.
 
-> :::example **Exemple pratique** 🔧
-> Dans une salle des serveurs, simuler une panne pour vérifier la réactivité des disjoncteurs et des circuits de secours.
+> :::example **Praktisch voorbeeld** 🔧
+> In een serverruimte, simuleer een stroomuitval om de respons van de zekeringen en noodcircuits te testen.
+> :::
+
+---
+### Sectie 6.5.6. Metingen tijdens inspecties
+
+Metingen tijdens inspecties leveren kwantitatieve gegevens die de nauwkeurige status van de installatie evalueren.
+
+| **Type meting**                 | **Doelstelling**                                 |
+|---------------------------------|--------------------------------------------------|
+| **Isolatiemeting** ⚡           | Controleren van de isolatie van de geleiders om lekstromen te voorkomen. |
+| **Aardingsweerstand** 🌍        | Zekerstellen van de effectiviteit van de aardingsinstallatie. |
+| **Continuïteit van geleiders** 🔗 | Bevestigen van de continuïteit van de circuits voor optimale veiligheid. |
+
+> :::info **Waarom zijn deze metingen belangrijk?** 📊
+> Deze metingen geven een nauwkeurige beoordeling van de elektrische integriteit en helpen onzichtbare risico's te identificeren.
 > :::
 
 ---
 
-### Section 6.5.6. Contrôles par mesures
+### Sectie 6.5.7. Rapporten
 
-Les contrôles par mesures offrent des valeurs quantitatives permettant d'évaluer l’état précis de l’installation.
+Rapporten van inspectiebezoeken bevatten de resultaten van de controles en ondersteunen het opvolgen van de installatieconditie door de tijd heen.
 
-| **Type de mesure**             | **Objectif**                                     |
-|--------------------------------|--------------------------------------------------|
-| **Mesure d'isolement** ⚡       | Vérifier l'isolation des conducteurs pour prévenir les fuites de courant. |
-| **Résistance de mise à la terre** 🌍 | S'assurer de l'efficacité de la prise de terre. |
-| **Continuité des conducteurs** 🔗 | Confirmer la continuité des circuits pour une sécurité optimale. |
+#### Subsectie 6.5.7.1. Algemeen
 
-> :::info **Pourquoi ces mesures sont-elles importantes ?** 📊
-> Ces mesures offrent une évaluation précise de l’intégrité électrique, permettant d’identifier les risques invisibles à l’œil nu.
+De rapporten van inspectiebezoeken moeten het volgende bevatten:
+
+- **Samenvatting van de inspecties** 📝: De uitgevoerde controles en hun resultaten.
+- **Waarnemingen en aanbevelingen** 📌: Identificatie van aandachtspunten die corrigerende maatregelen vereisen.
+- **Handtekeningen van verantwoordelijken** ✍️: Voor de authenticiteit van de inspecties.
+
+> :::note **Aanbeveling** 📃
+> Bewaar de rapporten gearchiveerd voor eenvoudig toegang tijdens toekomstige inspecties en onderhoudswerkzaamheden.
 > :::
 
 ---
 
-### Section 6.5.7. Rapports
+#### Subsectie 6.5.7.2. Inhoud van het rapport van inspectiebezoek voor huishoudelijke installaties
 
-Les rapports de visite récapitulent les résultats des inspections et facilitent le suivi de l’état de l’installation dans le temps.
+Voor huishoudelijke installaties moet het rapport bondig maar volledig zijn en omvatten:
 
-#### Sous-section 6.5.7.1. Généralités
+1. **Status van beveiligingsapparatuur** 🔒: Controle van aardlekschakelaars, aardingsinstallaties en differentiële beveiligingen.
+2. **Specifieke aanbevelingen** 🏠: Onderhoudsadviezen of upgradevoorstellen.
+3. **Naleving van normen** ✅: Controleren of de installatie voldoet aan de geldende huishoudelijke normen.
 
-Les rapports de visite doivent contenir :
+---
 
-- **Résumé des inspections** 📝 : Types de contrôles effectués et leurs résultats.
-- **Observations et recommandations** 📌 : Identification des points nécessitant des actions correctives.
-- **Signatures des responsables** ✍️ : Assurant l'authenticité des inspections.
+#### Subsectie 6.5.7.3. Inhoud van het rapport van inspectiebezoek voor niet-huishoudelijke installaties
 
-> :::note **Conseil** 📃
-> Gardez les rapports archivés pour un accès facile lors des inspections futures et des interventions de maintenance.
+Voor niet-huishoudelijke installaties vereist het rapport meer gedetailleerde informatie:
+
+- **Analyse van functionele veiligheid** 🔍: Evaluatie van kritische apparaten en noodsystemen.
+- **Beschermingsmaatregelen voor gevoelige circuits** ⚙️: Controle van beveiligingen in risicovolle installaties (bijv. medische, industriële).
+- **Verslag van risicovolle zones** 🚨: Gedetailleerde informatie over maatregelen voor explosiegevaarlijke of kritieke zones.
+
+> :::caution **Let op voor risicovolle installaties** 🛠️
+> Installaties in kritieke zones vereisen een uitgebreide documentatie om te voldoen aan de strenge veiligheidseisen.
 > :::
 
 ---
 
-#### Sous-section 6.5.7.2. Contenu du rapport de visite de contrôle concernant les installations domestiques
+### Sectie 6.5.8. Afwijkende bepalingen voor elektrische installaties gerealiseerd vanaf 1 juni 2020
 
-Pour les installations domestiques, le rapport doit être concis mais complet, incluant :
+Specifieke bepalingen zijn van toepassing op installaties die na 1 juni 2020 zijn gebouwd, waarbij rekening wordt gehouden met nieuwe reglementaire ontwikkelingen.
 
-1. **État des dispositifs de sécurité** 🔒 : Vérification des disjoncteurs, prises de terre et protections différentielles.
-2. **Recommandations spécifiques** 🏠 : Conseils d’entretien ou de mise à niveau.
-3. **Conformité avec les normes** ✅ : Assurer que l’installation répond aux standards domestiques actuels.
+#### Subsectie 6.5.8.1. Bestaande delen van huishoudelijke installaties gerealiseerd vanaf 1 juni 2020
+
+Voor huishoudelijke installaties omvatten de bepalingen:
+
+- **Behoud van oude normen** 🔄: Voor niet-gemoderniseerde delen is conformiteit alleen vereist bij grote wijzigingen.
+- **Nieuwe installaties**: Nieuwe onderdelen moeten zonder uitzondering voldoen aan de huidige normen.
 
 ---
 
-#### Sous-section 6.5.7.3. Contenu du rapport de visite de contrôle concernant les installations non-domestiques
+#### Subsectie 6.5.8.2. Bestaande delen van niet-huishoudelijke installaties gerealiseerd vanaf 1 juni 2020
 
-Pour les installations non-domestiques, le rapport nécessite un niveau de détail plus poussé :
+Voor niet-huishoudelijke installaties gelden de volgende eisen:
 
-- **Analyse de la sécurité fonctionnelle** 🔍 : Évaluation des dispositifs critiques et systèmes de secours.
-- **Mesures de protection pour circuits sensibles** ⚙️ : Vérification des protections dans les installations à risques (ex. : médicales, industrielles).
-- **Rapport sur les zones à risque** 🚨 : Détails sur les mesures pour zones explosives ou critiques.
+1. **Naleving van huidige normen** 📏: Alle nieuw toegevoegde onderdelen na 2020 moeten voldoen aan de nieuwe regelgeving.
+2. **Specifieke vrijstellingen** 🛠️: Originele configuraties kunnen behouden blijven indien zij nog voldoen aan de essentiële normen.
+3. **Actualisatierapporten** 📝: Bij grote wijzigingen moeten rapporten worden verstrekt om de algehele conformiteit aan te tonen.
 
-> :::caution **Attention pour les installations à risque** 🛠️
-> Les installations en zones critiques nécessitent une documentation exhaustive pour répondre aux exigences de sécurité renforcées.
+> :::info **Vereiste updates** 🕒
+> Bestaande installaties vereisen een actualisatierapport bij grote wijzigingen om doorlopende veiligheid te waarborgen.
 > :::
 
 ---
+## Conclusie van Deel 6 - Controle van Installaties
 
-### Section 6.5.8. Dispositions dérogatoires pour les installations électriques réalisées à partir du 1er juin 2020
+Deel 6 van het AREI richt zich op de controle van elektrische installaties, een cruciale stap om de veiligheid, conformiteit en betrouwbaarheid van elektrische systemen te waarborgen. Regelmatige inspecties, uitgevoerd door erkende en gekwalificeerde instanties, maken het mogelijk om afwijkingen op te sporen, de staat van de installaties te documenteren en een strikt toezicht te houden om risico’s te voorkomen.
 
-Des dispositions spécifiques s’appliquent aux installations construites après le 1er juin 2020, en intégrant les nouvelles évolutions réglementaires.
+De belangrijkste punten die in dit deel worden behandeld, zijn:
 
-#### Sous-section 6.5.8.1. Parties existantes des installations domestiques réalisées à partir du 1er juin 2020
-
-Pour les installations domestiques, les dispositions incluent :
-
-- **Maintien des anciennes normes** 🔄 : Pour les parties non rénovées, la conformité est requise seulement en cas de modifications majeures.
-- **Nouvelles installations** : Les nouvelles parties doivent respecter les normes actuelles sans exception.
-
----
-
-#### Sous-section 6.5.8.2. Parties existantes des installations non-domestiques réalisées à partir du 1er juin 2020
-
-Pour les installations non-domestiques, les exigences incluent :
-
-1. **Respect des normes actuelles** 📏 : Toute nouvelle partie ajoutée après 2020 doit être conforme aux nouvelles réglementations.
-2. **Exemptions spécifiques** 🛠️ : Certaines configurations d’origine peuvent être maintenues si elles respectent encore les normes essentielles.
-3. **Rapports d’actualisation** 📝 : En cas de modifications importantes, des rapports doivent être fournis pour attester de la conformité globale.
-
-> :::info **Mise à jour requise** 🕒
-> Les installations existantes nécessitent un rapport d’actualisation en cas de modifications majeures pour garantir la sécurité continue.
-> :::
-
----
-
-## Conclusion de la Partie 6 - Contrôles des Installations
-
-La Partie 6 du RGIE est dédiée aux contrôles des installations électriques, qui constituent une étape cruciale pour garantir la sécurité, la conformité et la fiabilité des systèmes électriques. Les inspections régulières, effectuées par des organismes agréés et qualifiés, permettent de détecter les anomalies, de documenter l’état des installations et d’assurer un suivi rigoureux pour prévenir les risques.
-
-Les points clés abordés dans cette partie incluent :
-
-- **Contrôles administratifs et visuels** : Vérification des documents essentiels, tels que les dossiers de maintenance et les plans, ainsi qu'une inspection visuelle des équipements pour détecter les signes de défaillance.
+- **Administratieve en visuele controles**: Controle van essentiële documenten zoals onderhoudsdossiers en plannen, en een visuele inspectie van de apparatuur om tekenen van defecten op te sporen.
   
-- **Contrôles par essais et mesures** : Tests techniques, incluant les essais des dispositifs de protection et les mesures de résistance, afin de confirmer la fonctionnalité et la sécurité des installations.
+- **Controles door testen en metingen**: Technische tests, waaronder testen van beveiligingsapparaten en weerstandsmetingen, om de functionaliteit en veiligheid van de installaties te bevestigen.
 
-- **Rapports d'inspection** : Les rapports synthétisent les résultats des inspections, identifiant les non-conformités et fournissant des recommandations pour les actions correctives nécessaires.
+- **Inspectierapporten**: De rapporten vatten de resultaten van de inspecties samen, identificeren niet-conformiteiten en doen aanbevelingen voor noodzakelijke corrigerende maatregelen.
 
-- **Surveillance et sanctions des organismes agréés** : Une surveillance stricte et des sanctions sont appliquées pour garantir que les organismes de contrôle respectent les normes et fournissent des inspections fiables.
+- **Toezicht en sancties voor erkende instanties**: Strikt toezicht en sancties worden toegepast om te garanderen dat de controle-instanties voldoen aan de normen en betrouwbare inspecties uitvoeren.
 
-- **Dispositions dérogatoires pour les nouvelles installations** : Intégration des dernières normes pour les installations postérieures au 1er juin 2020, afin de répondre aux évolutions réglementaires.
+- **Afwijkende bepalingen voor nieuwe installaties**: Integratie van de laatste normen voor installaties na 1 juni 2020, om te voldoen aan de regelgevingsontwikkelingen.
 
-En appliquant rigoureusement ces procédures, la sécurité des installations est renforcée, les risques sont maîtrisés, et la conformité aux exigences du RGIE est assurée. Un contrôle régulier et structuré des installations électriques est la clé pour un environnement sûr et conforme aux normes.
+Door deze procedures strikt te volgen, wordt de veiligheid van de installaties verhoogd, worden risico’s beheerst en wordt voldaan aan de eisen van het AREI. Regelmatige en gestructureerde controle van elektrische installaties is de sleutel tot een veilige en normconforme omgeving.
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Partie 6 🔍
+:::tip Best Practices - Samenvatting van Deel 6 🔍
 
-- **Contrôles Administratifs et Visuels** 📝 : Assurez-vous que les documents sont à jour et réalisez des inspections visuelles pour détecter les signes visibles de défaillance.
+- **Administratieve en Visuele Controles** 📝: Zorg ervoor dat de documenten up-to-date zijn en voer visuele inspecties uit om zichtbare tekenen van defecten op te sporen.
 
-- **Essais et Mesures Techniques** 📏 : Effectuez des essais des dispositifs de sécurité et des mesures précises pour évaluer l'état technique de l'installation.
+- **Technische Testen en Metingen** 📏: Voer testen van beveiligingsapparaten uit en neem nauwkeurige metingen om de technische staat van de installatie te evalueren.
 
-- **Rapports d'Inspection** 📋 : Documentez les résultats, identifiez les non-conformités et formulez des recommandations pour maintenir la sécurité et la conformité.
+- **Inspectierapporten** 📋: Documenteer de resultaten, identificeer niet-conformiteiten en formuleer aanbevelingen om de veiligheid en conformiteit te waarborgen.
 
-- **Surveillance des Organismes Agréés** 🔒 : Veillez à ce que les organismes de contrôle respectent les normes de qualité et de fiabilité, avec des sanctions en cas de manquement.
+- **Toezicht op Erkende Instanties** 🔒: Zorg ervoor dat de controle-instanties voldoen aan de kwaliteits- en betrouwbaarheidseisen, met sancties bij overtredingen.
 
-- **Adaptation aux Nouvelles Normes** 📅 : Appliquez les dispositions dérogatoires pour les installations construites après juin 2020 pour garantir leur conformité aux dernières évolutions.
+- **Aanpassing aan Nieuwe Normen** 📅: Pas de afwijkende bepalingen toe voor installaties die na juni 2020 zijn gebouwd om hun conformiteit aan de laatste ontwikkelingen te waarborgen.
 
-- **Prévention et Sécurité Continue** 🛠️ : Un programme d’inspections régulières et de maintenance préventive assure la sécurité durable des installations.
+- **Preventie en Continue Veiligheid** 🛠️: Een programma van regelmatige inspecties en preventief onderhoud garandeert de duurzame veiligheid van installaties.
 
-En suivant ces pratiques, vous garantissez un **niveau de sécurité élevé, une conformité constante, et une gestion efficace des installations électriques** conformément aux exigences du RGIE.
+Door deze best practices te volgen, waarborgt u een **hoog niveau van veiligheid, constante conformiteit en een effectieve beheersing van elektrische installaties**, in overeenstemming met de eisen van het AREI.
 
 :::
 
