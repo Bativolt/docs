@@ -12,23 +12,23 @@ We hebben onze verkenning van de **negen belangrijkste delen van het Algemeen Re
 
 Elk deel van het AREI is diepgaand geanalyseerd om duidelijke uitleg en praktische adviezen te bieden:
 
-1. **[Deel 1 - Algemene Voorschriften](https://docs.bativolt.com/nl/guide-rgie/partie-1-prescriptions-generales)** : De basisprincipes voor elke elektrische installatie.
+1. **[Deel 1 - Algemene Voorschriften](https://docs.bativolt.com/nl/docs/guide-rgie/partie-1-prescriptions-generales)** : De basisprincipes voor elke elektrische installatie.
 
-2. **[Deel 2 - Termen en Definities](https://docs.bativolt.com/nl/guide-rgie/partie-2-termes-definitions)** : Woordenlijst van essentiële termen voor een nauwkeurige interpretatie van het AREI.
+2. **[Deel 2 - Termen en Definities](https://docs.bativolt.com/nl/docs/guide-rgie/partie-2-termes-definitions)** : Woordenlijst van essentiële termen voor een nauwkeurige interpretatie van het AREI.
 
-3. **[Deel 3 - Bepaling van Kenmerken](https://docs.bativolt.com/nl/guide-rgie/partie-3-determination-caracteristiques)** : Technische criteria voor een betrouwbare en geschikte stroomvoorziening.
+3. **[Deel 3 - Bepaling van Kenmerken](https://docs.bativolt.com/nl/docs/guide-rgie/partie-3-determination-caracteristiques)** : Technische criteria voor een betrouwbare en geschikte stroomvoorziening.
 
-4. **[Deel 4 - Beschermingsmaatregelen](https://docs.bativolt.com/nl/guide-rgie/partie-4-mesures-protection)** : Vereiste beschermingsapparaten om de veiligheid te garanderen.
+4. **[Deel 4 - Beschermingsmaatregelen](https://docs.bativolt.com/nl/docs/guide-rgie/partie-4-mesures-protection)** : Vereiste beschermingsapparaten om de veiligheid te garanderen.
 
-5. **[Deel 5 - Keuze en Installatie van Materialen](https://docs.bativolt.com/nl/guide-rgie/partie-5-choix-mise-en-oeuvre)** : Richtlijnen voor de materiaalkeuze en installatie.
+5. **[Deel 5 - Keuze en Installatie van Materialen](https://docs.bativolt.com/nl/docs/guide-rgie/partie-5-choix-mise-en-oeuvre)** : Richtlijnen voor de materiaalkeuze en installatie.
 
-6. **[Deel 6 - Inspecties van Installaties](https://docs.bativolt.com/nl/guide-rgie/partie-6-controles-installations)** : Controleprocedures voor ingebruikname om de conformiteit te valideren.
+6. **[Deel 6 - Inspecties van Installaties](https://docs.bativolt.com/nl/docs/guide-rgie/partie-6-controles-installations)** : Controleprocedures voor ingebruikname om de conformiteit te valideren.
 
-7. **[Deel 7 - Regels voor Speciale Installaties en Locaties](https://docs.bativolt.com/nl/guide-rgie/partie-7-regles-installations-emplacements)** : Specifieke regels voor risicovolle omgevingen.
+7. **[Deel 7 - Regels voor Speciale Installaties en Locaties](https://docs.bativolt.com/nl/docs/guide-rgie/partie-7-regles-installations-emplacements)** : Specifieke regels voor risicovolle omgevingen.
 
-8. **[Deel 8 - Voorschriften voor Bestaande Installaties](https://docs.bativolt.com/nl/guide-rgie/partie-8-prescriptions-installations-existantes)** : Richtlijnen voor de modernisering en veiligheid van bestaande installaties.
+8. **[Deel 8 - Voorschriften voor Bestaande Installaties](https://docs.bativolt.com/nl/docs/guide-rgie/partie-8-prescriptions-installations-existantes)** : Richtlijnen voor de modernisering en veiligheid van bestaande installaties.
 
-9. **[Deel 9 - Algemene Voorschriften voor Personen](https://docs.bativolt.com/nl/guide-rgie/partie-9-prescriptions-personnes)** : Algemene verantwoordelijkheden van beheerders en eigenaren.
+9. **[Deel 9 - Algemene Voorschriften voor Personen](https://docs.bativolt.com/nl/docs/guide-rgie/partie-9-prescriptions-personnes)** : Algemene verantwoordelijkheden van beheerders en eigenaren.
 
 Deze gids behandelt niet het **Boek 2 van het AREI**, dat meer gericht is op bedrijven, maar kan worden uitgebreid als er voldoende vraag is.
 
