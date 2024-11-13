@@ -1,555 +1,557 @@
 ---
-title: Partie 6 - Contrôles des Installations | RGIE Bativolt Belgique
-description: Guide complet pour les contrôles des installations électriques selon le RGIE. Procédures de conformité, vérifications et sécurité pour la mise en service.
-sidebar_label: 6. Contrôles des Installations
+title: Part 6 - Inspection of Electrical Installations | Bativolt Belgian Electrical Regulations
+description: Comprehensive guide for the inspection of electrical installations according to the Belgian Electrical Regulations. Compliance procedures, checks, and safety measures for commissioning.
+sidebar_label: 6. Inspection of Installations
 ---
 
+# Part 6 - Inspection of Installations
 
-# Partie 6 - Contrôles des Installations
+## CHAPTER 6.1. INTRODUCTION
 
-## CHAPITRE 6.1. INTRODUCTION
+The **inspection of electrical installations** is essential to ensure the safety of people and property, as well as to maintain compliance with standards and regulations. These inspections help detect defects or weaknesses in electrical systems that could otherwise lead to risks of fire, electrocution, or other serious incidents.
 
-Le **contrôle des installations électriques** est essentiel pour garantir la sécurité des personnes et des biens, ainsi que pour maintenir la conformité aux normes et réglementations. Ces contrôles permettent de détecter les défauts ou faiblesses dans les systèmes électriques, qui pourraient sinon entraîner des risques d'incendie, d'électrocution ou d'autres incidents graves.
-
-:::warning ⚠️ Importance de l’inspection régulière
-Les installations électriques qui ne sont pas régulièrement contrôlées peuvent développer des défauts cachés qui augmentent les risques d’accidents graves, tels que les courts-circuits et les incendies.
+:::warning ⚠️ Importance of Regular Inspections
+Electrical installations that are not inspected regularly may develop hidden defects, increasing the risk of serious accidents, such as short circuits and fires.
 :::
 
-Les inspections régulières sont particulièrement importantes dans des environnements à haut risque, comme les installations industrielles ou les bâtiments publics, et sont obligatoires pour certaines installations afin d'assurer leur conformité continue.
+Regular inspections are particularly important in high-risk environments, such as industrial installations or public buildings, and are mandatory for certain types of installations to ensure ongoing compliance.
 
 ---
 
-## CHAPITRE 6.2. DOMAINE D'APPLICATION
+## CHAPTER 6.2. SCOPE OF APPLICATION
 
-Le domaine d'application des **contrôles des installations électriques** couvre toutes les installations soumises aux normes de sécurité en vigueur. Cela inclut les installations à basse tension, très basse tension, et les installations critiques nécessitant une attention particulière. Les inspections varient selon le type d'installation, son usage, et l'environnement dans lequel elle est installée.
+The scope of **electrical installation inspections** covers all installations subject to current safety standards. This includes low-voltage, very low-voltage, and critical installations that require special attention. The inspections vary based on the type of installation, its use, and the environment in which it is installed.
 
-:::example 🔍 Exemple concret 
-Dans le cas des établissements recevant du public, les contrôles sont souvent plus fréquents et rigoureux en raison de la densité de personnes présentes et des risques associés.
-:::
-
----
-
-## CHAPITRE 6.3. ORGANISMES AGRÉÉS
-
-Les **organismes agréés** jouent un rôle central dans le contrôle des installations, en vérifiant la conformité des installations électriques aux standards de sécurité. Ces organismes possèdent une expertise et une accréditation spécifiques, qui leur permettent de réaliser des inspections et de délivrer des certificats de conformité.
-
-### Section 6.3.1. Objet de l'agrément
-
-L'objet de l'agrément consiste à **habiliter un organisme** à effectuer des contrôles et à attester de la conformité des installations électriques. Cet agrément est délivré par une autorité compétente, qui évalue les compétences techniques, la rigueur des procédures, et la qualité des inspections de l'organisme.
-
-> **En résumé :** L'agrément permet à l'organisme d'assurer que ses contrôles sont reconnus et fiables, contribuant ainsi à la sécurité des installations inspectées.
-
----
-
-### Section 6.3.2. Définitions
-
-Les définitions suivantes sont pertinentes dans le contexte des organismes agréés :
-
-- **Agrément** : Autorisation officielle permettant à un organisme de procéder aux contrôles réglementaires des installations électriques.
-- **Organisme agréé** : Entité accréditée pour effectuer les inspections de conformité des installations électriques.
-- **Contrôle de conformité** : Vérification que l'installation respecte toutes les exigences de sécurité en vigueur.
-
-Ces définitions posent les bases pour comprendre le rôle, les obligations et les responsabilités des organismes agréés.
-
----
-
-### Section 6.3.3. Conditions d'agrément
-
-Les organismes doivent satisfaire plusieurs **conditions d'agrément** pour être reconnus et obtenir le droit de réaliser des inspections de sécurité sur les installations électriques.
-
-#### Sous-section 6.3.3.1. Conditions générales
-
-Les conditions générales incluent :
-
-- **Compétence technique** : L'organisme doit démontrer une connaissance approfondie des normes de sécurité et des réglementations en vigueur.
-- **Impartialité** : L'organisme doit être indépendant et n'avoir aucun lien commercial avec les installations qu'il inspecte, pour garantir une évaluation objective.
-- **Capacité opérationnelle** : Il doit disposer des ressources humaines et matérielles nécessaires pour réaliser des contrôles fiables et rigoureux.
-
-> **Note :** Ces conditions visent à garantir que seuls les organismes qualifiés et impartiaux effectuent des contrôles de conformité, afin de maintenir un niveau élevé de sécurité.
-
-#### Sous-section 6.3.3.2. Cas particulier
-
-Dans certains cas, des conditions particulières d’agrément peuvent s'appliquer. Par exemple, des critères supplémentaires peuvent être requis pour les organismes inspectant des **installations critiques** ou des **environnements à haut risque**.
-
----
-
-### Section 6.3.4. Procédure d'agrément
-
-La procédure d'agrément comporte plusieurs étapes rigoureuses pour s'assurer que l'organisme candidat satisfait toutes les conditions nécessaires :
-
-1. **Demande officielle** : L’organisme soumet une demande incluant ses qualifications, méthodes de contrôle, et preuve de conformité aux exigences.
-2. **Évaluation** : L'autorité compétente évalue la documentation fournie, vérifie les compétences techniques, et peut effectuer des audits.
-3. **Décision** : Si les critères sont remplis, l'agrément est accordé. Sinon, l'organisme reçoit des recommandations pour atteindre le niveau requis.
-
-> **Tableau récapitulatif : Procédure d’agrément**
-
-| Étape                 | Description                                                              |
-|-----------------------|--------------------------------------------------------------------------|
-| Demande officielle    | Soumission des documents et preuves de compétence.                      |
-| Évaluation            | Examen de la documentation et audits éventuels.                          |
-| Décision              | Accord de l’agrément ou recommandations d’amélioration.                  |
-
----
-
-### Section 6.3.5. Renouvellement de l'agrément
-
-L'agrément doit être **renouvelé régulièrement** pour garantir que l'organisme continue de respecter les normes et exigences en vigueur. Ce renouvellement passe par une réévaluation complète de l'organisme, y compris de sa capacité à fournir des contrôles de qualité.
-
-Le processus de renouvellement suit une procédure similaire à celle de l'agrément initial, avec une vérification supplémentaire des mises à jour des compétences et équipements de l'organisme pour répondre aux évolutions des normes de sécurité.
-
----
-
-### Section 6.3.6. Déclaration d’habilitation d'agents-visiteurs
-
-Les **agents-visiteurs** sont des professionnels qualifiés qui effectuent les inspections sur site pour vérifier la conformité des installations électriques. Afin de garantir leur compétence et intégrité, une **déclaration d'habilitation** est nécessaire pour chaque agent, assurant qu'ils possèdent les qualifications techniques et le savoir-faire nécessaires.
-
-La déclaration d'habilitation implique que :
-
-- **L'agent respecte les normes de sécurité** : Il doit posséder une connaissance approfondie des protocoles et normes de sécurité en vigueur.
-- **Les compétences techniques** : Une mise à jour régulière de leurs connaissances est requise pour s'adapter aux évolutions réglementaires.
-- **L'impartialité et l'intégrité** : L'agent ne doit pas avoir de conflits d'intérêt avec les installations qu'il inspecte.
-
-:::tip 📌 But de l’habilitation 
-Cette déclaration vise à renforcer la fiabilité des inspections et la sécurité des installations.
+:::example 🔍 Practical Example
+For public buildings, inspections are often more frequent and rigorous due to the high density of people and associated risks.
 :::
 
 ---
 
-### Section 6.3.7. Critères de fonctionnement
+## CHAPTER 6.3. APPROVED ORGANISMS
 
-Les **critères de fonctionnement des organismes agréés** déterminent les standards de qualité, de régularité, et d'indépendance nécessaires pour mener des inspections fiables. Voici quelques critères clés :
+**Approved organisms** play a central role in the inspection of installations, verifying the compliance of electrical installations with safety standards. These organizations have specific expertise and accreditation, allowing them to conduct inspections and issue certificates of conformity.
 
-- **Qualité des contrôles** : L'organisme doit employer des méthodes rigoureuses et éprouvées pour réaliser des contrôles exhaustifs.
-- **Fréquence des inspections** : Les inspections doivent être réalisées à intervalles réguliers, avec une fréquence adaptée au type et à l'usage de l'installation.
-- **Documentation et traçabilité** : Chaque inspection doit être documentée pour assurer la transparence et permettre des audits.
-- **Formation continue** : Les agents doivent régulièrement suivre des formations pour rester à jour avec les dernières normes et réglementations.
+### Section 6.3.1. Purpose of Accreditation
 
-Ces critères assurent que l'organisme agréé maintient des standards de contrôle élevés et constants.
+The purpose of accreditation is to **authorize an organism** to carry out inspections and certify the compliance of electrical installations. This accreditation is granted by a competent authority, which assesses the technical expertise, inspection rigor, and quality of the organism’s procedures.
 
---- 
-
-### Section 6.3.8. Commission d'Avis et de Surveillance
-
-La **Commission d'Avis et de Surveillance** est un organe consultatif jouant un rôle crucial dans le suivi des organismes agréés. Ses missions principales sont :
-
-1. **Fournir des recommandations** : Conseiller sur les meilleures pratiques et l’évolution des méthodes de contrôle.
-2. **Assurer la qualité des inspections** : Surveiller les organismes agréés pour garantir que leurs inspections restent conformes aux normes en vigueur.
-3. **Enquêter en cas de litiges ou non-conformités** : Mener des enquêtes sur les activités des organismes en cas de plainte ou d'anomalie constatée.
-
-> **En résumé** : La Commission agit comme un garant de la fiabilité et de l'objectivité des organismes agréés, renforçant ainsi la sécurité et la confiance dans les installations.
+> **Summary:** Accreditation ensures that the inspections conducted by the organism are recognized and reliable, contributing to the safety of the inspected installations.
 
 ---
 
-### Section 6.3.9. Surveillance et sanctions
+### Section 6.3.2. Definitions
 
-Les **organismes agréés** sont soumis à une **surveillance stricte** pour garantir leur respect des normes de sécurité. En cas de non-conformités, des **sanctions** peuvent être appliquées :
+The following definitions are relevant in the context of approved organisms:
 
-:::warning ⚠️ Types de sanctions possibles
-- **Avertissements** : Émis pour des manquements mineurs, avec rappel des règles.
-- **Suspension temporaire de l'agrément** : En cas de défauts graves, l'organisme peut être suspendu jusqu'à correction.
-- **Révocation de l'agrément** : Pour des non-conformités graves et récurrentes, l'agrément peut être révoqué définitivement.
-:::
+- **Accreditation**: Official authorization allowing an organism to perform regulatory inspections of electrical installations.
+- **Approved Organism**: An accredited entity qualified to conduct compliance inspections of electrical installations.
+- **Compliance Inspection**: Verification that the installation meets all current safety requirements.
 
-Ces mesures garantissent que les organismes restent responsables et respectent rigoureusement leurs obligations de sécurité.
+These definitions establish the foundation for understanding the role, obligations, and responsibilities of approved organisms.
 
 ---
 
-### Section 6.3.10. Installations électriques des services publics
+### Section 6.3.3. Conditions for Accreditation
 
-Les **installations des services publics** nécessitent des inspections spécifiques, étant donné leur impact sur le public. Les exigences pour ces installations incluent :
+Organisms must meet several **conditions for accreditation** to be recognized and authorized to conduct safety inspections of electrical installations.
 
-- **Des inspections plus fréquentes** : En raison de leur usage intensif, les installations publiques sont soumises à une surveillance accrue.
-- **Des standards de sécurité renforcés** : Les normes de sécurité sont souvent plus strictes pour ces installations, afin de protéger les usagers.
-- **Suivi en cas de modifications** : Toute modification doit être suivie d'une inspection pour garantir le maintien de la sécurité optimale.
+#### Subsection 6.3.3.1. General Conditions
 
----
+General conditions include:
 
-## CHAPITRE 6.4. CONTRÔLE DE CONFORMITÉ AVANT MISE EN USAGE
+- **Technical Competence**: The organism must demonstrate in-depth knowledge of safety standards and current regulations.
+- **Impartiality**: The organism must be independent and have no commercial ties with the installations it inspects to ensure an objective assessment.
+- **Operational Capacity**: It must have the necessary human and material resources to carry out reliable and rigorous inspections.
 
-Le **contrôle de conformité avant mise en usage** est essentiel pour vérifier qu'une installation respecte les normes de sécurité avant sa mise en service. 
+> **Note:** These conditions ensure that only qualified and impartial organisms perform compliance inspections, maintaining a high level of safety.
 
-### Section 6.4.1. Généralités
+#### Subsection 6.3.3.2. Special Cases
 
-Les contrôles de conformité avant la première utilisation assurent que toutes les mesures de sécurité ont été mises en place. Ce processus comprend des vérifications **administratives**, **visuelles**, et **techniques**.
-
----
-
-### Section 6.4.2. Contrôles administratifs
-
-Les **contrôles administratifs** consistent à vérifier que toute la documentation relative à l'installation est complète et conforme. Cela inclut :
-
-:::info 📄 Documentation requise
-- **Plans et schémas** : Schémas de câblage, mise à la terre, et plans d'installation, à jour et complets.
-- **Certificats** : Certificats de conformité antérieurs et documents attestant de la sécurité des équipements installés.
-:::
+In certain situations, special accreditation conditions may apply. For instance, additional criteria may be required for organisms inspecting **critical installations** or **high-risk environments**.
 
 ---
 
-### Section 6.4.3. Contrôles visuels
+### Section 6.3.4. Accreditation Procedure
 
-Le contrôle visuel permet de détecter des anomalies évidentes dans l’installation :
+The accreditation procedure involves several rigorous steps to ensure that the applicant organism meets all necessary conditions:
 
-1. **Endommagements matériels** : Vérification de l'intégrité des câbles, des appareils et des dispositifs de protection.
-2. **Respect des distances de sécurité** : Vérifier que les distances réglementaires sont respectées pour éviter les risques de court-circuit ou de surchauffe.
-3. **Signalétique et marquage** : Assurer une signalétique claire et visible pour faciliter une manipulation en toute sécurité.
+1. **Official Application**: The organism submits an application including its qualifications, inspection methods, and proof of compliance with the requirements.
+2. **Evaluation**: The competent authority reviews the submitted documentation, assesses technical skills, and may conduct audits.
+3. **Decision**: If the criteria are met, accreditation is granted. If not, the organism receives recommendations for improvement.
 
-> **Note** : Un contrôle visuel attentif peut révéler des problèmes potentiels avant qu'ils ne deviennent dangereux.
+> **Summary Table: Accreditation Procedure**
 
----
-
-### Section 6.4.4. Contrôles par essais
-
-Les essais permettent de tester l'installation dans des conditions contrôlées :
-
-- **Essais des dispositifs de sécurité** : Vérification du bon fonctionnement des disjoncteurs, fusibles, et autres dispositifs de protection.
-- **Test de continuité** : Assurer que toutes les connexions sont solides et que la continuité électrique est assurée.
-- **Simulation d'urgence** : Test des dispositifs dans des scénarios d'urgence pour évaluer leur réactivité.
+| Step                  | Description                                                          |
+|-----------------------|----------------------------------------------------------------------|
+| Official Application  | Submission of documents and proof of competence.                    |
+| Evaluation            | Review of documentation and possible audits.                         |
+| Decision              | Granting of accreditation or recommendations for improvement.        |
 
 ---
 
-### Section 6.4.5. Contrôles par mesures
+### Section 6.3.5. Renewal of Accreditation
 
-Les contrôles par mesures incluent la collecte de données précises pour évaluer la sécurité de l’installation.
+Accreditation must be **renewed regularly** to ensure that the organism continues to meet current standards and requirements. Renewal involves a complete re-evaluation of the organism, including its ability to provide quality inspections.
 
-#### Sous-section 6.4.5.1. Mesures d'isolement
-
-Les **mesures d'isolement** s’assurent qu’il n'y a pas de fuite de courant. Cela comprend :
-
-- **Mesure de la résistance d'isolement** : Vérifier l’efficacité des isolants pour prévenir les fuites.
-- **Vérification de la sécurité des conducteurs** : Évaluer la capacité des conducteurs à résister aux influences externes.
-- **Relevé des données** : Enregistrer toutes les valeurs et les comparer aux normes pour vérifier la conformité.
+The renewal process follows a similar procedure to the initial accreditation, with an additional review of the organism's updated skills and equipment to meet evolving safety standards.
 
 ---
 
-#### Sous-section 6.4.5.2. Mesures de la résistance de dispersion des prises de terre
+### Section 6.3.6. Declaration of Authorization for Inspectors
 
-Les **mesures de résistance de dispersion des prises de terre** assurent la sécurité en cas de défaut électrique.
+**Inspectors** are qualified professionals who conduct on-site inspections to verify the compliance of electrical installations. To ensure their competence and integrity, a **declaration of authorization** is required for each inspector, confirming that they possess the necessary technical qualifications and expertise.
 
-:::tip 💡 Importance des mesures de dispersion
-- **Technique de mesure** : Réaliser la mesure avec un ohmmètre de terre et des piquets de mesure autour de la prise.
-- **Normes de sécurité** : Une résistance typique acceptable est inférieure à 30 ohms dans les installations domestiques, mais peut varier selon les installations.
-- **Interprétation** : Des valeurs élevées indiquent un risque accru. Dans ce cas, renforcer la prise de terre avec des conducteurs supplémentaires peut être nécessaire.
+The declaration of authorization entails that:
+
+- **The inspector adheres to safety standards**: They must have an in-depth knowledge of current safety protocols and regulations.
+- **Technical skills**: Regular updates to their knowledge are required to stay aligned with regulatory changes.
+- **Impartiality and integrity**: Inspectors must have no conflicts of interest with the installations they inspect.
+
+:::tip 📌 Purpose of Authorization
+This declaration aims to enhance the reliability of inspections and the safety of installations.
 :::
 
 ---
 
-### Section 6.4.6. Rapports
+### Section 6.3.7. Operational Criteria
 
-Les **rapports de contrôle** sont essentiels pour documenter les résultats des inspections de conformité et servir de preuve de la sécurité des installations. Ils permettent aux inspecteurs, propriétaires et gestionnaires de garantir la maintenance et la sécurité continues des installations.
+The **operational criteria for approved organisms** define the standards of quality, regularity, and independence necessary to conduct reliable inspections. Key criteria include:
 
-#### Sous-section 6.4.6.1. Généralités
+- **Quality of Inspections**: The organism must use rigorous and proven methods to perform comprehensive checks.
+- **Frequency of Inspections**: Inspections should be conducted at regular intervals, with the frequency adapted to the type and use of the installation.
+- **Documentation and Traceability**: Each inspection must be documented to ensure transparency and enable audits.
+- **Continuous Training**: Inspectors must regularly undergo training to stay updated with the latest standards and regulations.
 
-Les rapports de contrôle doivent inclure :
+These criteria ensure that the approved organism maintains high and consistent control standards.
 
-1. **Informations détaillées** : Localisation, date, description de l'installation.
-2. **Résultats des mesures** : Mesures d'isolement, résistance de dispersion, etc.
-3. **Non-conformités** : Détail des anomalies détectées avec recommandations de mise en conformité.
+---
 
-:::note 📝 Exemple de contenu d’un rapport
-- **Détails sur l’installation** : Localisation, équipements contrôlés.
-- **Résultats de conformité** : Mesures effectuées, valeurs obtenues.
-- **Recommandations** : Liste des actions à entreprendre pour corriger les non-conformités.
+### Section 6.3.8. Advisory and Oversight Commission
+
+The **Advisory and Oversight Commission** is a consultative body that plays a critical role in monitoring approved organisms. Its main missions are:
+
+1. **Providing Recommendations**: Advising on best practices and the evolution of inspection methods.
+2. **Ensuring Quality of Inspections**: Monitoring approved organisms to ensure their inspections remain compliant with current standards.
+3. **Investigating Non-Conformities or Disputes**: Conducting inquiries into the activities of organisms in cases of complaints or detected anomalies.
+
+> **Summary**: The Commission acts as a guarantor of the reliability and objectivity of approved organisms, thus enhancing safety and confidence in the installations.
+
+---
+
+### Section 6.3.9. Monitoring and Sanctions
+
+**Approved organisms** are subject to **strict monitoring** to ensure they adhere to safety standards. In cases of non-compliance, **sanctions** may be applied:
+
+:::warning ⚠️ Types of Possible Sanctions
+- **Warnings**: Issued for minor infractions, reminding the organism of the rules.
+- **Temporary Suspension of Accreditation**: For serious defects, the organism may be suspended until corrections are made.
+- **Revocation of Accreditation**: For severe and recurring non-compliance, accreditation may be permanently revoked.
+:::
+
+These measures ensure that organisms remain accountable and strictly adhere to their safety obligations.
+
+---
+
+### Section 6.3.10. Electrical Installations in Public Services
+
+**Public service installations** require specific inspections due to their impact on the general public. The requirements for these installations include:
+
+- **More Frequent Inspections**: Due to intensive usage, public installations are subject to increased monitoring.
+- **Enhanced Safety Standards**: Safety standards are often stricter for these installations to protect users.
+- **Follow-Up After Modifications**: Any modification must be followed by an inspection to ensure continued optimal safety.
+
+---
+
+## CHAPTER 6.4. COMPLIANCE INSPECTION BEFORE COMMISSIONING
+
+The **compliance inspection before commissioning** is essential to verify that an installation meets safety standards before it is put into service.
+
+### Section 6.4.1. General Principles
+
+Compliance inspections before initial use ensure that all safety measures have been implemented. This process includes **administrative**, **visual**, and **technical** checks.
+
+---
+
+### Section 6.4.2. Administrative Checks
+
+**Administrative checks** involve verifying that all documentation related to the installation is complete and compliant. This includes:
+
+:::info 📄 Required Documentation
+- **Plans and Schematics**: Up-to-date wiring diagrams, grounding plans, and installation layouts.
+- **Certificates**: Previous compliance certificates and documents confirming the safety of installed equipment.
 :::
 
 ---
 
-#### Sous-section 6.4.6.2. Dispositions spécifiques concernant les rapports d’une nouvelle installation électrique
+### Section 6.4.3. Visual Inspections
 
-Pour une nouvelle installation, le rapport doit inclure :
+Visual inspections help detect obvious anomalies in the installation:
 
-- **Description complète** : Plans, schémas et caractéristiques des composants installés.
-- **Conformité aux normes** : Toutes les sections doivent respecter le RGIE.
-- **Signatures** : Attestation signée par le propriétaire et l'inspecteur.
+1. **Material Damage**: Checking the integrity of cables, devices, and protective equipment.
+2. **Safety Distance Compliance**: Ensuring that regulatory distances are maintained to prevent risks of short circuits or overheating.
+3. **Signage and Marking**: Verifying that clear and visible signage is in place for safe handling.
 
-> **Attention** : Les signatures de toutes les parties responsables renforcent l'authenticité et la fiabilité du rapport.
+> **Note**: A thorough visual inspection can reveal potential issues before they become hazardous.
 
 ---
 
-#### Sous-section 6.4.6.3. Dispositions spécifiques concernant les rapports des installations dans les zones à risques d'explosion
+### Section 6.4.4. Testing Procedures
 
-Les installations en zones à risque d’explosion nécessitent une documentation précise :
+Testing procedures are conducted to evaluate the installation under controlled conditions:
 
-| Critère                       | Exigences spécifiques                                     |
-|-------------------------------|----------------------------------------------------------|
-| **Identification des zones**  | Précision sur les zones de danger d’explosion.           |
-| **Équipements adaptés**       | Vérification de la compatibilité des équipements.        |
-| **Mesures de prévention**     | Contrôle des mesures de prévention mises en œuvre.       |
+- **Safety Device Testing**: Verifying the proper functioning of circuit breakers, fuses, and other protective devices.
+- **Continuity Testing**: Ensuring that all connections are solid and electrical continuity is maintained.
+- **Emergency Simulations**: Testing devices under emergency scenarios to assess their responsiveness.
 
-:::warning ⚠️ Zones à risques d’explosion
-Les rapports doivent démontrer que des précautions supplémentaires ont été prises pour minimiser les risques.
+These tests are crucial to ensure that the installation is ready for safe operation before being commissioned.
+
+### Section 6.4.5. Measurement Inspections
+
+Measurement inspections involve collecting precise data to evaluate the safety of the installation.
+
+#### Subsection 6.4.5.1. Insulation Resistance Measurements
+
+**Insulation resistance measurements** ensure that there is no current leakage. This includes:
+
+- **Measurement of insulation resistance**: Assess the effectiveness of insulation to prevent current leaks.
+- **Conductor safety check**: Evaluate the conductors' ability to withstand external influences.
+- **Data recording**: Document all values and compare them against standards to verify compliance.
+
+---
+
+#### Subsection 6.4.5.2. Earth Electrode Resistance Measurements
+
+**Earth electrode resistance measurements** are crucial for ensuring safety in the event of an electrical fault.
+
+:::tip 💡 Importance of Earth Electrode Measurements
+- **Measurement technique**: Use an earth resistance meter and test stakes placed around the electrode.
+- **Safety standards**: An acceptable resistance value is typically below 30 ohms for residential installations but may vary for different types of installations.
+- **Interpretation**: High resistance values indicate an increased risk. In such cases, enhancing the earth electrode with additional conductors may be necessary.
 :::
 
 ---
 
-#### Sous-section 6.4.6.4. Contenu du rapport de contrôle de conformité concernant les installations domestiques
+### Section 6.4.6. Inspection Reports
 
-Pour les installations domestiques, le rapport doit inclure :
+**Inspection reports** are essential for documenting the results of compliance checks and serve as proof of the installation’s safety. They help inspectors, property owners, and managers ensure continuous maintenance and safety of the installations.
 
-- **Vérification des systèmes de protection** : Différentiels, prises de terre, continuité des conducteurs.
-- **Conformité des circuits** : État des câbles, connexions et appareils.
-- **Recommandations** : Conseils d’amélioration et mises à jour de sécurité.
+#### Subsection 6.4.6.1. General Requirements
 
-> **Conseil pratique** : Ajouter une section spécifique aux recommandations pour faciliter les futures maintenances et mises à jour.
+Inspection reports must include:
 
----
+1. **Detailed information**: Location, date, and description of the installation.
+2. **Measurement results**: Insulation resistance, earth resistance, etc.
+3. **Non-compliance issues**: Details of detected anomalies with recommendations for corrective actions.
 
-#### Sous-section 6.4.6.5. Contenu du rapport de contrôle de conformité concernant les installations non-domestiques
-
-Pour les installations non-domestiques, le rapport doit inclure :
-
-1. **Analyse de la sécurité fonctionnelle** : État des dispositifs de commande et sécurité.
-2. **Contrôle des circuits de secours** : Vérification des installations de sécurité.
-3. **Documentation des protections** : Selon les exigences spécifiques de l'installation (laboratoires, usines, etc.).
-
-> **Info** : Les installations non-domestiques peuvent nécessiter des dispositifs de sécurité supplémentaires en fonction de leur usage.
-
----
-
-### Section 6.4.7. Cas spécifiques de contrôle de conformité avant mise en usage
-
-Certaines situations nécessitent des contrôles de conformité spécifiques avant mise en service.
-
-#### Sous-section 6.4.7.1. Machines et appareils électriques
-
-Les **machines et appareils électriques** doivent être contrôlés pour :
-
-- **Sécurité des connexions** : Inspection complète des câblages internes.
-- **Protection intégrée** : Vérification des dispositifs de coupure et de mise à la terre.
-- **Composants critiques** : Examen des systèmes de contrôle et des éléments sous haute tension.
-
-:::tip 🔍 Contrôle des machines
-Inspectez les dispositifs de protection et les composants critiques pour anticiper les défaillances.
+:::note 📝 Example Report Content
+- **Installation details**: Location, equipment inspected.
+- **Compliance results**: Measurements conducted, values obtained.
+- **Recommendations**: List of actions required to address non-compliance issues.
 :::
 
 ---
 
-#### Sous-section 6.4.7.2. Installation transportable, mobile ou temporaire
+#### Subsection 6.4.6.2. Specific Provisions for Reports on New Electrical Installations
 
-Les installations temporaires incluent des chantiers, événements et équipements de secours. Les contrôles comprennent :
+For a new installation, the report must include:
 
-- **Normes de connexion temporaire** : Respect des règles de sécurité.
-- **Dispositifs de protection** : Vérification des disjoncteurs et des prises de terre.
-- **Robustesse des équipements** : Adaptation aux conditions d'installation temporaire.
+- **Complete description**: Plans, schematics, and specifications of installed components.
+- **Compliance with standards**: All sections must adhere to the Belgian Electrical Regulations.
+- **Signatures**: Signed by both the owner and the inspector to attest authenticity.
 
-> **Exemple pratique** : Assurer la protection des connexions sur les sites de chantiers pour prévenir tout risque de coupure accidentelle.
+> **Important**: Signatures from all responsible parties reinforce the credibility and reliability of the report.
 
 ---
 
-#### Sous-section 6.4.7.3. Modification ou extension
+#### Subsection 6.4.6.3. Specific Provisions for Reports on Installations in Explosive Risk Zones
 
-Lors de la modification ou de l'extension d'une installation, un contrôle de conformité est nécessaire avant remise en service. Les points évalués incluent :
+Installations in explosive risk zones require detailed documentation:
 
-- **Impact sur l’installation d’origine** : La modification ne doit pas altérer la sécurité ni la performance.
-- **Compatibilité des équipements** : Les nouveaux équipements doivent être compatibles et conformes.
-- **Documentation mise à jour** : Tous les changements doivent être intégrés aux schémas de l’installation.
+| Criteria                      | Specific Requirements                                        |
+|-------------------------------|--------------------------------------------------------------|
+| **Zone identification**       | Precise identification of hazardous explosion risk zones.   |
+| **Appropriate equipment**     | Verification of equipment compatibility with the environment. |
+| **Preventive measures**       | Inspection of implemented preventive safety measures.       |
 
-:::note 📋 Modification ou extension
-Mettre à jour la documentation après chaque modification pour maintenir une traçabilité de l'installation.
+:::warning ⚠️ Explosive Risk Zones
+The reports must demonstrate that additional precautions have been taken to minimize risks in explosive environments.
 :::
 
 ---
 
-## CHAPITRE 6.5. VISITES DE CONTRÔLE
+#### Subsection 6.4.6.4. Content of Compliance Reports for Residential Installations
 
-Les **visites de contrôle** sont des vérifications périodiques visant à assurer la sécurité et la conformité des installations électriques.
+For residential installations, the report should include:
 
-### Section 6.5.1. Généralités
+- **Protection system checks**: Verification of residual current devices, earth electrodes, and conductor continuity.
+- **Circuit compliance**: Assessment of cable conditions, connections, and appliances.
+- **Recommendations**: Suggestions for improvements and safety updates.
 
-Les visites de contrôle incluent des **contrôles administratifs, visuels, essais et mesures** pour vérifier la sécurité et le bon fonctionnement des installations.
-
-- **Objectif** : Identifier les défaillances potentielles.
-- **Importance** : Réduction des risques d’accidents et de dysfonctionnements.
-
-> **Bonnes pratiques** : Effectuer ces visites à intervalles réguliers pour minimiser les risques de panne.
+> **Practical Advice**: Include a dedicated section for recommendations to facilitate future maintenance and upgrades.
 
 ---
 
-### Section 6.5.2. Périodicité des visites de contrôle
+#### Subsection 6.4.6.5. Content of Compliance Reports for Non-Residential Installations
 
-La fréquence des visites dépend du type d'installation :
+For non-residential installations, the report should include:
 
-| Type d'installation                | Périodicité recommandée        |
-|------------------------------------|--------------------------------|
-| Installations domestiques          | Tous les 5 ans                 |
-| Installations industrielles        | Annuellement                   |
-| Installations dans des zones à risque (ex. : hôpitaux) | Tous les 3 ans |
+1. **Functional safety analysis**: Assessment of control and safety devices.
+2. **Emergency circuit inspection**: Verification of safety installations such as emergency lighting.
+3. **Documentation of protective measures**: In line with specific requirements for the installation type (laboratories, factories, etc.).
 
-> **Note importante** : Respecter la périodicité recommandée pour assurer une protection continue des installations.
+> **Info**: Non-residential installations may require additional safety devices depending on their specific use and environment.
 
 ---
 
-### Section 6.5.3. Contrôles administratifs
+### Section 6.4.7. Specific Cases for Compliance Checks Before Commissioning
 
-Lors des visites de contrôle, une vérification des **documents administratifs** s'impose pour s'assurer qu'ils sont à jour et complets. Ces documents sont cruciaux pour tracer l'historique et garantir la sécurité de l'installation.
+Certain situations require tailored compliance inspections before putting the installation into service. Examples include:
 
-- **Rapports des inspections précédentes** 📋 : Ils permettent une comparaison entre l'état actuel de l'installation et celui des inspections antérieures, facilitant la détection des dégradations progressives.
-- **Dossiers de maintenance** 🛠️ : Vérification que toutes les interventions de maintenance ont été réalisées selon les normes et correctement documentées.
-- **Plans de l’installation** 🗺️ : S'assurer que les schémas reflètent fidèlement l'installation actuelle, un élément essentiel pour toute intervention de mise à jour ou de réparation.
+- **Modifications or upgrades**: New components must be inspected for compliance before being integrated into the existing system.
+- **Critical environments**: Installations in hospitals, data centers, or industrial zones with hazardous materials may require additional checks.
+- **Temporary installations**: Event setups or temporary worksites need rapid compliance checks to ensure user safety.
 
-> :::tip **Bonnes pratiques** 📝
-> Garder une documentation administrative bien organisée facilite les inspections futures et renforce la sécurité des installations.
+These tailored inspections help address the specific risks and requirements associated with different types of installations, ensuring that all safety standards are met before commissioning.
+
+#### Subsection 6.4.7.1. Electrical Machines and Devices
+
+**Electrical machines and devices** must be inspected to ensure:
+
+- **Connection Safety**: Comprehensive inspection of internal wiring.
+- **Integrated Protection**: Verification of cut-off devices and grounding systems.
+- **Critical Components**: Examination of control systems and high-voltage elements.
+
+:::tip 🔍 Machine Inspection
+Inspect protective devices and critical components to anticipate potential failures.
+:::
+
+---
+
+#### Subsection 6.4.7.2. Portable, Mobile, or Temporary Installations
+
+Temporary installations include construction sites, events, and emergency equipment setups. Inspections focus on:
+
+- **Temporary Connection Standards**: Compliance with safety regulations.
+- **Protective Devices**: Verification of circuit breakers and grounding.
+- **Equipment Durability**: Ensuring suitability for temporary installation conditions.
+
+> **Practical Example**: Secure connections on construction sites to prevent accidental disconnection and power loss.
+
+---
+
+#### Subsection 6.4.7.3. Modifications or Extensions
+
+When modifying or extending an installation, a compliance check is required before recommissioning. Evaluated aspects include:
+
+- **Impact on the Original Installation**: The modification must not compromise safety or performance.
+- **Equipment Compatibility**: New equipment must be compatible and conform to standards.
+- **Updated Documentation**: All changes must be reflected in the installation schematics.
+
+:::note 📋 Modification or Extension
+Update the documentation after each modification to maintain traceability of the installation.
+:::
+
+---
+
+## CHAPTER 6.5. INSPECTION VISITS
+
+**Inspection visits** are periodic checks aimed at ensuring the safety and compliance of electrical installations.
+
+### Section 6.5.1. General Principles
+
+Inspection visits include **administrative, visual, testing, and measurement checks** to verify the safety and proper functioning of the installations.
+
+- **Objective**: Identify potential defects or hazards.
+- **Importance**: Reduce the risk of accidents and malfunctions.
+
+> **Best Practices**: Conduct these visits regularly to minimize the risk of equipment failure.
+
+---
+
+### Section 6.5.2. Frequency of Inspection Visits
+
+The frequency of inspection visits depends on the type of installation:
+
+| Type of Installation                | Recommended Frequency         |
+|-------------------------------------|-------------------------------|
+| Residential Installations           | Every 5 years                 |
+| Industrial Installations            | Annually                      |
+| High-Risk Zones (e.g., Hospitals)   | Every 3 years                 |
+
+> **Important Note**: Adhere to the recommended frequency to ensure continuous protection of the installations.
+
+---
+
+### Section 6.5.3. Administrative Checks
+
+During inspection visits, **administrative checks** are crucial to ensure that all documents are up-to-date and complete. These documents are essential for tracing the installation's history and ensuring its safety.
+
+- **Previous Inspection Reports** 📋: These allow for a comparison between the current state of the installation and prior inspections, helping identify gradual deterioration.
+- **Maintenance Records** 🛠️: Verification that all maintenance activities have been carried out according to standards and properly documented.
+- **Installation Plans** 🗺️: Ensure that the schematics accurately reflect the current state of the installation, which is essential for any future updates or repairs.
+
+> :::tip **Best Practices** 📝
+> Keeping well-organized administrative documentation facilitates future inspections and strengthens installation safety.
 > :::
 
 ---
 
-### Section 6.5.4. Contrôles visuels
+### Section 6.5.4. Visual Checks
 
-Les contrôles visuels sont essentiels pour identifier rapidement des signes de défaillance visibles :
+Visual checks are essential for quickly identifying visible signs of failure:
 
-- **Dommages physiques** 🛡️ : Fissures, dégradations ou signes d'usure sur les câbles, boîtiers ou dispositifs de protection.
-- **Signes de surchauffe** 🔥 : Décolorations ou odeurs de brûlé, indicateurs possibles de dysfonctionnements.
-- **Conformité de l’installation** ✅ : Vérification de l’installation correcte des équipements, respectant les normes en vigueur.
+- **Physical Damage** 🛡️: Cracks, wear, or signs of deterioration on cables, enclosures, or protective devices.
+- **Signs of Overheating** 🔥: Discoloration or burnt odors, which may indicate potential malfunctions.
+- **Installation Compliance** ✅: Ensuring that equipment is correctly installed according to current standards.
 
-> :::warning **Attention aux signaux d'alerte !** ⚠️
-> Ne négligez jamais les signes de surchauffe et les dommages visibles ; ils pourraient précéder des pannes critiques.
+> :::warning **Watch for Warning Signs!** ⚠️
+> Never ignore signs of overheating or visible damage; these may precede critical failures.
+> :::
+
+### Section 6.5.5. Functional Testing
+
+**Functional tests** are designed to assess the correct operation of protective and disconnecting devices. These tests include:
+
+1. **Circuit Breaker and Fuse Testing** 💥: Ensure that they effectively respond to overloads.
+2. **Residual Current Device (RCD) Testing** 🛡️: Verify that they cut off the power supply in case of leakage to prevent electric shocks.
+3. **Emergency Scenario Simulations** 🚨: For critical installations, these tests ensure that all safety devices respond appropriately.
+
+> :::example **Practical Example** 🔧
+> In a server room, simulate a power failure to check the responsiveness of circuit breakers and backup systems.
 > :::
 
 ---
 
-### Section 6.5.5. Contrôles par essais
+### Section 6.5.6. Measurement Testing
 
-Les **essais** visent à tester le bon fonctionnement des dispositifs de protection et de coupure. Ils incluent :
+Measurement testing provides quantitative data to evaluate the precise condition of the installation.
 
-1. **Essais de disjoncteurs et fusibles** 💥 : S'assurer qu'ils réagissent efficacement aux surcharges.
-2. **Essais de dispositifs de courant différentiel-résiduel (DDR)** 🛡️ : Vérifier qu’ils interrompent l’alimentation en cas de fuite pour éviter les chocs électriques.
-3. **Simulations de scénarios d'urgence** 🚨 : Pour les installations critiques, ces essais garantissent que tous les dispositifs de sécurité répondent correctement.
+| **Type of Measurement**           | **Purpose**                                          |
+|-----------------------------------|------------------------------------------------------|
+| **Insulation Resistance** ⚡       | Verify conductor insulation to prevent current leaks.|
+| **Earth Electrode Resistance** 🌍 | Ensure the effectiveness of the grounding system.    |
+| **Conductor Continuity** 🔗       | Confirm circuit continuity for optimal safety.       |
 
-> :::example **Exemple pratique** 🔧
-> Dans une salle des serveurs, simuler une panne pour vérifier la réactivité des disjoncteurs et des circuits de secours.
+> :::info **Why Are These Measurements Important?** 📊
+> These measurements provide a precise assessment of electrical integrity, identifying risks not visible to the naked eye.
 > :::
 
 ---
 
-### Section 6.5.6. Contrôles par mesures
+### Section 6.5.7. Reports
 
-Les contrôles par mesures offrent des valeurs quantitatives permettant d'évaluer l’état précis de l’installation.
+Inspection reports summarize the results of the visits and facilitate tracking the condition of the installation over time.
 
-| **Type de mesure**             | **Objectif**                                     |
-|--------------------------------|--------------------------------------------------|
-| **Mesure d'isolement** ⚡       | Vérifier l'isolation des conducteurs pour prévenir les fuites de courant. |
-| **Résistance de mise à la terre** 🌍 | S'assurer de l'efficacité de la prise de terre. |
-| **Continuité des conducteurs** 🔗 | Confirmer la continuité des circuits pour une sécurité optimale. |
+#### Subsection 6.5.7.1. General Requirements
 
-> :::info **Pourquoi ces mesures sont-elles importantes ?** 📊
-> Ces mesures offrent une évaluation précise de l’intégrité électrique, permettant d’identifier les risques invisibles à l’œil nu.
+Inspection reports must include:
+
+- **Inspection Summary** 📝: Types of checks conducted and their results.
+- **Observations and Recommendations** 📌: Identification of areas needing corrective actions.
+- **Responsible Signatures** ✍️: Ensuring the authenticity of the inspections.
+
+> :::note **Advice** 📃
+> Keep archived reports accessible for future inspections and maintenance interventions.
 > :::
 
 ---
 
-### Section 6.5.7. Rapports
+#### Subsection 6.5.7.2. Content of Inspection Reports for Residential Installations
 
-Les rapports de visite récapitulent les résultats des inspections et facilitent le suivi de l’état de l’installation dans le temps.
+For residential installations, the report should be concise yet comprehensive, including:
 
-#### Sous-section 6.5.7.1. Généralités
+1. **Status of Safety Devices** 🔒: Verification of circuit breakers, earth electrodes, and RCDs.
+2. **Specific Recommendations** 🏠: Maintenance or upgrade suggestions.
+3. **Compliance with Standards** ✅: Ensure that the installation meets current residential standards.
 
-Les rapports de visite doivent contenir :
+---
 
-- **Résumé des inspections** 📝 : Types de contrôles effectués et leurs résultats.
-- **Observations et recommandations** 📌 : Identification des points nécessitant des actions correctives.
-- **Signatures des responsables** ✍️ : Assurant l'authenticité des inspections.
+#### Subsection 6.5.7.3. Content of Inspection Reports for Non-Residential Installations
 
-> :::note **Conseil** 📃
-> Gardez les rapports archivés pour un accès facile lors des inspections futures et des interventions de maintenance.
+For non-residential installations, the report requires a higher level of detail:
+
+- **Functional Safety Analysis** 🔍: Evaluation of critical devices and backup systems.
+- **Protection Measures for Sensitive Circuits** ⚙️: Verification of safeguards in high-risk installations (e.g., medical, industrial).
+- **Risk Area Report** 🚨: Details on measures for explosive or critical zones.
+
+> :::caution **Attention for High-Risk Installations** 🛠️
+> Critical installations require exhaustive documentation to meet reinforced safety standards.
 > :::
 
 ---
 
-#### Sous-section 6.5.7.2. Contenu du rapport de visite de contrôle concernant les installations domestiques
+### Section 6.5.8. Special Provisions for Electrical Installations Carried Out After June 1, 2020
 
-Pour les installations domestiques, le rapport doit être concis mais complet, incluant :
+Specific provisions apply to installations built after June 1, 2020, incorporating the latest regulatory updates.
 
-1. **État des dispositifs de sécurité** 🔒 : Vérification des disjoncteurs, prises de terre et protections différentielles.
-2. **Recommandations spécifiques** 🏠 : Conseils d’entretien ou de mise à niveau.
-3. **Conformité avec les normes** ✅ : Assurer que l’installation répond aux standards domestiques actuels.
+#### Subsection 6.5.8.1. Existing Parts of Residential Installations Built After June 1, 2020
+
+For residential installations, the provisions include:
+
+- **Maintenance of Previous Standards** 🔄: For non-renovated parts, compliance is only required in case of major modifications.
+- **New Installations**: Newly added parts must comply with current standards without exception.
 
 ---
 
-#### Sous-section 6.5.7.3. Contenu du rapport de visite de contrôle concernant les installations non-domestiques
+#### Subsection 6.5.8.2. Existing Parts of Non-Residential Installations Built After June 1, 2020
 
-Pour les installations non-domestiques, le rapport nécessite un niveau de détail plus poussé :
+For non-residential installations, the requirements include:
 
-- **Analyse de la sécurité fonctionnelle** 🔍 : Évaluation des dispositifs critiques et systèmes de secours.
-- **Mesures de protection pour circuits sensibles** ⚙️ : Vérification des protections dans les installations à risques (ex. : médicales, industrielles).
-- **Rapport sur les zones à risque** 🚨 : Détails sur les mesures pour zones explosives ou critiques.
+1. **Adherence to Current Standards** 📏: Any new part added after 2020 must conform to the latest regulations.
+2. **Specific Exemptions** 🛠️: Original configurations may be maintained if they still meet essential safety standards.
+3. **Update Reports** 📝: In the event of significant modifications, reports must be provided to confirm overall compliance.
 
-> :::caution **Attention pour les installations à risque** 🛠️
-> Les installations en zones critiques nécessitent une documentation exhaustive pour répondre aux exigences de sécurité renforcées.
+> :::info **Required Updates** 🕒
+> Existing installations require an update report for major modifications to ensure continued safety.
 > :::
 
 ---
 
-### Section 6.5.8. Dispositions dérogatoires pour les installations électriques réalisées à partir du 1er juin 2020
+## Conclusion of Part 6 - Installation Inspections
 
-Des dispositions spécifiques s’appliquent aux installations construites après le 1er juin 2020, en intégrant les nouvelles évolutions réglementaires.
+Part 6 of the RGIE focuses on the inspection of electrical installations, a critical step to ensure the safety, compliance, and reliability of electrical systems. Regular inspections, carried out by accredited and qualified bodies, help detect anomalies, document the condition of installations, and provide a structured follow-up to mitigate risks.
 
-#### Sous-section 6.5.8.1. Parties existantes des installations domestiques réalisées à partir du 1er juin 2020
+Key points covered in this section include:
 
-Pour les installations domestiques, les dispositions incluent :
+- **Administrative and Visual Inspections**: Verification of essential documents, such as maintenance records and installation plans, along with a visual inspection of equipment to detect signs of failure.
 
-- **Maintien des anciennes normes** 🔄 : Pour les parties non rénovées, la conformité est requise seulement en cas de modifications majeures.
-- **Nouvelles installations** : Les nouvelles parties doivent respecter les normes actuelles sans exception.
+- **Functional and Measurement Testing**: Technical tests, including the evaluation of protective devices and resistance measurements, to confirm the functionality and safety of the installations.
 
----
+- **Inspection Reports**: These reports summarize the findings of the inspections, identify non-conformities, and provide recommendations for necessary corrective actions.
 
-#### Sous-section 6.5.8.2. Parties existantes des installations non-domestiques réalisées à partir du 1er juin 2020
+- **Monitoring and Sanctions of Accredited Bodies**: Strict monitoring and potential sanctions ensure that the control bodies adhere to the standards and deliver reliable inspections.
 
-Pour les installations non-domestiques, les exigences incluent :
+- **Special Provisions for New Installations**: Implementation of the latest standards for installations built after June 1, 2020, to meet updated regulatory requirements.
 
-1. **Respect des normes actuelles** 📏 : Toute nouvelle partie ajoutée après 2020 doit être conforme aux nouvelles réglementations.
-2. **Exemptions spécifiques** 🛠️ : Certaines configurations d’origine peuvent être maintenues si elles respectent encore les normes essentielles.
-3. **Rapports d’actualisation** 📝 : En cas de modifications importantes, des rapports doivent être fournis pour attester de la conformité globale.
-
-> :::info **Mise à jour requise** 🕒
-> Les installations existantes nécessitent un rapport d’actualisation en cas de modifications majeures pour garantir la sécurité continue.
-> :::
+By rigorously following these procedures, installation safety is enhanced, risks are managed effectively, and compliance with RGIE requirements is maintained. Regular and structured inspections of electrical installations are the key to providing a safe environment that aligns with industry standards.
 
 ---
 
-## Conclusion de la Partie 6 - Contrôles des Installations
+:::tip Best Practices - Summary of Part 6 🔍
 
-La Partie 6 du RGIE est dédiée aux contrôles des installations électriques, qui constituent une étape cruciale pour garantir la sécurité, la conformité et la fiabilité des systèmes électriques. Les inspections régulières, effectuées par des organismes agréés et qualifiés, permettent de détecter les anomalies, de documenter l’état des installations et d’assurer un suivi rigoureux pour prévenir les risques.
+- **Administrative and Visual Inspections** 📝: Ensure documents are up-to-date and conduct visual checks to detect visible signs of failure.
 
-Les points clés abordés dans cette partie incluent :
+- **Functional and Measurement Testing** 📏: Perform tests on safety devices and take precise measurements to assess the technical condition of the installation.
 
-- **Contrôles administratifs et visuels** : Vérification des documents essentiels, tels que les dossiers de maintenance et les plans, ainsi qu'une inspection visuelle des équipements pour détecter les signes de défaillance.
-  
-- **Contrôles par essais et mesures** : Tests techniques, incluant les essais des dispositifs de protection et les mesures de résistance, afin de confirmer la fonctionnalité et la sécurité des installations.
+- **Inspection Reports** 📋: Document findings, identify non-conformities, and provide recommendations to maintain safety and compliance.
 
-- **Rapports d'inspection** : Les rapports synthétisent les résultats des inspections, identifiant les non-conformités et fournissant des recommandations pour les actions correctives nécessaires.
+- **Monitoring of Accredited Bodies** 🔒: Ensure that inspection bodies adhere to high standards of quality and reliability, with sanctions applied in case of non-compliance.
 
-- **Surveillance et sanctions des organismes agréés** : Une surveillance stricte et des sanctions sont appliquées pour garantir que les organismes de contrôle respectent les normes et fournissent des inspections fiables.
+- **Adapting to New Standards** 📅: Apply special provisions for installations constructed after June 2020 to guarantee their compliance with the latest updates.
 
-- **Dispositions dérogatoires pour les nouvelles installations** : Intégration des dernières normes pour les installations postérieures au 1er juin 2020, afin de répondre aux évolutions réglementaires.
+- **Continuous Prevention and Safety** 🛠️: A program of regular inspections and preventive maintenance ensures the lasting safety of installations.
 
-En appliquant rigoureusement ces procédures, la sécurité des installations est renforcée, les risques sont maîtrisés, et la conformité aux exigences du RGIE est assurée. Un contrôle régulier et structuré des installations électriques est la clé pour un environnement sûr et conforme aux normes.
-
----
-
-:::tip Bonnes Pratiques - Résumé de la Partie 6 🔍
-
-- **Contrôles Administratifs et Visuels** 📝 : Assurez-vous que les documents sont à jour et réalisez des inspections visuelles pour détecter les signes visibles de défaillance.
-
-- **Essais et Mesures Techniques** 📏 : Effectuez des essais des dispositifs de sécurité et des mesures précises pour évaluer l'état technique de l'installation.
-
-- **Rapports d'Inspection** 📋 : Documentez les résultats, identifiez les non-conformités et formulez des recommandations pour maintenir la sécurité et la conformité.
-
-- **Surveillance des Organismes Agréés** 🔒 : Veillez à ce que les organismes de contrôle respectent les normes de qualité et de fiabilité, avec des sanctions en cas de manquement.
-
-- **Adaptation aux Nouvelles Normes** 📅 : Appliquez les dispositions dérogatoires pour les installations construites après juin 2020 pour garantir leur conformité aux dernières évolutions.
-
-- **Prévention et Sécurité Continue** 🛠️ : Un programme d’inspections régulières et de maintenance préventive assure la sécurité durable des installations.
-
-En suivant ces pratiques, vous garantissez un **niveau de sécurité élevé, une conformité constante, et une gestion efficace des installations électriques** conformément aux exigences du RGIE.
+By following these practices, you ensure a **high level of safety, consistent compliance, and effective management of electrical installations** in accordance with RGIE requirements.
 
 :::
 
-
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

@@ -599,1192 +599,1186 @@ Quantifies the energy dissipated by the protective device during tripping.
   The Joule integral measures the endurance of circuit breakers and fuses against prolonged overloads, ensuring they remain functional after a short circuit.
   :::
 
-#### Courant d’intersection
-La valeur limite de surintensité au-delà de laquelle le disjoncteur ne peut plus arrêter l'arc électrique en cas de court-circuit.
-- **Exemple pratique** : Dans les circuits critiques, il est vital de choisir un disjoncteur avec un courant d’intersection adapté pour éviter des risques de surchauffe non maîtrisés.
+#### Intersection Current
+The maximum overcurrent value beyond which the circuit breaker cannot interrupt the electric arc in the event of a short circuit.
+- **Practical example**: In critical circuits, it is vital to select a circuit breaker with an appropriate intersection current to prevent uncontrolled overheating risks.
 
+## CHAPTER 2.7. CONDUIT SYSTEMS
 
-## CHAPITRE 2.7. CANALISATIONS
-
-Les canalisations électriques sont essentielles pour transporter l'énergie de manière sécurisée au sein des installations. Elles incluent les conducteurs, les éléments de support, et les dispositifs de protection qui garantissent la sécurité et la durabilité des installations. Ce chapitre aborde les différents types de canalisations, leurs composants, et les modes de pose courants.
-
----
-
-### Section 2.7.1. Termes généraux
-
-Cette section clarifie les termes fondamentaux liés aux canalisations électriques. Une compréhension précise de ces termes permet de choisir correctement les matériaux et techniques de pose pour des installations conformes.
-
-- **Conducteur électrique** :  
-  Un conducteur est un élément, isolé ou non, destiné au passage du courant. Il peut être constitué de cuivre, d'aluminium ou d'autres matériaux conducteurs.
-  :::tip Rôle des conducteurs électriques
-  Les conducteurs sont les "veines" de l'installation électrique, assurant la circulation de l'énergie à travers le réseau. Leur dimensionnement est crucial pour éviter les surchauffes.
-  :::
-
-- **Canalisation électrique** :  
-  Ensemble de conducteurs, câbles, ou jeux de barres, avec les dispositifs de support et de protection nécessaires.
-  - **Exemple pratique** : Une canalisation dans une maison regroupe les câbles qui distribuent l'énergie de la boîte à fusibles aux différentes prises et lumières.
-
-- **Canalisation de sécurité de classe II** :  
-  Canalisation assurant une protection équivalente à celle des appareils de classe II. Ces canalisations sont conçues pour garantir une isolation accrue, même dans des environnements exposés.
-  :::warning Précaution dans les zones exposées
-  Dans les zones sujettes aux chocs ou à l'humidité, utiliser des canalisations de sécurité de classe II pour éviter les risques de contact accidentel avec des parties sous tension.
-  :::
-
-- **Conducteur isolé** :  
-  Conducteur composé d’une âme conductrice, entourée d'une couche isolante. Il peut inclure des écrans de protection pour réduire les interférences.
-
-- **Intégrale de Joule de tenue sur court-circuit** :  
-  Quantité d'énergie nécessaire pour élever la température d'un conducteur lors d'un court-circuit. Cette valeur garantit que le conducteur supportera des surcharges brèves sans dommage.
-
-- **Câble et câble unipolaire** :  
-  Ensemble de conducteurs isolés. Un câble unipolaire contient un seul conducteur, souvent utilisé pour les circuits simples.
-
-- **Gaine** :  
-  Revêtement extérieur d'un câble, offrant une protection supplémentaire contre les chocs et les éléments extérieurs.
-
-- **Connexion et Jonction** :  
-  La connexion assure la continuité entre deux conducteurs, tandis que la jonction relie les extrémités de deux câbles. Une jonction mal réalisée peut entraîner des résistances indésirables et des risques de surchauffe.
-
-- **Dérivation** :  
-  Connexion permettant de créer une branche secondaire depuis une canalisation principale pour alimenter un équipement supplémentaire.
-
-- **Armure de câble** :  
-  Couche de protection constituée de rubans ou fils métalliques, protégeant les câbles contre les contraintes mécaniques.
-  :::info Armure pour câbles enterrés
-  Les armures sont souvent indispensables pour les câbles enterrés ou exposés aux chocs, car elles préviennent les détériorations qui pourraient exposer le conducteur.
-  :::
-
-- **Ligne aérienne et Terne** :  
-  Ligne de transport d’énergie en extérieur, soutenue par des poteaux ou pylônes. Un terne est un ensemble de trois conducteurs formant une ligne triphasée.
+Electrical conduit systems are essential for safely transporting energy within installations. They include conductors, support elements, and protective devices that ensure the safety and longevity of the installations. This chapter covers the different types of conduit systems, their components, and common installation methods.
 
 ---
 
-### Section 2.7.2. Modes de pose
+### Section 2.7.1. General Terms
 
-Les modes de pose influencent la sécurité, l’accessibilité, et la protection des câbles dans une installation. Cette section présente différents modes de pose, illustrés pour en faciliter la compréhension.
+This section clarifies the fundamental terms related to electrical conduit systems. A precise understanding of these terms helps in selecting the correct materials and installation techniques for compliant systems.
 
-- **Bloc alvéolé** :  
-  Une structure préfabriquée avec des alvéoles pour le passage des câbles. 
-  :::info Mode de pose "Bloc alvéolé" 📸
-  *Figure 2.11, page 27 :* Illustration d’un bloc alvéolé pour une pose structurée dans les bâtiments.
+- **Electrical Conductor**:  
+  A conductor is an element, either insulated or bare, intended for current flow. It can be made of copper, aluminum, or other conductive materials.
+  :::tip Role of Electrical Conductors
+  Conductors are the "veins" of the electrical installation, allowing energy to flow throughout the network. Proper sizing is crucial to prevent overheating.
   :::
 
-  - **Caniveau ou gaine de sol** :  
-  Canal sous le sol pour le passage des câbles, permettant un accès facile en cas de maintenance.
-  :::info Mode de pose "Caniveau ou gaine de sol" 📸
-  *Figure 2.12, page 28 :* Vue d'un caniveau de sol, idéal pour les installations dans les bâtiments où l'accès aux câbles est requis.
+- **Electrical Conduit**:  
+  An assembly of conductors, cables, or busbars, including necessary support and protection devices.
+  - **Practical example**: A conduit in a residential home includes cables that distribute power from the fuse box to various outlets and lights.
+
+- **Class II Safety Conduit**:  
+  A conduit providing protection equivalent to Class II devices. These conduits are designed to ensure enhanced insulation, even in exposed environments.
+  :::warning Precaution in Exposed Areas
+  In areas prone to shocks or moisture, use Class II safety conduits to prevent accidental contact with live parts.
   :::
 
-- **Chemin de câbles** :  
-  Support profilé permettant de guider les câbles. Utilisé couramment dans les installations industrielles pour organiser et sécuriser les câbles.
-  :::info Mode de pose "Chemin de câbles" 📸
-  *Figure 2.13, page 28 :* Un chemin de câbles en acier galvanisé pour un support sûr dans les installations industrielles.
+- **Insulated Conductor**:  
+  A conductor consisting of a conductive core, surrounded by an insulating layer. It may include shielding to reduce interference.
+
+- **Joule Integral for Short-Circuit Withstand**:  
+  The amount of energy required to raise the temperature of a conductor during a short circuit. This value ensures the conductor can withstand brief overloads without damage.
+
+- **Cable and Single-Core Cable**:  
+  An assembly of insulated conductors. A single-core cable contains one conductor, commonly used for simple circuits.
+
+- **Sheath**:  
+  The outer covering of a cable, providing additional protection against impacts and external elements.
+
+- **Connection and Junction**:  
+  A connection maintains continuity between two conductors, while a junction links the ends of two cables. A poorly made junction can lead to undesirable resistance and overheating risks.
+
+- **Branch**:  
+  A connection that creates a secondary branch from a main conduit to supply additional equipment.
+
+- **Cable Armor**:  
+  A protective layer made of metallic tapes or wires, safeguarding cables from mechanical stress.
+  :::info Armor for Buried Cables
+  Armor is often necessary for buried cables or cables exposed to impacts, as it prevents damage that could expose the conductor.
   :::
 
-- **Conduit** :  
-  Tube continu qui protège mécaniquement les conducteurs. Essentiel pour les installations dans des environnements avec risques de dommages physiques.
-  :::info Mode de pose "Conduit" 📸
-  *Figure 2.14, page 28 :* Exemple de conduit rigide pour protéger les câbles contre les chocs.
-  :::
-
-- **Fourreau (ou buse)** :  
-  Un fourreau est un élément entourant une canalisation électrique, conférant une protection supplémentaire, notamment lors des traversées de parois (mur, cloison, plancher, plafond) ou dans des parcours enterrés.
-
-- **Gaine** :  
-  La gaine est une enceinte située au-dessus du niveau du sol. Elle protège les câbles sans permettre la circulation humaine mais reste accessible sur toute sa longueur. Elle peut être incorporée ou non à la structure.
-
-- **Galerie** :  
-  Une galerie est une enceinte spacieuse, permettant aux personnes d’y circuler pour faciliter l’entretien des câbles. Ce type de pose est idéal dans les grandes installations industrielles nécessitant un accès fréquent.
-
-- **Goulotte** :  
-  La goulotte est un profilé fermé par un couvercle amovible, conçu pour contenir des conducteurs ou câbles. Elle est couramment utilisée dans les installations où l’accès aux câbles est nécessaire pour des modifications ou de la maintenance.
-
-  :::info Mode de pose "Goulotte" 📸
-  *Figure 2.15, page 28 :* Illustration d’une goulotte avec plusieurs câbles organisés et protégés sous un capot. Elle offre une solution sécurisée et esthétiquement discrète pour des installations visibles.
-  :::
-
-- **Corbeau** :  
-  Un corbeau est une pièce fixée à une paroi pour soutenir un câble ou une canalisation de façon discontinue. Ce support est souvent utilisé dans les installations techniques, où les câbles doivent être maintenus à une certaine distance du mur.
-
-  :::info Mode de pose "Corbeau" 📸
-  *Figure 2.16, page 29 :* Exemple d’un corbeau, support intermittent pour maintenir un câble en position sur une paroi.
-  :::
-
-- **Gouttière** :  
-  Une gouttière est un profilé ouvert en partie supérieure, utilisé pour le passage horizontal des câbles. Elle offre une certaine accessibilité tout en maintenant les câbles en position.
-
-  :::info Mode de pose "Gouttière" 📸
-  *Figure 2.17, page 29 :* Illustration d’une gouttière contenant des câbles, idéale pour les parcours horizontaux dans les locaux techniques.
-  :::
-
-- **Moulure** :  
-  La moulure est un profilé décoratif avec une base appelée semelle et un capot amovible. Elle est utilisée pour les installations visibles dans les espaces résidentiels, permettant de dissimuler les câbles de façon esthétique.
-
-  :::tip Astuce d'installation
-  Les moulures sont particulièrement pratiques dans les pièces de vie pour une installation discrète et esthétiquement soignée.
-  :::
-
-  :::info Mode de pose "Moulure" 📸
-  *Figure 2.18, page 29 :* Illustration d’une moulure intégrant des câbles de manière discrète et accessible.
-  :::
-
-- **Plinthe rainurée (ou chambranle)** :  
-  La plinthe rainurée, ou chambranle, comporte des rainures permettant le passage de conducteurs et est fermée par un couvercle amovible. Ce type de pose est souvent utilisé dans les rénovations où il est nécessaire de cacher des câbles.
-
-  :::info Mode de pose "Plinthe rainurée" 📸
-  *Figure 2.19, page 29 :* Exemple d’une plinthe rainurée permettant de dissimuler les câbles en bas des murs pour une installation propre et discrète.
-  :::
-
-- **Rainure** :  
-  La rainure est une entaille longue et étroite réalisée dans un matériau pour permettre le passage de câbles. Elle reste accessible sur toute sa longueur pour faciliter l’entretien ou les modifications.
-
-- **Saignée** :  
-  La saignée est une fente dans le matériau de construction (mur, plancher) destinée aux canalisations, puis rebouchée après la pose pour garantir une finition propre.
-
-  :::warning Précautions pour les saignées
-  Respectez les profondeurs et les largeurs minimales lors de la réalisation de saignées pour éviter les affaiblissements structuraux et garantir la sécurité.
-  :::
-
-- **Tablette** :  
-  Une tablette est un support continu fixé à une paroi verticale, servant à poser les câbles. Ce mode de pose est couramment utilisé dans les locaux techniques où les câbles doivent être visibles et accessibles.
-
-  :::info Mode de pose "Tablette" 📸
-  *Figure 2.20, page 29 :* Illustration d’une tablette servant de support pour les câbles, idéale dans les installations techniques nécessitant un accès facile.
-  :::
-
-- **Vide de construction** :  
-  Un vide de construction est un espace réservé dans les parois (murs, cloisons, plafonds) pour dissimuler les câbles tout en assurant leur accessibilité à certains emplacements. Ce mode de pose est souvent utilisé dans les constructions modernes pour garantir l’esthétique de l’installation.
-
-- **Canalisation électrique fixée aux parois** :  
-  Ce type de canalisation est posé directement à la surface d'une paroi ou à proximité immédiate de celle-ci. La paroi elle-même joue ici un double rôle, à la fois comme support de fixation et comme élément de protection pour la canalisation. Cette méthode de pose est souvent utilisée dans les installations résidentielles ou industrielles où les câbles doivent être visibles ou accessibles pour l'entretien.
-
-  :::tip Avantage de la fixation aux parois
-  La fixation directe aux parois offre une solution simple pour les installations temporaires ou pour les circuits nécessitant une accessibilité facile.
-  :::
-
-Ces différents modes de pose, décrits dans le RGIE, permettent une installation électrique sécurisée, conforme aux normes, et adaptée aux besoins variés des environnements résidentiels, commerciaux et industriels. Le choix du mode de pose doit tenir compte des contraintes de sécurité, de l'accessibilité et des exigences esthétiques pour chaque projet.
-
-## CHAPITRE 2.8. MATÉRIEL
-
-Le choix du **matériel électrique** dans une installation est crucial pour garantir la sécurité, la durabilité et la conformité aux normes RGIE. Cette section explore les termes et classifications essentiels du matériel électrique, incluant des catégories basées sur la mobilité et l'usage pour une application appropriée.
-
-### Section 2.8.1. Termes généraux
-
-- **Machine ou appareil électrique** : Tout équipement destiné à produire, transformer, distribuer ou utiliser l’énergie électrique.
-  - **Exemple pratique** : Les moteurs industriels, transformateurs et machines de soudage.
-  :::info Importance de la classification ⚙️
-  La classification des machines et appareils électriques permet de mieux comprendre leurs caractéristiques, assurant ainsi une utilisation conforme et sécurisée dans les installations.
-  :::
-
-- **Matériel électrique** : Englobe les machines, appareils et canalisations électriques. Un système complet comprenant machines, canalisations et dispositifs de commande est également considéré comme du matériel électrique.
-  - **Remarque** : La conformité de chaque élément aux normes garantit la sécurité de l'installation.
-
-- **Ensemble d’appareillage à basse tension** : Combinaison de dispositifs de connexion à basse tension, incluant éléments de commande, protection, et régulation.
-  - **Exemple pratique** : Un tableau électrique domestique intégrant des disjoncteurs et des interrupteurs différentiels pour la protection de l'installation.
-
-- **Système d’ensemble** : Regroupe des composants électriques et mécaniques comme des enveloppes, jeux de barres, et unités fonctionnelles, assemblés selon les instructions du constructeur.
-  - **Cas pratique** : Un système modulaire pour la distribution d'énergie dans un bâtiment commercial.
-
-- **Supports de lampes à décharge** : Utilisés pour maintenir les lampes ou tubes dans des installations sans inclure les éléments d’alimentation directe.
-  - **Exemple pratique** : Les supports de néons dans des environnements publics ou industriels.
-
-### Section 2.8.2. Possibilités de déplacement
-
-La **mobilité** des machines et appareils influence leur installation et les mesures de sécurité.
-
-- **Machine ou appareil mobile** : Déplaçable pendant son fonctionnement ou facilement transportable.
-  - **Exemple** : Aspirateur, perceuse électrique.
-  :::tip Précaution pour les appareils mobiles 🔌
-  Lors de l'utilisation d'appareils mobiles, assurez-vous que les câbles d'alimentation sont bien protégés pour éviter tout risque d'accident.
-  :::
-
-- **Machine ou appareil portatif (à main)** : Conçu pour être tenu à la main pendant son utilisation, avec une manœuvre manuelle continue.
-  - **Exemple pratique** : Perceuse à main, fer à souder.
-  
-- **Machine ou appareil fixe** : Installé de manière permanente, nécessitant un effort significatif pour être déplacé.
-  - **Exemple pratique** : Compresseur d'air industriel.
-
-- **Machine ou appareil installé à poste fixe** : Fixé de manière permanente.
-  - **Exemple** : Pompe de piscine installée en permanence.
-
-- **Machine ou appareil mobile à poste fixe** : Normalement stationnaire mais déplaçable pour des tâches comme le nettoyage.
-  - **Exemple** : Réfrigérateur, déplaçable pour nettoyage mais rarement déplacé.
-  
-- **Trolley** : Dispositif d’alimentation pour les machines mobiles, utilisant un frotteur.
-  - **Exemple** : Systèmes d’alimentation pour ponts roulants.
-
-Ces catégories aident à définir les exigences de sécurité pour chaque type de matériel, en tenant compte de sa mobilité et de son usage.
+- **Overhead Line and Bundle**:  
+  An outdoor power transmission line, supported by poles or pylons. A bundle is a set of three conductors forming a three-phase line.
 
 ---
 
-## CHAPITRE 2.9. SECTIONNEMENT ET COMMANDE
+### Section 2.7.2. Installation Methods
 
-Le **sectionnement** et la **commande** assurent la sécurité et le contrôle de l’alimentation dans les installations électriques. Ces fonctions sont essentielles pour les opérations de maintenance, la sécurité des utilisateurs, et l'optimisation de l'utilisation énergétique.
+Installation methods affect the safety, accessibility, and protection of cables within a system. This section presents various installation methods, illustrated for better understanding.
 
-### Section 2.9.1. Définitions Clés
-
-- **Coupure omnipolaire** : Interruption de tous les conducteurs actifs, y compris le neutre.
-  - **Cas pratique** : Assure que tous les conducteurs sont hors tension avant toute intervention, maximisant la sécurité.
-  :::danger Sécurité ⚠️
-  Assurez-vous toujours que la coupure est omnipolaire avant de commencer des travaux sur une installation pour éliminer tout risque de choc électrique.
+- **Hollow Block**:  
+  A prefabricated structure with cavities for routing cables.
+  :::info Installation Method "Hollow Block" 📸
+  *Figure 2.11, page 27:* Illustration of a hollow block for structured installations in buildings.
   :::
 
-- **Coupure de sécurité** : Sectionnement non automatique pour éliminer les dangers lorsqu'on travaille sur des équipements sous tension.
-  - **Exemple** : Interrupteur de sécurité près d'une machine industrielle.
+  - **Trench or Floor Duct**:  
+  A channel beneath the floor for cable routing, allowing easy access for maintenance.
+  :::info Installation Method "Trench or Floor Duct" 📸
+  *Figure 2.12, page 28:* View of a floor duct, ideal for installations requiring cable access in buildings.
+  :::
 
-- **Sectionnement** : Permet de déconnecter une partie ou l’intégralité de l’installation de sa source d’énergie.
-  - **Exemple** : Disjoncteurs dans un tableau pour isoler des circuits spécifiques.
+- **Cable Tray**:  
+  A profiled support system for guiding cables. Commonly used in industrial installations to organize and secure cables.
+  :::info Installation Method "Cable Tray" 📸
+  *Figure 2.13, page 28:* A galvanized steel cable tray for secure support in industrial installations.
+  :::
 
-- **Coupure pour entretien mécanique** : Isoler les parties mécaniques pour éviter les accidents liés aux mouvements mécaniques.
-  - **Exemple** : Interrupteur de verrouillage pour un moteur en atelier.
+- **Conduit**:  
+  A continuous tube providing mechanical protection for conductors. Essential for installations in environments where physical damage is a risk.
+  :::info Installation Method "Conduit" 📸
+  *Figure 2.14, page 28:* Example of a rigid conduit for protecting cables from impacts.
+  :::
 
-- **Coupure électrique d’urgence** : Conçue pour couper rapidement l'alimentation en cas de danger imprévu.
-  - **Arrêt d'urgence** : Utilisé pour arrêter un mouvement dangereux immédiatement.
-  - **Exemple** : Bouton d'arrêt d'urgence sur les machines industrielles.
+- **Sleeve (or Bushing)**:  
+  A sleeve is an element surrounding an electrical conduit, providing additional protection, particularly when passing through walls (wall, partition, floor, ceiling) or in buried paths.
 
-### Section 2.9.2. Types de Commande
+- **Duct**:  
+  A duct is an enclosure located above ground level. It protects cables without allowing human access but remains accessible along its entire length. It can be integrated into the structure or not.
 
-Les systèmes de commande permettent de gérer l'alimentation et d'assurer un fonctionnement sécurisé des appareils.
+- **Gallery**:  
+  A gallery is a spacious enclosure that allows people to circulate for cable maintenance. This installation type is ideal for large industrial systems requiring frequent access.
 
-- **Commande fonctionnelle** : Fermer, ouvrir ou ajuster l’alimentation pour une partie spécifique de l’installation.
-  - **Exemple** : Interrupteur pour allumer/éteindre un éclairage.
+- **Trunking**:  
+  Trunking is a profiled enclosure closed by a removable cover, designed to contain conductors or cables. It is commonly used in installations where cable access is needed for modifications or maintenance.
 
-- **Commande manuelle** : Action directe d’une personne pour activer/désactiver l'appareil.
-  - **Exemple** : Interrupteur pour allumer une lumière.
+  :::info Installation Method "Trunking" 📸
+  *Figure 2.15, page 28:* Illustration of trunking with multiple organized cables protected under a cover. It provides a secure and aesthetically discreet solution for visible installations.
+  :::
 
-- **Commande automatique** : Fonctionne sans intervention humaine, activée par des conditions prédéfinies.
-  - **Exemple** : Thermostat déclenchant le chauffage automatiquement.
+- **Bracket**:  
+  A bracket is a piece attached to a wall to support a cable or conduit in a discontinuous manner. This support is commonly used in technical installations where cables need to be kept at a certain distance from the wall.
 
-Ces méthodes de coupure et de commande garantissent que l'installation est sécurisée et facilement accessible pour l’entretien et les interventions d’urgence, contribuant à une meilleure gestion et sécurité énergétique.
+  :::info Installation Method "Bracket" 📸
+  *Figure 2.16, page 29:* Example of a bracket, an intermittent support to hold a cable in position on a wall.
+  :::
 
-## CHAPITRE 2.10. INFLUENCES EXTERNES
+- **Cable Gutter**:  
+  A cable gutter is an open-topped profile used for the horizontal routing of cables. It provides some accessibility while keeping the cables in place.
 
-La prise en compte des **influences externes** est cruciale pour assurer la sécurité, la fiabilité, et la conformité des installations électriques. Les conditions environnementales, d’utilisation, et de construction influencent directement la performance des équipements et peuvent imposer des précautions supplémentaires pour éviter les risques d’incidents.
+  :::info Installation Method "Cable Gutter" 📸
+  *Figure 2.17, page 29:* Illustration of a cable gutter containing cables, ideal for horizontal runs in technical rooms.
+  :::
 
-### Section 2.10.1. Généralités
+- **Molding**:  
+  Molding is a decorative profile with a base called a shoe and a removable cover. It is used for visible installations in residential spaces, allowing cables to be hidden in an aesthetically pleasing way.
 
-L'étude des influences externes permet de catégoriser les conditions dans lesquelles les installations doivent fonctionner, en prévoyant des mesures pour chaque situation. La classification des influences externes repose sur trois catégories principales :
+  :::tip Installation Tip
+  Moldings are particularly useful in living areas for discreet and neat installations.
+  :::
 
-1. **Conditions d’environnement** 🌦️
-   - **Définition** : Facteurs environnementaux comme l'humidité, la température, et les intempéries.
-   - **Exemples** : 
-     - **Atmosphère** : Variations climatiques (pluie, neige, vent) pouvant affecter la sécurité.
-     - **Climat** : Cycles saisonniers influençant la durabilité des matériaux.
-     - **Situation** : Emplacement géographique pouvant exposer l’installation à des risques spécifiques (inondations, gel).
+  :::info Installation Method "Molding" 📸
+  *Figure 2.18, page 29:* Illustration of molding integrating cables in a discreet and accessible manner.
+  :::
 
-2. **Circonstances d’utilisation** 🔌
-   - **Définition** : Facteurs liés à l’usage de l’installation et aux activités réalisées dans les locaux.
-   - **Exemples** : 
-     - **Fréquence d'utilisation** : Usage intensif ou occasionnel des équipements.
-     - **Nature des activités** : Types d'opérations effectuées dans l'espace, pouvant exiger une protection renforcée.
+- **Grooved Baseboard (or Chamfer)**:  
+  A grooved baseboard, or chamfer, features grooves for routing conductors and is closed with a removable cover. This type of installation is often used in renovations where cables need to be concealed.
 
-3. **Conséquences de la construction** 🧱
-   - **Définition** : Facteurs liés aux matériaux et à la conception des bâtiments.
-   - **Exemples** :
-     - **Type de matériaux** : Matériaux conducteurs ou isolants impactant la sécurité.
-     - **Conception du bâtiment** : Conception influençant la dissipation de chaleur ou l’exposition à l'humidité.
+  :::info Installation Method "Grooved Baseboard" 📸
+  *Figure 2.19, page 29:* Example of a grooved baseboard concealing cables at the base of walls for a clean and discreet installation.
+  :::
 
-#### Tableau 2.5. Catégories d’influences externes
+- **Channel**:  
+  A channel is a long, narrow groove made in a material to allow cable passage. It remains accessible along its entire length for maintenance or modifications.
 
-| Première lettre du code | Catégorie                      |
-|-------------------------|--------------------------------|
-| A                       | Conditions d’environnement     |
-| B                       | Utilisation                    |
-| C                       | Construction des bâtiments     |
+- **Chase**:  
+  A chase is a slot cut into the building material (wall, floor) for conduits, later sealed after installation to ensure a clean finish.
 
-:::tip Importance de cette classification 🌍
-Cette classification guide les électriciens dans le choix des équipements et des protections nécessaires en fonction des conditions réelles de chaque site. Elle permet d'anticiper les risques et d'assurer la durabilité des installations.
+  :::warning Precautions for Chases
+  Follow minimum depth and width requirements when making chases to avoid structural weakening and ensure safety.
+  :::
+
+- **Shelf**:  
+  A shelf is a continuous support fixed to a vertical wall, used to lay cables. This installation method is common in technical rooms where cables need to be visible and accessible.
+
+  :::info Installation Method "Shelf" 📸
+  *Figure 2.20, page 29:* Illustration of a shelf used as a support for cables, ideal in technical installations requiring easy access.
+  :::
+
+- **Building Void**:  
+  A building void is a reserved space within walls (partitions, ceilings) to conceal cables while allowing accessibility at specific points. This installation method is often used in modern constructions to ensure the aesthetic appeal of the setup.
+
+- **Surface-Mounted Electrical Conduit**:  
+  This type of conduit is mounted directly on the surface of a wall or in close proximity. The wall itself serves a dual role as both a mounting support and a protective element for the conduit. This method is often used in residential or industrial installations where cables need to be visible or accessible for maintenance.
+
+  :::tip Advantage of Surface Mounting
+  Surface mounting offers a simple solution for temporary installations or circuits that require easy accessibility.
+  :::
+
+These various installation methods, as described in the Belgian Electrical Regulations, enable a safe and compliant electrical setup adapted to the diverse needs of residential, commercial, and industrial environments. The choice of installation method must consider safety constraints, accessibility, and aesthetic requirements for each project.
+
+## CHAPTER 2.8. EQUIPMENT
+
+The selection of **electrical equipment** in an installation is crucial for ensuring safety, durability, and compliance with the Belgian Electrical Regulations. This section explores essential terms and classifications of electrical equipment, including categories based on mobility and usage for appropriate application.
+
+### Section 2.8.1. General Terms
+
+- **Electrical Machine or Device**: Any equipment designed to generate, transform, distribute, or utilize electrical energy.
+  - **Practical example**: Industrial motors, transformers, and welding machines.
+  :::info Importance of Classification ⚙️
+  The classification of electrical machines and devices helps in better understanding their characteristics, ensuring compliant and safe use in installations.
+  :::
+
+- **Electrical Equipment**: Includes machines, devices, and electrical conduits. A complete system comprising machines, conduits, and control devices is also considered electrical equipment.
+  - **Note**: Ensuring each element’s compliance with standards guarantees the safety of the installation.
+
+- **Low-Voltage Switchgear Assembly**: A combination of low-voltage connection devices, including control, protection, and regulation elements.
+  - **Practical example**: A domestic electrical panel integrating circuit breakers and differential switches for installation protection.
+
+- **System Assembly**: Groups electrical and mechanical components like enclosures, busbars, and functional units, assembled according to the manufacturer’s instructions.
+  - **Practical case**: A modular system for power distribution in a commercial building.
+
+- **Discharge Lamp Holders**: Used to support lamps or tubes in installations without including direct power supply elements.
+  - **Practical example**: Neon tube holders in public or industrial environments.
+
+### Section 2.8.2. Mobility Options
+
+The **mobility** of machines and devices affects their installation and safety measures.
+
+- **Mobile Machine or Device**: Movable during operation or easily transportable.
+  - **Example**: Vacuum cleaner, electric drill.
+  :::tip Precaution for Mobile Devices 🔌
+  When using mobile devices, ensure power cables are well-protected to prevent any accident risks.
+  :::
+
+- **Handheld Machine or Device**: Designed to be held in hand during use, with continuous manual operation.
+  - **Practical example**: Hand drill, soldering iron.
+
+- **Fixed Machine or Device**: Permanently installed, requiring significant effort to be moved.
+  - **Practical example**: Industrial air compressor.
+
+- **Stationary Fixed Machine or Device**: Permanently attached.
+  - **Example**: Pool pump installed permanently.
+
+- **Mobile Stationary Device**: Normally stationary but movable for tasks like cleaning.
+  - **Example**: Refrigerator, movable for cleaning but rarely relocated.
+
+- **Trolley**: Power supply device for mobile machines, using a current collector.
+  - **Example**: Power supply systems for overhead cranes.
+
+These categories help define the safety requirements for each type of equipment, considering its mobility and usage.
+
+---
+
+## CHAPTER 2.9. ISOLATION AND CONTROL
+
+**Isolation** and **control** ensure the safety and management of power supply in electrical installations. These functions are essential for maintenance operations, user safety, and optimizing energy usage.
+
+### Section 2.9.1. Key Definitions
+
+- **All-pole disconnection**: The interruption of all active conductors, including the neutral.
+  - **Practical case**: Ensures that all conductors are de-energized before any intervention, maximizing safety.
+  :::danger Safety ⚠️
+  Always ensure that the disconnection is all-pole before starting any work on an installation to eliminate the risk of electric shock.
+  :::
+
+- **Safety disconnection**: Non-automatic isolation to eliminate hazards when working on live equipment.
+  - **Example**: Safety switch near an industrial machine.
+
+- **Isolation**: Allows disconnecting a part or the entire installation from its power source.
+  - **Example**: Circuit breakers in a panel to isolate specific circuits.
+
+- **Mechanical maintenance disconnection**: Isolating mechanical parts to prevent accidents related to mechanical movements.
+  - **Example**: Locking switch for a workshop motor.
+
+- **Emergency electrical disconnection**: Designed to quickly cut the power supply in case of unexpected danger.
+  - **Emergency stop**: Used to immediately stop a hazardous motion.
+  - **Example**: Emergency stop button on industrial machines.
+
+### Section 2.9.2. Types of Control
+
+Control systems allow the management of power supply and ensure the safe operation of devices.
+
+- **Functional control**: To close, open, or adjust the power supply for a specific part of the installation.
+  - **Example**: Switch to turn on/off a lighting system.
+
+- **Manual control**: Direct action by a person to activate/deactivate the device.
+  - **Example**: Light switch.
+
+- **Automatic control**: Operates without human intervention, triggered by predefined conditions.
+  - **Example**: Thermostat automatically activating the heating.
+
+These methods of isolation and control ensure that the installation is safe and easily accessible for maintenance and emergency interventions, contributing to better energy management and safety.
+
+## CHAPTER 2.10. EXTERNAL INFLUENCES
+
+Considering **external influences** is crucial for ensuring the safety, reliability, and compliance of electrical installations. Environmental, usage, and construction conditions directly impact the performance of equipment and may require additional precautions to prevent risks.
+
+### Section 2.10.1. General Overview
+
+The study of external influences allows categorizing the conditions in which installations must operate, providing measures for each situation. The classification of external influences is based on three main categories:
+
+1. **Environmental Conditions** 🌦️
+   - **Definition**: Factors such as humidity, temperature, and weather.
+   - **Examples**:
+     - **Atmosphere**: Climatic variations (rain, snow, wind) that can affect safety.
+     - **Climate**: Seasonal cycles influencing material durability.
+     - **Location**: Geographic placement exposing the installation to specific risks (flooding, freezing).
+
+2. **Usage Circumstances** 🔌
+   - **Definition**: Factors related to the use of the installation and activities performed in the premises.
+   - **Examples**:
+     - **Frequency of use**: Intensive or occasional use of equipment.
+     - **Nature of activities**: Types of operations conducted in the space, possibly requiring enhanced protection.
+
+3. **Construction Consequences** 🧱
+   - **Definition**: Factors related to building materials and design.
+   - **Examples**:
+     - **Type of materials**: Conductive or insulating materials impacting safety.
+     - **Building design**: Design influencing heat dissipation or exposure to moisture.
+
+#### Table 2.5. Categories of External Influences
+
+| First Letter of Code | Category                      |
+|----------------------|-------------------------------|
+| A                    | Environmental Conditions      |
+| B                    | Usage                         |
+| C                    | Building Construction         |
+
+:::tip Importance of Classification 🌍
+This classification guides electricians in selecting the necessary equipment and protection based on the actual site conditions. It helps anticipate risks and ensure the longevity of the installations.
 :::
 
 ---
 
-### Section 2.10.2. Température ambiante (AA)
+### Section 2.10.2. Ambient Temperature (AA)
 
-La **température ambiante** affecte directement les performances des installations électriques et la longévité des matériaux. Pour gérer ces variations, un code spécifique est utilisé pour caractériser les températures de fonctionnement.
+**Ambient temperature** directly affects the performance of electrical installations and the lifespan of materials. To manage these variations, a specific code is used to characterize the operating temperatures.
 
-#### Classification des températures ambiantes
+#### Classification of Ambient Temperatures
 
-| Code | Température ambiante | Conditions                         | Exemples                        |
-|------|----------------------|------------------------------------|---------------------------------|
-| AA1  | Frigorifique         | -60 °C à +5 °C                    | Enceintes de congélation       |
-| AA2  | Très froid           | -40 °C à +5 °C                    | Enceintes frigorifiques        |
-| AA3  | Froid                | -25 °C à +5 °C                    | Emplacements extérieurs        |
-| AA4  | Tempéré              | -5 °C à +40 °C                    | Emplacements tempérés          |
-| AA5  | Chaud                | +5 °C à +40 °C                    | Locaux intérieurs              |
-| AA6  | Très chaud           | +5 °C à +60 °C                    | Chaufferies, salles de machines|
+| Code | Ambient Temperature | Conditions                          | Examples                       |
+|------|---------------------|-------------------------------------|--------------------------------|
+| AA1  | Refrigerated        | -60 °C to +5 °C                     | Freezing chambers              |
+| AA2  | Very cold           | -40 °C to +5 °C                     | Refrigerated rooms             |
+| AA3  | Cold                | -25 °C to +5 °C                     | Outdoor locations              |
+| AA4  | Temperate           | -5 °C to +40 °C                     | Temperate locations            |
+| AA5  | Warm                | +5 °C to +40 °C                     | Indoor spaces                  |
+| AA6  | Very warm           | +5 °C to +60 °C                     | Boiler rooms, engine rooms     |
 
-:::warning Risque de surchauffe 🔥
-Dans des environnements chauds (AA5 et AA6), prévoyez des dispositifs de protection thermique pour éviter les risques de surchauffe.
+:::warning Risk of Overheating 🔥
+In warm environments (AA5 and AA6), provide thermal protection devices to avoid risks of overheating.
 :::
 
-#### Codes pour conditions particulières
+#### Codes for Special Conditions
 
-| Code | Température ambiante | Conditions                         | Exemples                        |
-|------|----------------------|------------------------------------|---------------------------------|
-| AA7  | Froid                | -15 °C à +25 °C                   | Extérieur des locaux           |
-| AA8  | Tempéré              | +5 °C à +30 °C                    | Locaux chauffés                |
+| Code | Ambient Temperature     | Conditions                         | Examples                        |
+|------|-------------------------|------------------------------------|---------------------------------|
+| AA7  | Cold                    | -15 °C to +25 °C                   | Outdoors near buildings         |
+| AA8  | Temperate               | +5 °C to +30 °C                    | Heated indoor spaces            |
 
-:::info Note sur les codes combinés 🌡️
-Les emplacements pouvant être exposés à des températures extrêmes, comme les extérieurs, sont souvent désignés par des codes combinés (ex. : AA3+5 pour -25 °C à +40 °C).
+:::info Note on Combined Codes 🌡️
+Locations exposed to extreme temperatures, such as outdoor environments, are often designated by combined codes (e.g., AA3+5 for -25 °C to +40 °C).
 :::
 
-### Importance de la température ambiante
+### Importance of Ambient Temperature
 
-- **Sécurité** : Prévient les risques d'échauffement excessif.
-- **Efficacité** : Assure un fonctionnement optimal dans les conditions ambiantes.
-- **Conformité** : Respecte les normes de température pour éviter les défaillances.
+- **Safety**: Prevents the risk of excessive heating.
+- **Efficiency**: Ensures optimal operation under ambient conditions.
+- **Compliance**: Meets temperature standards to avoid failures.
 
 ---
 
-### Section 2.10.3. Présence d'eau (AD)
+### Section 2.10.3. Presence of Water (AD)
 
-L'**humidité** et l'exposition à l'eau représentent des dangers significatifs pour les installations électriques. En tenant compte des niveaux d'exposition, les installations peuvent être mieux protégées contre les courts-circuits, la corrosion, et d'autres risques.
+**Humidity** and exposure to water are significant hazards for electrical installations. Considering the levels of exposure, installations can be better protected against short circuits, corrosion, and other risks.
 
-#### Classification de la présence d'eau
+#### Classification of Water Presence
 
-| Code | Condition                  | Exemples d'application            |
+| Code | Condition                  | Application Examples              |
 |------|---------------------------|-----------------------------------|
-| AD1  | Environnement sec         | Locaux intérieurs sans humidité   |
-| AD2  | Humidité ambiante légère   | Salles de bains, cuisines         |
-| AD3  | Présence d'eau stagnante   | Sous-sols, zones inondables       |
-| AD4  | Eaux vives                 | Rivières, lacs à proximité        |
-| AD5  | Environnement aquatique    | Installations immergées ou maritimes|
+| AD1  | Dry environment           | Indoor spaces without humidity    |
+| AD2  | Light ambient humidity    | Bathrooms, kitchens               |
+| AD3  | Stagnant water            | Basements, flood-prone areas      |
+| AD4  | Flowing water             | Near rivers, lakes                |
+| AD5  | Aquatic environment       | Submerged or marine installations |
 
-:::danger Attention à l'humidité 💧
-Dans les environnements humides (AD2 et plus), il est impératif d'utiliser des équipements étanches pour éviter tout risque de court-circuit.
+:::danger Caution with Humidity 💧
+In humid environments (AD2 and above), it is essential to use waterproof equipment to avoid any risk of short circuits.
 :::
 
-- **Exemples de protection** :
-  - **IP44** : Protégé contre les projections d'eau, adapté pour AD2.
-  - **IP68** : Résistant à l’immersion, requis pour AD5 dans les installations immergées.
+- **Protection Examples**:
+  - **IP44**: Protected against water splashes, suitable for AD2.
+  - **IP68**: Resistant to immersion, required for AD5 in submerged installations.
 
-Ces précautions permettent de sécuriser les installations en fonction des niveaux d'exposition à l'eau.
+These precautions help secure installations based on the level of water exposure.
 
-### Importance de la prise en compte de la présence d'eau
+### Importance of Considering Water Presence
 
-- **Prévention des risques de court-circuit** : En utilisant du matériel adapté aux environnements humides.
-- **Durabilité** : Les équipements résistants à l'eau durent plus longtemps dans des environnements à forte humidité.
-- **Conformité aux normes** : Respect des standards de sécurité pour éviter les infractions et protéger les utilisateurs.
-
---- 
-
-Ces chapitres sur les **influences externes** permettent aux professionnels de concevoir et d'installer des systèmes électriques robustes, durables, et conformes aux exigences du RGIE, garantissant ainsi une sécurité optimale face aux éléments environnementaux et conditions d'utilisation.
-
-## CHAPITRE 2.10. INFLUENCES EXTERNES
-
-L'influence de l'environnement sur les installations électriques joue un rôle fondamental dans leur sécurité, leur durabilité, et leur conformité. Le RGIE identifie et classe diverses influences externes, permettant aux professionnels de prévoir des protections adaptées à chaque situation spécifique.
+- **Prevention of Short-Circuit Risks**: By using equipment suitable for humid environments.
+- **Durability**: Water-resistant equipment lasts longer in high-humidity environments.
+- **Compliance with Standards**: Adheres to safety standards to avoid violations and protect users.
 
 ---
 
-### Section 2.10.3. Risques associés à la présence d'eau
+These chapters on **external influences** enable professionals to design and install robust, durable, and compliant electrical systems that provide optimal safety against environmental elements and usage conditions.
 
-La **présence d'eau** représente un danger important pour les installations électriques, étant donné les propriétés conductrices de l'eau qui augmentent le risque d'incidents.
+## CHAPTER 2.10. EXTERNAL INFLUENCES
 
-#### Risques associés à la présence d'eau
+Environmental influences on electrical installations play a fundamental role in their safety, durability, and compliance. The Belgian Electrical Regulations identify and classify various external influences, allowing professionals to plan appropriate protections for each specific situation.
 
-1. **Chocs électriques** ⚡ : L'eau est un excellent conducteur d'électricité, ce qui élève le risque de chocs électriques si elle entre en contact avec des installations mal protégées.
-2. **Détérioration des équipements** 🛠️ : L'humidité peut causer la corrosion des composants électriques, ce qui réduit leur efficacité et leur durée de vie.
-3. **Difficulté d'accès** 🚧 : Les zones humides ou inondées peuvent compliquer l'accès aux installations pour des réparations ou des inspections, augmentant les coûts de maintenance.
+---
 
-#### Mesures de sécurité
+### Section 2.10.3. Risks Associated with Water Presence
 
-Pour atténuer les risques associés à l'eau, plusieurs mesures de sécurité sont recommandées :
+The **presence of water** poses a significant hazard for electrical installations due to the conductive properties of water, which increase the risk of incidents.
 
-- **Équipements étanches** 🧰 : Utiliser des dispositifs conçus pour résister à l'humidité (ex. : boîtiers étanches IP44 à IP68 selon le degré d'exposition).
-- **Matériaux isolants** 🧱 : Privilégier des matériaux résistants à l'eau dans les zones à risque pour éviter tout contact accidentel.
-- **Inspections régulières** 🔍 : Mettre en place un programme de maintenance pour surveiller et préserver les installations exposées à l'humidité.
+#### Risks Associated with Water Presence
 
-:::warning Alerte sécurité 💧
-Dans les zones à haute humidité ou sujettes aux inondations, assurez-vous que toutes les connexions électriques sont correctement scellées et protégées par des dispositifs différentiels à haute sensibilité pour prévenir les fuites de courant.
+1. **Electric Shocks** ⚡: Water is an excellent conductor of electricity, raising the risk of electric shocks if it comes into contact with poorly protected installations.
+2. **Equipment Deterioration** 🛠️: Humidity can cause corrosion of electrical components, reducing their efficiency and lifespan.
+3. **Access Difficulty** 🚧: Humid or flooded areas can complicate access to installations for repairs or inspections, increasing maintenance costs.
+
+#### Safety Measures
+
+To mitigate risks associated with water, several safety measures are recommended:
+
+- **Waterproof Equipment** 🧰: Use devices designed to resist humidity (e.g., waterproof enclosures IP44 to IP68 based on exposure level).
+- **Insulating Materials** 🧱: Opt for water-resistant materials in high-risk areas to avoid accidental contact.
+- **Regular Inspections** 🔍: Implement a maintenance program to monitor and preserve installations exposed to humidity.
+
+:::warning Safety Alert 💧
+In high-humidity or flood-prone areas, ensure all electrical connections are properly sealed and protected by high-sensitivity differential devices to prevent current leaks.
 :::
 
 ---
 
-### Section 2.10.4. Présence de corps solides étrangers (AE)
+### Section 2.10.4. Presence of Foreign Solid Bodies (AE)
 
-La présence de **corps solides étrangers** dans l'environnement des installations électriques peut causer des défaillances. Ce risque est classifié en fonction de la taille et de la nature des particules présentes.
+The presence of **foreign solid bodies** in the environment of electrical installations can cause malfunctions. This risk is classified based on the size and nature of the particles present.
 
-#### Classification des corps solides étrangers
+#### Classification of Foreign Solid Bodies
 
-| Code | Corps solides étrangers                      | Description                                        |
+| Code | Foreign Solid Bodies                         | Description                                        |
 |------|---------------------------------------------|----------------------------------------------------|
-| AE1  | Corps de grande dimension                   | Objets volumineux pouvant bloquer les circuits     |
-| AE2  | Corps de plus petite dimension (≥ 2,5 mm)   | Particules petites, mais pouvant obstruer les conduits |
-| AE3  | Corps de petite dimension (≥ 1 mm)          | Particules fines pouvant pénétrer dans les équipements |
-| AE4  | Poussières                                  | Fines particules qui s'accumulent et risquent de causer des courts-circuits |
+| AE1  | Large objects                               | Bulky objects that can block circuits              |
+| AE2  | Smaller objects (≥ 2.5 mm)                  | Small particles that may obstruct conduits         |
+| AE3  | Fine objects (≥ 1 mm)                       | Fine particles that can penetrate equipment        |
+| AE4  | Dust                                        | Fine particles that accumulate and risk short circuits |
 
-#### Risques associés
+#### Associated Risks
 
-1. **Obstruction** 🚧 : Les corps solides peuvent bloquer les circuits ou les conduits, entraînant des interruptions dans le fonctionnement des installations.
-2. **Détérioration** 🛠️ : Les débris ou les particules peuvent user les composants électriques, réduisant leur durée de vie.
-3. **Incendie** 🔥 : Dans des environnements poussiéreux, les particules peuvent causer des courts-circuits ou des arcs électriques, augmentant le risque d'incendie.
+1. **Obstruction** 🚧: Solid bodies can block circuits or conduits, leading to interruptions in the operation of installations.
+2. **Deterioration** 🛠️: Debris or particles can wear out electrical components, reducing their lifespan.
+3. **Fire Hazard** 🔥: In dusty environments, particles can cause short circuits or electrical arcs, increasing the risk of fire.
 
-#### Mesures de prévention
+#### Preventive Measures
 
-Pour éviter les dangers liés aux corps solides étrangers, voici quelques précautions :
+To avoid dangers related to foreign solid bodies, the following precautions are recommended:
 
-- **Filtres et grilles** 🛡️ : Installer des protections pour limiter l'entrée de particules dans les équipements sensibles.
-- **Inspections de nettoyage** 🧽 : Effectuer des contrôles réguliers pour détecter et éliminer toute accumulation de débris.
-- **Espacement suffisant** 📏 : Concevoir des installations avec des espaces adéquats pour permettre une circulation d'air qui réduit l'accumulation de particules.
+- **Filters and Grilles** 🛡️: Install protective barriers to limit the entry of particles into sensitive equipment.
+- **Cleaning Inspections** 🧽: Conduct regular checks to detect and remove any accumulation of debris.
+- **Adequate Spacing** 📏: Design installations with sufficient spacing to allow air circulation, reducing particle buildup.
 
-:::info Importance des inspections
-Les inspections régulières sont essentielles dans les environnements industriels où la présence de poussière ou de particules est inévitable.
+:::info Importance of Inspections
+Regular inspections are crucial in industrial environments where the presence of dust or particles is unavoidable.
 :::
 
 ---
 
-### Section 2.10.5. Présence de substances corrosives ou polluantes (AF)
+### Section 2.10.5. Presence of Corrosive or Polluting Substances (AF)
 
-Les **substances corrosives ou polluantes** peuvent sérieusement affecter la sécurité et la durabilité des installations électriques. Les matériaux et composants doivent être choisis pour résister aux environnements potentiellement agressifs.
+**Corrosive or polluting substances** can significantly affect the safety and longevity of electrical installations. Materials and components must be selected to withstand potentially aggressive environments.
 
-#### Classification des substances corrosives ou polluantes
+#### Classification of Corrosive or Polluting Substances
 
-| Code | Substances corrosives ou polluantes        | Conditions d'exposition                                                               | Exemples                                     |
-|------|-------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------|
-| AF1  | Négligeable                               | Aucune influence significative                                                        | Locaux domestiques                           |
-| AF2  | D'origine atmosphérique                   | Exposition accidentelle à des agents corrosifs                                       | Bâtiments proches d'industries chimiques     |
-| AF3  | Intermittente ou accidentelle             | Exposition sporadique à des substances corrosives                                     | Laboratoires, garages                        |
-| AF4  | Permanente                                | Exposition continue à des produits chimiques ou polluants                             | Usines chimiques, zones industrielles        |
+| Code | Corrosive or Polluting Substances            | Exposure Conditions                                                         | Examples                                    |
+|------|---------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
+| AF1  | Negligible                                  | No significant influence                                                    | Domestic spaces                             |
+| AF2  | Atmospheric origin                          | Accidental exposure to corrosive agents                                     | Buildings near chemical industries          |
+| AF3  | Intermittent or accidental                  | Sporadic exposure to corrosive substances                                   | Laboratories, garages                       |
+| AF4  | Continuous                                  | Ongoing exposure to chemicals or pollutants                                 | Chemical plants, industrial zones           |
 
-#### Risques associés
+#### Associated Risks
 
-1. **Corrosion des équipements** 🧪 : Les substances corrosives attaquent les composants, entraînant des défaillances et des courts-circuits.
-2. **Détérioration des installations** 🛠️ : Les agents polluants dégradent les isolants, réduisant leur efficacité.
-3. **Risques pour la santé** ☣️ : Les substances corrosives peuvent également être dangereuses pour le personnel.
+1. **Corrosion of Equipment** 🧪: Corrosive substances attack components, leading to failures and short circuits.
+2. **Deterioration of Installations** 🛠️: Pollutants degrade insulation, reducing its effectiveness.
+3. **Health Hazards** ☣️: Corrosive substances may also pose risks to personnel.
 
-#### Mesures de prévention
+#### Preventive Measures
 
-Pour protéger les installations contre les substances corrosives ou polluantes, les mesures suivantes sont recommandées :
+To protect installations from corrosive or polluting substances, the following measures are recommended:
 
-- **Évaluation régulière de l’environnement** 🔍 : Identifier et surveiller les zones potentiellement exposées à des agents corrosifs.
-- **Équipements résistants à la corrosion** 🛡️ : Utiliser des matériaux et des revêtements adaptés dans les zones à risque.
-- **Procédures de nettoyage et d'entretien** 🧹 : Nettoyer régulièrement pour éviter l'accumulation de polluants.
-- **Formation du personnel** 👷 : Informer les équipes des risques liés aux substances corrosives et des bonnes pratiques de sécurité.
+- **Regular Environmental Assessment** 🔍: Identify and monitor areas potentially exposed to corrosive agents.
+- **Corrosion-Resistant Equipment** 🛡️: Use materials and coatings designed for high-risk areas.
+- **Cleaning and Maintenance Procedures** 🧹: Regularly clean to prevent pollutant buildup.
+- **Personnel Training** 👷: Educate teams about the risks of corrosive substances and best safety practices.
 
-:::danger Attention aux substances corrosives ☠️
-Dans les environnements exposés aux agents chimiques, assurez-vous que les matériaux utilisés sont conformes aux normes de résistance à la corrosion pour éviter tout risque d'incident majeur.
+:::danger Caution with Corrosive Substances ☠️
+In environments exposed to chemical agents, ensure that the materials used meet corrosion resistance standards to avoid major incidents.
 :::
 
 ---
 
-### Section 2.10.6. Contraintes mécaniques dues aux chocs (AG)
+### Section 2.10.6. Mechanical Stress Due to Impact (AG)
 
-Les **contraintes mécaniques dues aux chocs** influent directement sur la sécurité et la durabilité des installations électriques, surtout dans les environnements industriels. Chaque niveau de contrainte est défini par un code (AG1 à AG3) indiquant l'énergie de choc maximale admissible et le degré de résistance nécessaire.
+**Mechanical stress due to impact** directly affects the safety and durability of electrical installations, particularly in industrial environments. Each level of stress is defined by a code (AG1 to AG3) indicating the maximum impact energy tolerated and the required degree of resistance.
 
-| Code | Énergie de choc maximum | Degré de résistance aux chocs | Conditions d'utilisation                                        |
-|------|-------------------------|-------------------------------|---------------------------------------------------------------|
-| AG1  | 1 J                     | IP XX-4                       | Conditions normales dans les environnements domestiques ou similaires. |
-| AG2  | 6 J                     | IP XX-7                       | Usage industriel avec impacts modérés. |
-| AG3  | 60 J                    | IP XX-11                      | Environnements industriels sévères exposés à de forts impacts. |
+| Code | Maximum Impact Energy | Impact Resistance Level | Usage Conditions                                             |
+|------|-----------------------|-------------------------|--------------------------------------------------------------|
+| AG1  | 1 J                   | IP XX-4                 | Normal conditions in residential or similar environments.    |
+| AG2  | 6 J                   | IP XX-7                 | Industrial use with moderate impacts.                        |
+| AG3  | 60 J                  | IP XX-11                | Severe industrial environments exposed to heavy impacts.     |
 
-#### Explications des niveaux de contraintes
+#### Explanation of Stress Levels
 
-1. **AG1 - Environnements domestiques** 🏠  
-   Ce niveau de contrainte est fréquent dans les installations résidentielles, où l'énergie de choc reste faible. Les équipements doivent résister à des impacts mineurs, comme un objet tombant par inadvertance.
+1. **AG1 - Residential Environments** 🏠  
+   This stress level is common in residential installations where the impact energy is low. Equipment must withstand minor impacts, such as a dropped object.
 
-   :::tip Conseils pour AG1  
-   Utilisez des dispositifs avec un indice de protection adapté (ex. : IP XX-4) pour garantir une sécurité de base.  
+   :::tip Tips for AG1  
+   Use devices with appropriate protection ratings (e.g., IP XX-4) to ensure basic safety.  
    :::
 
-2. **AG2 - Environnements industriels légers** 🏭  
-   Pour les installations industrielles légères, les équipements doivent résister à des chocs modérés (6 J). Cela inclut les ateliers ou environnements où des équipements mobiles ou des outils peuvent occasionnellement heurter les installations.
+2. **AG2 - Light Industrial Environments** 🏭  
+   In light industrial installations, equipment must withstand moderate impacts (6 J). This includes workshops or environments where mobile equipment or tools may occasionally strike installations.
 
-   :::warning Important !  
-   Dans les environnements AG2, privilégiez des équipements renforcés avec une résistance IP XX-7 pour éviter les pannes dues aux chocs répétés.  
+   :::warning Important!  
+   In AG2 environments, opt for reinforced equipment with impact resistance IP XX-7 to prevent failures due to repeated impacts.  
    :::
 
-3. **AG3 - Environnements industriels sévères** 🔧  
-   Dans des conditions extrêmes (AG3), les installations doivent pouvoir résister à des chocs importants (60 J), fréquents dans les industries lourdes. Une protection élevée (IP XX-11) est requise pour garantir la robustesse des équipements face aux impacts fréquents.
+3. **AG3 - Severe Industrial Environments** 🔧  
+   Under extreme conditions (AG3), installations must be able to withstand heavy impacts (60 J), typical in heavy industries. High protection (IP XX-11) is required to ensure the robustness of equipment against frequent impacts.
 
-   :::danger Avertissement pour AG3  
-   Assurez-vous que tous les dispositifs critiques dans ces environnements sont testés et conformes aux normes IP XX-11. Des équipements inadaptés peuvent présenter un risque d'accident grave.  
-   :::
-
----
-
-### Section 2.10.7. Contraintes mécaniques dues aux vibrations (AH)
-
-Les **vibrations** peuvent affecter la performance et la sécurité des installations électriques, notamment dans les environnements industriels. La classification (AH1 à AH3) permet de distinguer les différents niveaux de vibrations auxquels les équipements peuvent être exposés.
-
-| Code | Vibrations       | Conditions                             | Exemples                                      |
-|------|------------------|----------------------------------------|-----------------------------------------------|
-| AH1  | Faibles          | Environnement stable, sans vibrations. | Locaux domestiques, équipements fixes. |
-| AH2  | Moyennes         | Vibrations modérées                    | Équipements avec moteurs ou parties mobiles.  |
-| AH3  | Importantes      | Vibrations intenses                    | Proximité de machines vibrantes (ex. : tamis, broyeurs). |
-
-#### Explications des niveaux de contraintes
-
-1. **AH1 - Environnements sans vibrations** 🌿  
-   Dans les locaux domestiques ou les environnements stables, les vibrations sont négligeables. Les installations ne nécessitent pas de protection supplémentaire contre les vibrations.
-
-2. **AH2 - Vibrations modérées** ⚙️  
-   Les environnements AH2 incluent les ateliers où des machines en fonctionnement peuvent générer des vibrations modérées. Les équipements doivent être montés avec des fixations adaptées pour absorber ces vibrations et éviter les dommages.
-
-   :::tip Conseil pour AH2  
-   Utilisez des fixations antivibrations et effectuez des inspections régulières pour vérifier l'état des connexions et éviter tout desserrage dû aux vibrations.  
-   :::
-
-3. **AH3 - Vibrations importantes** 🚧  
-   Dans les environnements avec des vibrations importantes (ex. : à proximité de machines industrielles lourdes), les équipements doivent être spécialement conçus pour résister aux secousses constantes. Cela peut inclure des boîtiers renforcés et des systèmes de montage absorbant les chocs.
-
-   :::danger Attention !  
-   Les vibrations excessives peuvent provoquer des déconnexions et des courts-circuits dans les installations mal protégées. Assurez-vous d'utiliser des matériaux résistants et des montages robustes.  
+   :::danger Warning for AG3  
+   Ensure that all critical devices in these environments are tested and comply with IP XX-11 standards. Inadequate equipment may pose a risk of serious accidents.  
    :::
 
 ---
 
-### Section 2.10.8. Présence de flore et/ou moisissures (AK) et de faune (AL)
+### Section 2.10.7. Mechanical Stress Due to Vibration (AH)
 
-Les installations électriques peuvent être affectées par la présence de **flore, moisissures** et **faune**. Ces facteurs sont classifiés par les codes AK (plantes/moisissures) et AL (faune) et nécessitent des protections adaptées pour garantir la longévité des équipements.
+**Vibrations** can affect the performance and safety of electrical installations, especially in industrial environments. The classification (AH1 to AH3) helps differentiate the various levels of vibration to which equipment may be exposed.
 
-#### Présence de flore et/ou moisissures (AK)
+| Code | Vibration Level | Usage Conditions                       | Examples                                      |
+|------|-----------------|----------------------------------------|-----------------------------------------------|
+| AH1  | Low             | Stable environment, no vibrations      | Residential areas, fixed equipment            |
+| AH2  | Moderate        | Moderate vibrations                    | Equipment with motors or moving parts         |
+| AH3  | High            | Intense vibrations                     | Near vibrating machines (e.g., screens, crushers) |
 
-| Code | Conditions                          | Exemples                                                   |
-|------|-------------------------------------|-----------------------------------------------------------|
-| AK1  | Négligeable                         | Environnements sans végétation ni moisissures notables.    |
-| AK2  | Risques                             | Environnements à forte présence de végétation ou humidité (ex. : serres, forêts). |
+#### Explanation of Vibration Stress Levels
 
-#### Présence de faune (AL)
+1. **AH1 - Vibration-Free Environments** 🌿  
+   In domestic or stable environments, vibrations are negligible. Installations do not require additional protection against vibrations.
 
-| Code | Conditions                          | Exemples                                                   |
-|------|-------------------------------------|-----------------------------------------------------------|
-| AL1  | Négligeable                         | Pas de risques liés aux animaux ou insectes.               |
-| AL2  | Risques                             | Présence d'insectes ou d'animaux qui peuvent endommager les installations (ex. : rongeurs, fourmis). |
+2. **AH2 - Moderate Vibrations** ⚙️  
+   AH2 environments include workshops where operating machinery may generate moderate vibrations. Equipment must be mounted with suitable fixings to absorb these vibrations and prevent damage.
 
-#### Risques associés et mesures de prévention
+   :::tip Advice for AH2  
+   Use anti-vibration mounts and conduct regular inspections to check the condition of connections, avoiding loosening caused by vibrations.  
+   :::
 
-1. **Corrosion biologique** 🌱 : Les moisissures et certaines plantes peuvent accélérer la corrosion des équipements.
-2. **Dommages causés par la faune** 🐭 : Les rongeurs et les insectes peuvent ronger les câbles, causant des courts-circuits et des défaillances.
+3. **AH3 - High Vibrations** 🚧  
+   In environments with high vibrations (e.g., near heavy industrial machinery), equipment must be specifically designed to withstand constant shaking. This may include reinforced enclosures and shock-absorbing mounting systems.
 
-   :::warning Mesures de prévention contre la faune et la flore  
-   - Utilisez des câbles protégés par des gaines résistantes aux rongeurs dans les zones à risque.
-   - Pour les environnements humides (AK2), privilégiez des équipements traités contre la corrosion.  
+   :::danger Caution!  
+   Excessive vibrations can lead to disconnections and short circuits in poorly protected installations. Ensure the use of durable materials and robust mounting systems.  
    :::
 
 ---
 
-### Section 2.10.9. Influences électromagnétiques, électrostatiques ou ionisantes (AM)
+### Section 2.10.8. Presence of Flora and/or Mold (AK) and Fauna (AL)
 
-Les **influences électromagnétiques, électrostatiques ou ionisantes** peuvent affecter les installations électriques de manière significative. Elles sont classées sous le code AM (AM1 à AM6) pour indiquer leur niveau d'impact sur les installations.
+Electrical installations may be affected by the presence of **flora, mold**, and **fauna**. These factors are classified by the codes AK (plants/mold) and AL (fauna) and require appropriate protections to ensure equipment longevity.
+
+#### Presence of Flora and/or Mold (AK)
+
+| Code | Conditions                          | Examples                                                   |
+|------|-------------------------------------|------------------------------------------------------------|
+| AK1  | Negligible                          | Environments without significant vegetation or mold.       |
+| AK2  | Risk                                | Environments with high vegetation presence or humidity (e.g., greenhouses, forests). |
+
+#### Presence of Fauna (AL)
+
+| Code | Conditions                          | Examples                                                   |
+|------|-------------------------------------|------------------------------------------------------------|
+| AL1  | Negligible                          | No risks from animals or insects.                          |
+| AL2  | Risk                                | Presence of insects or animals that can damage installations (e.g., rodents, ants). |
+
+#### Associated Risks and Preventive Measures
+
+1. **Biological Corrosion** 🌱: Mold and certain plants can accelerate the corrosion of equipment.
+2. **Damage Caused by Fauna** 🐭: Rodents and insects can gnaw on cables, leading to short circuits and failures.
+
+   :::warning Prevention Measures for Flora and Fauna  
+   - Use cables protected by rodent-resistant sheaths in high-risk areas.
+   - In humid environments (AK2), prioritize corrosion-treated equipment.  
+   :::
+
+---
+
+### Section 2.10.9. Electromagnetic, Electrostatic, or Ionizing Influences (AM)
+
+**Electromagnetic, electrostatic, or ionizing influences** can significantly affect electrical installations. They are classified under the code AM (AM1 to AM6) to indicate their level of impact on the installations.
 
 | Code | Influence                                          | Description                                                   |
-|------|---------------------------------------------------|---------------------------------------------------------------|
-| AM1  | Absence d’effets nuisibles                        | Aucun effet nuisible lié aux courants vagabonds ou radiations. |
-| AM2  | Présence nuisible de courants vagabonds           | Courants parasites pouvant causer des dommages.              |
-| AM3  | Radiations électromagnétiques nuisibles           | Impact des ondes électromagnétiques sur les équipements sensibles. |
-| AM4  | Rayonnements ionisants                            | Présence de rayonnements pouvant altérer les composants électriques. |
-| AM5  | Charges électrostatiques nuisibles                | Risques dus à l'accumulation de charges statiques.           |
-| AM6  | Courants induits nuisibles                        | Problèmes causés par les courants induits.                   |
+|------|----------------------------------------------------|---------------------------------------------------------------|
+| AM1  | No harmful effects                                 | No detrimental effects from stray currents or radiation.      |
+| AM2  | Harmful stray currents                             | Parasite currents that may cause damage.                      |
+| AM3  | Harmful electromagnetic radiation                  | Impact of electromagnetic waves on sensitive equipment.       |
+| AM4  | Ionizing radiation                                 | Presence of radiation that may alter electrical components.   |
+| AM5  | Harmful electrostatic charges                      | Risks from the accumulation of static charges.                |
+| AM6  | Harmful induced currents                           | Problems caused by induced currents.                          |
 
-#### Risques associés et mesures de prévention
+#### Associated Risks and Preventive Measures
 
-1. **Interférences électromagnétiques** 📡 : Les installations sensibles, comme les équipements médicaux, peuvent être perturbées par les champs électromagnétiques.
-2. **Charges électrostatiques** ⚡ : En présence de charges statiques, des décharges involontaires peuvent endommager les circuits électroniques.
+1. **Electromagnetic Interference** 📡: Sensitive installations, such as medical equipment, can be disturbed by electromagnetic fields.
+2. **Electrostatic Charges** ⚡: In the presence of static charges, unintentional discharges can damage electronic circuits.
 
-   :::tip Conseils pour la protection électromagnétique  
-   - Utilisez des câbles blindés pour réduire les interférences électromagnétiques (surtout dans les environnements AM3).
-   - Installez des déchargeurs électrostatiques dans les zones AM5 pour éviter les accumulations de charges.  
+   :::tip Tips for Electromagnetic Protection  
+   - Use shielded cables to reduce electromagnetic interference (especially in AM3 environments).
+   - Install electrostatic discharge devices in AM5 zones to prevent charge buildup.  
    :::
 
-3. **Courants vagabonds et courants induits** 🔋 : Ces courants peuvent causer des dégâts aux installations métalliques non protégées, augmentant le risque de corrosion et d'usure.
+3. **Stray Currents and Induced Currents** 🔋: These currents can damage unprotected metal installations, increasing the risk of corrosion and wear.
 
-   :::danger Alerte !  
-   Dans les environnements exposés aux courants vagabonds (AM2) ou aux courants induits (AM6), assurez-vous que les structures métalliques sont correctement isolées et protégées contre la corrosion.  
+   :::danger Warning!  
+   In environments exposed to stray currents (AM2) or induced currents (AM6), ensure that metal structures are properly insulated and protected against corrosion.  
    :::
 
+## CHAPTER 2.10. EXTERNAL INFLUENCES
 
-## CHAPITRE 2.10. INFLUENCES EXTERNES
-
-Les influences externes couvrent divers facteurs environnementaux et structurels qui peuvent affecter la sécurité et la durabilité des installations électriques. Analyser et comprendre ces influences est essentiel pour garantir la conformité, la sécurité, et l'efficacité des systèmes électriques.
+External influences encompass various environmental and structural factors that can impact the safety and durability of electrical installations. Analyzing and understanding these influences is essential to ensure compliance, safety, and efficiency of electrical systems.
 
 ---
 
-### Section 2.10.10. Rayonnements solaires (AN)
+### Section 2.10.10. Solar Radiation (AN)
 
-Les **rayonnements solaires** peuvent altérer les installations électriques, surtout lorsqu'elles sont exposées à une forte intensité ou sur une longue durée.
+**Solar radiation** can alter electrical installations, particularly when exposed to high intensity or prolonged duration.
 
-| Code | Rayonnements solaires                      | Conditions                                   |
-|------|--------------------------------------------|---------------------------------------------|
-| AN1  | Négligeables                               | Pas d'effet significatif sur les installations. |
-| AN2  | Nuisibles                                  | Rayonnement intense pouvant dégrader les équipements. |
+| Code | Solar Radiation                         | Conditions                                    |
+|------|-----------------------------------------|----------------------------------------------|
+| AN1  | Negligible                              | No significant effect on installations.       |
+| AN2  | Harmful                                 | Intense radiation that can degrade equipment. |
 
-#### Risques associés aux rayonnements solaires
+#### Risks Associated with Solar Radiation
 
-1. **Échauffement des composants** 🔥 : Les rayonnements solaires peuvent entraîner une surchauffe des équipements exposés, affectant leur performance et leur durée de vie.
-2. **Détérioration des matériaux** 🌞 : L'exposition prolongée aux UV peut provoquer le vieillissement prématuré des gaines et boîtiers.
+1. **Component Overheating** 🔥: Solar radiation can cause overheating of exposed equipment, affecting performance and lifespan.
+2. **Material Degradation** 🌞: Prolonged UV exposure can lead to premature aging of sheaths and enclosures.
 
-   :::warning Précautions pour les installations en extérieur  
-   - Utilisez des équipements avec des protections UV pour les installations exposées au soleil.
-   - Installez des dispositifs de ventilation ou d'ombrage pour limiter l'échauffement.  
+   :::warning Precautions for Outdoor Installations  
+   - Use UV-protected equipment for installations exposed to sunlight.
+   - Install ventilation or shading devices to limit overheating.  
    :::
 
-#### Conseils pour la prévention
+#### Prevention Tips
 
-- **Choisir des matériaux résistants aux UV** : Privilégiez des gaines et boîtiers traités contre les UV pour une meilleure longévité.
-- **Installer des abris ou protections** : Pour les installations fixes en extérieur, utilisez des auvents ou des protections pour limiter l'exposition directe au soleil.
+- **Choose UV-resistant Materials**: Opt for sheaths and enclosures treated against UV exposure for better longevity.
+- **Install Shelters or Protections**: For fixed outdoor installations, use awnings or protective covers to limit direct sun exposure.
 
-**Tableau 2.14. Influences externes – Rayonnements solaires (AN)** disponible en page 33 du RGIE.
+**Table 2.14. External Influences – Solar Radiation (AN)** is available on page 33 of the Belgian Electrical Regulations.
 
 ---
 
-### Section 2.10.11. Compétence des personnes (BA)
+### Section 2.10.11. Competence of Individuals (BA)
 
-La **compétence des personnes** manipulant ou intervenant sur les installations électriques est un facteur crucial de sécurité. Cette classification permet d'adapter les équipements et procédures en fonction des capacités des individus.
+The **competence of individuals** handling or working on electrical installations is a crucial safety factor. This classification allows for adapting equipment and procedures according to the abilities of the individuals involved.
 
-| Code | Compétence des personnes                      | Conditions                                   |
-|------|----------------------------------------------|---------------------------------------------|
-| BA1  | Ordinaires                                   | Personnes sans formation spécifique. |
-| BA2  | Enfants                                      | Enfants dans des locaux qui leur sont destinés. |
-| BA3  | Handicapés                                   | Personnes présentant des limitations physiques ou mentales. |
-| BA4  | Averties                                     | Personnes informées des risques. |
-| BA5  | Qualifiées                                   | Professionnels formés et compétents en matière de sécurité électrique. |
+| Code | Competence of Individuals                  | Conditions                                   |
+|------|-------------------------------------------|---------------------------------------------|
+| BA1  | Ordinary                                  | Individuals without specific training.      |
+| BA2  | Children                                  | Children in areas designed for their access.|
+| BA3  | Disabled                                  | Individuals with physical or mental limitations. |
+| BA4  | Informed                                  | Individuals aware of the risks.             |
+| BA5  | Qualified                                 | Professionals trained and skilled in electrical safety. |
 
-#### Mesures de sécurité
+#### Safety Measures
 
-1. **Formations pour le personnel qualifié** 🎓 : Les personnes travaillant dans des environnements électriques doivent être formées pour comprendre les risques et manipuler les équipements de manière sécurisée.
-   
-   :::tip Bon à savoir  
-   La formation continue et la sensibilisation aux risques électriques sont essentielles pour les personnes averties (BA4) et qualifiées (BA5) afin de minimiser les accidents.  
+1. **Training for Qualified Personnel** 🎓: Individuals working in electrical environments must be trained to understand the risks and handle equipment safely.
+
+   :::tip Good to Know  
+   Continuous training and awareness of electrical hazards are essential for informed (BA4) and qualified (BA5) individuals to minimize accidents.  
    :::
 
-2. **Adaptation des installations pour les enfants et handicapés** 👶♿ : Dans les locaux où des enfants ou des personnes handicapées peuvent accéder aux installations, des dispositifs de protection supplémentaires sont nécessaires (ex. : prises sécurisées, boîtiers verrouillés).
+2. **Adaptations for Children and Disabled Individuals** 👶♿: In locations accessible to children or disabled persons, additional protective devices are necessary (e.g., secure outlets, locked enclosures).
 
-**Tableau 2.15. Influences externes – Compétence des personnes (BA)** en page 34 du RGIE.
+**Table 2.15. External Influences – Competence of Individuals (BA)** is found on page 34 of the Belgian Electrical Regulations.
 
 ---
 
-### Section 2.10.12. État du corps humain (BB)
+### Section 2.10.12. Human Body Condition (BB)
 
-L'**état du corps humain**, en particulier l'humidité de la peau, influence le risque de choc électrique. Ce facteur est crucial pour les installations où les personnes sont en contact direct ou indirect avec des équipements sous tension.
+The **condition of the human body**, particularly skin moisture, influences the risk of electric shock. This factor is crucial for installations where individuals may have direct or indirect contact with live equipment.
 
-| Code | État du corps humain                    | Conditions                                           |
-|------|-----------------------------------------|-----------------------------------------------------|
-| BB1  | Peau sèche ou humide par sueur          | Conditions normales, humidité minimale. |
-| BB2  | Peau mouillée                            | Humidité accrue due aux conditions ambiantes. |
-| BB3  | Peau immergée dans l’eau                 | Contact prolongé avec l'eau, augmentant le risque. |
+| Code | Human Body Condition                  | Conditions                                           |
+|------|--------------------------------------|-----------------------------------------------------|
+| BB1  | Dry skin or minimal sweat moisture    | Normal conditions, minimal humidity.                |
+| BB2  | Wet skin                              | Increased moisture due to environmental conditions. |
+| BB3  | Skin immersed in water                | Prolonged contact with water, increasing the risk.  |
 
-#### Précautions en fonction de l'état de la peau
+#### Precautions Based on Skin Condition
 
-1. **Chocs électriques amplifiés par l'humidité** 💦 : L'eau augmente la conductivité de la peau, rendant les chocs plus probables et plus dangereux.
-   
-   :::warning Mesures de sécurité  
-   - Dans les environnements humides (BB2), privilégiez des dispositifs avec protection accrue (IP) pour éviter tout contact avec des parties sous tension.  
+1. **Enhanced Risk of Electric Shock Due to Moisture** 💦: Water increases the conductivity of the skin, making electric shocks more likely and dangerous.
+
+   :::warning Safety Measures  
+   - In humid environments (BB2), use devices with increased protection (IP-rated) to avoid contact with live parts.  
    :::
 
-2. **Risques en cas d'immersion** 🛀 : Les installations dans des environnements où l'immersion est possible (BB3) nécessitent une isolation renforcée et des dispositifs à très basse tension de sécurité (TBTS).
+2. **Risks of Immersion** 🛀: Installations in environments where immersion is possible (BB3) require reinforced insulation and extra-low voltage safety devices (ELV).
 
-**Tableau 2.16. Influences externes – État du corps humain (BB)** en page 34 du RGIE.
+**Table 2.16. External Influences – Human Body Condition (BB)** is located on page 34 of the Belgian Electrical Regulations.
 
 ---
 
-### Section 2.10.13. Contact des personnes avec le potentiel de terre (BC)
+### Section 2.10.13. Contact with Earth Potential (BC)
 
-Le **contact avec le potentiel de terre** augmente le risque de choc électrique. Ce code permet de mesurer la fréquence du contact entre les personnes et les éléments conducteurs reliés à la terre.
+**Contact with earth potential** increases the risk of electric shock. This code measures the frequency of contact between individuals and conductive elements connected to the ground.
 
-| Code | Contact potentiel de terre                 | Conditions                                                    |
-|------|-------------------------------------------|--------------------------------------------------------------|
-| BC1  | Nuls                                      | Pas de contact avec des éléments conducteurs. |
-| BC2  | Faibles                                   | Contact occasionnel avec des éléments conducteurs. |
-| BC3  | Fréquents                                 | Contact fréquent avec des éléments conducteurs. |
-| BC4  | Continus                                  | Contact permanent avec des éléments conducteurs. |
+| Code | Earth Potential Contact                | Conditions                                                    |
+|------|----------------------------------------|--------------------------------------------------------------|
+| BC1  | None                                   | No contact with conductive elements.                         |
+| BC2  | Low                                    | Occasional contact with conductive elements.                 |
+| BC3  | Frequent                               | Frequent contact with conductive elements.                   |
+| BC4  | Continuous                             | Permanent contact with conductive elements.                  |
 
-#### Mesures de protection
+#### Protection Measures
 
-1. **Installation de dispositifs de coupure rapide** ⚡ : Dans les environnements avec contact fréquent ou continu (BC3 et BC4), les disjoncteurs différentiels sont essentiels pour interrompre le circuit en cas de fuite de courant.
-   
-   :::tip Astuce pour réduire les risques  
-   - Utilisez des matériaux isolants autour des zones de contact fréquent avec le potentiel de terre.  
+1. **Installation of Rapid Shutdown Devices** ⚡: In environments with frequent or continuous contact (BC3 and BC4), differential circuit breakers are essential to interrupt the circuit in case of current leakage.
+
+   :::tip Risk Reduction Advice  
+   - Use insulating materials around areas with frequent contact with earth potential.  
    :::
 
-2. **Marquage et signalisation** 🚧 : Dans les environnements industriels, signalez les zones à haut risque de contact avec des éléments conducteurs.
+2. **Marking and Signage** 🚧: In industrial environments, clearly indicate high-risk areas with conductive elements.
 
-**Tableau 2.17. Influences externes – Contact potentiel de terre (BC)** en page 34 du RGIE.
+**Table 2.17. External Influences – Earth Potential Contact (BC)** is found on page 34 of the Belgian Electrical Regulations.
 
 ---
 
-### Section 2.10.14. Possibilités d’évacuation des personnes en cas d'urgence (BD)
+### Section 2.10.14. Evacuation Possibilities in Emergency Situations (BD)
 
-Les **possibilités d'évacuation** sont un élément clé pour garantir la sécurité des occupants en cas d'incident électrique. Ce code (BD1 à BD4) prend en compte la densité d'occupation et la facilité d'évacuation.
+**Evacuation possibilities** are a key factor in ensuring occupant safety in case of electrical incidents. This code (BD1 to BD4) considers occupancy density and ease of evacuation.
 
-| Code | Possibilités d’évacuation       | Densité d’occupation | Conditions d’évacuation             | Exemples                                        |
-|------|---------------------------------|-----------------------|-------------------------------------|-------------------------------------------------|
-| BD1  | Normale                         | Faible                | Faciles                             | Bâtiments résidentiels bas (&lt; 25 m).         |
-| BD2  | Longue                          | Faible                | Difficiles                          | Bâtiments élevés (&ge; 25 m).                   |
-| BD3  | Encombrée                       | Importante            | Faciles                             | Établissements recevant du public.              |
-| BD4  | Longue et encombrée             | Importante            | Difficiles                          | Bâtiments élevés recevant du public.            |
+| Code | Evacuation Possibilities            | Occupancy Density   | Evacuation Conditions             | Examples                                        |
+|------|-------------------------------------|---------------------|-----------------------------------|-------------------------------------------------|
+| BD1  | Normal                              | Low                 | Easy                               | Low-rise residential buildings (&lt; 25 m).     |
+| BD2  | Long                                | Low                 | Difficult                          | High-rise buildings (&ge; 25 m).                |
+| BD3  | Crowded                             | High                | Easy                               | Public venues.                                  |
+| BD4  | Long and Crowded                    | High                | Difficult                          | High-rise public buildings.                     |
 
-#### Mesures pour des évacuations sécurisées
+#### Measures for Safe Evacuations
 
-1. **Plan d'évacuation** 📝 : Un plan clair et des issues de secours facilement accessibles sont essentiels dans les bâtiments à forte densité d'occupation (BD3 et BD4).
+1. **Evacuation Plan** 📝: A clear plan and easily accessible emergency exits are essential in high-occupancy buildings (BD3 and BD4).
 
-   :::warning Important !  
-   Vérifiez que les issues de secours sont dégagées et accessibles en permanence.  
+   :::warning Important!  
+   Ensure emergency exits are unobstructed and accessible at all times.  
    :::
 
-2. **Éclairage de sécurité et signalisation** 🚨 : Les installations d'éclairage de secours sont nécessaires dans les lieux à risque pour faciliter une évacuation rapide et en toute sécurité.
+2. **Emergency Lighting and Signage** 🚨: Emergency lighting systems are required in high-risk areas to facilitate quick and safe evacuation.
 
-**Tableau 2.18. Influences externes – Possibilités d’évacuation (BD)** en page 35 du RGIE.
+**Table 2.18. External Influences – Evacuation Possibilities (BD)** is available on page 35 of the Belgian Electrical Regulations.
 
 ---
 
-### Section 2.10.15. Nature des matières traitées ou entreposées (BE)
+### Section 2.10.15. Nature of Processed or Stored Materials (BE)
 
-La **nature des matières** manipulées dans les installations peut introduire des risques spécifiques (incendie, explosion, contamination). Le code BE permet de classifier ces risques.
+The **nature of materials** handled in installations can introduce specific risks (fire, explosion, contamination). The BE code classifies these risks.
 
-| Code | Nature des matières traitées       | Conditions                                          | Exemples                               |
+| Code | Nature of Processed Materials       | Conditions                                          | Examples                               |
 |------|------------------------------------|-----------------------------------------------------|----------------------------------------|
-| BE1  | Risques négligeables               | Pas de matières dangereuses.                        | Usage domestique.                      |
-| BE2  | Risques d’incendie                 | Stockage de matières combustibles.                  | Granges, ateliers de menuiserie.       |
-| BE3  | Risques d’explosion                | Matières explosives ou inflammables.                | Raffineries, dépôts de carburants.     |
-| BE4  | Risques de contamination           | Aliments ou produits pharmaceutiques non protégés. | Industries alimentaires, laboratoires. |
+| BE1  | Negligible risks                   | No hazardous materials.                             | Domestic use.                          |
+| BE2  | Fire risks                         | Storage of combustible materials.                   | Barns, woodworking shops.              |
+| BE3  | Explosion risks                    | Explosive or flammable materials.                   | Refineries, fuel depots.               |
+| BE4  | Contamination risks                | Unprotected food or pharmaceutical products.        | Food industries, laboratories.         |
 
-#### Mesures de sécurité en fonction des matières entreposées
+#### Safety Measures Based on Stored Materials
 
-1. **Systèmes anti-explosion** 💥 : Dans les zones BE3, les installations électriques doivent être anti-déflagrantes pour éviter les risques d'explosion.
+1. **Explosion-Proof Systems** 💥: In BE3 zones, electrical installations must be explosion-proof to prevent explosion risks.
 
-   :::tip Astuce pour les environnements sensibles  
-   Choisissez des matériaux et dispositifs adaptés aux zones à risque d'incendie ou d'explosion.  
+   :::tip Tip for Sensitive Environments  
+   Choose materials and devices suited for fire or explosion risk areas.  
    :::
 
-2. **Contrôles de température** 🌡️ : Dans les zones BE2 et BE3, installez des détecteurs de chaleur pour prévenir les départs de feu.
+2. **Temperature Controls** 🌡️: In BE2 and BE3 zones, install heat detectors to prevent fire outbreaks.
 
-**Tableau 2.19. Influences externes – Nature des matières (BE)** en page 35 du RGIE.
+**Table 2.19. External Influences – Nature of Materials (BE)** is available on page 35 of the Belgian Electrical Regulations.
 
 ---
 
-### Section 2.10.16. Matériaux de construction (CA)
+### Section 2.10.16. Building Materials (CA)
 
-Les **matériaux de construction** influencent la sécurité électrique, surtout en cas d'incendie.
+**Building materials** influence electrical safety, especially in case of fire.
 
-| Code | Matériaux de construction         | Conditions                                  | Exemples                                  |
-|------|-----------------------------------|---------------------------------------------|-------------------------------------------|
-| CA1  | Matériaux non combustibles        | Risques réduits d'incendie.                 | Bâtiments en béton, acier.                |
-| CA2  | Matériaux combustibles            | Risques accrus d'incendie.                  | Bâtiments en bois.                        |
+| Code | Building Materials               | Conditions                                  | Examples                                  |
+|------|----------------------------------|---------------------------------------------|-------------------------------------------|
+| CA1  | Non-combustible materials        | Reduced fire risks.                         | Concrete, steel buildings.                |
+| CA2  | Combustible materials            | Increased fire risks.                       | Wooden buildings.                         |
 
-#### Mesures en fonction des matériaux de construction
+#### Safety Measures Based on Building Materials
 
-1. **Dispositifs anti-incendie** 🔥 : Dans les constructions en matériaux combustibles (CA2), prévoyez des dispositifs de détection et de lutte contre l'incendie adaptés.
+1. **Fire Safety Devices** 🔥: In buildings made with combustible materials (CA2), plan for suitable fire detection and suppression systems.
 
-   :::warning Important !  
-   Les matériaux combustibles nécessitent une vigilance accrue et des équipements de sécurité adaptés.  
+   :::warning Important!  
+   Combustible materials require heightened vigilance and appropriate safety equipment.  
    :::
 
-**Tableau 2.20. Influences externes – Matériaux de construction (CA)** en page 35 du RGIE.
+**Table 2.20. External Influences – Building Materials (CA)** is found on page 35 of the Belgian Electrical Regulations.
 
 ---
 
-### Section 2.10.17. Structure des bâtiments (CB)
+### Section 2.10.17. Building Structure (CB)
 
-La **structure des bâtiments** peut influencer la propagation du feu ou être sujette à des mouvements.
+The **building structure** can influence fire spread or be subject to movement.
 
-| Code | Structure des bâtiments                | Conditions                                       | Exemples                                    |
-|------|----------------------------------------|--------------------------------------------------|---------------------------------------------|
-| CB1  | Risques négligeables                   | Constructions classiques et stables.             | Bâtiments standard.                         |
-| CB2  | Propagation d’incendie                 | Facilite la propagation du feu.                  | Bâtiments élevés.                           |
-| CB3  | Mouvements                             | Risques dus à des mouvements de structure.       | Bâtiments de grande longueur.               |
-| CB4  | Flexibles ou instables                 | Constructions fragiles ou temporaires.           | Tentes, structures gonflables.              |
+| Code | Building Structure                   | Conditions                                       | Examples                                    |
+|------|--------------------------------------|--------------------------------------------------|---------------------------------------------|
+| CB1  | Negligible risks                     | Standard and stable constructions.               | Standard buildings.                         |
+| CB2  | Fire spread                          | Facilitates the spread of fire.                  | High-rise buildings.                        |
+| CB3  | Movement                             | Risks due to structural movement.                | Long-span buildings.                        |
+| CB4  | Flexible or unstable                 | Fragile or temporary constructions.              | Tents, inflatable structures.               |
 
-#### Précautions en fonction de la structure des bâtiments
+#### Precautions Based on Building Structure
 
-1. **Dispositifs de sécurité supplémentaires** 🧯 : Dans les structures soumises à des mouvements (CB3) ou inflammables (CB2), il est crucial d'installer des dispositifs de détection et de lutte contre l'incendie.
+1. **Additional Safety Devices** 🧯: In structures prone to movement (CB3) or fire spread (CB2), it is crucial to install detection and fire suppression systems.
 
-2. **Adaptation des installations** 🏗️ : Les structures flexibles ou temporaires (CB4) nécessitent des installations sécurisées, conçues pour résister aux vibrations et mouvements.
+2. **Adapting Installations** 🏗️: Flexible or temporary structures (CB4) require secure installations designed to withstand vibrations and movement.
 
-**Tableau 2.21. Influences externes – Structure des bâtiments (CB)** en page 35 du RGIE.
+**Table 2.21. External Influences – Building Structure (CB)** is located on page 35 of the Belgian Electrical Regulations.
 
-## CHAPITRE 2.11. TRAVAUX ET VÉRIFICATION
+## CHAPTER 2.11. WORK AND INSPECTION
 
-Les travaux et vérifications sont des éléments essentiels pour assurer la sécurité et la conformité des installations électriques. Ce chapitre couvre les différents types de travaux, les précautions de sécurité à prendre, ainsi que les procédures de vérification nécessaires pour maintenir des installations sûres et conformes.
-
----
-
-### Section 2.11.1. Travaux aux installations électriques
-
-Les travaux liés aux installations électriques se divisent en plusieurs catégories, chacune nécessitant des mesures de sécurité spécifiques pour garantir la protection des intervenants et la sécurité de l'installation.
+Work and inspections are essential elements to ensure the safety and compliance of electrical installations. This chapter covers different types of work, safety precautions, and necessary inspection procedures to maintain safe and compliant installations.
 
 ---
 
-#### Types de travaux
+### Section 2.11.1. Electrical Installation Work
 
-| Type de travail                      | Description                                                                                                   | Exemples d'intervention                      |
-|--------------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| **Travaux électriques**              | Interventions directes sur une installation électrique.                                                       | Réparations, entretien, modifications.       |
-| **Travaux non électriques**          | Travaux réalisés à proximité d'une installation électrique sans y toucher directement.                        | Peinture, élagage, construction.             |
-| **Travaux d’exploitation**           | Opérations de contrôle, de commande ou de manœuvre d’installations électriques.                               | Mise en marche/arrêt d’équipements.          |
-| **Travaux de manœuvre et de commande** | Changement de l'état électrique d'une installation.                                                          | Connecter ou déconnecter un appareil.        |
-| **Travaux de contrôle**              | Vérifications de l'état de l'installation.                                                                    | Contrôle visuel, tests, mesures.             |
-| **Travaux sous tension**             | Interventions en contact direct avec des parties sous tension.                                                | Réparations d’urgence sur un réseau actif.   |
-| **Travaux au voisinage de pièces sous tension** | Interventions proches de parties conductrices sous tension, sans contact direct.                             | Entretien de proximité des câbles sous tension. |
-| **Travaux hors tension**             | Interventions sur des installations éteintes, avec toutes les précautions de sécurité en place.               | Maintenance générale.                        |
+Work related to electrical installations is divided into several categories, each requiring specific safety measures to ensure the protection of workers and the safety of the installation.
 
 ---
 
-#### Zones de travail et de sécurité
+#### Types of Work
 
-Les travaux électriques nécessitent une compréhension claire des zones de sécurité autour des installations. Ces zones, illustrées dans les **figures 2.21 à 2.23**, incluent :
-
-- **Zone sous tension** ⚡ : Espace autour des parties actives nues sous tension. Elle nécessite une vigilance accrue et des équipements de protection.
-- **Zone de voisinage** 🛑 : Zone entourant la zone sous tension, où les risques de choc sont réduits, mais une prudence reste nécessaire.
-- **Zone de travail** 🔧 : Zone où les travaux sont réalisés. Cette zone doit être balisée et sécurisée pour éviter toute intrusion accidentelle.
-
-**Tableau des distances de sécurité (Tableau 2.22)** :
-Les valeurs des distances de sécurité DL et DV sont spécifiées pour chaque tension nominale du réseau. Il est essentiel de respecter ces distances pour protéger les intervenants des risques d'arc électrique et de contact involontaire.
-
----
-
-#### Conseils pour assurer la sécurité
-
-1. **Désignation des rôles** 🎓 :
-   - **Chargé des travaux** : Responsable de la direction des travaux. Assure que les procédures sont respectées.
-   - **Chargé de l’installation** : Responsable de la sécurité de l'installation. Peut déléguer certaines tâches, mais garde la supervision générale.
-
-2. **Baliser les zones** 🚧 :
-   - Installez des barrières et des signalétiques claires autour des zones sous tension et de voisinage pour éviter les intrusions accidentelles.
-
-3. **Utiliser des équipements de protection** 🧤 :
-   - Portez des équipements isolants (gants, chaussures) et utilisez des outils adaptés aux travaux sous tension.
-
-4. **Vérifier les distances de sécurité** 📏 :
-   - Respectez les distances DL et DV pour limiter les risques de choc et d'arc électrique.
-
-**Figures 2.21 à 2.23** : Illustrations des zones de sécurité avec des dispositifs protecteurs isolants et métalliques mis à la terre.
+| Type of Work                           | Description                                                                                                   | Examples of Intervention                      |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| **Electrical Work**                    | Direct interventions on an electrical installation.                                                           | Repairs, maintenance, modifications.          |
+| **Non-Electrical Work**                | Work carried out near an electrical installation without directly interacting with it.                        | Painting, tree trimming, construction.        |
+| **Operational Work**                   | Control, command, or operation of electrical installations.                                                   | Start/stop of equipment.                      |
+| **Switching and Control Work**         | Changing the electrical state of an installation.                                                             | Connecting or disconnecting a device.         |
+| **Inspection Work**                    | Verification of the installation's condition.                                                                 | Visual checks, testing, measurements.         |
+| **Live Work**                          | Interventions involving direct contact with live parts.                                                       | Emergency repairs on an active network.       |
+| **Proximity Work Near Live Parts**     | Interventions close to live conductors without direct contact.                                                | Maintenance near live cables.                 |
+| **Dead Work**                          | Interventions on de-energized installations, with all safety precautions in place.                            | General maintenance.                          |
 
 ---
 
-### Section 2.11.2. Vérification des installations électriques
+#### Work Zones and Safety
 
-La vérification régulière des installations électriques est essentielle pour assurer la conformité aux normes de sécurité. Une vérification approfondie permet de détecter les défauts potentiels, d’évaluer la conformité et de prévenir les risques d'accident.
+Electrical work requires a clear understanding of safety zones around installations. These zones, illustrated in **Figures 2.21 to 2.23**, include:
+
+- **Live Zone** ⚡: Area surrounding exposed live parts. It requires heightened vigilance and protective equipment.
+- **Proximity Zone** 🛑: Area around the live zone, where shock risks are reduced but caution is still necessary.
+- **Work Zone** 🔧: Area where the work is performed. This zone must be marked and secured to prevent accidental intrusions.
+
+**Safety Distance Table (Table 2.22)**:
+The safety distances DL and DV are specified for each nominal network voltage. It is essential to respect these distances to protect workers from electric arc risks and unintentional contact.
 
 ---
 
-#### Processus de vérification et terminologie clé
+#### Safety Tips
 
-| Terme                            | Description                                                                                                       |
+1. **Assign Roles** 🎓:
+   - **Work Supervisor**: Responsible for directing the work. Ensures that procedures are followed.
+   - **Installation Supervisor**: Responsible for the safety of the installation. Can delegate tasks but maintains overall supervision.
+
+2. **Mark Off Work Zones** 🚧:
+   - Set up barriers and clear signage around live zones and proximity zones to prevent accidental intrusions.
+
+3. **Use Protective Equipment** 🧤:
+   - Wear insulating gear (gloves, footwear) and use tools designed for live electrical work.
+
+4. **Check Safety Distances** 📏:
+   - Respect DL and DV distances to minimize risks of electric shock and arc flash.
+
+**Figures 2.21 to 2.23**: Illustrations of safety zones with protective insulating and grounded metal devices.
+
+---
+
+### Section 2.11.2. Inspection of Electrical Installations
+
+Regular inspection of electrical installations is essential to ensure compliance with safety standards. Thorough verification helps detect potential defects, assess conformity, and prevent accidents.
+
+---
+
+#### Verification Process and Key Terminology
+
+| Term                             | Description                                                                                                       |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Organisme agréé**              | Organisme chargé d'effectuer les vérifications de conformité initiales et les contrôles périodiques. |
-| **Agent-visiteur**               | Personne habilitée par l’organisme agréé pour effectuer les inspections de conformité.                          |
-| **Contrôle de conformité avant mise en usage** | Vérification pour s'assurer que l'installation respecte les normes avant sa mise en service. |
-| **Visite de contrôle**           | Inspection régulière pour vérifier la conformité continue des installations.                                      |
-| **Mise en usage**                | Première utilisation de l'installation électrique après vérification.                                           |
-| **Modification importante**      | Modification ou extension ayant un impact significatif sur la sécurité (ex. : modification du schéma de mise à la terre). |
+| **Approved Organization**        | Entity responsible for conducting initial compliance checks and periodic inspections.                            |
+| **Inspector**                    | Authorized person from the approved organization who performs conformity inspections.                            |
+| **Pre-use Compliance Check**     | Verification to ensure the installation meets standards before being put into service.                            |
+| **Control Visit**                | Regular inspection to ensure continuous compliance of installations.                                              |
+| **Commissioning**                | First use of the electrical installation after verification.                                                      |
+| **Significant Modification**     | Change or extension with a major impact on safety (e.g., change in earthing scheme).                              |
 
 ---
 
-#### Étapes de vérification des installations
+#### Steps for Installation Verification
 
-1. **Contrôle initial de conformité** ✔️ :
-   - Avant la mise en service, un organisme agréé doit certifier que l'installation respecte toutes les normes de sécurité applicables. Ce contrôle couvre tous les aspects de l'installation, y compris les raccordements, les distances de sécurité, et l'intégrité des composants.
+1. **Initial Compliance Check** ✔️:
+   - Before commissioning, an approved organization must certify that the installation meets all applicable safety standards. This check covers all aspects of the installation, including connections, safety distances, and component integrity.
 
-2. **Contrôles périodiques** 🔄 :
-   - Des visites de contrôle régulières doivent être planifiées pour s'assurer que l'installation reste en conformité et pour identifier tout problème potentiel.
+2. **Periodic Inspections** 🔄:
+   - Schedule regular control visits to ensure the installation remains compliant and to identify potential issues.
 
-   :::tip Astuce
-   Prévoir une fréquence de vérification adaptée aux caractéristiques de l’installation et aux conditions d’utilisation (environ tous les 5 ans pour les installations domestiques).
+   :::tip Advice
+   Plan inspection frequency based on the installation characteristics and usage conditions (approximately every 5 years for domestic installations).
    :::
 
-3. **Contrôles après modifications** 🔧 :
-   - Si une installation subit une **modification importante ou une extension**, un contrôle de conformité doit être réalisé pour valider la sécurité de l’ensemble.
+3. **Inspections After Modifications** 🔧:
+   - If the installation undergoes a **significant modification or extension**, a compliance check is required to validate the safety of the entire system.
 
    :::warning Important
-   Toute modification importante, comme un changement dans le système de mise à la terre ou le remplacement d’un tableau de répartition, doit être signalée à l'organisme de vérification.
+   Any significant change, such as an alteration to the earthing system or replacement of a distribution board, must be reported to the inspection organization.
    :::
 
-#### Exemples de modifications nécessitant une vérification
+#### Examples of Modifications Requiring Verification
 
-- **Modification du schéma de mise à la terre** 🌍 : Changement dans la configuration du système de mise à la terre pour répondre à de nouvelles normes ou conditions.
-- **Augmentation de la puissance de court-circuit** ⚡ : Si la puissance de court-circuit admissible est dépassée, une vérification est obligatoire pour s'assurer de la sécurité.
-- **Remplacement d’un tableau de répartition** 🖥️ : Le remplacement d'un tableau électrique nécessite une vérification pour garantir que l'installation reste conforme aux normes.
+- **Change in Earthing Scheme** 🌍: Altering the configuration of the earthing system to meet new standards or conditions.
+- **Increase in Short-Circuit Power** ⚡: If the admissible short-circuit power is exceeded, a verification is mandatory to ensure safety.
+- **Replacement of a Distribution Board** 🖥️: Replacing a distribution board requires verification to ensure continued compliance with standards.
 
-**Tableau 2.22** : Valeurs des distances de sécurité DL et DV en fonction de la tension nominale du réseau.
-
----
-
-### Références aux figures et tableaux
-
-- **Figures 2.21 à 2.23** : Représentations des zones de travail, de voisinage et sous tension avec différents dispositifs protecteurs.
-- **Tableau 2.22** : Distances de sécurité pour différents niveaux de tension nominale.
-  
----
-
-## CHAPITRE 2.12. SCHÉMAS, PLANS ET DOCUMENTS DES INSTALLATIONS ÉLECTRIQUES
-
-La documentation des installations électriques est essentielle pour la **planification**, le **montage**, l’**entretien**, et la **sécurité** des systèmes. Les schémas, plans, et documents permettent aux professionnels de comprendre l'architecture de l'installation, de détecter rapidement les problèmes, et de garantir le respect des normes de sécurité.
+**Table 2.22**: Safety distances DL and DV values based on the nominal voltage of the network.
 
 ---
 
-### Terminologie clé
+### References to Figures and Tables
 
-Chaque type de document ou schéma a une fonction spécifique et indispensable pour une gestion complète des installations. Voici les principaux éléments à connaître :
+- **Figures 2.21 to 2.23**: Representations of work, proximity, and live zones with various protective devices.
+- **Table 2.22**: Safety distances for different nominal voltage levels.
 
 ---
 
-#### 1. **Schéma** 📊
+## CHAPTER 2.12. SCHEMATICS, PLANS, AND DOCUMENTS OF ELECTRICAL INSTALLATIONS
 
-- **Définition** : Représentation graphique des différentes parties de l’installation électrique et de leurs interconnexions.
-- **Utilité** : Permet aux électriciens et techniciens de comprendre comment les composants sont reliés les uns aux autres.
-  
+Documentation of electrical installations is essential for **planning**, **assembly**, **maintenance**, and **safety** of the systems. Schematics, plans, and documents help professionals understand the installation architecture, quickly detect issues, and ensure compliance with safety standards.
+
+---
+
+### Key Terminology
+
+Each type of document or schematic serves a specific purpose essential for comprehensive management of installations. Here are the main elements to know:
+
+---
+
+#### 1. **Schematic** 📊
+
+- **Definition**: Graphical representation of the various parts of the electrical installation and their interconnections.
+- **Purpose**: Allows electricians and technicians to understand how the components are interconnected.
+
 ---
 
 #### 2. **Plan** 🗺️
 
-- **Définition** : Représentation à l'échelle de la disposition géographique des parties de l’installation.
-- **Utilité** : Précieux pour les interventions physiques, en indiquant où chaque élément se trouve dans le bâtiment.
-- **Astuce** : Conservez les plans à jour, surtout après toute modification ou extension de l'installation.
+- **Definition**: Scaled representation of the physical layout of installation components.
+- **Purpose**: Valuable for physical interventions, showing where each element is located in the building.
+- **Tip**: Keep plans up to date, especially after any modifications or extensions to the installation.
 
 ---
 
-#### 3. **Schéma fonctionnel** 🔄
+#### 3. **Functional Diagram** 🔄
 
-- **Définition** : Schéma qui illustre le fonctionnement global de l'installation.
-- **Utilité** : Permet de visualiser les flux d'énergie et le comportement de l'installation en situation normale.
-- **Exemple** : Un schéma fonctionnel d'un système de sécurité illustrera comment chaque composant s’active en cas d'alarme.
+- **Definition**: Diagram illustrating the overall operation of the installation.
+- **Purpose**: Helps visualize energy flows and the behavior of the system under normal conditions.
+- **Example**: A functional diagram of a security system will show how each component activates in case of an alarm.
 
 ---
 
-#### 4. **Schéma de circuits** 🔌
+#### 4. **Circuit Diagram** 🔌
 
-- **Définition** : Schéma représentant les circuits élémentaires et leur composition.
-- **Utilité** : Utile pour identifier rapidement les circuits spécifiques et pour les interventions ciblées.
-  
-  :::tip Conseil
-  Utilisez des couleurs pour différencier les circuits sur les schémas, facilitant ainsi leur repérage lors des interventions.
+- **Definition**: Diagram showing individual circuits and their components.
+- **Purpose**: Useful for quickly identifying specific circuits and for targeted interventions.
+
+  :::tip Advice
+  Use color coding to differentiate circuits on the diagrams, making it easier to identify during maintenance.
   :::
 
 ---
 
-#### 5. **Schéma d’exécution** ⚙️
+#### 5. **Wiring Diagram** ⚙️
 
-- **Définition** : Montre le montage et le raccordement des différentes parties de l’installation.
-- **Utilité** : Essentiel pour les électriciens en phase d’installation ou de maintenance.
-- **Exemple** : Un schéma d'exécution pour un tableau électrique montrera précisément où et comment connecter chaque composant.
+- **Definition**: Shows the assembly and connection of various parts of the installation.
+- **Purpose**: Essential for electricians during installation or maintenance.
+- **Example**: A wiring diagram for a distribution board will detail where and how to connect each component.
 
-  :::warning Attention
-  Assurez-vous de respecter les spécifications exactes du schéma d'exécution pour éviter toute erreur de raccordement.
+  :::warning Caution
+  Follow the exact specifications of the wiring diagram to avoid connection errors.
   :::
 
 ---
 
-#### 6. **Plan de position** 📍
+#### 6. **Position Plan** 📍
 
-- **Définition** : Indique la position des différentes parties de l'installation.
-- **Utilité** : Aide à localiser les éléments clés, comme les prises, les interrupteurs, ou les tableaux de distribution dans un bâtiment.
-- **Exemple** : Un plan de position pour un bâtiment d'entreprise montrera l'emplacement de chaque point d'alimentation.
+- **Definition**: Indicates the location of various parts of the installation.
+- **Purpose**: Helps locate key elements such as outlets, switches, or distribution boards within a building.
+- **Example**: A position plan for a commercial building will show the location of each power point.
 
 ---
 
-#### 7. **Document des influences externes** 🌦️
+#### 7. **External Influences Document** 🌦️
 
-- **Définition** : Document répertoriant les influences externes à prendre en compte (comme l'humidité, la poussière, les vibrations).
-- **Utilité** : Permet de prévoir des mesures de protection adaptées pour chaque composant.
-  
-  :::info Rappel
-  Les influences externes peuvent affecter la durabilité et la sécurité des installations. Consultez ce document lors de l'ajout de nouveaux équipements.
+- **Definition**: Document listing external influences to be considered (e.g., humidity, dust, vibrations).
+- **Purpose**: Helps plan suitable protective measures for each component.
+
+  :::info Reminder
+  External influences can affect the durability and safety of installations. Refer to this document when adding new equipment.
   :::
 
 ---
 
-#### 8. **Plan d’évacuation** 🚪
+#### 8. **Evacuation Plan** 🚪
 
-- **Définition** : Plan indiquant les voies d’évacuation et les sorties en cas d’urgence.
-- **Utilité** : Indispensable pour les interventions de secours et pour guider les occupants en cas de sinistre.
-  
-  :::danger Sécurité
-  Assurez-vous que les plans d'évacuation sont visibles et accessibles pour tous les occupants du bâtiment.
+- **Definition**: Plan indicating escape routes and exits in case of emergency.
+- **Purpose**: Essential for rescue operations and guiding occupants during an emergency.
+
+  :::danger Safety
+  Ensure that evacuation plans are visible and accessible to all building occupants.
   :::
 
 ---
 
-#### 9. **Liste des voies d’évacuation et des lieux à évacuation difficile** 🏢
+#### 9. **List of Evacuation Routes and Difficult-to-Evacuate Areas** 🏢
 
-- **Définition** : Répertoire des zones nécessitant des mesures particulières pour l’évacuation.
-- **Utilité** : Permet de planifier des actions spécifiques pour les zones où l’évacuation est complexe (ex. : sous-sols, étages élevés).
-- **Exemple** : Dans les hôpitaux, ces listes identifient les zones où les patients en mobilité réduite peuvent se trouver.
+- **Definition**: Directory of areas requiring special measures for evacuation.
+- **Purpose**: Helps plan specific actions for zones where evacuation is complex (e.g., basements, high floors).
+- **Example**: In hospitals, these lists identify areas where mobility-impaired patients may be located.
 
 ---
 
-#### 10. **Plan des installations de sécurité** 🛡️
+#### 10. **Safety Installation Plan** 🛡️
 
-- **Définition** : Schéma montrant la position des sources de sécurité, circuits de secours, et compartiments anti-incendie.
-- **Utilité** : Permet une intervention rapide pour assurer la continuité des services critiques en cas de sinistre.
+- **Definition**: Diagram showing the position of safety sources, emergency circuits, and fire compartments.
+- **Purpose**: Allows quick intervention to ensure continuity of critical services during an incident.
 
-  :::tip Astuce
-  Marquez clairement les circuits de sécurité sur le plan pour un accès immédiat en situation d'urgence.
+  :::tip Advice
+  Clearly mark safety circuits on the plan for immediate access in emergencies.
   :::
 
 ---
 
-#### 11. **Plan des canalisations souterraines (plan de câbles)** 🌍
+#### 11. **Underground Conduit Plan (Cable Plan)** 🌍
 
-- **Définition** : Plan indiquant la localisation des canalisations électriques enterrées.
-- **Utilité** : Prévient les risques de coupure accidentelle lors des travaux de terrassement ou de construction.
-- **Exemple** : Un plan des câbles pour un complexe industriel évite les coupures de courant involontaires lors de travaux de génie civil.
+- **Definition**: Plan indicating the location of buried electrical conduits.
+- **Purpose**: Prevents accidental cuts during excavation or construction work.
+- **Example**: A cable plan for an industrial complex helps avoid unintended power outages during civil works.
 
   :::warning Important
-  Les plans de câbles doivent être consultés avant tout travail de creusement pour éviter des accidents potentiellement mortels.
+  Cable plans must be consulted before any digging to prevent potentially fatal accidents.
   :::
 
 ---
 
-#### 12. **Plan des installations critiques** ⚠️
+#### 12. **Critical Installation Plan** ⚠️
 
-- **Définition** : Reprend les circuits critiques et les mesures à prendre en cas de perte de source d'alimentation.
-- **Utilité** : Guide les interventions d'urgence en cas de coupure pour les systèmes vitaux.
-- **Exemple** : Dans un hôpital, le plan des installations critiques inclut les équipements médicaux qui doivent être alimentés en tout temps.
+- **Definition**: Lists critical circuits and measures to take in case of power loss.
+- **Purpose**: Guides emergency interventions during power outages for vital systems.
+- **Example**: In a hospital, the critical installation plan includes medical equipment that must be powered at all times.
 
-  :::info Conseil
-  Assurez-vous que le personnel d’intervention connaît bien ce plan pour agir efficacement en cas de coupure.
+  :::info Advice
+  Ensure that emergency personnel are familiar with this plan to act effectively during power failures.
   :::
 
 ---
 
-#### 13. **Liste des installations de sécurité et/ou critiques** 📝
+#### 13. **List of Safety and/or Critical Installations** 📝
 
-- **Définition** : Répertoire des installations de sécurité et des installations critiques avec des informations sur leur autonomie et les mesures de sécurité.
-- **Utilité** : Permet une gestion et un suivi précis des équipements critiques.
-- **Exemple** : Liste indiquant le temps de maintien pour chaque système de sécurité d’un bâtiment.
-
----
-
-### Importance des schémas, plans et documents des installations électriques
-
-Les schémas, plans et documents sont des outils vitaux pour les **électriciens**, les **techniciens de maintenance**, et les **responsables de sécurité**. Ils permettent de :
-
-- **Prévenir les erreurs de manipulation** en offrant une vue claire et détaillée des installations.
-- **Faciliter les interventions d'urgence** en rendant les points critiques facilement accessibles.
-- **Assurer la conformité réglementaire** en documentant les éléments conformément aux normes.
-- **Améliorer la maintenance** grâce à des informations précises et accessibles sur la structure et les composants de l’installation.
-
-**Tableaux et figures de référence** : Les détails précis sur les schémas et documents requis pour chaque type d'installation sont présentés dans les tableaux et figures correspondants dans le **RGIE**, offrant un guide complet pour la documentation des installations électriques.
+- **Definition**: A directory of safety and critical installations with information on their autonomy and safety measures.
+- **Purpose**: Enables precise management and monitoring of critical equipment.
+- **Example**: A list indicating the backup time for each safety system in a building.
 
 ---
 
-## Chapitre 2.13. Symboles Graphiques
+### Importance of Schematics, Plans, and Documents for Electrical Installations
+
+Schematics, plans, and documents are vital tools for **electricians**, **maintenance technicians**, and **safety officers**. They provide:
+
+- **Error Prevention**: By offering a clear and detailed view of the installations.
+- **Facilitated Emergency Interventions**: By making critical points easily accessible.
+- **Regulatory Compliance**: By documenting elements in accordance with standards.
+- **Improved Maintenance**: Through precise and accessible information on the structure and components of the installation.
+
+**Reference Tables and Figures**: Detailed requirements for schematics and documents for each type of installation are presented in the relevant tables and figures within the **Belgian Electrical Regulations**, providing a comprehensive guide for electrical documentation.
+
+---
+
+## Chapter 2.13. Graphical Symbols
 
 ### Introduction
-Les **symboles graphiques** sont des outils visuels cruciaux pour représenter les éléments d’une installation électrique. Ils simplifient la lecture et la compréhension des **schémas unifilaires** et des **plans de position**, en standardisant l'information pour une interprétation précise et rapide. Les symboles respectent les normes **IEC** (International Electrotechnical Commission) et **BELEC** (Belgian Electrotechnical Commission), garantissant ainsi la conformité des installations aux standards internationaux et belges.
+**Graphical symbols** are essential visual tools for representing elements of an electrical installation. They simplify the reading and understanding of **single-line diagrams** and **position plans** by standardizing the information for accurate and quick interpretation. The symbols follow the standards of the **IEC** (International Electrotechnical Commission) and **BELEC** (Belgian Electrotechnical Commission), ensuring compliance with both international and Belgian standards.
 
 ---
 
-### Catégories de Symboles
+### Categories of Symbols
 
-Les symboles graphiques sont organisés en trois catégories principales, chacune représentant une partie essentielle de l’installation électrique. 
-
----
-
-#### A. Généralités 🔋
-Les symboles de cette catégorie identifient le type de courant et l'alimentation de l’installation.
-
-- **Courant continu (CC)** : 
-  - 📘 **Symbole** : Représente les circuits alimentés en courant continu.
-  - **Utilisation** : Souvent employé pour les panneaux solaires, les batteries, ou autres sources d’énergie en courant continu.
-  
-- **Courant alternatif (CA)** : 
-  - 📗 **Symbole** : Différents symboles pour les variantes monophasées et triphasées.
-  - **Utilisation** : Typiquement utilisé dans les réseaux domestiques et industriels pour l’alimentation des équipements courants.
+Graphical symbols are organized into three main categories, each representing a crucial part of the electrical installation.
 
 ---
 
-#### B. Appareillages Électriques ⚡
-Les symboles d'appareillages électriques sont essentiels pour la compréhension des éléments actifs de l’installation.
+#### A. General Symbols 🔋
+These symbols identify the type of current and the power supply of the installation.
 
-- **Tableau de répartition** :
-  - 📋 **Symbole** : Indique le point central de distribution de l'énergie électrique dans le bâtiment.
-  - **Utilisation** : Permet de visualiser la distribution de l’électricité vers différents circuits. Indispensable pour le contrôle et l’isolation des circuits en cas de maintenance ou de panne.
-  
-- **Boîte de connexion** :
-  - 🔌 **Symbole** : Représente les points où les connexions sont effectuées entre les circuits.
-  - **Utilisation** : Utilisée pour centraliser les connexions, facilitant ainsi le câblage et la maintenance des systèmes.
+- **Direct Current (DC)**:
+  - 📘 **Symbol**: Represents circuits powered by direct current.
+  - **Use**: Commonly used for solar panels, batteries, or other DC power sources.
 
----
-
-#### C. Canalisations Électriques 🛠️
-Les symboles relatifs aux canalisations électriques indiquent le mode de distribution de l'énergie, que ce soit en souterrain, en aérien, ou encastré.
-
-- **Canalisation électrique** :
-  - 📐 **Symbole** : Indique le type de câblage utilisé pour transporter l’électricité.
-  - **Exemples** : Souterrain pour les jardins, aérien pour les poteaux de rue, ou intégré dans des conduits dans les murs pour les installations intérieures.
-  
-- **Canalisation encastrée** :
-  - 🧱 **Symbole** : Utilisé pour les canalisations intégrées dans les murs ou sous le sol.
-  - **Utilisation** : Permet de sécuriser les câbles dans les zones de passage et de maintenir une esthétique propre.
+- **Alternating Current (AC)**:
+  - 📗 **Symbol**: Various symbols for single-phase and three-phase variants.
+  - **Use**: Typically used in domestic and industrial networks for powering common equipment.
 
 ---
 
-### Utilisation des Symboles
+#### B. Electrical Equipment Symbols ⚡
+Symbols for electrical equipment are crucial for understanding active components of the installation.
 
-Chaque symbole est conçu pour **faciliter la communication** entre les professionnels de l’électricité et les clients. Par exemple, le symbole d’un **tableau de répartition** indique clairement comment et où l'électricité est acheminée dans les différentes zones du bâtiment. En outre, les symboles sont essentiels pour la **conception des schémas et plans** de l'installation, garantissant une lecture universelle.
+- **Distribution Board**:
+  - 📋 **Symbol**: Indicates the central point for distributing electrical power within the building.
+  - **Use**: Visualizes the distribution of electricity to various circuits. Essential for controlling and isolating circuits during maintenance or outages.
 
-  :::info Info - Importance des Symboles 📘
-  Les symboles graphiques permettent une représentation universelle des installations électriques, facilitant ainsi les interventions de maintenance et les diagnostics, même pour les intervenants non familiers avec l'installation.
+- **Junction Box**:
+  - 🔌 **Symbol**: Represents connection points between circuits.
+  - **Use**: Used for centralizing connections, making wiring and system maintenance easier.
+
+---
+
+#### C. Electrical Conduits Symbols 🛠️
+Symbols related to electrical conduits indicate the mode of power distribution, whether underground, overhead, or embedded.
+
+- **Electrical Conduit**:
+  - 📐 **Symbol**: Indicates the type of wiring used for electrical transmission.
+  - **Examples**: Underground for gardens, overhead for street poles, or integrated into wall conduits for indoor installations.
+
+- **Embedded Conduit**:
+  - 🧱 **Symbol**: Used for conduits integrated into walls or under floors.
+  - **Use**: Protects cables in high-traffic areas and maintains a clean aesthetic.
+
+---
+
+### Use of Symbols
+
+Each symbol is designed to **facilitate communication** between electrical professionals and clients. For instance, a **distribution board symbol** clearly indicates how and where electricity is routed within different areas of a building. Moreover, symbols are critical for the **design of schematics and installation plans**, ensuring universal readability.
+
+  :::info Note - Importance of Symbols 📘
+  Graphical symbols provide a universal representation of electrical installations, simplifying maintenance and diagnostics even for technicians unfamiliar with the specific installation.
   :::
 
 ---
 
-### Considérations Supplémentaires 📝
+### Additional Considerations 📝
 
-Certains symboles peuvent varier légèrement en fonction des normes locales ou des spécificités de l'installation. Si un symbole particulier ne figure pas dans la documentation standard, il est fortement recommandé de consulter un **électricien qualifié**. Un professionnel pourra garantir une interprétation précise et la conformité aux **normes RGIE** et autres réglementations locales.
+Some symbols may vary slightly depending on local standards or specific installation requirements. If a particular symbol is not included in the standard documentation, it is highly recommended to consult a **qualified electrician**. A professional can ensure accurate interpretation and compliance with the **Belgian Electrical Regulations** and other local standards.
 
-  :::warning Attention
-  Ne tentez pas d'interpréter ou de modifier des schémas sans avoir la formation adéquate. Confiez toute intervention à un professionnel pour assurer la sécurité et la conformité des installations.
+  :::warning Caution
+  Do not attempt to interpret or modify schematics without proper training. Always leave interventions to a professional to ensure the safety and compliance of installations.
   :::
 
----
+## Conclusion of Part 2 🎯
 
-## Conclusion de la Partie 2 🎯
+**Part 2** of the Belgian Electrical Regulations focuses on terms and definitions, serving as a fundamental pillar to ensure **safety** and **compliance** in all electrical installations. By clarifying essential concepts and precisely defining the various elements of an installation, this section plays a crucial role in facilitating effective communication and understanding among all industry professionals.
 
-La **Partie 2** du RGIE, axée sur les termes et définitions, constitue un pilier fondamental pour garantir la **sécurité** et la **conformité** dans toutes les installations électriques. En clarifiant les notions essentielles et en définissant précisément les différents éléments d’une installation, cette partie joue un rôle crucial dans la communication et la bonne compréhension entre tous les professionnels du secteur.
+### 🔑 Key Takeaways from Part 2
 
-### 🔑 Points clés de la Partie 2
+- **Standardized Terminology**: The use of rigorous terminology enables smooth and unambiguous communication between electricians, technicians, and inspectors. Understanding **external influences**, **types of work**, and **necessary inspections** is crucial to ensure installations meet the requirements of the Belgian Electrical Regulations and international standards.
 
-- **Terminologie Normalisée** : L’usage d’une terminologie rigoureuse permet une communication fluide et sans ambiguïté entre les électriciens, les techniciens, et les inspecteurs. Comprendre les **influences externes**, les **types de travaux** et les **vérifications nécessaires** est indispensable pour garantir que les installations répondent aux exigences du RGIE et des normes internationales.
+- **Document Precision 📄**: Schematics, plans, and documents are more than mere formalities – they provide complete traceability of installations, facilitating future interventions and maintenance operations. With standardized graphical symbols, these documents become a universal visual language, essential for diagnosing issues and carrying out work safely.
 
-- **Précision Documentaire 📄** : Les schémas, plans, et documents sont bien plus que des formalités – ils assurent une traçabilité complète des installations, facilitant les interventions futures et les opérations de maintenance. Grâce à des symboles graphiques standardisés, ces documents deviennent un langage visuel universel, indispensable pour diagnostiquer et effectuer des travaux en toute sécurité.
+- **Risk Anticipation ⚠️**: Various external influences, such as climatic, mechanical, or environmental constraints, are addressed to help professionals anticipate risks and adapt installations to specific environments. This proactive approach is essential to protect both the installation and the end users.
 
-- **Anticipation des Risques ⚠️** : Les diverses influences externes, comme les contraintes climatiques, mécaniques, ou environnementales, sont abordées de manière à aider les professionnels à anticiper les risques et à adapter les installations aux spécificités de chaque environnement. Cette approche proactive est essentielle pour protéger non seulement l’installation mais aussi les utilisateurs finaux.
+- **Compliance and Safety**: Adhering to the definitions and classifications of the Belgian Electrical Regulations ensures that every step – from design to maintenance – meets **safety standards** and **regulatory requirements**. Taking each aspect into account contributes to the durability and reliability of electrical systems.
 
-- **Conformité et Sécurité** : En respectant les définitions et classifications du RGIE, les intervenants s’assurent que chaque étape – de la conception à la maintenance – est conforme aux **normes de sécurité** et **réglementations en vigueur**. La prise en compte de chaque aspect contribue à la durabilité et à la fiabilité des systèmes électriques.
+### 💡 In Summary…
 
-### 💡 En résumé…
+This section provides a **solid foundation** for all installation, inspection, and maintenance work in the electrical sector. By thoroughly understanding and applying these definitions, professionals can not only guarantee the **safety** and **compliance** of their installations but also enhance intervention efficiency and ensure the **longevity** of equipment.
 
-Cette partie offre une **base solide** pour tous les travaux d’installation, de vérification, et de maintenance dans le secteur électrique. En comprenant et en appliquant les définitions de manière rigoureuse, les professionnels peuvent non seulement garantir la **sécurité** et la **conformité** de leurs installations, mais aussi améliorer l'efficacité des interventions et assurer la **longévité** des équipements. 
-
-Avec des notions bien définies et une documentation claire, cette section du RGIE devient une **référence incontournable** pour tout professionnel engagé dans la sécurité et l’efficacité des installations électriques.
+With well-defined concepts and clear documentation, this part of the Belgian Electrical Regulations becomes an **indispensable reference** for any professional committed to the safety and efficiency of electrical installations.
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Partie 2 🎯
+:::tip Best Practices - Summary of Part 2 🎯
 
-- **Caractéristiques des Installations** : Utilisez des composants adaptés aux spécifications de chaque type d’installation (domestique, industrielle), en respectant les limites de tension et de courant pour garantir la sécurité et la longévité des équipements.
+- **Installation Characteristics**: Use components suited to the specifications of each installation type (domestic, industrial), respecting voltage and current limits to ensure the safety and longevity of equipment.
 
-- **Protection contre les Chocs Électriques** ⚡ : Installez des dispositifs de protection spécifiques pour chaque classe de matériel. Assurez-vous de respecter les normes d'isolation et d'installation pour minimiser les risques d’électrocution.
+- **Protection Against Electric Shock** ⚡: Install specific protection devices for each class of equipment. Adhere to insulation and installation standards to minimize the risk of electrocution.
 
-- **Mise à la Terre** 🛠️ : Veillez à une mise à la terre appropriée pour toutes les installations et équipements sensibles. Respectez les schémas de mise à la terre adaptés aux types de réseaux pour une sécurité optimale.
+- **Earthing Systems** 🛠️: Ensure proper earthing for all installations and sensitive equipment. Follow the appropriate earthing schemes for network types to guarantee optimal safety.
 
-- **Gestion des Courants et Dispositifs de Protection** 🔋 : Sélectionnez et dimensionnez avec précision les dispositifs de protection en fonction des courants d’utilisation pour éviter les surcharges et les court-circuits. Documentez toutes les installations pour les interventions futures.
+- **Current Management and Protection Devices** 🔋: Select and size protection devices accurately based on usage currents to prevent overloads and short circuits. Document all installations for future reference.
 
-- **Canalisations et Modes de Pose** 🏗️ : Choisissez des canalisations de qualité et adaptez le mode de pose en fonction des contraintes (enterrées, aériennes, conduits, etc.). Fixez solidement les canalisations et protégez-les des influences externes pour une installation durable.
+- **Conduits and Installation Methods** 🏗️: Choose quality conduits and adapt the installation method based on constraints (buried, overhead, in ducts, etc.). Secure conduits firmly and protect them from external influences for a durable installation.
 
-- **Sectionnement et Commande** 🔒 : Intégrez des dispositifs de commande et de sectionnement clairs et facilement accessibles pour permettre des interventions sécurisées en cas de maintenance ou d'urgence.
+- **Disconnection and Control** 🔒: Integrate clear and easily accessible disconnection and control devices to enable safe interventions during maintenance or emergencies.
 
-- **Influences Externes** 🌧️ : Prévoyez des protections contre les effets de la température, de l'humidité, des chocs et des matières corrosives pour prolonger la durée de vie des installations et assurer leur bon fonctionnement.
+- **External Influences** 🌧️: Implement protections against temperature, humidity, shocks, and corrosive substances to extend the lifespan of installations and ensure proper operation.
 
-- **Travaux et Vérifications** 👷 : Confiez les travaux électriques (sous tension ou hors tension) à des professionnels qualifiés. Procédez à des vérifications régulières pour garantir la sécurité continue des installations et la conformité aux normes.
+- **Work and Inspections** 👷: Delegate electrical work (live or dead) to qualified professionals. Perform regular inspections to ensure ongoing safety and regulatory compliance.
 
-- **Schémas et Documents** 📐 : Maintenez à jour les schémas de câblage et les documents de conformité, incluant les schémas unifilaires, les plans d’installation et les dispositifs de sécurité. Une documentation complète facilite l’entretien et la modification des installations.
+- **Schematics and Documentation** 📐: Keep wiring diagrams and compliance documents up to date, including single-line diagrams, installation plans, and safety devices. Complete documentation facilitates maintenance and modification of installations.
 
-- **Symboles Graphiques** 🖌️ : Utilisez des symboles normalisés dans vos schémas pour une communication claire et efficace entre les différents intervenants (électriciens, inspecteurs, etc.).
+- **Graphical Symbols** 🖌️: Use standardized symbols in your schematics for clear and effective communication between different stakeholders (electricians, inspectors, etc.).
 
-En appliquant ces bonnes pratiques inspirées du RGIE, vous assurez la conformité, la sécurité et la durabilité de vos installations électriques.
-
+By following these best practices inspired by the Belgian Electrical Regulations, you ensure the compliance, safety, and durability of your electrical installations.
 :::
 
-
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

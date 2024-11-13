@@ -1516,10 +1516,10 @@ En respectant ces bonnes pratiques, vous assurez une **sécurité accrue, une co
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

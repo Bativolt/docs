@@ -1,1120 +1,1115 @@
 ---
-title: Partie 4 - Mesures de Protection | RGIE Bativolt Belgique
-description: Guide détaillé des mesures de protection pour garantir la sécurité des installations électriques selon le RGIE. Conformité, dispositifs de protection, et conseils pratiques.
-sidebar_label: 4. Mesures de Protection
+title: Part 4 - Protection Measures | Belgian Electrical Regulations
+description: Detailed guide on protection measures to ensure the safety of electrical installations according to the Belgian Electrical Regulations. Compliance, protection devices, and practical advice.
+sidebar_label: 4. Protection Measures
 ---
 
-# Partie 4 - Mesures de Protection ⚡️
+# Part 4 - Protection Measures ⚡️
 
-Les mesures de protection jouent un rôle fondamental pour **assurer la sécurité** des installations électriques et prévenir les risques pour les personnes et les biens. Ces mesures visent notamment à protéger contre les **chocs électriques**, **incendies**, et autres **dommages potentiels**. Comprendre et appliquer ces protections est essentiel pour tout électricien ou utilisateur soucieux de la sécurité et de la conformité aux normes RGIE.
+Protection measures play a fundamental role in **ensuring the safety** of electrical installations and preventing risks to people and property. These measures aim to protect against **electric shocks**, **fires**, and other **potential damages**. Understanding and applying these protections is essential for any electrician or user concerned with safety and compliance with the Belgian Electrical Regulations.
 
 ---
 
-## CHAPITRE 4.1. INTRODUCTION
+## CHAPTER 4.1. INTRODUCTION
 
-L’objectif principal des mesures de protection est de garantir un environnement sûr, en réduisant les risques de chocs et de défaillances électriques. Ces mesures, largement définies par le RGIE, sont indispensables pour :
+The primary objective of protection measures is to ensure a safe environment by reducing the risks of electric shocks and failures. These measures, widely defined by the Belgian Electrical Regulations, are essential for:
 
-1. **Prévenir les chocs électriques** : éviter les contacts dangereux entre les personnes et les parties sous tension.
-2. **Limiter les risques d'incendies** : en réduisant les risques d'étincelles et d'échauffements dangereux.
-3. **Protéger les équipements** : en évitant les dommages aux systèmes électriques eux-mêmes.
+1. **Preventing electric shocks**: Avoiding dangerous contact between people and live parts.
+2. **Reducing fire risks**: By limiting the chances of sparks and dangerous overheating.
+3. **Protecting equipment**: Preventing damage to the electrical systems themselves.
 
-### Exemples concrets pour renforcer la sécurité 🔧
+### Concrete examples for enhancing safety 🔧
 
-Les normes exigent, par exemple, l’utilisation de dispositifs de coupure automatique dans les circuits électriques sensibles et la mise en place de protections isolantes, en particulier dans les lieux publics ou humides. 
+The regulations require, for example, the use of automatic disconnection devices in sensitive electrical circuits and the installation of insulating protections, particularly in public or damp areas.
 
-:::info Bonnes pratiques 📌
-**Conseil** : Lors de toute installation, prévoyez toujours une inspection préalable pour identifier les risques et vérifier que les protections nécessaires sont en place.
+:::info Best Practices 📌
+**Tip**: Always conduct a preliminary inspection during any installation to identify risks and verify that necessary protections are in place.
 :::
 
 ---
 
-## CHAPITRE 4.2. PROTECTION CONTRE LES CHOCS ÉLECTRIQUES 🚫⚡️
+## CHAPTER 4.2. PROTECTION AGAINST ELECTRIC SHOCKS 🚫⚡️
 
-### Section 4.2.1. Généralités
+### Section 4.2.1. General
 
-La protection contre les chocs électriques est **primordiale** dans les installations. Les risques de choc sont particulièrement graves dans les cas de **contact direct** avec une partie sous tension, pouvant entraîner des blessures graves voire mortelles. La mise en place d’une protection adéquate permet de réduire considérablement ces risques.
+Protection against electric shocks is **crucial** in installations. Shock risks are particularly severe in cases of **direct contact** with live parts, potentially leading to serious or even fatal injuries. Implementing adequate protection significantly reduces these risks.
 
-#### Sous-section 4.2.1.1. Courant de choc
+#### Sub-section 4.2.1.1. Shock current
 
-Le courant de choc désigne le flux électrique traversant le corps humain lors d’un contact avec une source de tension. Selon le **RGIE**, les effets de ce courant varient en fonction de plusieurs critères :
+Shock current refers to the electrical flow through the human body when in contact with a voltage source. According to the **Belgian Electrical Regulations**, the effects of this current depend on several factors:
 
-- **L’intensité** : Les courants de faible intensité peuvent causer de simples picotements, tandis que les courants plus élevés peuvent être très dangereux.
-- **La durée de contact** : Plus le contact est long, plus les effets sont graves.
-- **Le chemin du courant dans le corps** : Un courant traversant des zones vitales, comme le cœur, augmente considérablement les risques.
+- **Current intensity**: Low-intensity currents may cause tingling, while higher currents can be very dangerous.
+- **Duration of contact**: The longer the contact, the more severe the effects.
+- **Current path through the body**: A current passing through vital areas, like the heart, significantly increases the risks.
 
-**Exemple :** Lors d’une exposition prolongée à un courant de 30 mA, une personne peut rapidement perdre conscience. C'est pourquoi les disjoncteurs différentiels de 30 mA sont indispensables dans les circuits sensibles.
+**Example**: Prolonged exposure to a current of 30 mA can quickly lead to unconsciousness. This is why 30 mA residual current devices (RCDs) are essential in sensitive circuits.
 
-:::warning Danger ! ⚠️
-Assurez-vous que les installations électriques comprennent des dispositifs de coupure rapide pour minimiser les risques en cas de choc prolongé.
+:::warning Danger! ⚠️
+Ensure that electrical installations include rapid disconnection devices to minimize risks in case of prolonged shocks.
 :::
 
 ---
 
-#### Sous-section 4.2.1.2. Domaines de tension autorisés
+#### Sub-section 4.2.1.2. Authorized voltage ranges
 
-Les domaines de tension définis dans le RGIE fixent les seuils de sécurité en fonction de la tension. Ils sont regroupés en deux catégories :
+The voltage ranges defined in the Belgian Electrical Regulations set safety thresholds based on the voltage level. They are grouped into two categories:
 
-- **Basse Tension (BT)** : En dessous de 1000 V AC ou 1500 V DC, utilisée dans la majorité des installations domestiques.
-- **Très Basse Tension (TBT)** : En dessous de 50 V AC ou 120 V DC, particulièrement appropriée dans des applications nécessitant une sécurité accrue (comme l'éclairage extérieur).
+- **Low Voltage (LV)**: Below 1000 V AC or 1500 V DC, used in most domestic installations.
+- **Extra Low Voltage (ELV)**: Below 50 V AC or 120 V DC, particularly suitable for applications requiring increased safety (such as outdoor lighting).
 
-Ces seuils garantissent que les installations restent dans des domaines de tension sécurisés pour limiter les risques de chocs électriques.
+These thresholds ensure that installations remain within safe voltage levels to limit the risks of electric shocks.
 
-:::info Note éducative 💡
-Les installations en **très basse tension** sont privilégiées dans des environnements à risques, comme les aires de jeux ou les espaces publics, afin de garantir une sécurité maximale.
+:::info Educational Note 💡
+**Extra Low Voltage** installations are preferred in high-risk environments, such as playgrounds or public spaces, to ensure maximum safety.
 :::
 
 ---
 
-### Section 4.2.2. Protection contre les chocs électriques par contact direct
+### Section 4.2.2. Protection against electric shocks by direct contact
 
-La **protection contre le contact direct** est essentielle pour prévenir les accidents dans les installations électriques. Cette mesure vise à isoler les parties sous tension des utilisateurs, en s’appuyant sur différents types de protections adaptées au contexte d’utilisation.
+**Protection against direct contact** is essential to prevent accidents in electrical installations. This measure aims to insulate live parts from users, relying on various types of protections suited to the usage context.
 
-#### Sous-section 4.2.2.1. Lors de l’emploi de la basse tension
+#### Sub-section 4.2.2.1. When using low voltage
 
-Pour les installations en **basse tension**, voici les pratiques recommandées :
+For **low voltage** installations, the following practices are recommended:
 
-1. **Isolation** : Recouvrez les parties sous tension avec des gaines isolantes pour éviter les contacts.
-2. **Disjoncteurs différentiels (DIF)** : Ces dispositifs coupent automatiquement le courant en cas de fuite, réduisant les risques.
-3. **Sécurisation des accès** : Utilisez des panneaux de protection ou des coffrets pour limiter l'accès aux parties actives.
+1. **Insulation**: Cover live parts with insulating sleeves to prevent contact.
+2. **Residual Current Devices (RCDs)**: These devices automatically cut off the current in case of a fault, reducing risks.
+3. **Access security**: Use protective panels or enclosures to limit access to live parts.
 
-:::tip Astuce 💡
-**Formation des utilisateurs** : Un utilisateur informé est un utilisateur protégé. Informez sur les bonnes pratiques de sécurité en basse tension.
+:::tip Tip 💡
+**User Training**: An informed user is a protected user. Provide information on good safety practices for low voltage.
 :::
 
 ---
 
-#### Sous-section 4.2.2.2. Lors de l’emploi de la très basse tension et de la très basse tension de sécurité
+#### Sub-section 4.2.2.2. When using extra low voltage and safety extra low voltage
 
-La très basse tension (TBT) est privilégiée dans les zones où un risque de choc est possible. Utilisez des équipements conçus pour fonctionner avec des niveaux de tension bas et sécurisez les installations pour éviter les accidents.
+Extra low voltage (ELV) is preferred in areas where shock risks are possible. Use equipment designed to operate at low voltage levels and secure installations to prevent accidents.
 
-**Exemple pratique** : Dans les salles de bain, privilégiez les dispositifs TBT pour éviter tout danger même en cas d’humidité élevée.
-
----
-
-#### Sous-section 4.2.2.3. Dans les lieux ordinaires
-
-Dans les habitations et bureaux, la protection doit intégrer les équipements suivants :
-
-- **Prises protégées** : Surtout dans les zones humides comme les cuisines.
-- **Installation conforme** : Par un professionnel qualifié, pour garantir le respect des normes.
-- **Inspections régulières** : Pour assurer le bon fonctionnement des dispositifs de sécurité.
+**Practical example**: In bathrooms, prioritize ELV devices to avoid any danger even in case of high humidity.
 
 ---
 
-#### Sous-section 4.2.2.4. Dans les lieux du service électrique
+#### Sub-section 4.2.2.3. In ordinary locations
 
-Les armoires et zones de service électrique nécessitent une vigilance accrue :
+In homes and offices, protection must include the following equipment:
 
-1. **Accès sécurisé** : Réservé aux personnes autorisées et formées.
-2. **Signalisation d’avertissement** : Indiquez clairement les dangers.
-3. **Utilisation d'outils isolants** : Limitez les risques de contact accidentel.
-
----
-
-### Section 4.2.3. Protection contre les chocs électriques par contact indirect
-
-La **protection contre les chocs indirects** vise à empêcher les contacts avec des parties conductrices sous tension.
-
-#### Sous-section 4.2.3.1. Principes de la prévention des chocs électriques par contact indirect en basse tension
-
-| Principe de Prévention  | Description                                                  |
-|-------------------------|--------------------------------------------------------------|
-| **Isolation**           | Empêche le contact direct par des matériaux isolants.        |
-| **Équipement de protection** | Les disjoncteurs coupent en cas de défaut.             |
-| **Mise à la terre**     | Dissipe les courants de défaut pour éviter les électrocutions.|
-| **Formation**           | Sensibilisation aux dangers des installations électriques.    |
+- **Protected outlets**: Especially in damp areas like kitchens.
+- **Compliant installation**: By a qualified professional, to ensure compliance with standards.
+- **Regular inspections**: To verify the proper functioning of safety devices.
 
 ---
 
-#### Sous-section 4.2.3.2. Installation de mise à la terre
+#### Sub-section 4.2.2.4. In Electrical Service Areas
 
-L’installation de la **mise à la terre** est essentielle pour limiter les risques de contact indirect. Elle assure :
+Electrical cabinets and service areas require increased vigilance:
 
-1. **Réduction de la tension de contact** : En cas de défaut, la mise à la terre réduit la tension au niveau des parties conductrices accessibles.
-2. **Évacuation des courants** : Le courant de défaut est dirigé vers la terre, limitant ainsi les risques.
-3. **Respect des normes RGIE** : Conformité avec les exigences de sécurité.
+1. **Secure Access**: Restricted to authorized and trained personnel only.
+2. **Warning Signage**: Clearly indicate potential hazards.
+3. **Use of Insulating Tools**: Minimize risks of accidental contact.
 
 ---
 
-#### Sous-section 4.2.3.3. Protection passive en basse tension sans coupure automatique de l’alimentation
+### Section 4.2.3. Protection Against Electric Shocks by Indirect Contact
 
-La **protection passive en basse tension** vise à limiter les risques sans nécessiter de coupure automatique de l’alimentation. Cette approche repose sur des mesures de conception et d'isolation, permettant de protéger les utilisateurs tout en assurant la continuité de l’alimentation dans des installations où l'arrêt soudain pourrait causer des problèmes.
+**Protection against indirect contact** aims to prevent contact with conductive parts that may become live.
 
-**Exemples de Protection Passive :**
+#### Sub-section 4.2.3.1. Principles of Preventing Electric Shocks by Indirect Contact in Low Voltage
 
-1. **Conception fermée** : Les parties actives sous tension doivent être enfermées dans des **coffrets sécurisés** et étanches, afin de minimiser tout risque de contact accidentel. Cela est particulièrement important dans les environnements publics ou industriels où le personnel non formé peut être présent.
+| Prevention Principle   | Description                                                      |
+|------------------------|------------------------------------------------------------------|
+| **Insulation**         | Prevents direct contact using insulating materials.             |
+| **Protective Equipment** | Circuit breakers cut off the power in case of a fault.       |
+| **Earthing**           | Discharges fault currents to prevent electrocution.             |
+| **Training**           | Raises awareness of electrical installation hazards.            |
+
+---
+
+#### Sub-section 4.2.3.2. Earthing Installation
+
+The installation of **earthing** is essential to reduce the risks of indirect contact. It ensures:
+
+1. **Reduction of Contact Voltage**: In case of a fault, earthing lowers the voltage of accessible conductive parts.
+2. **Current Discharge**: Fault current is directed to the ground, thereby limiting risks.
+3. **Compliance with Belgian Electrical Regulations**: Adhering to safety requirements.
+
+---
+
+#### Sub-section 4.2.3.3. Passive Protection in Low Voltage Without Automatic Power Shutdown
+
+**Passive protection in low voltage** aims to limit risks without requiring automatic power shutdown. This approach relies on design and insulation measures to protect users while ensuring power continuity in installations where sudden shutdowns could cause issues.
+
+**Examples of Passive Protection:**
+
+1. **Enclosed Design**: Live parts must be enclosed in **secure and waterproof cabinets** to minimize risks of accidental contact, especially in public or industrial environments where untrained personnel may be present.
    
-2. **Isolation renforcée** : Tous les équipements sous tension doivent être recouverts de matériaux isolants de haute qualité, conçus pour empêcher les contacts directs. L'utilisation de gaines et de capots isolants est essentielle pour réduire le risque d'accident.
+2. **Enhanced Insulation**: All live equipment should be covered with high-quality insulating materials designed to prevent direct contact. The use of sleeves and insulating covers is essential to reduce the risk of accidents.
 
-3. **Matériaux résistants et durables** : Les installations doivent utiliser des matériaux résistants aux impacts, aux variations de température et à l'humidité. Cela limite le risque de dégradation des isolations qui pourraient exposer les parties sous tension.
+3. **Durable and Resistant Materials**: Installations must use materials resistant to impacts, temperature variations, and humidity. This reduces the risk of insulation degradation that could expose live parts.
 
-:::info Note Pratique 🛠️
-Dans les environnements industriels, les dispositifs passifs sont souvent préférés pour limiter les interruptions de production, mais ils nécessitent un entretien régulier pour garantir leur efficacité.
+:::info Practical Note 🛠️
+In industrial environments, passive devices are often preferred to limit production interruptions, but regular maintenance is required to ensure their effectiveness.
 :::
 
 ---
 
-#### Sous-section 4.2.3.4. Protection active en basse tension avec coupure automatique de l’alimentation ⚠️
+#### Sub-section 4.2.3.4. Active Protection in Low Voltage with Automatic Power Shutdown ⚠️
 
-La **protection active** repose sur des dispositifs de surveillance qui permettent de détecter les anomalies et de couper automatiquement l’alimentation en cas de défaillance, minimisant ainsi le risque de choc électrique. Cette méthode est particulièrement efficace dans les environnements à risques élevés, car elle réagit immédiatement en cas de défaut.
+**Active protection** relies on monitoring devices that detect anomalies and automatically cut off the power in case of a fault, thus minimizing the risk of electric shock. This method is particularly effective in high-risk environments as it responds immediately to faults.
 
-**Principaux dispositifs de protection active :**
+**Key Active Protection Devices:**
 
-| Protection Active               | Description                                                                                          |
-|---------------------------------|------------------------------------------------------------------------------------------------------|
-| **Disjoncteurs différentiels**   | Ils détectent les fuites de courant et coupent l’alimentation pour éviter les risques de choc.       |
-| **Avertissements visuels et sonores** | Des alarmes visuelles et sonores informent immédiatement des anomalies détectées.            |
-| **Surveillance continue**        | Des systèmes de surveillance détectent les anomalies, avec des alertes pour une intervention rapide.|
+| Active Protection             | Description                                                                                              |
+|-------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Residual Current Devices (RCDs)** | Detect current leaks and cut off power to prevent shock risks.                                      |
+| **Visual and Audible Alerts** | Visual and audible alarms immediately notify about detected anomalies.                                   |
+| **Continuous Monitoring**     | Surveillance systems detect anomalies, with alerts for rapid intervention.                              |
 
-**Fonctionnement des Disjoncteurs Différentiels** : Lorsqu'un défaut est détecté (par exemple, une fuite de courant due à un contact avec une partie métallique), le disjoncteur coupe immédiatement le circuit. Cela permet d'éviter les électrocutions en éliminant rapidement le risque de contact prolongé.
+**How Residual Current Devices Work**: When a fault is detected (e.g., a current leak due to contact with a metal part), the RCD immediately cuts off the circuit. This prevents electrocution by quickly eliminating the risk of prolonged contact.
 
-:::warning Attention ! ⚠️
-Les disjoncteurs différentiels doivent être testés régulièrement pour vérifier leur bon fonctionnement et assurer la sécurité continue de l'installation.
+:::warning Attention! ⚠️
+Residual Current Devices must be tested regularly to ensure they function correctly and provide continuous safety for the installation.
 :::
 
-**Exemples Concrets d’Application de la Protection Active :**
+**Concrete Examples of Active Protection Application:**
 
-1. **Appareils domestiques** : Dans les cuisines ou salles de bain, où le risque de contact avec l’eau est élevé, les disjoncteurs différentiels limitent les risques d'électrocution.
+1. **Domestic Appliances**: In kitchens or bathrooms, where the risk of contact with water is high, RCDs help reduce electrocution risks.
 
-2. **Environnements industriels** : Dans les zones où les équipements sont manipulés fréquemment, comme les chaînes de montage, les systèmes de surveillance continue permettent de réagir aux anomalies avant qu'elles ne causent des accidents.
+2. **Industrial Environments**: In areas where equipment is frequently handled, such as assembly lines, continuous monitoring systems help detect anomalies before they cause accidents.
 
-3. **Lieux publics** : Dans les installations publiques, comme les hôpitaux, les dispositifs de coupure automatique et les alarmes alertent le personnel en cas de problème, permettant une intervention rapide.
+3. **Public Places**: In public installations, such as hospitals, automatic shutdown devices and alarms alert staff in case of a problem, allowing for quick intervention.
 
-En utilisant la **combinaison de protections passives et actives**, les installations peuvent maximiser la sécurité des utilisateurs et réduire les risques d’incidents électriques graves.
-
----
-
-### Section 4.2.4. Utilisation des Mesures de Protection contre les Chocs Électriques par Contacts Indirects en BT et TBT ⚡
-
-#### Sous-section 4.2.4.1. Domaine d'application
-
-Les protections contre les chocs électriques par contact indirect s'appliquent aux installations fonctionnant en **basse tension** (BT) et **très basse tension** (TBT), couvrant ainsi une grande variété de secteurs et d'environnements.
-
-| Type d'installation          | Description                                                                                                                                              | Exemples pratiques                  |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Installations domestiques** 🏠 | Protéger les occupants dans les habitations, surtout dans les zones humides comme les salles de bain et les cuisines.                                    | Maisons, appartements               |
-| **Installations industrielles** 🏭 | Prévenir les risques dans les zones à forte puissance électrique, souvent impliquant des équipements de grande taille et de lourds besoins en énergie. | Usines, chaînes de montage          |
-| **Bâtiments commerciaux** 🏢 | Garantir la sécurité des clients et du personnel dans les lieux ouverts au public.                                                                      | Magasins, bureaux, centres commerciaux |
-| **Installations spécialisées** 🏥 | Assurer une protection optimale dans des environnements sensibles, comme les hôpitaux, où le moindre choc électrique pourrait être critique.         | Hôpitaux, laboratoires              |
-
-Ces domaines exigent des **normes de sécurité strictes**, avec des vérifications régulières pour s’assurer que les mesures de protection sont toujours efficaces.
+By combining **passive and active protections**, installations can maximize user safety and reduce the risk of serious electrical incidents.
 
 ---
 
-#### Sous-section 4.2.4.2. Influences Externes 🌦️
+### Section 4.2.4. Use of Protection Measures Against Indirect Electric Shocks in LV and ELV ⚡
 
-Les conditions environnementales peuvent affecter les systèmes de protection, et le **RGIE** impose des précautions spécifiques selon les **influences externes**. Voici quelques facteurs externes à prendre en compte pour optimiser la sécurité des installations électriques :
+#### Sub-section 4.2.4.1. Scope of Application
 
-1. **Conditions environnementales** : L'humidité, la chaleur excessive, et les substances corrosives accélèrent la dégradation des dispositifs de protection. Il est crucial de sélectionner des équipements résistants à la corrosion pour les installations en milieu humide ou chimique.
+Protection against indirect electric shocks applies to installations operating at **low voltage** (LV) and **extra low voltage** (ELV), covering a wide variety of sectors and environments.
 
-   :::warning Attention ! ⚠️
-   Dans des environnements à haute humidité, privilégiez les matériaux isolants certifiés et ajoutez des protections contre la condensation pour éviter les courts-circuits.
+| Installation Type             | Description                                                                                                                            | Practical Examples                    |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| **Domestic Installations** 🏠  | Protecting occupants in homes, especially in damp areas like bathrooms and kitchens.                                                  | Houses, apartments                    |
+| **Industrial Installations** 🏭 | Preventing risks in high-power areas, often involving large equipment with high energy needs.                                          | Factories, assembly lines             |
+| **Commercial Buildings** 🏢    | Ensuring the safety of customers and staff in publicly accessible places.                                                             | Shops, offices, shopping centers      |
+| **Specialized Installations** 🏥 | Providing optimal protection in sensitive environments, such as hospitals, where even a minor electric shock could be critical.       | Hospitals, laboratories               |
+
+These areas require **strict safety standards**, with regular inspections to ensure that protection measures remain effective.
+
+---
+
+#### Sub-section 4.2.4.2. External Influences 🌦️
+
+Environmental conditions can affect protection systems, and the **Belgian Electrical Regulations** require specific precautions based on **external influences**. Here are some external factors to consider for optimizing the safety of electrical installations:
+
+1. **Environmental Conditions**: Humidity, excessive heat, and corrosive substances accelerate the degradation of protective devices. It is crucial to select corrosion-resistant equipment for installations in damp or chemical environments.
+
+   :::warning Attention! ⚠️
+   In high-humidity environments, prioritize certified insulating materials and add condensation protection to prevent short circuits.
    :::
 
-2. **Type de sol** : Le type de sol influence les systèmes de mise à la terre. Un sol humide, par exemple, offre une meilleure conductivité, favorisant la dissipation des courants de défaut et augmentant la sécurité globale de l’installation.
+2. **Type of Soil**: The type of soil influences earthing systems. For instance, moist soil offers better conductivity, promoting fault current dissipation and increasing the overall safety of the installation.
 
-3. **Utilisation de l’espace** : En zones à risques (entrepôts de produits chimiques, espaces industriels), il est impératif de renforcer la protection contre les chocs indirects par des isolations et des dispositifs de sécurité supplémentaires.
+3. **Space Usage**: In high-risk areas (chemical storage, industrial spaces), it is essential to enhance protection against indirect shocks using additional insulation and safety devices.
 
-4. **Accessibilité** : Les installations électriques dans des lieux accessibles au public doivent intégrer des protections visuelles (signalisation) et physiques (protections isolantes) pour empêcher les contacts accidentels.
-
----
-
-#### Sous-section 4.2.4.3. Protection contre les chocs électriques par contacts indirects dans les installations domestiques 🏡
-
-Les installations domestiques nécessitent une protection accrue pour assurer la sécurité des habitants. Le **RGIE** recommande une approche combinant plusieurs mesures préventives :
-
-- **Dispositifs de protection** : L’installation de **disjoncteurs différentiels (DDR)** est essentielle. Ces dispositifs surveillent les fuites de courant et coupent automatiquement l’alimentation en cas de défaut, minimisant ainsi les risques d’accidents.
-
-   :::tip Astuce pratique 💡
-   Choisissez des DDR de 30 mA pour une protection optimale dans les environnements domestiques, en particulier dans les zones humides (cuisine, salle de bain).
-   :::
-
-- **Mise à la terre des appareils** : Tous les appareils électriques doivent être connectés à la terre pour garantir que les courants de défaut soient dirigés vers le sol, empêchant ainsi leur passage à travers le corps humain.
-
-- **Sensibilisation et éducation** : Informer les occupants sur les bonnes pratiques, telles que ne pas surcharger les prises, éviter les appareils endommagés, et ne jamais manipuler les équipements électriques avec les mains mouillées, est crucial pour prévenir les accidents.
-
-- **Contrôles réguliers** 🔍 : Les installations électriques doivent être inspectées régulièrement par des professionnels qualifiés pour garantir leur conformité aux normes et prévenir tout dysfonctionnement.
-
-   :::info Recommandation 📆
-   Il est recommandé de faire inspecter les installations tous les 5 ans pour s’assurer qu’elles restent conformes et sécurisées.
-   :::
+4. **Accessibility**: Electrical installations in publicly accessible locations must incorporate visual (signage) and physical (insulating protections) safeguards to prevent accidental contact.
 
 ---
 
-#### Sous-section 4.2.4.4. Protection contre les chocs électriques par contacts indirects dans les installations non-domestiques 🏢
+#### Sub-section 4.2.4.3. Protection Against Electric Shocks by Indirect Contact in Domestic Installations 🏡
 
-Les installations non-domestiques, notamment dans les environnements commerciaux et industriels, requièrent des normes de protection plus strictes pour garantir la sécurité des travailleurs et des usagers.
+Domestic installations require enhanced protection to ensure the safety of occupants. The **Belgian Electrical Regulations** recommend a combined approach using multiple preventive measures:
 
-| Mesures de Protection      | Description                                                                                                                                               | Exemples d'application              |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Normes de sécurité renforcées** | Les installations doivent respecter des exigences spécifiques en matière de mise à la terre, de protections automatiques et de dispositifs de détection d'anomalies. | Zones industrielles, sites publics |
-| **Systèmes de surveillance** 🖥️  | Intégrer des dispositifs de surveillance et de contrôle pour détecter les défauts en temps réel et permettre une intervention rapide.                      | Hôpitaux, grandes entreprises       |
-| **Planification des infrastructures** | Concevoir des installations qui minimisent l'accès aux parties sous tension, évitant ainsi les risques de contact accidentel.                     | Câbles souterrains, coffrets sécurisés |
-| **Évaluation des risques** | Réaliser des analyses de risques pour identifier et corriger les vulnérabilités spécifiques à chaque type d'installation.                                   | Usines, entrepôts, espaces publics |
+- **Protection Devices**: The installation of **Residual Current Devices (RCDs)** is essential. These devices monitor current leaks and automatically cut off power in case of a fault, minimizing accident risks.
 
-   :::warning Alerte sécurité ! ⚠️
-   Dans les environnements à haute densité de passage, comme les centres commerciaux ou les espaces industriels, veillez à ce que les systèmes de protection soient inspectés trimestriellement.
+   :::tip Practical Tip 💡
+   Choose 30 mA RCDs for optimal protection in domestic environments, especially in damp areas (kitchen, bathroom).
+   :::
+
+- **Earthing of Appliances**: All electrical appliances must be earthed to ensure that fault currents are directed to the ground, preventing their flow through the human body.
+
+- **Awareness and Education**: Inform occupants about best practices, such as not overloading outlets, avoiding damaged appliances, and never handling electrical equipment with wet hands to prevent accidents.
+
+- **Regular Inspections** 🔍: Electrical installations should be inspected regularly by qualified professionals to ensure compliance with standards and prevent malfunctions.
+
+   :::info Recommendation 📆
+   It is recommended to have installations inspected every 5 years to ensure they remain compliant and safe.
    :::
 
 ---
 
-### Section 4.2.5. Mesures de Protection en Très Basse Tension (TBT) 🔋
+#### Sub-section 4.2.4.4. Protection Against Electric Shocks by Indirect Contact in Non-Domestic Installations 🏢
 
-#### Sous-section 4.2.5.1. Alimentation en très basse tension (TBT)
+Non-domestic installations, particularly in commercial and industrial environments, require stricter protection standards to ensure the safety of workers and users.
 
-Les circuits en **très basse tension (TBT)** sont couramment utilisés pour réduire les risques de choc dans les environnements où la sécurité est primordiale. 
+| Protection Measures           | Description                                                                                                                | Application Examples                 |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| **Enhanced Safety Standards** | Installations must meet specific requirements for earthing, automatic protection, and anomaly detection devices.           | Industrial zones, public sites       |
+| **Monitoring Systems** 🖥️     | Integrate monitoring and control devices to detect faults in real-time, enabling quick intervention.                      | Hospitals, large companies           |
+| **Infrastructure Planning**   | Design installations to minimize access to live parts, reducing the risk of accidental contact.                           | Underground cables, secure cabinets  |
+| **Risk Assessments**          | Conduct risk analyses to identify and mitigate vulnerabilities specific to each type of installation.                      | Factories, warehouses, public spaces |
 
-**Caractéristiques principales :**
-
-1. **Limitation de la tension** : Une tension inférieure à **50 V AC ou 120 V DC** réduit les risques de choc, rendant les circuits TBT particulièrement sûrs.
-
-2. **Isolation renforcée** : Les câbles et équipements en TBT doivent être isolés de manière adéquate pour éviter les contacts accidentels avec des parties conductrices.
-
-3. **Applications courantes** : Les systèmes d’éclairage de sécurité, les dispositifs de contrôle et les installations extérieures utilisent souvent des circuits TBT pour garantir la sécurité de l’utilisateur.
-
-4. **Transformateurs de sécurité** : Ces équipements sont conçus pour fournir l’alimentation TBT tout en maintenant une séparation sécurisée avec les circuits de plus haute tension.
-
-   :::info À savoir 🔌
-   Les transformateurs TBT sont souvent utilisés dans les environnements humides ou extérieurs pour réduire les risques de chocs électriques.
+   :::warning Safety Alert! ⚠️
+   In high-traffic environments like shopping centers or industrial spaces, ensure that protection systems are inspected quarterly.
    :::
 
 ---
 
-#### Sous-section 4.2.5.2. Installations en Très Basse Tension Fonctionnelle (TBTF)
+### Section 4.2.5. Protection Measures in Extra Low Voltage (ELV) 🔋
 
-Les installations en **très basse tension fonctionnelle (TBTF)** répondent à des normes spécifiques pour assurer un fonctionnement sécurisé et fiable, surtout dans des situations d'urgence.
+#### Sub-section 4.2.5.1. Extra Low Voltage (ELV) Supply
 
-- **Fonctionnalité et sécurité** : Ces installations sont conçues pour réduire les risques de défaillance, notamment grâce à des protections contre les surcharges et les courts-circuits.
+**Extra Low Voltage (ELV)** circuits are commonly used to reduce shock risks in environments where safety is a top priority.
 
-- **Exemples d’utilisation** : Les circuits TBTF sont utilisés dans des systèmes critiques comme les éclairages de secours ou les alarmes incendie, où la sécurité et la fiabilité sont primordiales.
+**Key Features:**
 
-- **Vérifications périodiques** 🔍 : Des contrôles réguliers garantissent que l’installation TBTF reste conforme et que tous les composants sont fonctionnels.
+1. **Voltage Limitation**: A voltage below **50 V AC or 120 V DC** reduces shock risks, making ELV circuits particularly safe.
 
----
+2. **Enhanced Insulation**: ELV cables and equipment must be adequately insulated to prevent accidental contact with conductive parts.
 
-#### Sous-section 4.2.5.3. Installations en Très Basse Tension de Sécurité (TBTS) et de Protection (TBTP)
+3. **Common Applications**: Safety lighting systems, control devices, and outdoor installations often use ELV circuits to ensure user safety.
 
-Les installations **TBTS** et **TBTP** sont des circuits conçus pour une **sécurité maximale**, réduisant drastiquement les risques de choc électrique.
+4. **Safety Transformers**: These devices are designed to provide ELV power while maintaining a secure separation from higher voltage circuits.
 
-| Type d'Installation | Objectif | Exemples d'applications |
-|---------------------|----------|--------------------------|
-| **TBTS**           | Garantir la sécurité même en cas de défaut, en maintenant une tension sans risque de choc. | Équipements médicaux |
-| **TBTP**           | Protection contre les contacts indirects, en dissipant les courants de défaut de manière sécurisée. | Systèmes de télécommunication |
-
-**Importance des Normes** : Les installations TBTS et TBTP doivent suivre des normes strictes pour assurer leur sécurité. Cela inclut des matériaux isolants, des dispositifs de protection et des contrôles d’efficacité réguliers.
+   :::info Did You Know? 🔌
+   ELV transformers are often used in humid or outdoor environments to reduce the risk of electric shocks.
+   :::
 
 ---
 
-#### Sous-section 4.2.5.4. Prescriptions Complémentaires pour les Circuits en TBTP
+#### Sub-section 4.2.5.2. Functional Extra Low Voltage (FELV) Installations
 
-Pour garantir une protection optimale, les circuits TBTP doivent respecter plusieurs prescriptions :
+**Functional Extra Low Voltage (FELV)** installations comply with specific standards to ensure safe and reliable operation, particularly in emergency situations.
 
-1. **Protection des circuits** : Les circuits TBTP doivent inclure des disjoncteurs ou des fusibles pour prévenir les surcharges et les courts-circuits.
+- **Functionality and Safety**: These installations are designed to reduce failure risks, with protections against overloads and short circuits.
 
-2. **Identification** : Chaque circuit TBTP doit être clairement étiqueté pour faciliter l’entretien.
+- **Use Cases**: FELV circuits are used in critical systems such as emergency lighting or fire alarms, where safety and reliability are paramount.
 
-3. **Inspections périodiques** : Les circuits TBTP doivent être inspectés périodiquement pour garantir leur conformité aux normes de sécurité.
+- **Periodic Checks** 🔍: Regular inspections ensure that the FELV installation remains compliant and that all components are functional.
 
 ---
 
-#### Sous-section 4.2.5.5. Prescriptions Complémentaires pour les Circuits en TBTS
+#### Sub-section 4.2.5.3. Safety Extra Low Voltage (SELV) and Protective Extra Low Voltage (PELV) Installations
 
-Les **circuits TBTS** nécessitent également des précautions pour assurer une sécurité maximale :
+**SELV** and **PELV** installations are circuits designed for **maximum safety**, drastically reducing the risks of electric shocks.
 
-1. **Tension limitée** : Ces circuits sont conçus pour fonctionner à des tensions qui minimisent les risques de choc.
+| Installation Type | Objective                              | Application Examples    |
+|-------------------|----------------------------------------|-------------------------|
+| **SELV**          | Ensures safety even in case of a fault, maintaining a voltage level without shock risk. | Medical equipment       |
+| **PELV**          | Provides protection against indirect contacts, safely dissipating fault currents.       | Telecommunication systems|
 
-2. **Équipements de protection** : Utilisation de disjoncteurs différentiels pour détecter les anomalies et couper l’alimentation en cas de défaut.
+**Importance of Standards**: SELV and PELV installations must adhere to strict standards to ensure safety. This includes insulating materials, protection devices, and regular effectiveness checks.
 
-3. **Accessibilité contrôlée** : Les circuits TBTS doivent être accessibles uniquement aux personnes qualifiées.
+---
+
+#### Sub-section 4.2.5.4. Additional Requirements for PELV Circuits
+
+To ensure optimal protection, PELV circuits must comply with several requirements:
+
+1. **Circuit Protection**: PELV circuits must include circuit breakers or fuses to prevent overloads and short circuits.
+
+2. **Identification**: Each PELV circuit must be clearly labeled to facilitate maintenance.
+
+3. **Periodic Inspections**: PELV circuits must undergo regular inspections to ensure compliance with safety standards.
+
+---
+
+#### Sub-section 4.2.5.5. Additional Requirements for SELV Circuits
+
+**SELV circuits** also require precautions to ensure maximum safety:
+
+1. **Limited Voltage**: These circuits are designed to operate at voltages that minimize shock risks.
+
+2. **Protective Equipment**: Use of residual current devices (RCDs) to detect anomalies and cut power in case of a fault.
+
+3. **Controlled Accessibility**: SELV circuits must be accessible only to qualified personnel.
 
    :::tip Documentation 🗂️
-   Une documentation complète des circuits TBTS est essentielle pour assurer une maintenance efficace et sécurisée.
+   Comprehensive documentation of SELV circuits is essential for efficient and safe maintenance.
    :::
 
 ---
 
-# CHAPITRE 4.3. PROTECTION CONTRE LES EFFETS THERMIQUES 🔥
+# CHAPTER 4.3. PROTECTION AGAINST THERMAL EFFECTS 🔥
 
-Les **effets thermiques** dans les installations électriques peuvent poser des risques sérieux, allant des surchauffes jusqu'aux incendies, et même endommager gravement les équipements. Le **RGIE** impose des mesures de protection pour prévenir ces effets, garantissant la sécurité des installations et la durabilité des composants électriques.
+**Thermal effects** in electrical installations can pose serious risks, including overheating, fires, and even severe damage to equipment. The **Belgian Electrical Regulations** enforce protection measures to prevent these effects, ensuring the safety of installations and the durability of electrical components.
 
 ---
 
-### Section 4.3.1. Généralités 🌡️
+### Section 4.3.1. General Overview 🌡️
 
-Les effets thermiques sont essentiellement causés par la chaleur produite lorsque le courant électrique circule à travers des conducteurs et composants. Cette chaleur excessive peut endommager l'isolation des câbles, entraîner des courts-circuits, et, dans les cas extrêmes, provoquer des incendies. 
+Thermal effects are primarily caused by the heat generated when electrical current flows through conductors and components. Excessive heat can damage cable insulation, lead to short circuits, and, in extreme cases, cause fires.
 
-Pour minimiser ces risques, plusieurs éléments doivent être pris en compte dès la conception :
+To minimize these risks, several factors must be considered during the design phase:
 
-- **Qualité des matériaux** : Optez pour des matériaux isolants de qualité, adaptés aux températures élevées.
-- **Dimensionnement des conducteurs** : Un calcul précis est crucial pour éviter toute surcharge qui pourrait conduire à une surchauffe.
+- **Material Quality**: Use high-quality insulating materials suitable for high temperatures.
+- **Conductor Sizing**: Accurate calculations are crucial to prevent overloads that could lead to overheating.
 
-#### Sous-section 4.3.1.1. Principes de protection
+#### Sub-section 4.3.1.1. Protection Principles
 
-La protection contre les effets thermiques repose sur plusieurs **principes fondamentaux**, chacun contribuant à la prévention des surchauffes :
+Protection against thermal effects relies on several **fundamental principles**, each contributing to the prevention of overheating:
 
-1. **Dimensionnement des conducteurs** 🧮 : Assurez-vous que chaque conducteur est dimensionné en fonction de la charge maximale qu'il transportera. Un mauvais dimensionnement peut entraîner une surchauffe et des risques d'incendie. Référez-vous au tableau de dimensionnement des conducteurs pour choisir la taille correcte selon l'intensité du courant et l’environnement d’installation.
+1. **Conductor Sizing** 🧮: Ensure each conductor is sized according to the maximum load it will carry. Incorrect sizing can lead to overheating and fire risks. Refer to the conductor sizing table to choose the correct size based on current intensity and installation environment.
 
-2. **Dispositifs de protection thermique** ⚡ : Utilisez des disjoncteurs thermiques ou des relais de protection. Ces dispositifs coupent le courant dès que la température atteint un niveau dangereux, empêchant ainsi les dégâts thermiques.
+2. **Thermal Protection Devices** ⚡: Use thermal circuit breakers or protective relays. These devices cut off the current when the temperature reaches a dangerous level, preventing thermal damage.
 
-3. **Ventilation et dissipation de chaleur** 🌬️ : Dans les installations générant beaucoup de chaleur, comme les armoires de distribution, une ventilation adéquate est cruciale. Des ventilateurs ou des systèmes de refroidissement permettent de maintenir une température de fonctionnement sécurisée.
+3. **Ventilation and Heat Dissipation** 🌬️: In installations that generate significant heat, such as distribution panels, proper ventilation is crucial. Fans or cooling systems help maintain a safe operating temperature.
 
-   :::tip Bonnes pratiques de ventilation 💡
-   Assurez-vous que les armoires électriques sont installées dans des endroits bien ventilés et éloignés des sources de chaleur directe.
+   :::tip Best Ventilation Practices 💡
+   Ensure that electrical cabinets are installed in well-ventilated areas and away from direct heat sources.
    :::
 
-4. **Matériaux résistants à la chaleur** 🧱 : Les gaines, câbles, et autres isolants doivent être choisis pour leur résistance thermique. Utilisez des matériaux tels que le PVC résistant à la chaleur, ou des câbles en caoutchouc isolant pour garantir la longévité de l’installation.
+4. **Heat-Resistant Materials** 🧱: The conduits, cables, and other insulators should be chosen for their thermal resistance. Use materials like heat-resistant PVC or rubber-insulated cables to ensure the longevity of the installation.
 
 ---
 
-#### Sous-section 4.3.1.2. Définitions spécifiques
+#### Sub-section 4.3.1.2. Key Definitions
 
-Voici quelques **définitions clés** liées aux effets thermiques, indispensables pour bien comprendre les principes de sécurité :
+Here are some **key definitions** related to thermal effects, essential for understanding safety principles:
 
-- **Température de service** : La température maximale à laquelle un équipement peut fonctionner en sécurité sans risque de défaillance. Respectez cette limite pour éviter la dégradation des composants.
+- **Service Temperature**: The maximum temperature at which equipment can operate safely without risk of failure. Adhere to this limit to avoid component degradation.
 
-- **Résistance thermique** : Capacité d’un matériau à résister à la transmission de chaleur. Une faible résistance thermique peut être bénéfique ou nuisible, selon le contexte.
+- **Thermal Resistance**: The ability of a material to resist heat transfer. Low thermal resistance can be beneficial or detrimental, depending on the context.
 
-- **Point de fusion** : La température à laquelle un matériau commence à fondre. Choisissez des conducteurs dont le point de fusion est supérieur aux températures maximales prévues en fonctionnement.
+- **Melting Point**: The temperature at which a material begins to melt. Choose conductors with a melting point higher than the expected maximum operating temperatures.
 
-   :::info Note éducative 📝
-   Le point de fusion des conducteurs doit être pris en compte pour prévenir les situations d'extrême surchauffe, en particulier dans les environnements industriels.
-   :::
-
----
-
-#### Sous-section 4.3.1.3. Influences externes
-
-Les **influences externes** peuvent intensifier les effets thermiques. Lors de la conception d'une installation électrique, tenez compte des éléments suivants :
-
-1. **Température ambiante** 🌞 : Une température élevée amplifie les effets thermiques. Adaptez les matériaux en fonction de l’environnement pour éviter tout risque de surchauffe.
-
-2. **Humidité** 💧 : Elle peut affaiblir l’isolation des conducteurs, augmentant les risques de court-circuit et de surchauffe. Utilisez des matériaux résistants à l’humidité dans les environnements humides.
-
-3. **Exposition au soleil** ☀️ : Pour les installations extérieures, protégez les câbles de l’exposition directe au soleil. Utilisez des gaines résistantes aux UV ou installez des protections pour éviter la dégradation.
-
-4. **Isolation des bâtiments** 🏠 : Une isolation thermique inadaptée peut entraîner une accumulation de chaleur, augmentant ainsi la température autour des installations. 
-
-| Facteur                   | Impact possible sur les installations                                        |
-|---------------------------|------------------------------------------------------------------------------|
-| **Température ambiante**  | Risque accru de surchauffe                                                  |
-| **Humidité**              | Diminution de la résistance de l'isolation                                  |
-| **Exposition au soleil**  | Dégradation accélérée des équipements                                       |
-| **Isolation des bâtiments** | Accumulation de chaleur dans les conduits et armoires électriques          |
-
-   :::warning Attention ⚠️
-   Vérifiez l’état des gaines et isolants chaque année dans les environnements chauds et humides pour prévenir les risques de court-circuit.
+   :::info Educational Note 📝
+   The melting point of conductors must be considered to prevent extreme overheating scenarios, especially in industrial environments.
    :::
 
 ---
 
-### Section 4.3.2. Protection contre les brûlures 🔥
+#### Sub-section 4.3.1.3. External Influences
 
-La **protection contre les brûlures** est essentielle dans toute installation électrique. Les brûlures peuvent survenir lorsqu'une personne entre en contact avec des surfaces chaudes ou des équipements non isolés. Voici comment minimiser ces risques.
+**External influences** can intensify thermal effects. When designing an electrical installation, consider the following factors:
 
-#### Sous-section 4.3.2.1. Limitations des températures du matériel électrique accessible
+1. **Ambient Temperature** 🌞: High temperatures amplify thermal effects. Adapt materials to the environment to prevent overheating risks.
 
-Pour éviter les brûlures, il est important de fixer des **limites de température** sur les équipements électriques accessibles :
+2. **Humidity** 💧: It can weaken conductor insulation, increasing the risk of short circuits and overheating. Use moisture-resistant materials in damp environments.
 
-- **Température maximale autorisée** : En général, la température de surface des équipements exposés doit être inférieure à 60 °C pour prévenir les brûlures. Cette norme garantit une utilisation sécurisée pour les utilisateurs.
+3. **Sun Exposure** ☀️: For outdoor installations, protect cables from direct sunlight. Use UV-resistant conduits or install shielding to prevent degradation.
 
-- **Matériaux isolants** : Privilégiez des matériaux capables de supporter des températures élevées sans se détériorer. Cela inclut les gaines isolantes et les câbles résistants à la chaleur.
+4. **Building Insulation** 🏠: Inadequate thermal insulation can lead to heat accumulation, increasing the temperature around the installations.
 
-- **Surveillance de la température** : Des dispositifs de surveillance peuvent être installés pour alerter en cas de dépassement de température, renforçant ainsi la sécurité des utilisateurs.
+| Factor                     | Possible Impact on Installations                                        |
+|----------------------------|-------------------------------------------------------------------------|
+| **Ambient Temperature**    | Increased risk of overheating                                           |
+| **Humidity**               | Reduced insulation resistance                                           |
+| **Sun Exposure**           | Accelerated equipment degradation                                       |
+| **Building Insulation**    | Heat accumulation in conduits and electrical cabinets                   |
 
-   :::tip Astuce de sécurité 🚨
-   Installez des indicateurs de température sur les équipements exposés pour surveiller les variations de chaleur et prévenir les risques de brûlure.
+   :::warning Caution ⚠️
+   Check the condition of conduits and insulators annually in hot and humid environments to prevent short circuit risks.
+   :::
+
+### Section 4.3.2. Protection Against Burns 🔥
+
+**Protection against burns** is essential in any electrical installation. Burns can occur when a person comes into contact with hot surfaces or uninsulated equipment. Here’s how to minimize these risks.
+
+#### Sub-section 4.3.2.1. Limiting Temperatures of Accessible Electrical Equipment
+
+To prevent burns, it is important to set **temperature limits** on accessible electrical equipment:
+
+- **Maximum Allowed Temperature**: Generally, the surface temperature of exposed equipment should be below 60°C to prevent burns. This standard ensures safe use for users.
+
+- **Insulating Materials**: Use materials that can withstand high temperatures without deteriorating. This includes heat-resistant sleeves and cables.
+
+- **Temperature Monitoring**: Monitoring devices can be installed to alert users in case of temperature exceedance, enhancing user safety.
+
+   :::tip Safety Tip 🚨
+   Install temperature indicators on exposed equipment to monitor heat variations and prevent burn risks.
    :::
 
 ---
 
-#### Sous-section 4.3.2.2. Règles complémentaires pour l’influence externe BA2 (enfants)
+#### Sub-section 4.3.2.2. Additional Rules for External Influence BA2 (Children)
 
-Lorsque des enfants peuvent accéder aux installations, le **RGIE** impose des mesures supplémentaires pour assurer leur sécurité :
+When children may have access to installations, the **Belgian Electrical Regulations** impose additional measures to ensure their safety:
 
-- **Protection physique** : Utilisez des dispositifs de sécurité, comme des couvercles de protection, pour empêcher tout contact direct avec les surfaces chaudes.
+- **Physical Protection**: Use safety devices, such as protective covers, to prevent direct contact with hot surfaces.
 
-- **Design sécurisé** : Conception des appareils avec des éléments isolés pour minimiser les risques de contact avec des parties chaudes. Par exemple, les poignées des équipements de cuisine doivent être isolées thermiquement.
+- **Safe Design**: Design appliances with insulated elements to minimize the risk of contact with hot parts. For example, kitchen equipment handles should be thermally insulated.
 
-- **Signalisation** : Les avertissements concernant les risques de brûlures doivent être clairement visibles et compréhensibles, surtout dans les zones accessibles aux enfants.
+- **Signage**: Warnings about burn risks must be clearly visible and easy to understand, especially in areas accessible to children.
 
-   :::warning Attention aux enfants 🧒
-   Dans les lieux où des enfants circulent, vérifiez que les équipements électriques sont bien protégés et inaccessibles.
+   :::warning Caution for Children 🧒
+   In areas frequented by children, ensure that electrical equipment is well-protected and inaccessible.
    :::
 
 ---
 
-#### Sous-section 4.3.2.3. Installation et maintenance du matériel électrique
+#### Sub-section 4.3.2.3. Installation and Maintenance of Electrical Equipment
 
-Une **installation correcte** et une **maintenance régulière** du matériel électrique réduisent le risque de brûlures et de surchauffe. Voici les points essentiels :
+Proper **installation** and **regular maintenance** of electrical equipment help reduce the risk of burns and overheating. Key points include:
 
-- **Normes d’installation** : Suivez les normes de sécurité, notamment pour l’emplacement des équipements, leur ventilation, et leur accessibilité.
+- **Installation Standards**: Follow safety standards, particularly for equipment placement, ventilation, and accessibility.
 
-- **Ventilation adéquate** 🌬️ : Assurez-vous que les équipements produisant de la chaleur, comme les transformateurs, disposent d'une ventilation suffisante pour dissiper la chaleur.
+- **Adequate Ventilation** 🌬️: Ensure that heat-producing equipment, such as transformers, has sufficient ventilation to dissipate heat.
 
-- **Maintenance régulière** 🛠️ : Un nettoyage et une vérification des dispositifs de dissipation thermique permettent de s’assurer que les équipements fonctionnent en toute sécurité.
+- **Regular Maintenance** 🛠️: Cleaning and checking thermal dissipation devices help ensure that equipment operates safely.
 
-- **Formation des utilisateurs** 📘 : Formez les utilisateurs à identifier les signes de surchauffe, et informez-les des risques de brûlures.
+- **User Training** 📘: Train users to identify signs of overheating and inform them about burn risks.
 
-| Mesure de Protection       | Description                                                    |
-|----------------------------|----------------------------------------------------------------|
-| **Limitation de température** | Maintenir la température des surfaces exposées en dessous de 60 °C |
-| **Protection physique**     | Empêcher tout contact direct avec les équipements chauds      |
-| **Design sécurisé**        | Conception des appareils pour éviter les risques de brûlure   |
-| **Ventilation et dissipation** | Ventilation suffisante pour les équipements produisant de la chaleur |
-| **Formation et sensibilisation** | Apprentissage des bonnes pratiques de sécurité          |
+| Protection Measure          | Description                                                |
+|-----------------------------|------------------------------------------------------------|
+| **Temperature Limitation**  | Keep the surface temperature of exposed parts below 60°C   |
+| **Physical Protection**     | Prevent direct contact with hot equipment                  |
+| **Safe Design**             | Design appliances to minimize burn risks                   |
+| **Ventilation and Dissipation** | Ensure adequate ventilation for heat-producing equipment|
+| **Training and Awareness**  | Educate users on safety best practices                     |
 
-   :::info Note de maintenance 📅
-   Effectuez un contrôle semestriel des équipements pour vérifier qu’ils ne présentent aucun risque thermique.
+   :::info Maintenance Note 📅
+   Perform semi-annual checks on equipment to ensure there are no thermal risks.
    :::
 
 ---
 
-# CHAPITRE 4.3. PROTECTION CONTRE L’INCENDIE 🔥
+# CHAPTER 4.3. FIRE PROTECTION 🔥
 
-La **protection contre l'incendie** est cruciale pour toute installation électrique, car l’électricité peut facilement provoquer des incendies en cas de courts-circuits, de surcharges, ou d’installations défectueuses. Pour garantir la sécurité des personnes et des biens, le **RGIE** impose des mesures préventives et des systèmes de détection et d’extinction pour contrôler tout départ de feu.
+**Fire protection** is crucial for any electrical installation, as electricity can easily trigger fires in case of short circuits, overloads, or faulty installations. To ensure the safety of people and property, the **Belgian Electrical Regulations** mandate preventive measures and detection and extinguishing systems to control any potential fire outbreak.
 
 ---
 
-### Section 4.3.3. Protection contre l’incendie 🔥
+### Section 4.3.3. Fire Protection 🔥
 
-Les mesures de protection contre l’incendie visent à prévenir les incidents en s'assurant que les installations sont conçues et entretenues dans le respect des normes. Les principaux aspects incluent la **prévention**, la **détection**, l’**extinction**, et l’**évacuation**.
+Fire protection measures aim to prevent incidents by ensuring that installations are designed and maintained according to standards. The main aspects include **prevention**, **detection**, **extinguishing**, and **evacuation**.
 
-#### Sous-section 4.3.3.1. Généralités
+#### Sub-section 4.3.3.1. General Overview
 
-1. **Prévention** : Il est essentiel de **minimiser les risques d’incendie** dès la conception. Cela inclut le choix de matériaux ignifugés, le dimensionnement correct des câbles, et le respect strict des normes de sécurité.
+1. **Prevention**: It is essential to **minimize fire risks** from the design phase. This includes selecting flame-retardant materials, correctly sizing cables, and strictly adhering to safety standards.
 
-2. **Détection** 🔍 : Une détection précoce est cruciale. Installez des détecteurs de fumée et d’incendie dans les zones stratégiques pour permettre une intervention rapide.
+2. **Detection** 🔍: Early detection is crucial. Install smoke and fire detectors in strategic areas to allow for a quick response.
 
-3. **Extinction** 💧 : Prévoyez des dispositifs d'extinction, comme des extincteurs, des sprinklers, et des systèmes d'extinction automatiques dans les locaux à risque pour limiter la propagation de l’incendie.
+3. **Extinguishing** 💧: Provide extinguishing devices such as fire extinguishers, sprinklers, and automatic fire suppression systems in high-risk areas to limit fire spread.
 
-4. **Évacuation** 🚪 : Les installations doivent inclure des voies d'évacuation claires et accessibles pour permettre une évacuation en toute sécurité. 
+4. **Evacuation** 🚪: Installations must include clear and accessible evacuation routes to ensure safe exit in case of emergency.
 
-   :::info Conseil de sécurité 🔥
-   Assurez-vous que les détecteurs de fumée et d’incendie sont vérifiés tous les six mois pour garantir leur bon fonctionnement.
+   :::info Safety Tip 🔥
+   Ensure that smoke and fire detectors are checked every six months to verify their proper operation.
    :::
 
 ---
 
-#### Sous-section 4.3.3.2. Définitions spécifiques
+#### Sub-section 4.3.3.2. Key Definitions
 
-Pour bien comprendre les mesures de protection contre l’incendie, il est utile de connaître certains termes :
+To understand fire protection measures, it is useful to know some key terms:
 
-- **Source d'inflammation** : Tout élément pouvant déclencher un incendie, tel qu’une étincelle, une surface chaude, ou une flamme nue.
-- **Combustible** : Toute substance susceptible de brûler, comme le bois, les liquides inflammables, ou certains gaz.
-- **Zone d'incendie** : Espace où les conditions sont propices au départ et à la propagation du feu.
-- **Système de protection contre l’incendie** : Ensemble de dispositifs et de procédures pour prévenir, détecter, et éteindre les incendies.
+- **Ignition Source**: Any element capable of starting a fire, such as a spark, hot surface, or open flame.
+- **Combustible Material**: Any substance that can burn, like wood, flammable liquids, or certain gases.
+- **Fire Zone**: An area where conditions are favorable for fire ignition and spread.
+- **Fire Protection System**: A set of devices and procedures to prevent, detect, and extinguish fires.
 
-   :::tip Bonnes pratiques 🔍
-   Placez des sources d’inflammation à l’écart des combustibles pour réduire les risques d’incendie.
+   :::tip Best Practices 🔍
+   Keep ignition sources away from combustible materials to reduce fire risks.
    :::
 
 ---
 
-#### Sous-section 4.3.3.3. Classification du danger d’incendie dans un lieu
+#### Sub-section 4.3.3.3. Fire Hazard Classification in a Location
 
-La **classification du danger d’incendie** aide à évaluer les risques d’incendie et à choisir les mesures de protection adéquates. Voici les principales catégories :
+**Fire hazard classification** helps assess fire risks and determine appropriate protection measures. Here are the main categories:
 
-| Classification         | Description                                                                                      | Mesures recommandées                        |
-|------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------|
-| **Zone à risque faible**    | Espaces sans sources d'inflammation ni combustibles significatifs.                         | Mesures de base pour la sécurité incendie.  |
-| **Zone à risque modéré**    | Espaces contenant des sources d'inflammation et des combustibles, mais avec précautions.  | Systèmes de détection, extincteurs.         |
-| **Zone à risque élevé**     | Espaces avec des combustibles et des conditions propices à l’incendie.                    | Extincteurs automatiques, surveillance accrue.|
+| Classification              | Description                                                                               | Recommended Measures                       |
+|-----------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------|
+| **Low-Risk Zone**           | Areas without ignition sources or significant combustible materials.                      | Basic fire safety measures.                |
+| **Moderate-Risk Zone**      | Areas with ignition sources and combustibles, but with safety precautions in place.       | Detection systems, fire extinguishers.     |
+| **High-Risk Zone**          | Areas with combustible materials and conditions conducive to fire ignition.               | Automatic extinguishers, enhanced monitoring.|
 
-   :::warning Attention ! ⚠️
-   Dans les zones à risque élevé, effectuez des contrôles réguliers et installez des systèmes de surveillance continue pour détecter les signes de chaleur ou de fumée.
+   :::warning Caution! ⚠️
+   In high-risk zones, conduct regular inspections and install continuous monitoring systems to detect signs of heat or smoke.
    :::
 
 ---
 
-#### Sous-section 4.3.3.4. Classification des conducteurs isolés et des câbles
+#### Sub-section 4.3.3.4. Classification of Insulated Conductors and Cables
 
-La **classification des câbles** est essentielle pour minimiser les risques d’incendie en choisissant des matériaux adaptés aux environnements à risque.
+The **classification of cables** is essential to minimize fire risks by choosing materials suitable for hazardous environments.
 
-1. **Câbles non propagateurs de flammes** 🔥 : Conçus pour ne pas propager les flammes le long de leur longueur, ils sont idéaux pour les zones à haut risque d’incendie.
+1. **Flame-Retardant Cables** 🔥: Designed to prevent flame propagation along their length, ideal for high fire-risk areas.
 
-2. **Câbles à faible émission de fumée** 💨 : En cas de combustion, ces câbles produisent peu de fumée toxique, ce qui améliore la sécurité des occupants lors d’un incendie.
+2. **Low Smoke Emission Cables** 💨: These cables produce minimal toxic smoke when burned, enhancing occupant safety during a fire.
 
-3. **Câbles ignifugés** 💥 : Fabriqués pour résister aux températures élevées et aux expositions aux flammes, ces câbles limitent les risques de propagation du feu.
+3. **Fire-Resistant Cables** 💥: Built to withstand high temperatures and exposure to flames, these cables reduce the risk of fire spread.
 
-   :::tip Bonnes pratiques 🔧
-   Dans les bâtiments publics, privilégiez les câbles à faible émission de fumée pour réduire les risques d’intoxication en cas d’incendie.
+   :::tip Best Practices 🔧
+   In public buildings, prioritize low smoke emission cables to reduce the risk of smoke inhalation during a fire.
    :::
 
 ---
 
-#### Sous-section 4.3.3.5. Mesures de protection générales contre l’incendie
+#### Sub-section 4.3.3.5. General Fire Protection Measures
 
-Les **mesures de protection contre l’incendie** doivent être intégrées dès la phase de conception :
+**Fire protection measures** must be integrated from the design phase:
 
-1. **Choix des matériaux** : Privilégiez des matériaux ininflammables ou résistants au feu pour les installations électriques.
+1. **Material Selection**: Use non-flammable or fire-resistant materials for electrical installations.
 
-2. **Séparation des circuits** 🔌 : Pour éviter la propagation du feu, installez les circuits électriques de façon à minimiser les interférences et les risques d’inflammation croisée.
+2. **Circuit Separation** 🔌: To prevent fire spread, install electrical circuits in a way that minimizes interference and cross-ignition risks.
 
-3. **Équipements de sécurité** ⚙️ : Utilisez des disjoncteurs différentiels pour couper l’alimentation en cas de surcharge, et ajoutez des détecteurs de chaleur dans les zones sensibles.
+3. **Safety Equipment** ⚙️: Use residual current devices (RCDs) to cut power in case of overload and add heat detectors in sensitive areas.
 
-4. **Plan d’urgence** 🚨 : Préparez un plan d'évacuation et formez les employés à réagir efficacement en cas de départ de feu.
+4. **Emergency Plan** 🚨: Develop an evacuation plan and train employees to respond effectively in case of fire.
 
-   :::warning Rappel sécurité ⚠️
-   Un plan d'urgence bien établi et régulièrement pratiqué sauve des vies en cas d'incendie. Organisez des exercices tous les ans.
+   :::warning Safety Reminder ⚠️
+   A well-established and regularly practiced emergency plan saves lives during a fire. Conduct drills annually.
    :::
 
 ---
 
-#### Sous-section 4.3.3.6. Mesures de protection complémentaires dans les lieux à risque accru
+#### Sub-section 4.3.3.6. Additional Protection Measures in High-Risk Areas
 
-Les lieux présentant un risque élevé d’incendie nécessitent des **mesures de protection complémentaires** :
+Locations with a high fire risk require **additional protection measures**:
 
-1. **Systèmes d'extinction automatiques** 💧 : Installez des systèmes automatiques tels que des sprinklers ou des brouillards d'eau pour éteindre rapidement les débuts d’incendie.
+1. **Automatic Extinguishing Systems** 💧: Install automatic systems such as sprinklers or water mist to quickly extinguish initial fire outbreaks.
 
-2. **Surveillance continue** 📡 : Utilisez des systèmes de surveillance pour détecter la chaleur et la fumée. Ces dispositifs permettent d’intervenir rapidement en cas d’incident.
+2. **Continuous Monitoring** 📡: Use monitoring systems to detect heat and smoke. These devices enable a rapid response in case of an incident.
 
-3. **Contrôles réguliers** 🛠️ : Planifiez des inspections pour vérifier que tous les systèmes de protection incendie sont en état de fonctionnement optimal.
+3. **Regular Inspections** 🛠️: Schedule inspections to ensure that all fire protection systems are in optimal working condition.
 
-   :::info Note pratique 🔍
-   En milieu industriel, vérifiez la disponibilité des systèmes d’extinction tous les mois pour assurer leur fiabilité.
+   :::info Practical Note 🔍
+   In industrial environments, check the availability of extinguishing systems monthly to ensure reliability.
    :::
 
 ---
 
-#### Sous-section 4.3.3.7. Mesures de protection particulières
+#### Sub-section 4.3.3.7. Specific Protection Measures
 
-Certains lieux peuvent nécessiter des mesures spécifiques en fonction de leur utilisation et des risques présents :
+Certain locations may require specific measures based on their use and the risks present:
 
-1. **Zones à haut risque** 🔥 : Dans les zones de stockage de matériaux dangereux, adoptez des systèmes de confinement pour limiter la propagation de substances inflammables en cas d’incendie.
+1. **High-Risk Areas** 🔥: In hazardous material storage zones, use containment systems to limit the spread of flammable substances in case of fire.
 
-2. **Formation spécialisée** 🎓 : Les employés travaillant dans des environnements à haut risque doivent recevoir une formation spécialisée pour leur apprendre à gérer les risques d’incendie et à utiliser les équipements de sécurité.
+2. **Specialized Training** 🎓: Employees working in high-risk environments should receive specialized training on fire risks and the use of safety equipment.
 
-3. **Équipements spécifiques** 🧯 : Fournissez des extincteurs adaptés aux classes de feu présentes dans les installations (ex. : extincteurs CO₂ pour les feux électriques, poudres pour feux de liquides inflammables).
+3. **Specific Equipment** 🧯: Provide fire extinguishers suited to the types of fire present in the installation (e.g., CO₂ extinguishers for electrical fires, powder for flammable liquid fires).
 
-   :::tip Bonnes pratiques 👷
-   Assurez-vous que chaque employé sait utiliser un extincteur et connaît les points de rassemblement en cas d'évacuation.
+   :::tip Best Practices 👷
+   Ensure every employee knows how to use a fire extinguisher and is familiar with evacuation meeting points.
    :::
 
 ---
 
-### Section 4.3.4. Protection contre les risques d’explosion en atmosphère explosive 💥
+### Section 4.3.4. Protection Against Explosion Risks in Explosive Atmospheres 💥
 
-Dans les environnements où des mélanges de substances inflammables et d’air peuvent se former, la **protection contre les risques d’explosion** est impérative. Cette protection implique :
+In environments where mixtures of flammable substances and air can form, **protection against explosion risks** is critical. This protection involves:
 
-1. **Études de cas et analyses de risques** : Évaluez minutieusement les risques potentiels pour mettre en place des mesures de sécurité appropriées.
+1. **Case Studies and Risk Analysis**: Carefully assess potential risks to implement appropriate safety measures.
 
-2. **Systèmes de contrôle des risques** : Limitez les sources d’inflammation et installez des systèmes qui empêchent la formation de mélanges explosifs.
+2. **Risk Control Systems**: Limit ignition sources and install systems that prevent the formation of explosive mixtures.
 
-3. **Conformité aux normes ATEX** 📜 : Assurez-vous que les équipements utilisés sont conformes aux normes ATEX, indispensables pour la sécurité dans les zones à risque d’explosion.
+3. **Compliance with ATEX Standards** 📜: Ensure that equipment used complies with ATEX standards, essential for safety in explosion-risk areas.
 
-   :::warning Rappel sécurité ! ⚠️
-   Dans les atmosphères explosives, n'utilisez jamais d'équipements non certifiés ATEX, car ils pourraient provoquer des explosions dangereuses.
+   :::warning Safety Reminder! ⚠️
+   In explosive atmospheres, never use non-ATEX certified equipment, as it could trigger dangerous explosions.
+   :::
+
+## CHAPTER 4.4. ELECTRICAL PROTECTION AGAINST OVERCURRENT ⚡
+
+Protection against **overcurrent** is essential to ensure the safety of electrical installations. Overcurrents, such as short circuits or overloads, can damage equipment, cause fires, and even endanger users. Adequate protection devices are therefore indispensable to prevent these risks.
+
+---
+
+### Section 4.4.1. Overview of Overcurrent Protection
+
+Overcurrent protection systems are designed to **interrupt the circuit** when the current exceeds a certain level, thereby preventing damage. Here are the key principles and essential devices.
+
+#### Sub-section 4.4.1.1. Principle of Overcurrent Protection
+
+The principle of protection is based on interrupting the electrical circuit as soon as an **abnormal current intensity** is detected, which is crucial for protecting both installations and users.
+
+| Device                      | Function                                                                                                  |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Circuit Breakers** 🔧     | Detect overcurrents and automatically disconnect the circuit. They can be reset after tripping.           |
+| **Fuses** 💥                | Melt when an excessive current flows, breaking the circuit. They must be replaced after use.              |
+| **Thermal Relays** 🌡️      | Interrupt the circuit in case of overheating, mainly used for electric motors.                            |
+
+   :::info Best Practices 💡
+   Choose resettable circuit breakers for circuits requiring reliable and fast protection, as they allow for simplified intervention after tripping.
    :::
 
 ---
 
-## CHAPITRE 4.4. PROTECTION ÉLECTRIQUE CONTRE LES SURINTENSITÉS ⚡
+#### Sub-section 4.4.1.2. Types of Overcurrents and Their Causes
 
-La protection contre les **surintensités** est essentielle pour garantir la sécurité des installations électriques. Les surintensités, telles que les courts-circuits ou les surcharges, peuvent endommager les équipements, provoquer des incendies, et même mettre en danger les utilisateurs. Des dispositifs de protection adéquats sont donc indispensables pour prévenir ces risques.
+Overcurrents can be caused by several factors, including:
 
----
+- **Short-Circuit Currents**: Caused by accidental connections between conductors, generating very high currents that far exceed the circuit's capacity.
 
-### Section 4.4.1. Généralités sur la protection contre les surintensités
+- **Surges**: A **temporary increase in voltage** due to external events (such as lightning) or equipment faults can also lead to overcurrents.
 
-Les systèmes de protection contre les surintensités sont conçus pour **interrompre le circuit** dès que le courant dépasse un certain niveau, empêchant ainsi les dégâts. Voici les principes et dispositifs essentiels.
+- **Overloads**: When devices draw more current than their rated capacity, this can result in an overcurrent.
 
-#### Sous-section 4.4.1.1. Principe de la protection contre les surintensités
-
-Le principe de protection repose sur l’interruption du circuit électrique dès qu'une **intensité de courant anormale** est détectée, ce qui est essentiel pour protéger à la fois les installations et les personnes.
-
-| Dispositif               | Fonctionnement                                                                                              |
-|--------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Disjoncteurs** 🔧      | Détectent les surintensités et coupent automatiquement le circuit. Ils peuvent être réinitialisés.         |
-| **Fusibles** 💥          | Fondent lorsqu’un courant excessif circule, ouvrant le circuit. Ils doivent être remplacés après usage.    |
-| **Relais thermiques** 🌡️ | Interrompent le circuit en cas de surchauffe, principalement utilisés pour les moteurs électriques.         |
-
-   :::info Bonnes pratiques 💡
-   Préférez les disjoncteurs réarmables pour les circuits nécessitant une protection fiable et rapide, car ils permettent une intervention simplifiée après déclenchement.
+   :::warning Caution Against Overloads ⚠️
+   To prevent overloads, regularly check the power consumption of devices connected to the same circuit and avoid overloading a single power outlet.
    :::
 
 ---
 
-#### Sous-section 4.4.1.2. Types de surintensités et leurs causes
+#### Sub-section 4.4.1.3. Common Overcurrent Protection Devices
 
-Les surintensités peuvent être causées par plusieurs facteurs, notamment :
+There are various protection devices designed to offer suitable protection for each type of overcurrent:
 
-- **Courants de court-circuit** : Causés par une connexion accidentelle entre conducteurs, générant des courants très élevés qui dépassent largement la capacité des circuits.
+1. **Residual Current Devices (RCDs)**: Protect against electric shocks and overcurrents by detecting imbalances between conductors.
 
-- **Surtensions** : Une **augmentation temporaire de la tension** due à des événements externes (comme la foudre) ou à des défauts de l’équipement peut également provoquer des surintensités.
+2. **Magnetic-Thermal Circuit Breakers**: Provide protection against overloads and short circuits, using both thermal and magnetic mechanisms to trigger the interruption.
 
-- **Surcharges** : Lorsque des appareils consomment plus de courant que leur capacité nominale, cela peut entraîner une surintensité.
+3. **High-Current Fuses**: Designed for high-power applications, these fuses melt quickly to protect the circuit in case of extreme overcurrent.
 
-   :::warning Attention aux surcharges ⚠️
-   Pour éviter les surcharges, vérifiez régulièrement la consommation des appareils connectés au même circuit et n'ajoutez pas trop d’appareils sur un seul point de branchement.
+| Device Type                      | Main Use                                                      |
+|----------------------------------|---------------------------------------------------------------|
+| **Residual Current Devices (RCDs)** | Protect users against electric shocks                          |
+| **Magnetic-Thermal Circuit Breakers** | Protect equipment from short circuits and overloads          |
+| **High-Current Fuses**           | Protect high-power circuits                                   |
+
+   :::tip Best Practices 🔌
+   Ensure you use protection devices suited to each circuit’s needs to optimize safety and prevent failures.
    :::
 
 ---
 
-#### Sous-section 4.4.1.3. Dispositifs de protection communs contre les surintensités
+#### Sub-section 4.4.1.4. Series Protection Devices
 
-Les dispositifs de protection courants sont variés et permettent une protection adaptée à chaque type de surintensité :
+When protection devices are installed **in series**, all current flows through each device. This ensures that if an overcurrent is detected, the circuit is immediately interrupted:
 
-1. **Disjoncteurs à courant différentiel résiduel (DDR)** : Protègent contre les chocs électriques et les surintensités, en détectant les déséquilibres de courant entre les conducteurs.
+- **Example**: In an electrical panel, a main circuit breaker can be placed in series with multiple secondary breakers. If a short circuit occurs in a secondary circuit, the main breaker trips and protects the entire installation.
 
-2. **Disjoncteurs magnéto-thermiques** : Assurent une protection contre les surcharges et les courts-circuits en combinant des mécanismes thermiques et magnétiques pour déclencher l'interruption.
-
-3. **Fusibles à courant élevé** : Conçus pour les applications haute puissance, ils fondent rapidement pour protéger le circuit en cas de surintensité extrême.
-
-| Type de Dispositif                  | Utilisation principale                                        |
-|-------------------------------------|----------------------------------------------------------------|
-| **Disjoncteurs différentiel (DDR)** | Protection des personnes contre les chocs électriques          |
-| **Disjoncteurs magnéto-thermiques** | Protection des équipements contre les courts-circuits et surcharges |
-| **Fusibles à courant élevé**        | Protection des circuits haute puissance                        |
-
-   :::tip Bonnes pratiques 🔌
-   Assurez-vous d’utiliser des dispositifs de protection adaptés aux besoins de chaque circuit pour optimiser la sécurité et prévenir les défaillances.
+   :::info Practical Tip 🛠️
+   In complex installations, placing circuit breakers in series provides enhanced protection at different levels of the installation.
    :::
 
 ---
 
-#### Sous-section 4.4.1.4. Dispositifs de protection placés en série
+#### Sub-section 4.4.1.5. Current-Carrying Capacity of Electrical Cables
 
-Lorsque les dispositifs de protection sont installés **en série**, tout le courant passe par chacun d'eux. Cela garantit que si une surintensité est détectée, le circuit est immédiatement interrompu :
+The **current-carrying capacity** is the maximum current a conductor can carry without exceeding its thermal limit. This value depends on several factors:
 
-- **Exemple** : Dans un tableau électrique, un disjoncteur principal peut être placé en série avec plusieurs disjoncteurs secondaires. Si un court-circuit se produit dans un circuit secondaire, le disjoncteur principal déclenche et protège l'ensemble de l'installation.
-
-   :::info Conseil pratique 🛠️
-   Dans les installations complexes, le placement en série de disjoncteurs permet une protection accrue à différents niveaux de l’installation.
-   :::
-
----
-
-#### Sous-section 4.4.1.5. Courant admissible dans les canalisations électriques
-
-Le **courant admissible** est la limite de courant qu’un conducteur peut transporter sans dépasser sa limite thermique. Cette valeur dépend de plusieurs facteurs :
-
-1. **Section du conducteur** : Plus le conducteur est large, plus le courant admissible est élevé.
+1. **Conductor Size**: The larger the conductor, the higher its current-carrying capacity.
    
-2. **Type d'isolant** : Les matériaux isolants ont des capacités de résistance thermique différentes, influençant le courant que le conducteur peut supporter.
+2. **Type of Insulation**: Insulating materials have different thermal resistance capacities, affecting the current the conductor can handle.
 
-3. **Conditions d'installation** : Les méthodes d’installation (enfouissement, conduits, à l'air libre) influencent la capacité de dissipation thermique.
+3. **Installation Conditions**: Installation methods (buried, conduits, open air) influence the heat dissipation capacity.
 
-| Facteur                   | Impact sur le courant admissible                         |
-|---------------------------|---------------------------------------------------------|
-| **Section du conducteur** | Section plus large = capacité de courant plus élevée    |
-| **Type d'isolant**        | Dépend de la température maximale supportée             |
-| **Conditions d'installation** | Facteurs comme l'air libre augmentent la dissipation |
+| Factor                          | Impact on Current-Carrying Capacity                              |
+|---------------------------------|-----------------------------------------------------------------|
+| **Conductor Size**              | Larger size = higher current capacity                            |
+| **Type of Insulation**          | Depends on the maximum temperature supported                     |
+| **Installation Conditions**     | Factors like open air increase heat dissipation                  |
 
-   :::warning Attention aux courants excessifs ⚠️
-   Veillez à bien dimensionner vos conducteurs selon le courant admissible pour éviter tout risque de surchauffe.
+   :::warning Caution About Excessive Current ⚠️
+   Ensure proper conductor sizing according to the current-carrying capacity to avoid overheating risks.
    :::
 
 ---
 
-#### Sous-section 4.4.1.6. Branchements des utilisateurs de réseau
+#### Sub-section 4.4.1.6. User Network Connections
 
-Les branchements doivent être conçus pour garantir une **protection adéquate contre les surintensités** :
+Network connections must be designed to ensure **adequate protection against overcurrents**:
 
-- **Points de connexion** : Les connexions doivent être soigneusement réalisées pour éviter tout risque de surintensité causée par des défauts de connexion.
+- **Connection Points**: Connections should be made carefully to avoid the risk of overcurrent due to connection faults.
 
-- **Matériaux de qualité** : Utilisez des câbles et connecteurs adaptés aux charges prévues et conformes aux normes en vigueur.
+- **Quality Materials**: Use cables and connectors suitable for the expected loads and compliant with current standards.
 
-- **Dispositifs de protection à proximité** : Chaque point de branchement doit inclure des dispositifs de protection pour interrompre rapidement le courant en cas de surintensité.
+- **Nearby Protection Devices**: Each connection point should include protection devices to quickly interrupt the current in case of an overcurrent.
 
-   :::tip Note technique ⚙️
-   Effectuez une inspection régulière des points de branchement pour détecter tout signe d’usure ou de surintensité.
+   :::tip Technical Note ⚙️
+   Conduct regular inspections of connection points to detect any signs of wear or overcurrent.
    :::
 
 ---
 
-### Section 4.4.2. Protection contre les courts-circuits en basse et très basse tension
+### Section 4.4.2. Short-Circuit Protection in Low and Extra Low Voltage
 
-Les **courts-circuits** peuvent causer des courants très élevés, ce qui entraîne des dommages matériels importants et des risques d’incendie. La protection contre les courts-circuits est essentielle dans les installations électriques.
+**Short circuits** can cause extremely high currents, leading to significant material damage and fire hazards. Protection against short circuits is essential in electrical installations.
 
-#### Sous-section 4.4.2.1. Dispositifs de protection contre les courts-circuits
+#### Sub-section 4.4.2.1. Short-Circuit Protection Devices
 
-Les dispositifs de protection détectent les courants excessifs et interrompent le circuit pour éviter les dommages :
+Protection devices detect excessive currents and interrupt the circuit to prevent damage:
 
-| Type de Dispositif                  | Action                                       | Réinitialisation  |
-|-------------------------------------|----------------------------------------------|-------------------|
-| **Disjoncteur** ⚡                  | Interruption instantanée en cas de court-circuit | Oui               |
-| **Fusible** 💥                      | Fusion pour ouvrir le circuit                 | Non (remplacement)|
-| **Relais de protection** 🔒         | Déclenche un dispositif de coupure programmé  | Oui               |
+| Device Type                     | Action                                         | Resettable       |
+|---------------------------------|------------------------------------------------|------------------|
+| **Circuit Breaker** ⚡           | Instant interruption in case of short circuit  | Yes              |
+| **Fuse** 💥                      | Melts to open the circuit                      | No (replacement) |
+| **Protection Relay** 🔒         | Triggers a programmed cut-off device           | Yes              |
 
-1. **Disjoncteurs** : Détectent les courts-circuits et se déclenchent instantanément pour protéger le circuit. Ils peuvent être magnéto-thermiques ou différentiel (DDR).
+1. **Circuit Breakers**: Detect short circuits and trip instantly to protect the circuit. They can be magnetic-thermal or residual current (RCD).
 
-2. **Fusibles** : En fondant, ils ouvrent le circuit lorsque le courant atteint un certain seuil, offrant une protection fiable mais nécessitant un remplacement après usage.
+2. **Fuses**: Melt when the current reaches a certain threshold, providing reliable protection but requiring replacement after use.
 
-3. **Relais de protection** : Utilisés dans les installations complexes, ils surveillent les courants et déclenchent les dispositifs de coupure si un court-circuit est détecté.
+3. **Protection Relays**: Used in complex installations, they monitor currents and trigger cut-off devices if a short circuit is detected.
 
-   :::info Astuce pratique 📘
-   Préférez les disjoncteurs dans les installations résidentielles, car ils permettent un réarmement sans remplacement, contrairement aux fusibles.
+   :::info Practical Tip 📘
+   Choose circuit breakers for residential installations, as they can be reset without needing replacement, unlike fuses.
    :::
 
 ---
 
-#### Sous-section 4.4.2.2. Emplacement des dispositifs de protection
+#### Sub-section 4.4.2.2. Placement of Protection Devices
 
-L’emplacement des dispositifs de protection est essentiel pour leur efficacité :
+The placement of protection devices is key to their effectiveness:
 
-1. **Proximité du tableau électrique** : Installez les dispositifs aussi près que possible des sources d'alimentation pour une intervention rapide en cas de surintensité.
+1. **Proximity to the Electrical Panel**: Install devices as close as possible to the power sources for a rapid response in case of overcurrent.
 
-2. **Accessibilité** 🔑 : Les dispositifs doivent être accessibles pour permettre une intervention rapide en cas de panne. Prévoyez un espace autour des dispositifs pour faciliter leur entretien et manipulation.
+2. **Accessibility** 🔑: Devices must be easily accessible to allow for quick intervention in case of a fault. Provide space around devices for easy maintenance and handling.
 
-3. **Protection contre les influences externes** ☔ : Protégez les dispositifs des conditions environnementales comme l'humidité ou la chaleur excessive, qui pourraient affecter leur fonctionnement.
+3. **Protection Against External Influences** ☔: Shield devices from environmental conditions like humidity or excessive heat, which may affect their operation.
 
-   :::tip Bonnes pratiques de sécurité 🔒
-   Installez les disjoncteurs dans des boîtiers étanches dans les environnements humides pour préserver leur fiabilité.
-   :::
-
-## CHAPITRE 4.4. PROTECTION ÉLECTRIQUE CONTRE LES SURCHARGES ⚡
-
-La **protection contre les surcharges** est cruciale pour éviter la surchauffe des conducteurs et prévenir les risques d'incendie et de défaillances matérielles dans les installations électriques. Une surcharge, qui se produit lorsque le courant dépasse la capacité nominale du circuit, peut provoquer de graves dommages. Les dispositifs de protection contre les surcharges permettent de sécuriser les installations en détectant et en coupant l’alimentation en cas de courant excessif.
-
----
-
-### Section 4.4.3. Protection contre les surcharges en basse et très basse tension 🌡️
-
-La **protection contre les surcharges** est essentielle pour prévenir la surchauffe des conducteurs, un facteur qui peut compromettre la sécurité d'une installation. Les surcharges peuvent survenir en raison d'une consommation excessive de courant par les appareils connectés.
-
-#### Sous-section 4.4.3.1. Principe de protection contre les surcharges
-
-La protection repose sur la **surveillance constante du courant** circulant dans le circuit :
-
-- **Surveillance continue** 🔍 : Les dispositifs de protection mesurent en continu le courant dans le circuit et déclenchent une coupure dès qu’une surcharge est détectée. Cela empêche la surchauffe des conducteurs et protège l’installation.
-
-   :::tip Note pratique 💡
-   Pour des installations résidentielles, utilisez des disjoncteurs thermiques qui offrent une protection efficace contre les surcharges tout en étant réinitialisables.
+   :::tip Safety Best Practices 🔒
+   Install circuit breakers in waterproof enclosures in damp environments to maintain their reliability.
    :::
 
 ---
 
-#### Sous-section 4.4.3.2. Dispositifs de protection contre les surcharges
+## CHAPTER 4.4. ELECTRICAL PROTECTION AGAINST OVERLOADS ⚡
 
-Plusieurs dispositifs peuvent être utilisés pour détecter et interrompre le courant en cas de surcharge :
+**Overload protection** is crucial to prevent conductor overheating and reduce the risk of fires and equipment failures in electrical installations. An overload occurs when the current exceeds the circuit’s rated capacity, potentially causing severe damage. Overload protection devices help secure installations by detecting excessive current and cutting off the power supply.
 
-1. **Disjoncteurs thermiques** 🌡️ : Ces dispositifs possèdent un élément sensible à la chaleur qui réagit lorsque le courant dépasse le seuil nominal, déclenchant une coupure. Idéal pour les circuits à usage intensif, ils sont couramment utilisés dans les installations résidentielles et commerciales.
+---
 
-2. **Fusibles à surcharge** 🔥 : Similaires aux fusibles pour courts-circuits, mais spécialement conçus pour fondre en cas de surcharge. Ils offrent une protection rapide mais doivent être remplacés après chaque utilisation.
+### Section 4.4.3. Overload Protection in Low and Extra Low Voltage 🌡️
 
-| Type de Dispositif         | Temps de réponse | Conditions d'utilisation                  |
-|----------------------------|-----------------|-------------------------------------------|
-| **Disjoncteur thermique**   | Variable        | Circuits sous tension fréquente           |
-| **Fusible à surcharge**     | Rapide          | Applications à faible consommation        |
+**Overload protection** is essential to prevent conductor overheating, a factor that can compromise installation safety. Overloads may occur due to excessive current consumption by connected devices.
 
-   :::warning Attention ! ⚠️
-   Assurez-vous de bien dimensionner le disjoncteur ou le fusible en fonction des besoins du circuit pour éviter les coupures inutiles ou les risques de surintensité.
+#### Sub-section 4.4.3.1. Principle of Overload Protection
+
+Overload protection relies on the **continuous monitoring of current** flowing through the circuit:
+
+- **Continuous Monitoring** 🔍: Protection devices constantly measure the current in the circuit and trigger a cut-off as soon as an overload is detected. This prevents conductor overheating and safeguards the installation.
+
+   :::tip Practical Note 💡
+   For residential installations, use thermal circuit breakers that provide effective overload protection and can be reset after tripping.
    :::
 
 ---
 
-#### Sous-section 4.4.3.3. Dispenses
+#### Sub-section 4.4.3.2. Overload Protection Devices
 
-Dans certaines situations, des **dispenses** de protection contre les surcharges peuvent être accordées. Ces dispenses sont généralement spécifiques et concernent des installations particulières :
+Various devices can be used to detect and interrupt the current in case of an overload:
 
-- **Installations à faible puissance** : Lorsque la consommation reste toujours inférieure à un seuil critique, une protection spécifique contre les surcharges peut être jugée non nécessaire.
+1. **Thermal Circuit Breakers** 🌡️: These devices contain a heat-sensitive element that reacts when the current exceeds the rated threshold, triggering a cut-off. Ideal for high-usage circuits, they are commonly used in residential and commercial installations.
 
-- **Conception de circuit avec marges de sécurité** : Si l’installation est dimensionnée avec une marge de sécurité suffisante pour gérer les surcharges, des dispenses peuvent être envisagées. 
+2. **Overload Fuses** 🔥: Similar to short-circuit fuses, but designed to melt in case of an overload. They provide rapid protection but must be replaced after use.
 
-   :::info À savoir 🔍
-   Les dispenses doivent être validées par un professionnel agréé pour s’assurer qu’elles n’affectent pas la sécurité de l’installation.
+| Device Type                   | Response Time | Application Conditions               |
+|-------------------------------|---------------|--------------------------------------|
+| **Thermal Circuit Breaker**   | Variable      | Frequently loaded circuits           |
+| **Overload Fuse**             | Fast          | Low-consumption applications         |
+
+   :::warning Caution! ⚠️
+   Ensure that the circuit breaker or fuse is correctly sized for the circuit’s requirements to avoid unnecessary tripping or overcurrent risks.
    :::
 
 ---
 
-#### Sous-section 4.4.3.4. Canalisations électriques raccordées en parallèle
+#### Sub-section 4.4.3.3. Exemptions
 
-Dans les installations avec des **canalisations électriques en parallèle**, des précautions supplémentaires sont nécessaires pour répartir la charge uniformément entre les conducteurs.
+In certain situations, **exemptions** from overload protection may be granted. These exemptions are typically specific and apply to particular installations:
 
-1. **Équilibrage des charges** ⚖️ : Il est essentiel que les charges soient distribuées équitablement pour éviter la surcharge sur un conducteur particulier.
+- **Low-Power Installations**: When the power consumption remains consistently below a critical threshold, specific overload protection may be deemed unnecessary.
 
-2. **Protection individuelle** 🔌 : Chaque conducteur parallèle doit être protégé individuellement pour garantir une sécurité optimale en cas de surcharge. 
+- **Circuit Design with Safety Margins**: If the installation is designed with a sufficient safety margin to handle overloads, exemptions may be considered.
 
-| Type de Canalisation          | Protection requise            | Remarques                      |
-|-------------------------------|-------------------------------|--------------------------------|
-| **Canalisation unique**       | Disjoncteur ou fusible        | Protection standard            |
-| **Canalisation en parallèle** | Dispositifs individuels       | Équilibrage nécessaire         |
-
-   :::tip Bonnes pratiques 🔧
-   Assurez-vous d’utiliser des dispositifs de protection adaptés à chaque conducteur dans une configuration en parallèle pour éviter les risques de surcharge.
+   :::info Did You Know? 🔍
+   Exemptions must be validated by a certified professional to ensure they do not compromise the safety of the installation.
    :::
 
 ---
 
-### Section 4.4.4. Protection contre les surintensités des conducteurs de phase et des conducteurs neutres 🌍
+#### Sub-section 4.4.3.4. Parallel Electrical Cables
 
-La protection contre les **surintensités des conducteurs de phase et neutres** est vitale pour la sécurité et la durabilité des installations. Une surintensité dans ces conducteurs peut entraîner des risques de surchauffe, des dommages matériels, et des incendies.
+In installations with **parallel electrical cables**, additional precautions are necessary to ensure the load is evenly distributed across conductors.
 
-#### Sous-section 4.4.4.1. Coupure du conducteur affecté
+1. **Load Balancing** ⚖️: It is crucial to distribute loads evenly to prevent overloading a specific conductor.
 
-La coupure immédiate du **conducteur affecté** par une surintensité est cruciale pour éviter des dommages :
+2. **Individual Protection** 🔌: Each parallel conductor must be individually protected to ensure optimal safety in case of an overload.
 
-- **Prévention des dommages matériels** 🔧 : Une surintensité non interrompue peut provoquer une surchauffe et endommager les équipements.
+| Cable Type                    | Required Protection         | Notes                          |
+|-------------------------------|-----------------------------|--------------------------------|
+| **Single Cable**              | Circuit breaker or fuse     | Standard protection            |
+| **Parallel Cables**           | Individual protection devices| Load balancing needed          |
 
-- **Sécurité des utilisateurs** 🛡️ : En coupant le conducteur affecté, on réduit les risques de chocs électriques et d'incendie.
+   :::tip Best Practices 🔧
+   Ensure that each conductor in a parallel configuration is equipped with appropriate protection devices to prevent overload risks.
+   :::
 
-- **Maintenance en toute sécurité** 🛠️ : La coupure permet d'effectuer des réparations en toute sécurité sans risque de contact avec une installation sous tension.
+### Section 4.4.4. Overcurrent Protection for Phase and Neutral Conductors 🌍
 
-   :::warning Attention sécurité ⚠️
-   Assurez-vous que tous les conducteurs affectés par une surintensité sont coupés immédiatement pour protéger l’ensemble du système.
+Protection against **overcurrent in phase and neutral conductors** is vital for the safety and durability of installations. An overcurrent in these conductors can lead to overheating, material damage, and fire hazards.
+
+#### Sub-section 4.4.4.1. Disconnection of the Affected Conductor
+
+Immediate disconnection of the **affected conductor** in case of overcurrent is crucial to prevent damage:
+
+- **Prevention of Material Damage** 🔧: An uninterrupted overcurrent can cause overheating and damage equipment.
+
+- **User Safety** 🛡️: Disconnecting the affected conductor reduces the risk of electric shock and fire.
+
+- **Safe Maintenance** 🛠️: Disconnection allows for safe repairs without the risk of contact with live installations.
+
+   :::warning Safety Alert ⚠️
+   Ensure that all conductors affected by an overcurrent are disconnected immediately to protect the entire system.
    :::
 
 ---
 
-#### Sous-section 4.4.4.2. Protection des circuits monophasés
+#### Sub-section 4.4.4.2. Protection of Single-Phase Circuits
 
-Les circuits monophasés, courants dans les installations domestiques, nécessitent une **protection efficace contre les surintensités** pour assurer un fonctionnement sûr :
+Single-phase circuits, common in residential installations, require **effective overcurrent protection** for safe operation:
 
-- **Utilisation de disjoncteurs adaptés** 🔋 : Installez des disjoncteurs calibrés pour la capacité nominale du circuit afin d’interrompre le courant en cas de surcharge.
+- **Use of Properly Rated Circuit Breakers** 🔋: Install circuit breakers calibrated to the circuit’s nominal capacity to interrupt current in case of overload.
 
-- **Calcul de la capacité** 🧮 : Dimensionnez les conducteurs et dispositifs de protection pour qu’ils soient compatibles avec la charge maximale prévue.
+- **Capacity Calculation** 🧮: Size the conductors and protection devices to match the maximum expected load.
 
-   :::info Rappel important 📝
-   Un dimensionnement correct des disjoncteurs et des conducteurs garantit une protection efficace contre les surintensités dans les circuits monophasés.
+   :::info Important Reminder 📝
+   Correct sizing of circuit breakers and conductors ensures effective overcurrent protection in single-phase circuits.
    :::
 
 ---
 
-#### Sous-section 4.4.4.3. Circuits triphasés en schéma TT et TN à conducteur neutre non distribué
+#### Sub-section 4.4.4.3. Three-Phase Circuits in TT and TN Systems with Undistributed Neutral
 
-Les **circuits triphasés** avec un schéma TT ou TN et un neutre non distribué sont souvent utilisés dans des environnements industriels. Ils nécessitent une protection adaptée :
+**Three-phase circuits** in TT or TN systems with an undistributed neutral are often used in industrial environments. They require tailored protection:
 
-- **Dispositifs de protection par phase** 🔄 : Chaque conducteur de phase doit être protégé individuellement pour garantir une coupure efficace en cas de surintensité.
+- **Phase Protection Devices** 🔄: Each phase conductor must be individually protected to ensure effective disconnection in case of overcurrent.
 
-- **Équilibrage des charges** ⚖️ : La répartition des charges entre les trois phases doit être équilibrée pour éviter la surcharge d’un conducteur.
+- **Load Balancing** ⚖️: The distribution of loads across the three phases must be balanced to prevent overloading of a single conductor.
 
-   :::warning Rappel de sécurité ⚠️
-   Vérifiez régulièrement l'équilibrage des charges dans les installations triphasées pour éviter les surcharges et maintenir une efficacité optimale.
+   :::warning Safety Reminder ⚠️
+   Regularly check load balancing in three-phase installations to prevent overloading and maintain optimal efficiency.
    :::
 
 ---
 
-#### Sous-section 4.4.4.4. Circuits triphasés en schéma TT et TN à conducteur neutre distribué
+#### Sub-section 4.4.4.4. Three-Phase Circuits in TT and TN Systems with Distributed Neutral
 
-Dans les **circuits triphasés avec un neutre distribué**, les dispositifs de protection doivent être soigneusement coordonnés pour éviter des interruptions inutiles en cas de surcharge temporaire.
+In **three-phase circuits with a distributed neutral**, protection devices must be carefully coordinated to avoid unnecessary interruptions during temporary overloads.
 
-- **Coordination de la protection** 🎯 : Les dispositifs doivent être réglés pour distinguer les surcharges temporaires des surcharges prolongées nécessitant une coupure.
+- **Protection Coordination** 🎯: Devices must be set to differentiate between temporary overloads and prolonged overloads that require disconnection.
 
-   :::info Astuce pratique 🔧
-   En milieu industriel, l’installation d’équipements de surveillance aide à détecter les déséquilibres et éviter les coupures accidentelles.
+   :::info Practical Tip 🔧
+   In industrial environments, installing monitoring equipment helps detect imbalances and avoid accidental disconnections.
    :::
 
 ---
 
-#### Sous-section 4.4.4.5. Schéma IT avec conducteur neutre distribué
+#### Sub-section 4.4.4.5. IT System with Distributed Neutral
 
-Les circuits en **schéma IT**, souvent utilisés dans les environnements critiques, permettent de maintenir l’alimentation des autres circuits même en cas de défaut :
+IT systems, often used in critical environments, allow continued power supply to other circuits even in case of a fault:
 
-- **Isolation des circuits** 🔒 : En cas de défaut d'isolement, l'alimentation est maintenue sur les autres circuits, sans coupure générale.
+- **Circuit Isolation** 🔒: In case of an insulation fault, the power supply is maintained for other circuits without a general shutdown.
 
-- **Dispositifs de protection spécialisés** 🛡️ : Des relais de protection détectent les défauts et agissent pour prévenir les surintensités.
+- **Specialized Protection Devices** 🛡️: Protection relays detect faults and act to prevent overcurrent.
 
-   :::tip Conseil de sécurité 🧰
-   Effectuez des tests réguliers de l'intégrité des isolations pour garantir la sécurité dans les environnements à risque.
+   :::tip Safety Advice 🧰
+   Perform regular tests of insulation integrity to ensure safety in high-risk environments.
    :::
 
 ---
 
-#### Sous-section 4.4.4.6. Conducteur PEN
+#### Sub-section 4.4.4.6. PEN Conductor
 
-Le **conducteur PEN** (Protective Earth and Neutral) combine les fonctions de mise à la terre et de neutre, simplifiant ainsi l’installation tout en réduisant le nombre de conducteurs requis.
+The **PEN conductor** (Protective Earth and Neutral) combines the functions of grounding and neutral, simplifying the installation while reducing the number of required conductors.
 
-- **Dimensionnement approprié** 🧮 : Le conducteur PEN doit être correctement dimensionné pour supporter les courants de défaut et les surintensités.
+- **Proper Sizing** 🧮: The PEN conductor must be correctly sized to handle fault currents and overcurrent.
 
-- **Respect des normes** 📜 : Assurez-vous que l’installation respecte les normes de sécurité pour que le conducteur PEN fonctionne efficacement.
+- **Compliance with Standards** 📜: Ensure that the installation meets safety standards for effective operation of the PEN conductor.
 
 ---
 
-#### Sous-section 4.4.4.7. Ordre de coupure des conducteurs de phase et du neutre
+#### Sub-section 4.4.4.7. Order of Disconnection of Phase and Neutral Conductors
 
-L’ordre de coupure des conducteurs est essentiel pour minimiser les risques liés aux arcs électriques et surcharges :
+The order of disconnection for conductors is essential to minimize risks associated with electric arcs and overloads:
 
-- **Séquence de coupure** 🔄 : La coupure des conducteurs de phase et du neutre doit être ordonnée et planifiée pour éviter les arcs dangereux.
+- **Disconnection Sequence** 🔄: The disconnection of phase and neutral conductors must be planned and orderly to avoid dangerous arcs.
 
-   :::warning Rappel technique ⚠️
-   L'ordre de coupure est particulièrement critique dans les environnements industriels pour assurer une sécurité optimale.
+   :::warning Technical Reminder ⚠️
+   The disconnection order is especially critical in industrial environments to ensure optimal safety.
    :::
 
 ---
 
-## CHAPITRE 4.5. PROTECTION CONTRE LES SURTENSIONS ⚡
+## CHAPTER 4.5. PROTECTION AGAINST SURGES ⚡
 
-La **protection contre les surtensions** est cruciale pour préserver l'intégrité des installations électriques face à des hausses de tension soudaines qui peuvent endommager les équipements, entraîner des pannes, ou même provoquer des incendies. Les causes de surtensions incluent des événements naturels (comme les orages), des manœuvres de commutation, ou des défauts d’isolement.
+**Surge protection** is essential to maintain the integrity of electrical installations when sudden voltage increases occur, which can damage equipment, cause failures, or even lead to fires. Surge causes include natural events (like lightning), switching operations, or insulation faults.
 
----
 
-### Section 4.5.1. Principe de protection contre les surtensions
+### Section 4.5.1. Principle of Surge Protection
 
-Le principe de protection repose sur la détection rapide et la dissipation des surtensions avant qu’elles n’endommagent les équipements.
+The principle of surge protection is based on rapid detection and dissipation of surges before they can damage equipment.
 
-| **Principe**                         | **Description**                                                            |
-|--------------------------------------|----------------------------------------------------------------------------|
-| **Détection des surtensions**         | Les dispositifs détectent les hausses de tension et déclenchent des mesures de protection immédiates. |
-| **Économie d’énergie**                | En protégeant les appareils, on augmente leur durée de vie, ce qui réduit les coûts de remplacement. |
-| **Sécurité des utilisateurs**         | La protection des équipements réduit les risques pour les personnes qui utilisent ces installations. |
+| **Principle**                       | **Description**                                                            |
+|------------------------------------|----------------------------------------------------------------------------|
+| **Surge Detection**                | Devices detect voltage spikes and trigger immediate protection measures.   |
+| **Energy Efficiency**              | Protecting devices extends their lifespan, reducing replacement costs.     |
+| **User Safety**                    | Protecting equipment reduces risks to users of the installations.          |
 
-   :::info Astuce 💡
-   Pour les installations domestiques, envisagez d'installer des **parafoudres** pour protéger les équipements sensibles des surtensions dues aux orages.
+   :::info Tip 💡
+   For residential installations, consider installing **surge protectors** to safeguard sensitive equipment from lightning-induced surges.
    :::
 
 ---
 
-### Section 4.5.2. Précautions d’installation pour les équipements sensibles
+### Section 4.5.2. Installation Precautions for Sensitive Equipment
 
-Lors de l’installation de dispositifs électriques, des précautions spécifiques doivent être appliquées pour réduire les risques de surtension.
+When installing electrical devices, specific precautions must be applied to reduce surge risks.
 
-| **Mesure**                          | **Description**                                                                                       |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Dispositifs de protection**       | Installer des **limiteurs de surtension** près des équipements sensibles pour dévier les surtensions vers la terre. |
-| **Mise à la terre efficace**        | Assurer une bonne mise à la terre pour évacuer rapidement les surtensions sans risque pour l’installation. |
-| **Séparation des circuits**         | Éviter le croisement des circuits d’énergie avec ceux de télécommunication pour limiter les interférences. |
-| **Câbles blindés**                  | Utiliser des câbles blindés pour limiter les interférences externes et protéger contre les surtensions induites. |
+| **Measure**                        | **Description**                                                                                       |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Protection Devices**            | Install **surge limiters** near sensitive equipment to divert surges to the ground.                   |
+| **Effective Grounding**           | Ensure proper grounding to quickly dissipate surges without risk to the installation.                 |
+| **Circuit Separation**            | Avoid crossing power circuits with telecommunications circuits to limit interference.                 |
+| **Shielded Cables**               | Use shielded cables to reduce external interference and protect against induced surges.               |
 
-   :::warning Attention ! ⚠️
-   Assurez-vous que tous les équipements sensibles, comme les systèmes informatiques, sont protégés par des dispositifs anti-surtensions.
+   :::warning Caution! ⚠️
+   Ensure all sensitive equipment, such as computer systems, is protected by surge protection devices.
    :::
 
 ---
 
-### Section 4.5.3. Limiteurs de surtensions en schéma IT
+### Section 4.5.3. Surge Limiters in IT Systems
 
-Dans les installations en **schéma IT** (isolé), les **limiteurs de surtension (LS)** sont essentiels pour éviter les surtensions dans des environnements industriels et spécialisés.
+In **IT (isolated) systems**, **surge limiters (SL)** are essential to prevent surges in industrial and specialized environments.
 
-| **Type de Limiteur**           | **Caractéristiques**                                | **Applications**                          |
-|--------------------------------|----------------------------------------------------|-------------------------------------------|
-| **Limiteur à gaz**             | Réagit rapidement aux surtensions, capacité élevée | Installations industrielles et critiques  |
-| **Limiteur à diode**           | Protection continue, adapté aux appareils électroniques sensibles | Équipements informatiques et télécoms |
+| **Limiter Type**                   | **Characteristics**                              | **Applications**                           |
+|-----------------------------------|--------------------------------------------------|--------------------------------------------|
+| **Gas Discharge Limiter**         | Fast response, high capacity                     | Industrial and critical installations      |
+| **Diode Limiter**                 | Continuous protection, suitable for sensitive electronics | IT and telecommunications equipment        |
 
-   :::info Conseil pratique 🔧
-   Pour les environnements industriels, optez pour des limiteurs à gaz qui offrent une réponse rapide et une capacité de protection élevée.
+   :::info Practical Tip 🔧
+   For industrial environments, choose gas discharge limiters for fast response and high protection capacity.
    :::
 
 ---
 
-### Section 4.5.4. Conduits communs pour les circuits d'énergie et de télécommunication
+### Section 4.5.4. Common Conduits for Power and Telecommunications Circuits
 
-Pour éviter les interférences entre circuits électriques et de télécommunication, la **protection des conduits communs** est essentielle.
+To avoid interference between electrical and telecommunications circuits, **protection of shared conduits** is essential.
 
-| **Mesure de protection**            | **Description**                                                                   |
-|-------------------------------------|-----------------------------------------------------------------------------------|
-| **Séparation physique**             | Installez des conduits séparés pour l'énergie et la télécommunication pour éviter les interférences. |
-| **Conduits blindés**                | Utilisez des conduits blindés pour limiter les surtensions et interférences électromagnétiques. |
-| **Évaluation des distances**        | Maintenez une distance minimale entre les conduits d’énergie et de télécommunication. |
+| **Protection Measure**             | **Description**                                                                   |
+|-----------------------------------|-----------------------------------------------------------------------------------|
+| **Physical Separation**           | Install separate conduits for power and telecommunications to avoid interference. |
+| **Shielded Conduits**             | Use shielded conduits to reduce surges and electromagnetic interference.          |
+| **Distance Assessment**           | Maintain a minimum distance between power and telecommunications conduits.        |
 
-   :::tip Bonnes pratiques 🔍
-   Respectez les distances recommandées dans le RGIE entre les circuits d’énergie et les circuits de télécommunication pour réduire les risques d’interférences et de surtensions.
+   :::tip Best Practices 🔍
+   Follow the recommended distances in the Belgian Electrical Regulations to minimize interference and surge risks between power and telecommunications circuits.
    :::
 
 ---
 
-## CHAPITRE 4.6. PROTECTION CONTRE CERTAINS AUTRES EFFETS 🔧
+## CHAPTER 4.6. PROTECTION AGAINST OTHER EFFECTS 🔧
 
-Le chapitre 4.6 couvre divers autres effets qui peuvent affecter les installations électriques, incluant les baisses de tension, les effets biologiques des champs électromagnétiques, les risques de contamination et les mouvements.
+Chapter 4.6 covers various other effects that may impact electrical installations, including voltage dips, biological effects of electromagnetic fields, contamination risks, and mechanical movements.
 
 ---
 
-### Section 4.6.1. Protection contre les effets de la baisse de tension
+### Section 4.6.1. Protection Against Voltage Dips
 
-Les **baisses de tension** peuvent nuire au bon fonctionnement des appareils et équipements, entraînant des inefficacités, des surchauffes, ou des dégradations prématurées.
+**Voltage dips** can affect the performance of devices and equipment, causing inefficiencies, overheating, or premature degradation.
 
-| **Mesure**                         | **Description**                                                                         |
-|------------------------------------|-----------------------------------------------------------------------------------------|
-| **Onduleurs et régulateurs de tension** | Maintenir une tension stable pour les équipements sensibles, afin de prévenir les pannes. |
-| **Surveillance de la tension**     | Installer des systèmes de monitoring pour alerter en cas de baisse de tension.         |
-| **Sélectivité de protection**      | Utiliser des dispositifs pour isoler les circuits affectés sans interrompre tout le réseau. |
+| **Measure**                           | **Description**                                                                         |
+|--------------------------------------|-----------------------------------------------------------------------------------------|
+| **Uninterruptible Power Supply (UPS)**| Maintain stable voltage for sensitive equipment to prevent failures.                    |
+| **Voltage Monitoring**               | Install monitoring systems to alert users in case of voltage dips.                      |
+| **Selective Protection**             | Use devices to isolate affected circuits without interrupting the entire network.       |
 
-   :::tip Conseil d’installation 🛠️
-   Dans les environnements avec des équipements sensibles, envisagez l’installation d’onduleurs pour maintenir une tension constante.
+   :::tip Installation Advice 🛠️
+   In environments with sensitive equipment, consider installing UPS systems to maintain constant voltage.
    :::
 
 ---
 
-### Section 4.6.2. Protection contre les effets biologiques des champs électriques et magnétiques
+### Section 4.6.2. Protection Against Biological Effects of Electric and Magnetic Fields
 
-Les **champs électromagnétiques** peuvent avoir des effets biologiques sur la santé des personnes exposées. Les installations doivent donc minimiser cette exposition.
+**Electromagnetic fields (EMFs)** can have biological effects on the health of exposed individuals. Installations must minimize exposure.
 
-| **Mesure**                            | **Description**                                                                                     |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Évaluation des risques**            | Réaliser une étude des champs électromagnétiques pour identifier les zones à risque.               |
-| **Blindage**                          | Utiliser des matériaux de blindage pour réduire l’exposition dans les espaces sensibles.           |
-| **Maintien des distances**            | Garder une distance sécuritaire entre les sources de champs et les lieux de travail ou d’habitation. |
+| **Measure**                          | **Description**                                                                                     |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Risk Assessment**                 | Conduct an electromagnetic field study to identify high-risk areas.                                |
+| **Shielding**                       | Use shielding materials to reduce exposure in sensitive areas.                                      |
+| **Distance Maintenance**            | Keep a safe distance between sources of EMFs and work or living spaces.                             |
 
-   :::info Rappel santé 🧑‍⚕️
-   L’exposition prolongée aux champs électromagnétiques peut causer des troubles du sommeil et d’autres effets. Maintenir une distance sécuritaire est recommandé.
+   :::info Health Reminder 🧑‍⚕️
+   Prolonged exposure to electromagnetic fields may cause sleep disturbances and other effects. Maintaining a safe distance is recommended.
    :::
 
 ---
 
-### Section 4.6.3. Protection contre les risques de contamination
+### Section 4.6.3. Protection Against Contamination Risks
 
-Les risques de **contamination** des installations électriques, par des liquides, poussières, ou autres débris, peuvent entraîner des courts-circuits et des défaillances.
+The risks of **contamination** in electrical installations, such as from liquids, dust, or other debris, can lead to short circuits and equipment failures.
 
-| **Mesure**                            | **Description**                                                                                      |
-|---------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Nettoyage régulier**                | Mettre en place un programme de nettoyage pour réduire l'accumulation de poussières et de contaminants. |
-| **Systèmes de drainage**              | Installer des systèmes pour éviter l’accumulation de liquides dans les zones sensibles.               |
-| **Surveillance environnementale**     | Utiliser des capteurs pour surveiller la qualité de l’air et détecter la présence de contaminants.    |
+| **Measure**                        | **Description**                                                                                      |
+|-----------------------------------|------------------------------------------------------------------------------------------------------|
+| **Regular Cleaning**              | Implement a cleaning schedule to reduce the buildup of dust and contaminants.                        |
+| **Drainage Systems**              | Install systems to prevent the accumulation of liquids in sensitive areas.                           |
+| **Environmental Monitoring**      | Use sensors to monitor air quality and detect the presence of contaminants.                          |
 
-   :::tip Bonnes pratiques de maintenance 🧹
-   Planifiez des inspections de routine pour maintenir les équipements propres et exempts de poussière ou de liquide.
+   :::tip Best Maintenance Practices 🧹
+   Schedule routine inspections to keep equipment clean and free from dust or liquids.
    :::
 
 ---
 
-### Section 4.6.4. Protection contre les risques dus aux mouvements
+### Section 4.6.4. Protection Against Risks from Movement
 
-Les installations doivent être protégées contre les **risques associés aux mouvements**, comme les vibrations et les chocs, qui peuvent endommager les connexions et câblages.
+Installations must be protected against **risks related to movement**, such as vibrations and shocks, which can damage connections and wiring.
 
-| **Mesure**                             | **Description**                                                                                     |
-|----------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Fixation sécurisée**                 | Assurez-vous que les équipements sont bien fixés pour éviter les déplacements dus aux vibrations.   |
-| **Évaluation des vibrations**          | Surveiller les niveaux de vibration dans les environnements industriels et ajuster les supports si nécessaire. |
-| **Matériaux résistants**               | Utiliser des matériaux robustes et résistants aux mouvements pour les installations.                |
+| **Measure**                        | **Description**                                                                                     |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Secure Mounting**               | Ensure equipment is firmly fixed to prevent movement due to vibrations.                             |
+| **Vibration Assessment**          | Monitor vibration levels in industrial environments and adjust supports if needed.                  |
+| **Durable Materials**             | Use robust, vibration-resistant materials for installations.                                        |
 
-   :::warning Précaution technique ⚠️
-   Dans les environnements à forte vibration, comme les usines, renforcez les fixations pour éviter les dégradations rapides des équipements.
+   :::warning Technical Precaution ⚠️
+   In high-vibration environments like factories, reinforce fastenings to prevent rapid equipment degradation.
    :::
 
 ---
 
-## Conclusion de la Partie 4 - Mesures de Protection
+## Conclusion of Part 4 - Protection Measures
 
-La Partie 4 du RGIE est dédiée aux mesures essentielles de protection des installations électriques, visant à prévenir les incidents et à garantir la sécurité des utilisateurs. Cette section met en avant les précautions et dispositifs indispensables pour limiter les risques associés aux surintensités, aux surtensions, aux chocs électriques, et autres effets pouvant nuire à la sécurité et au bon fonctionnement des installations. En respectant ces directives, les installations électriques peuvent être à la fois fiables, performantes et sécurisées.
+Part 4 of the Belgian Electrical Regulations (RGIE) focuses on essential protection measures for electrical installations, aimed at preventing incidents and ensuring user safety. This section highlights the necessary precautions and devices to mitigate risks related to overcurrents, surges, electric shocks, and other potential effects that may compromise the safety and functionality of installations. By adhering to these guidelines, electrical installations can be both reliable, efficient, and safe.
 
-Les points clés de cette partie incluent :
+Key points in this part include:
 
-- **Protection contre les surintensités** : Les surintensités, causées par des courts-circuits ou des surcharges, présentent un risque important pour la sécurité. L’installation de dispositifs adaptés, tels que des disjoncteurs thermiques et des fusibles, permet de limiter les risques de surchauffe et d’endommagement des installations.
+- **Overcurrent Protection**: Overcurrents, caused by short circuits or overloads, pose significant safety risks. Installing appropriate devices such as thermal circuit breakers and fuses helps minimize the risk of overheating and damage to installations.
 
-- **Protection contre les surtensions** : Les surtensions peuvent causer des dégâts importants aux équipements. Grâce à l'utilisation de limiteurs de surtension, les installations restent protégées des hausses de tension imprévues, souvent causées par des facteurs externes comme les orages.
+- **Surge Protection**: Surges can cause severe damage to equipment. Using surge limiters ensures that installations are protected from unexpected voltage spikes, often caused by external factors like lightning.
 
-- **Protection contre les chocs électriques** : La sécurité des utilisateurs est primordiale. Des dispositifs de protection contre les chocs électriques, comme les disjoncteurs différentiels, assurent la coupure rapide du circuit en cas de fuite de courant, réduisant ainsi le risque d’électrocution.
+- **Electric Shock Protection**: User safety is paramount. Electric shock protection devices, such as residual current circuit breakers (RCDs), ensure rapid circuit disconnection in case of current leakage, reducing the risk of electrocution.
 
-- **Précautions d'installation** : En respectant les précautions d'installation, telles que la mise à la terre correcte et la séparation des circuits, les installations peuvent limiter les interférences et renforcer la sécurité.
+- **Installation Precautions**: By following installation precautions such as proper grounding and circuit separation, installations can limit interference and enhance safety.
 
-En appliquant rigoureusement ces mesures, il est possible de garantir un environnement électrique sécurisé, réduisant les risques d'incidents et assurant une continuité de service. Une approche réfléchie et conforme aux exigences du RGIE est la clé pour des installations fiables et performantes.
+By rigorously applying these measures, it is possible to guarantee a secure electrical environment, reducing the risk of incidents and ensuring continuous service. A thoughtful approach that complies with RGIE requirements is key to achieving reliable and high-performance installations.
 
 ---
 
-:::tip Bonnes Pratiques - Résumé de la Partie 4 🔒
+:::tip Best Practices - Summary of Part 4 🔒
 
-- **Surintensités et Surcharges** 🔥 : Utilisez des disjoncteurs thermiques et des fusibles pour protéger les circuits contre les surcharges et les courts-circuits, minimisant les risques d’incendie et de défaillance.
+- **Overcurrents and Overloads** 🔥: Use thermal circuit breakers and fuses to protect circuits from overloads and short circuits, minimizing the risks of fire and equipment failure.
 
-- **Limiteurs de Surtension** ⚡ : Installez des limiteurs de surtension pour protéger les équipements sensibles des hausses de tension inattendues, surtout dans les environnements à risque.
+- **Surge Limiters** ⚡: Install surge limiters to safeguard sensitive equipment from unexpected voltage spikes, especially in high-risk environments.
 
-- **Protection contre les Chocs Électriques** 🛡️ : Assurez la sécurité des utilisateurs avec des disjoncteurs différentiels pour une coupure rapide en cas de fuite de courant.
+- **Electric Shock Protection** 🛡️: Ensure user safety with residual current circuit breakers (RCDs) for fast disconnection in case of current leakage.
 
-- **Précautions de Mise à la Terre** 🌍 : Vérifiez que les installations sont bien mises à la terre pour garantir une évacuation des surtensions et réduire les risques de choc électrique.
+- **Grounding Precautions** 🌍: Verify that installations are properly grounded to facilitate surge dissipation and reduce the risk of electric shock.
 
-- **Séparation des Circuits** 🚧 : Pour minimiser les interférences, gardez les circuits d'énergie séparés des circuits de télécommunication et utilisez des câbles blindés si nécessaire.
+- **Circuit Separation** 🚧: To minimize interference, keep power circuits separate from telecommunications circuits, and use shielded cables if necessary.
 
-- **Surveillance et Maintenance** 🔧 : Maintenez une surveillance continue et programmez des inspections régulières pour assurer que les dispositifs de protection fonctionnent de manière optimale.
+- **Monitoring and Maintenance** 🔧: Maintain continuous monitoring and schedule regular inspections to ensure that protection devices operate optimally.
 
-En suivant ces pratiques, vous renforcez la **sécurité, la fiabilité et la durabilité** de vos installations électriques, en respectant les exigences du RGIE pour des installations conformes et sûres.
+By following these practices, you enhance the **safety, reliability, and durability** of your electrical installations, complying with RGIE requirements for safe and conforming installations.
 
 :::
 
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

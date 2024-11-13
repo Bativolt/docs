@@ -1,440 +1,437 @@
 ---
-title: Partie 9 - Prescriptions générales à observer par les personnes | Bativolt RGIE
-description: Guide des prescriptions générales du RGIE pour les propriétaires et gestionnaires d'installations électriques, incluant devoirs, conformité, et sécurité des installations.
-sidebar_label: 9. Prescriptions générales à observer
+title: Part 9 - General Requirements for Individuals | Bativolt Belgian Electrical Regulations
+description: Guide on the general requirements from the Belgian Electrical Regulations for property owners and managers, including duties, compliance, and installation safety.
+sidebar_label: 9. General Requirements for Individuals
 ---
 
-# Partie 9. Prescriptions générales à observer par les personnes
+# Part 9. General Requirements for Individuals
 
-La Partie 9 du RGIE définit les responsabilités essentielles des **propriétaires**, **gestionnaires**, et **exploitants** d'installations électriques, couvrant à la fois les environnements domestiques et non-domestiques. Cette section énonce des règles claires pour une gestion conforme, sécurisée, et durable des installations en tenant compte des influences externes et des zones à risque.
+Part 9 of the Belgian Electrical Regulations outlines the essential responsibilities of **property owners**, **managers**, and **operators** of electrical installations, covering both domestic and non-domestic environments. This section provides clear rules for compliant, safe, and sustainable management of installations, taking into account external influences and high-risk areas.
 
-## CHAPITRE 9.1. DEVOIRS DU PROPRIÉTAIRE, GESTIONNAIRE OU EXPLOITANT
+## CHAPTER 9.1. DUTIES OF THE OWNER, MANAGER, OR OPERATOR
 
-### Section 9.1.1. Responsabilités pour les installations non-domestiques 🏢
+### Section 9.1.1. Responsibilities for Non-Domestic Installations 🏢
 
-Les propriétaires et gestionnaires de locaux non-domestiques, tels que les entreprises et bâtiments industriels, doivent veiller à la **conformité et à la sécurité** des installations :
+Property owners and managers of non-domestic premises, such as businesses and industrial buildings, must ensure the **compliance and safety** of their installations:
 
-- **Maintien de la Sécurité** 🔧 : Planifiez des **contrôles réguliers** pour garantir un bon état de fonctionnement et prévenir tout danger électrique.
-- **Suivi des Rapports de Contrôle** 📋 : Mettez en œuvre les recommandations issues des inspections pour corriger les infractions ou non-conformités.
-- **Archivage des Documents** 🗃️ : **Conservez soigneusement** les rapports de conformité pour assurer une gestion documentée et une traçabilité en cas d'inspection.
+- **Maintaining Safety** 🔧: Schedule **regular inspections** to ensure proper functioning and prevent electrical hazards.
+- **Follow-up on Inspection Reports** 📋: Implement recommendations from inspections to correct violations or non-compliance issues.
+- **Document Archiving** 🗃️: **Keep inspection reports** well-organized for documented management and traceability in case of further checks.
 
-:::tip Bonnes Pratiques pour les Installations Non-Domestiques 🔍
-- **Inspectez régulièrement** les installations pour éviter les pannes soudaines.
-- **Tenez à jour** les dossiers de conformité pour faciliter la prise de décisions rapides.
+:::tip Best Practices for Non-Domestic Installations 🔍
+- **Regularly inspect** installations to prevent unexpected failures.
+- **Keep compliance records up to date** to facilitate quick decision-making.
 :::
 
 ---
 
-### Section 9.1.2. Responsabilités pour les installations domestiques 🏠
+### Section 9.1.2. Responsibilities for Domestic Installations 🏠
 
-Pour les installations domestiques, les propriétaires ont des **obligations spécifiques** pour garantir la sécurité des habitants et faciliter les transactions immobilières :
+For domestic installations, property owners have **specific obligations** to ensure the safety of residents and facilitate property transactions:
 
-- **Évaluation de Conformité** 🧰 : Avant toute vente ou rénovation majeure, **assurez-vous que l’installation respecte les normes** actuelles.
-- **Maintenance** 🔧 : Corrigez les infractions ou dysfonctionnements pour minimiser les risques électriques et éviter les accidents.
-- **Documentation** 📑 : **Conservez les rapports de conformité**, un atout lors de la vente d'un bien pour prouver la sécurité de l'installation.
+- **Compliance Assessment** 🧰: Before any sale or major renovation, **ensure the installation meets current standards**.
+- **Maintenance** 🔧: Address violations or malfunctions to minimize electrical risks and prevent accidents.
+- **Documentation** 📑: **Keep compliance reports**, an asset during the sale of a property to demonstrate installation safety.
 
-:::warning Note Importante pour les Propriétaires Domestiques ⚠️
-Une **conformité électrique prouvée** est indispensable pour la vente d'une propriété en Belgique. Assurez-vous que votre installation respecte les standards pour éviter des retards dans les transactions.
+:::warning Important Note for Homeowners ⚠️
+A **proven electrical compliance** is mandatory for the sale of a property in Belgium. Ensure your installation meets standards to avoid delays in transactions.
 :::
 
 ---
 
-### Section 9.1.3. Gestion des installations en infraction ⚠️
+### Section 9.1.3. Managing Non-Compliant Installations ⚠️
 
-Lorsqu'une non-conformité est détectée dans une installation, le propriétaire doit agir rapidement pour remédier aux problèmes.
+When a non-compliance issue is detected in an installation, the property owner must act quickly to address the problems.
 
-#### Sous-section 9.1.3.1. Contrôle de conformité
+#### Subsection 9.1.3.1. Compliance Check
 
-Le **contrôle de conformité** vise à vérifier que l’installation respecte toutes les normes applicables. En cas d'infraction :
+A **compliance check** aims to verify that the installation adheres to all applicable standards. In case of violations:
 
-1. **Notification** 📩 : Le propriétaire reçoit un rapport détaillant les infractions identifiées.
-2. **Recommandations** 🛠️ : Des actions correctives sont proposées pour rectifier les problèmes.
-3. **Re-contrôle** ✅ : Une inspection finale est effectuée pour vérifier que les corrections ont été appliquées.
+1. **Notification** 📩: The owner receives a detailed report of identified violations.
+2. **Recommendations** 🛠️: Corrective actions are suggested to resolve the issues.
+3. **Re-Inspection** ✅: A final inspection is conducted to confirm that corrections have been made.
 
-| Étape                | Description                                     |
-|----------------------|-------------------------------------------------|
-| 📩 Notification      | Le propriétaire est informé de toute infraction |
-| 🛠️ Recommandations   | Conseils pour rectifier les infractions         |
-| ✅ Re-contrôle       | Confirmation finale de la conformité            |
+| Step                | Description                                      |
+|---------------------|--------------------------------------------------|
+| 📩 Notification     | The owner is informed of any violations          |
+| 🛠️ Recommendations  | Guidance for rectifying the violations           |
+| ✅ Re-Inspection    | Final confirmation of compliance                 |
 
-#### Sous-section 9.1.3.2. Visite de contrôle
+#### Subsection 9.1.3.2. Control Visit
 
-Lors d'une **visite de contrôle**, plusieurs vérifications sont effectuées pour évaluer l’état de l’installation :
+During a **control visit**, several checks are performed to assess the condition of the installation:
 
-- **Contrôle des Dispositifs de Sécurité** : Examen des disjoncteurs, fusibles, et de la mise à la terre.
-- **Identification des Zones à Risque** : Localisation des zones nécessitant des ajustements pour une sécurité optimale.
+- **Safety Device Check**: Examination of circuit breakers, fuses, and grounding.
+- **Risk Area Identification**: Locating areas needing adjustments for optimal safety.
 
 ---
 
-### Section 9.1.4. Adaptations des installations anciennes domestiques 🏚️
+### Section 9.1.4. Upgrading Old Domestic Installations 🏚️
 
-Pour les installations domestiques anciennes présentant des infractions, les propriétaires doivent :
+For old domestic installations with violations, owners must:
 
-- **Apporter les Ajustements Nécessaires** 🔧 : Effectuez les mises à jour et réparations indispensables pour garantir la sécurité de l'installation.
-- **Collaborer avec un Électricien Certifié** 👷 : Pour assurer la conformité, faites appel à un professionnel qualifié capable de respecter les normes en vigueur.
+- **Make Necessary Adjustments** 🔧: Carry out essential updates and repairs to ensure installation safety.
+- **Collaborate with a Certified Electrician** 👷: Engage a qualified professional to ensure compliance with current standards.
 
-:::tip Bonnes Pratiques pour les Installations Anciennes 🔧
-Une mise à jour complète des installations électriques permet non seulement de se conformer aux normes, mais aussi d’augmenter la **valeur de la propriété** et de garantir la sécurité des occupants.
+:::tip Best Practices for Old Installations 🔧
+A complete update of electrical installations not only ensures compliance but also increases the **property value** and guarantees occupant safety.
 :::
 
 ---
 
-### Section 9.1.5. Localisation des canalisations électriques souterraines 🌐
+### Section 9.1.5. Locating Underground Electrical Conduits 🌐
 
-La **cartographie des canalisations souterraines** est cruciale pour prévenir les accidents lors des travaux d’excavation ou de construction.
+Mapping underground electrical conduits is crucial to prevent accidents during excavation or construction works.
 
-- **Procédures de Localisation** 🕵️ : Utilisez des détecteurs spécialisés avant tout travail de terrassement pour identifier la position des conduits.
-- **Plan de Conduits** 🗺️ : Conservez un plan précis et mis à jour de la position des canalisations pour référence lors de futurs travaux.
+- **Detection Procedures** 🕵️: Use specialized detectors before any digging to locate the position of conduits.
+- **Conduit Plan** 🗺️: Keep an accurate and up-to-date plan of conduit locations for future reference during works.
 
-:::warning Risque d’Endommagement ! ⚠️
-L'absence de localisation des canalisations peut mener à des dommages coûteux et des accidents graves. Assurez-vous de **cartographier avec précision** les conduits souterrains.
+:::warning Risk of Damage! ⚠️
+Failure to locate conduits can lead to costly damages and serious accidents. Ensure **accurate mapping** of underground conduits.
 :::
 
 ---
 
-### Section 9.1.6. Document des influences externes 🌦️
+### Section 9.1.6. Document on External Influences 🌦️
 
-Le **document des influences externes** évalue les facteurs environnementaux (humidité, chaleur, substances corrosives) qui peuvent impacter les installations électriques.
+The **document on external influences** assesses environmental factors (humidity, heat, corrosive substances) that may affect electrical installations.
 
-- **Conditions Spécifiques** 🔍 : Documentez les conditions environnementales particulières pour chaque zone de l’installation.
-- **Adaptation des Dispositifs** 🛠️ : Utilisez des matériaux et équipements adaptés aux conditions identifiées pour prolonger la durée de vie de l’installation et prévenir les défaillances.
+- **Specific Conditions** 🔍: Document the specific environmental conditions for each area of the installation.
+- **Adaptation of Devices** 🛠️: Use materials and equipment suited to the identified conditions to extend installation life and prevent failures.
 
-:::tip Gestion des Influences Externes 🎯
-Assurez-vous que chaque zone est équipée de dispositifs conçus pour résister aux conditions de température, humidité ou exposition chimique propres à l’environnement.
+:::tip Managing External Influences 🎯
+Ensure that each area is equipped with devices designed to withstand the specific temperature, humidity, or chemical exposure of the environment.
 :::
 
 ---
 
-### Section 9.1.7. Plans de zonage pour les zones à risque 🔥
+### Section 9.1.7. Zoning Plans for High-Risk Areas 🔥
 
-Les **plans de zonage** sont essentiels pour les installations en environnements à risque, comme les zones industrielles ou les entrepôts de substances inflammables.
+**Zoning plans** are crucial for installations in hazardous environments, such as industrial areas or warehouses storing flammable substances.
 
-- **Définition des Zones de Risque** ⚠️ : Classez les zones en fonction du potentiel de chocs électriques ou d'explosions.
-- **Précautions Spécifiques** 🛡️ : Installez des équipements adaptés aux niveaux de risque pour minimiser les accidents.
+- **Defining Risk Zones** ⚠️: Classify zones based on the potential for electrical shocks or explosions.
+- **Specific Precautions** 🛡️: Install equipment suitable for the risk levels to minimize accidents.
 
-| Zone de Risque       | Caractéristique                               | Précautions                        |
-|----------------------|-----------------------------------------------|------------------------------------|
-| Zone à risque faible | Risque faible d'explosion ou de choc          | Matériel standard                  |
-| Zone à risque moyen  | Présence de substances inflammables           | Matériel protégé contre les étincelles |
-| Zone à risque élevé  | Risque élevé d'explosion ou de choc électrique | Matériel spécialisé et isolé      |
-
----
-
-## CHAPITRE 9.2. ATTRIBUTION DE LA CODIFICATION BA4/BA5 🔒
-
-Les niveaux de codification **BA4** et **BA5** définissent les compétences requises pour les intervenants en milieu électrique :
-
-- **BA4** : Personnel qualifié pour effectuer certaines interventions sous conditions, avec les protections appropriées (ex. : assistant technicien sous supervision).
-- **BA5** : Personnel expérimenté et autorisé à travailler en autonomie, ayant une formation poussée en sécurité électrique et connaissance des risques.
-
-Les **responsables d’installation** doivent veiller à ce que chaque intervenant soit codifié selon son niveau de compétence pour assurer la sécurité de tous.
-
-:::tip Importance de la Codification 🎓
-Un personnel qualifié et bien formé réduit les risques d'accidents et assure une intervention sûre et conforme aux standards du RGIE.
-:::
-
-
-## CHAPITRE 9.3. TRAVAUX AUX INSTALLATIONS ÉLECTRIQUES
-
-Ce chapitre couvre les pratiques sécurisées pour tous les travaux liés aux installations électriques, incluant installation, maintenance, exploitation, et interventions d’urgence. Les prescriptions visent à protéger aussi bien le personnel que l’installation elle-même pendant les travaux.
-
-### Section 9.3.1. Domaine d'application
-
-Les prescriptions s'appliquent à tous types de travaux réalisés par le personnel autorisé, qu’il s’agisse de :
-
-1. **Travaux hors tension** ⚡ : Réalisés uniquement après l'isolation des circuits, garantissant l'absence de courant.
-2. **Travaux sous tension** 🔥 : Les circuits restent alimentés, nécessitant des équipements et compétences spécialisés.
-
-| Type de Travaux          | Description                                                        |
-|--------------------------|--------------------------------------------------------------------|
-| 🛠️ Travaux hors tension  | Intervention sécurisée après isolation de l’alimentation           |
-| 🔥 Travaux sous tension   | Intervention en présence de courant, avec des équipements spécialisés |
-
-:::warning Attention ⚠️
-Les **travaux sous tension** représentent un risque élevé. Seul le personnel formé et équipé de protections spécifiques (EPI) peut réaliser ces interventions.
-:::
+| Risk Zone             | Characteristics                                 | Precautions                          |
+|-----------------------|-------------------------------------------------|--------------------------------------|
+| Low-Risk Zone         | Low risk of explosion or shock                  | Standard equipment                   |
+| Medium-Risk Zone      | Presence of flammable substances                | Spark-proof equipment                |
+| High-Risk Zone        | High risk of explosion or electrical shock      | Specialized and insulated equipment  |
 
 ---
 
-### Section 9.3.2. Prescriptions générales
+## CHAPTER 9.2. ASSIGNING BA4/BA5 CODIFICATION 🔒
 
-Ces prescriptions garantissent une approche sécurisée et organisée des travaux, incluant la **formation** et l’**organisation** du personnel.
+The **BA4** and **BA5** codification levels define the skills required for individuals working in electrical environments:
 
-#### Sous-section 9.3.2.1. Principe de base
+- **BA4**: Qualified personnel permitted to carry out certain interventions under specific conditions, using appropriate protections (e.g., assistant technician under supervision).
+- **BA5**: Experienced personnel authorized to work independently, having extensive training in electrical safety and risk awareness.
 
-Le principe fondamental est de prioriser la **sécurité des intervenants**. Avant tout travail :
+**Installation managers** must ensure that each worker is assigned the appropriate codification level based on their competency to guarantee everyone's safety.
 
-- **Analyse des Risques** 🔍 : Identifiez les dangers spécifiques de l’intervention.
-- **Équipements de Protection (EPI)** 🧤 : Vérifiez la disponibilité des gants isolants, lunettes, et vêtements ignifugés.
-- **Autorisation de Travail** 📝 : Assurez-vous d'obtenir toutes les autorisations nécessaires.
-
-#### Sous-section 9.3.2.2. Personnel
-
-Les travaux électriques sont confiés à du personnel qualifié, selon le niveau de compétence requis :
-
-- **BA4** 🧑‍🔧 : Personnel assisté, intervenant sous supervision.
-- **BA5** 👨‍🏭 : Personnel qualifié pour une intervention autonome, particulièrement pour les travaux sous tension.
-
-:::tip Bonnes Pratiques pour le Personnel 👥
-Avant chaque intervention, vérifiez les qualifications des intervenants et assurez-vous qu’ils portent les EPI adéquats.
+:::tip Importance of Codification 🎓
+Qualified and well-trained personnel reduce the risk of accidents and ensure safe, compliant interventions according to the Belgian Electrical Regulations.
 :::
 
-#### Sous-section 9.3.2.3. Organisation
+## CHAPTER 9.3. WORK ON ELECTRICAL INSTALLATIONS
 
-Une bonne organisation est primordiale pour une intervention sécurisée et efficace :
+This chapter covers safe practices for all activities related to electrical installations, including installation, maintenance, operation, and emergency interventions. The regulations aim to protect both the personnel and the installation during work.
 
-1. **Planification** 📅 : Définissez un calendrier et un plan de travail précis.
-2. **Communication** 📢 : Informez toutes les parties prenantes des étapes et du planning.
-3. **Évaluation Pré-Intervention** ✅ : Réalisez une vérification finale des protocoles de sécurité.
+### Section 9.3.1. Scope of Application
 
-| Étape                   | Description                                       |
+The regulations apply to all types of work performed by authorized personnel, including:
+
+1. **De-energized Work** ⚡: Conducted only after isolating the circuits, ensuring no current is present.
+2. **Live Work** 🔥: Circuits remain powered, requiring specialized equipment and skills.
+
+| Type of Work            | Description                                                      |
+|-------------------------|------------------------------------------------------------------|
+| 🛠️ De-energized Work    | Safe intervention after power isolation                          |
+| 🔥 Live Work             | Intervention on energized circuits, using specialized equipment  |
+
+:::warning Caution ⚠️
+**Live work** poses a high risk. Only trained personnel equipped with specific personal protective equipment (PPE) can perform these interventions.
+:::
+
+---
+
+### Section 9.3.2. General Requirements
+
+These requirements ensure a safe and organized approach to electrical work, including **training** and **staff organization**.
+
+#### Subsection 9.3.2.1. Basic Principle
+
+The fundamental principle is to prioritize the **safety of the personnel**. Before any work:
+
+- **Risk Assessment** 🔍: Identify specific hazards associated with the intervention.
+- **Personal Protective Equipment (PPE)** 🧤: Verify the availability of insulated gloves, goggles, and flame-resistant clothing.
+- **Work Authorization** 📝: Ensure all necessary authorizations are obtained.
+
+#### Subsection 9.3.2.2. Personnel
+
+Electrical work is entrusted to qualified personnel according to the required skill level:
+
+- **BA4** 🧑‍🔧: Assisted personnel working under supervision.
+- **BA5** 👨‍🏭: Skilled personnel qualified for independent intervention, especially for live work.
+
+:::tip Best Practices for Personnel 👥
+Before each intervention, verify the qualifications of the workers and ensure they are equipped with appropriate PPE.
+:::
+
+#### Subsection 9.3.2.3. Organization
+
+Proper organization is key to a safe and efficient intervention:
+
+1. **Planning** 📅: Set a clear schedule and work plan.
+2. **Communication** 📢: Inform all stakeholders about the steps and timeline.
+3. **Pre-Intervention Evaluation** ✅: Conduct a final check of safety protocols.
+
+| Step                    | Description                                       |
 |-------------------------|---------------------------------------------------|
-| Planification           | Définir un calendrier et étapes de travail        |
-| Communication           | Informer toutes les personnes impliquées          |
-| Évaluation Pré-Intervention | Dernière vérification des mesures de sécurité |
+| Planning                | Define a schedule and detailed work steps         |
+| Communication           | Notify all involved parties                       |
+| Pre-Intervention Check  | Final verification of safety measures             |
 
 ---
 
-### Section 9.3.3. Travaux d'exploitation
+### Section 9.3.3. Operational Work
 
-Les travaux d'exploitation incluent les **manœuvres et actions de maintenance** pour garder l'installation en bon état.
+Operational work includes **maneuvers and maintenance actions** to keep the installation in good condition.
 
-#### Sous-section 9.3.3.1. Généralités
+#### Subsection 9.3.3.1. General Information
 
-Les travaux d’exploitation permettent de **surveiller** et de **diagnostiquer** l’état de l’installation :
+Operational work allows for **monitoring** and **diagnosing** the state of the installation:
 
-- **Inspection Visuelle** 👀 : Vérifiez visuellement l’état des circuits et équipements pour déceler des anomalies.
-- **Tests Fonctionnels** 🛠️ : Effectuez des tests sur les dispositifs de sécurité, tels que disjoncteurs et interrupteurs différentiels.
+- **Visual Inspection** 👀: Perform a visual check of circuits and equipment to detect any anomalies.
+- **Functional Tests** 🛠️: Conduct tests on safety devices, such as circuit breakers and residual current devices (RCDs).
 
-#### Sous-section 9.3.3.2. Manœuvre sous courant et manœuvre sous tension
+#### Subsection 9.3.3.2. Switching Under Load and Live Switching
 
-Les manœuvres sous courant nécessitent des **précautions strictes** pour éviter les accidents :
+Switching under load requires **strict precautions** to prevent accidents:
 
-1. **Équipements Spécialisés** 🧰 : Utilisez des outils isolés adaptés.
-2. **Formation Spécifique** 🎓 : Assurez-vous que seuls les techniciens qualifiés effectuent ces opérations.
-3. **Respect des Protocoles** 📜 : Adhérez aux procédures strictes pour garantir la sécurité.
+1. **Specialized Equipment** 🧰: Use appropriate insulated tools.
+2. **Specific Training** 🎓: Ensure only qualified technicians perform these operations.
+3. **Protocol Adherence** 📜: Follow strict procedures to guarantee safety.
 
 ---
 
-### Section 9.3.4. Procédures de travail
+### Section 9.3.4. Work Procedures
 
-Les procédures de travail définissent les étapes pour préparer, réaliser et sécuriser les interventions.
+Work procedures outline the steps to prepare, execute, and secure interventions.
 
-#### Sous-section 9.3.4.1. Préparation
+#### Subsection 9.3.4.1. Preparation
 
-La **préparation minutieuse** des travaux est essentielle pour éviter les risques :
+**Thorough preparation** is essential to mitigate risks:
 
-- **Évaluation des Risques** 🔍 : Identifiez les dangers spécifiques de l’intervention.
-- **Vérification des Outils** 🛠️ : Assurez-vous que tout le matériel est conforme et en bon état.
-- **Coordination du Personnel** 👥 : Organisez les rôles et missions de chacun.
+- **Risk Assessment** 🔍: Identify specific hazards related to the intervention.
+- **Tool Verification** 🛠️: Ensure all equipment is compliant and in good condition.
+- **Personnel Coordination** 👥: Organize roles and tasks for each team member.
 
-:::tip Préparation Optimale des Travaux 🎯
-Une préparation rigoureuse minimise les risques et permet des interventions plus fluides et sûres.
+:::tip Optimal Work Preparation 🎯
+Rigorous preparation minimizes risks and ensures smoother and safer interventions.
 :::
 
-#### Sous-section 9.3.4.2. Travaux hors tension
+#### Subsection 9.3.4.2. De-energized Work
 
-Les travaux hors tension sont des interventions sécurisées sur des circuits isolés :
+De-energized work involves safe interventions on isolated circuits:
 
-1. **Isolation du Circuit** 🚫 : Coupez l’alimentation et vérifiez l’absence de tension.
-2. **Mise à la Terre et Court-Circuitage** 🌍 : Neutralisez les charges résiduelles pour une sécurité totale.
-3. **Signalisation** 🚧 : Placez des panneaux de signalisation pour avertir les autres intervenants.
+1. **Circuit Isolation** 🚫: Cut off power supply and verify the absence of voltage.
+2. **Grounding and Short-Circuiting** 🌍: Neutralize residual charges for complete safety.
+3. **Signage** 🚧: Place warning signs to alert other workers.
 
-| Étape                    | Description                                       |
-|--------------------------|---------------------------------------------------|
-| Isolation du Circuit     | Couper et tester l'absence de tension             |
-| Mise à la Terre          | Court-circuitage pour éviter tout risque          |
-| Signalisation            | Indiquer que l'installation est en travaux        |
+| Step                    | Description                                       |
+|-------------------------|---------------------------------------------------|
+| Circuit Isolation       | Cut off power and test for absence of voltage     |
+| Grounding               | Short-circuit to eliminate any electrical risk    |
+| Signage                 | Indicate that the installation is under work      |
 
-#### Sous-section 9.3.4.3. Travaux sous tension
+#### Subsection 9.3.4.3. Live Work
 
-Les travaux sous tension nécessitent des **précautions et équipements spécifiques** pour la sécurité :
+Live work requires **specific precautions and equipment** to ensure safety:
 
-- **EPI Spécifiques** 🧤 : Utilisez des gants isolants et une visière de protection.
-- **Procédures Précises** 🛠️ : Travaillez avec des outils de précision pour éviter tout contact accidentel.
-- **Personnel BA5** 🎓 : Seuls les techniciens BA5 formés et qualifiés peuvent réaliser ces travaux.
+- **Specialized PPE** 🧤: Use insulated gloves and protective visors.
+- **Precise Procedures** 🛠️: Work with precision tools to avoid accidental contact.
+- **BA5 Personnel** 🎓: Only trained and qualified BA5 technicians can perform live work.
 
-:::warning Risque Élevé ⚠️
-Les travaux sous tension exigent une extrême prudence et sont réservés aux professionnels qualifiés pour éviter tout accident grave.
+:::warning High Risk ⚠️
+Live work demands extreme caution and is restricted to qualified professionals to avoid severe accidents.
 :::
 
-#### Sous-section 9.3.4.4. Travaux au voisinage de pièces sous tension
+#### Subsection 9.3.4.4. Work Near Live Parts
 
-Lorsqu'une intervention a lieu à proximité de pièces sous tension, il est essentiel de respecter des règles strictes pour éviter tout contact accidentel :
+When working near live parts, strict rules must be followed to avoid accidental contact:
 
-1. **Distanciation** ↔️ : Maintenez une distance de sécurité adéquate.
-2. **Protection Physique** 🛡️ : Installez des barrières isolantes pour délimiter clairement les zones de travail.
-3. **Vigilance Renforcée** 👀 : Assurez une attention constante et évitez tout mouvement brusque près des zones sous tension.
+1. **Distance Maintenance** ↔️: Keep a safe distance from live components.
+2. **Physical Barriers** 🛡️: Set up insulating barriers to clearly mark work zones.
+3. **Enhanced Vigilance** 👀: Maintain constant attention and avoid sudden movements near live areas.
 
-:::warning Risque Élevé ⚠️
-Les travaux à proximité de pièces sous tension nécessitent une vigilance extrême pour éviter tout contact accidentel avec les composants sous tension. Seul le personnel formé doit être présent dans cette zone.
+:::warning High Risk ⚠️
+Work near live parts requires heightened vigilance to prevent accidental contact with live components. Only trained personnel should be present in this zone.
 :::
 
 ---
 
-### Section 9.3.5. Travaux d'entretien
+### Section 9.3.5. Maintenance Work
 
-Les travaux d’entretien, qu'ils soient préventifs ou correctifs, garantissent la **sécurité et la durabilité** des installations électriques en réduisant les risques de défaillance.
+Maintenance work, whether preventive or corrective, ensures the **safety and durability** of electrical installations by reducing failure risks.
 
-#### Sous-section 9.3.5.1. Généralités
+#### Subsection 9.3.5.1. General Information
 
-Les travaux d'entretien couvrent plusieurs opérations importantes :
+Maintenance work includes several key operations:
 
-- **Inspection des Composants** 🔍 : Examen des connecteurs, disjoncteurs, et câbles pour identifier tout signe d'usure ou de dommage.
-- **Remplacement des Éléments Défectueux** 🔧 : Changer les pièces présentant des signes d'usure pour maintenir la sécurité.
-- **Nettoyage et Lubrification** 🧴 : Assurez-vous que les mécanismes fonctionnent correctement pour éviter les incidents liés aux connexions.
+- **Component Inspection** 🔍: Check connectors, circuit breakers, and cables for signs of wear or damage.
+- **Replacement of Defective Parts** 🔧: Replace any worn components to maintain safety.
+- **Cleaning and Lubrication** 🧴: Ensure mechanisms function correctly to prevent issues with connections.
 
-#### Sous-section 9.3.5.2. Personnel
+#### Subsection 9.3.5.2. Personnel
 
-Pour des travaux d’entretien sécurisés, le personnel doit être qualifié et équipé :
+For safe maintenance work, the personnel must be qualified and properly equipped:
 
-- **Maîtrise des procédures** 🔒 : Connaissance approfondie des procédures de sécurité spécifiques aux installations électriques.
-- **Port des EPI** 🧤 : Utilisation obligatoire de gants isolants, lunettes de protection et autres équipements adaptés.
-- **Connaissance des Équipements** 🛠️ : Familiarité avec le fonctionnement et l’entretien des installations pour éviter les erreurs.
+- **Mastery of Procedures** 🔒: In-depth knowledge of specific safety procedures for electrical installations.
+- **Use of PPE** 🧤: Mandatory use of insulated gloves, safety goggles, and other appropriate protective gear.
+- **Equipment Knowledge** 🛠️: Familiarity with the functioning and maintenance of installations to avoid errors.
 
-:::tip Bonnes Pratiques pour le Personnel d'Entretien 🎯
-Chaque membre de l’équipe doit être formé à l’utilisation des EPI et des outils de sécurité spécifiques aux travaux d’entretien.
+:::tip Best Practices for Maintenance Personnel 🎯
+Every team member must be trained in the use of PPE and specific safety tools for maintenance tasks.
 :::
 
-#### Sous-section 9.3.5.3. Travaux de réparation
+#### Subsection 9.3.5.3. Repair Work
 
-Les travaux de réparation visent à restaurer la sécurité et le bon fonctionnement des installations en remplaçant ou réparant les composants défectueux.
+Repair work aims to restore the safety and functionality of installations by replacing or fixing defective components.
 
-- **Isolation des Zones Défectueuses** 🔒 : Avant toute intervention, isolez la zone pour éliminer les risques électriques.
-- **Matériel Conforme** 🔧 : Utilisez des pièces de remplacement respectant les normes de sécurité en vigueur.
-- **Journal des Réparations** 📋 : Documentez chaque intervention pour un suivi précis et un historique des réparations.
+- **Isolation of Defective Areas** 🔒: Before any intervention, isolate the area to eliminate electrical risks.
+- **Compliant Materials** 🔧: Use replacement parts that meet current safety standards.
+- **Repair Log** 📋: Document each intervention for precise tracking and a comprehensive repair history.
 
-#### Sous-section 9.3.5.4. Travaux de remplacement
+#### Subsection 9.3.5.4. Replacement Work
 
-Le remplacement concerne les composants ayant atteint leur durée de vie et nécessitant une mise à jour :
+Replacement work involves components that have reached the end of their service life and require upgrading:
 
-- **Sélection des Composants** 🏷️ : Utilisez des pièces de qualité équivalente ou supérieure pour garantir une installation durable.
-- **Documentation des Opérations** 📝 : Inscrivez chaque remplacement dans un rapport de maintenance pour un suivi complet.
-- **Vérification Finale** ✅ : Effectuez un test final pour vérifier que le remplacement est conforme aux exigences de sécurité.
+- **Component Selection** 🏷️: Use parts of equal or higher quality to ensure a durable installation.
+- **Operation Documentation** 📝: Record each replacement in a maintenance report for full tracking.
+- **Final Verification** ✅: Conduct a final test to ensure the replacement complies with safety requirements.
 
-#### Sous-section 9.3.5.5. Interruption temporaire
+#### Subsection 9.3.5.5. Temporary Interruptions
 
-Les interruptions temporaires doivent être planifiées de manière à minimiser l'impact sur l’utilisation de l’installation :
+Temporary interruptions must be planned to minimize the impact on the usage of the installation:
 
-- **Information des Utilisateurs** 📢 : Informez tous les utilisateurs de la durée de l’interruption prévue.
-- **Vérification Préliminaire** 🔍 : Avant le rétablissement de l’alimentation, vérifiez les installations pour prévenir tout risque.
-- **Mise en Sécurité** 🚧 : Assurez que toutes les zones sensibles sont sécurisées avant et après l’interruption.
+- **User Notification** 📢: Inform all users about the expected duration of the interruption.
+- **Preliminary Check** 🔍: Before restoring power, inspect the installation to prevent any risks.
+- **Safety Measures** 🚧: Ensure that all sensitive areas are secured before and after the interruption.
 
-#### Sous-section 9.3.5.6. Fin des travaux d'entretien ou de réparation
+#### Subsection 9.3.5.6. Completion of Maintenance or Repair Work
 
-À la fin des travaux d’entretien ou de réparation :
+At the end of maintenance or repair work:
 
-- **Inspection de Conformité** 🛠️ : Vérifiez que les travaux sont conformes aux normes de sécurité en vigueur.
-- **Documenter les Actions** 📄 : Consignez toutes les opérations dans un rapport de fin de travaux pour garantir la traçabilité.
-- **Notification au Personnel** 📢 : Informez toutes les parties prenantes de la fin des travaux.
-
----
-
-### Section 9.3.6. Précautions particulières
-
-#### Sous-section 9.3.6.1. Travaux au voisinage de lignes aériennes et de câbles souterrains
-
-Lors des interventions à proximité de lignes aériennes ou de câbles souterrains, il est crucial de respecter des mesures de sécurité pour éviter les risques d’accidents graves :
-
-1. **Délimiter la Zone de Travail** 🚧 : Installez des barrières pour empêcher tout accès non autorisé et pour réduire le risque de contact accidentel.
-2. **Panneaux d’Avertissement** ⚠️ : Utilisez des panneaux pour indiquer la présence de danger électrique.
-3. **Équipements Isolants** 🧰 : Assurez-vous que tous les outils et équipements utilisés sont isolants et conformes aux normes de sécurité.
-
-| Précautions               | Description                                                      |
-|---------------------------|------------------------------------------------------------------|
-| 🚧 Zone de travail délimitée | Empêcher l'accès non autorisé                                     |
-| ⚠️ Panneaux d’avertissement | Signalisation des risques électriques                             |
-| 🧰 Équipements Isolants      | Utilisation d’outils conformes aux normes de sécurité             |
+- **Compliance Inspection** 🛠️: Verify that the work complies with current safety standards.
+- **Document Actions** 📄: Record all operations in a completion report to ensure traceability.
+- **Notify Personnel** 📢: Inform all stakeholders that the work is completed.
 
 ---
 
-## CHAPITRE 9.4. PANNEAUX DE SIGNALISATION
+### Section 9.3.6. Special Precautions
 
-Les panneaux de signalisation sont essentiels pour prévenir les dangers dans les zones d'installation électrique. Ils doivent être **visibles**, **bien placés**, et conçus pour transmettre clairement les risques potentiels.
+#### Subsection 9.3.6.1. Work Near Overhead Lines and Underground Cables
 
-### Section 9.4.1. Panneaux d'avertissement contre les dangers des installations électriques
+When working near overhead lines or underground cables, strict safety measures must be followed to avoid serious accidents:
 
-Les panneaux d’avertissement sont cruciaux pour signaler les risques électriques et avertir les utilisateurs. En général de couleur **jaune** avec un **pictogramme de danger** :
+1. **Define the Work Zone** 🚧: Set up barriers to prevent unauthorized access and reduce the risk of accidental contact.
+2. **Warning Signs** ⚠️: Use signs to indicate the presence of electrical hazards.
+3. **Insulated Equipment** 🧰: Ensure that all tools and equipment used are insulated and meet safety standards.
 
-- **Emplacements Stratégiques** 📍 : Positionnez-les à proximité des zones présentant un risque élevé.
-- **Instructions Claires** 📝 : Fournissez des consignes de sécurité visibles et compréhensibles.
-- **Dimensions Standardisées** 📏 : Les panneaux doivent être suffisamment grands pour être lus de loin.
+| Precaution               | Description                                                     |
+|--------------------------|-----------------------------------------------------------------|
+| 🚧 Defined Work Zone     | Prevent unauthorized access                                     |
+| ⚠️ Warning Signs         | Indicate electrical hazards                                     |
+| 🧰 Insulated Equipment   | Use tools compliant with safety standards                       |
 
-### Section 9.4.2. Panneaux d'interdiction
+---
 
-Les panneaux d'interdiction signalent les actions interdites (ex. : accès non autorisé, manipulation dangereuse) et doivent être facilement reconnaissables :
+## CHAPTER 9.4. SIGNAGE
 
-- **Couleur Rouge** 🔴 : Pour une identification rapide et claire.
-- **Pictogrammes Explicites** 🚫 : Utilisez des symboles faciles à comprendre pour éviter toute confusion.
-- **Placement Optimal** 📍 : Positionnez-les à des endroits stratégiques pour empêcher tout accès non autorisé.
+Signage is essential for preventing hazards in electrical installation areas. Signs must be **visible**, **well-placed**, and designed to clearly communicate potential risks.
 
-### Section 9.4.3. Emplacement et dimensions des panneaux de signalisation
+### Section 9.4.1. Warning Signs for Electrical Hazards
 
-Les panneaux doivent être adaptés aux lieux d’installation pour garantir leur efficacité :
+Warning signs are crucial for indicating electrical risks and alerting users. Typically, they are **yellow** with a **hazard pictogram**:
 
-- **Hauteur d'Installation** 📏 : Placez-les à hauteur des yeux pour une visibilité optimale.
-- **Dimensions Suffisantes** 🖼️ : Assurez-vous qu’ils soient assez grands pour être lisibles à distance.
-- **Matériaux Résistants** 🌦️ : Utilisez des matériaux durables et résistants aux intempéries pour les installations extérieures.
+- **Strategic Placement** 📍: Position them near high-risk areas.
+- **Clear Instructions** 📝: Provide visible and understandable safety instructions.
+- **Standardized Dimensions** 📏: Signs must be large enough to be read from a distance.
 
-:::tip Bonnes Pratiques en Signalisation ⚡
-Pour une **sécurité maximale**, positionnez les panneaux de manière à couvrir tous les angles de vue possibles et choisissez des matériaux résistants pour éviter leur détérioration.
+### Section 9.4.2. Prohibition Signs
+
+Prohibition signs indicate forbidden actions (e.g., unauthorized access, dangerous handling) and must be easily recognizable:
+
+- **Red Color** 🔴: For quick and clear identification.
+- **Explicit Pictograms** 🚫: Use easy-to-understand symbols to prevent confusion.
+- **Optimal Placement** 📍: Place them strategically to prevent unauthorized access.
+
+### Section 9.4.3. Sign Location and Dimensions
+
+Signs must be adapted to the installation site to ensure effectiveness:
+
+- **Installation Height** 📏: Place them at eye level for optimal visibility.
+- **Adequate Dimensions** 🖼️: Ensure they are large enough to be readable from a distance.
+- **Durable Materials** 🌦️: Use weather-resistant materials for outdoor installations.
+
+:::tip Best Practices for Signage ⚡
+For **maximum safety**, position signs to cover all possible viewing angles and choose durable materials to prevent deterioration.
 :::
 
+---
+
+## CHAPTER 9.5. PROHIBITIONS
+
+This chapter lists specific prohibitions to avoid dangerous handling and risky behaviors. It is strictly forbidden to:
+
+1. **Intervene on live installations** without authorization.
+2. **Use non-compliant equipment** that does not meet current safety standards.
+3. **Access restricted areas** without proper authorization.
+
+These prohibitions are intended to protect users and technical personnel from electrical hazards. They must be rigorously followed to ensure the safety of all involved.
+
+## Conclusion of Part 9 - General Requirements for Electrical Installation Safety and Compliance
+
+Part 9 of the Belgian Electrical Regulations addresses the responsibilities of property owners, managers, and operators of electrical installations, whether domestic or non-domestic. It sets the safety rules and best practices to follow, ensuring compliance and safety in all situations. The key points of this part include:
+
+- **Duties of Owners and Managers**: Owners and managers are responsible for the maintenance, compliance, and documentation of their installations, conducting regular inspections to ensure the safety of occupants and users.
+
+- **Safe Work Practices**: Emphasis is placed on planning work according to strict protocols, distinguishing between de-energized and live work, and ensuring only qualified personnel handle live environments.
+
+- **Preventive and Corrective Maintenance**: Maintenance work, whether preventive or corrective, is vital to prevent failures and ensure the continuity of installations. Protocols for repairs, replacements, and temporary power interruptions are defined for safe management.
+
+- **Signage and Risk Areas**: The importance of signage is highlighted to alert users of potential risks. Risk areas must be clearly identified, and protective equipment adapted to the environment must be used.
+
+- **Codification and Skills**: The BA4 and BA5 codification levels specify the required skills for electrical work, ensuring that authorized personnel are qualified for safe interventions.
+
+By following these regulations, electrical installations can be managed safely and in compliance with the Belgian Electrical Regulations, minimizing risks for users and ensuring the continuity of installations.
 
 ---
 
-## CHAPITRE 9.5. INTERDICTIONS
+:::tip Best Practices - Summary of Part 9 🎯
 
-Ce chapitre énumère les interdictions spécifiques visant à éviter les manipulations dangereuses et les comportements à risque. Il est strictement interdit :
+- **Owner Responsibilities** 🏠: Maintain safety and compliance of installations through regular inspections and thorough documentation.
 
-1. **D'intervenir sur des installations sous tension** sans autorisation.
-2. **D’utiliser des équipements non conformes** aux normes de sécurité en vigueur.
-3. **D’accéder à des zones restreintes** sans habilitation.
+- **Safe Work Procedures** 🔧: Ensure work is carried out according to strict protocols, distinguishing between de-energized and live interventions.
 
-Les interdictions sont destinées à protéger les utilisateurs et le personnel technique contre les risques d’accidents électriques. Elles doivent être respectées rigoureusement pour garantir la sécurité de tous les intervenants.
+- **Preventive Maintenance** 🛠️: Perform maintenance tasks to prevent failures and extend the lifespan of the installation.
 
-## Conclusion de la Partie 9 - Prescriptions Générales pour la Sécurité et la Conformité des Installations Électriques
+- **Signage and Risk Area Safety** ⚠️: Use signage to warn of potential dangers and adapt protective equipment to high-risk environments.
 
-La Partie 9 du RGIE aborde les responsabilités des propriétaires, gestionnaires, et exploitants d'installations électriques, qu’elles soient domestiques ou non-domestiques. Elle fixe les règles de sécurité et les bonnes pratiques à suivre pour garantir la conformité et la sécurité des installations dans toutes les situations. Les principaux points de cette partie sont :
+- **Personnel Qualification and Codification** 👥: Verify that workers have the necessary qualifications (BA4/BA5) to guarantee safe interventions.
 
-- **Devoirs des Propriétaires et Gestionnaires** : Les propriétaires et gestionnaires sont responsables de l’entretien, de la conformité et de la documentation de leurs installations, en effectuant des contrôles réguliers pour assurer la sécurité des occupants et utilisateurs.
+- **Documentation and Monitoring** 📋: Keep logs of work, inspection reports, and maintenance follow-ups for full traceability and compliance tracking.
 
-- **Travaux en Sécurité** : Cette partie insiste sur l’importance de planifier les travaux selon des protocoles stricts, en distinguant les travaux hors tension et sous tension, et en garantissant que seul le personnel qualifié intervient dans les environnements sous tension.
-
-- **Entretien Préventif et Correctif** : Les travaux d’entretien, qu’ils soient préventifs ou correctifs, sont essentiels pour éviter les défaillances et assurer la continuité de fonctionnement des installations. Les protocoles pour les réparations, remplacements et interruptions temporaires de courant sont définis pour une gestion sécurisée.
-
-- **Signalisation et Zones de Risque** : L’importance des panneaux de signalisation est mise en avant pour avertir les utilisateurs des risques potentiels. Les zones de risque doivent être clairement identifiées, et les équipements de protection adaptés aux environnements doivent être utilisés.
-
-- **Codification et Compétences** : La codification BA4 et BA5 délimite les niveaux de compétence requis pour intervenir sur les installations électriques, assurant que les personnes habilitées soient qualifiées pour réaliser des travaux en toute sécurité.
-
-En suivant ces prescriptions, les installations électriques peuvent être gérées de manière sécurisée et conforme aux exigences du RGIE, minimisant les risques pour les utilisateurs et garantissant la continuité des installations.
-
----
-
-:::tip Bonnes Pratiques - Résumé de la Partie 9 🎯
-
-- **Responsabilités des Propriétaires** 🏠 : Maintenez la sécurité et la conformité des installations par des contrôles réguliers et une documentation rigoureuse.
-
-- **Sécurité lors des Travaux** 🔧 : Assurez-vous que les travaux sont effectués selon des protocoles stricts, en distinguant les interventions sous tension et hors tension.
-
-- **Entretien Préventif** 🛠️ : Effectuez des opérations d'entretien pour éviter les pannes et améliorer la durée de vie de l’installation.
-
-- **Signalisation et Sécurité des Zones de Risque** ⚠️ : Utilisez des panneaux de signalisation pour prévenir des dangers et adaptez les équipements de protection aux environnements à risque.
-
-- **Qualification et Codification du Personnel** 👥 : Vérifiez que les intervenants disposent des qualifications (BA4/BA5) nécessaires pour garantir la sécurité des travaux.
-
-- **Documentation et Suivi** 📋 : Tenez à jour les journaux de travaux, rapports d’inspection et suivis de maintenance pour une traçabilité complète et un suivi de la conformité.
-
-En appliquant ces bonnes pratiques, vous contribuez à la **sécurité** et à la **fiabilité** des installations, tout en répondant aux exigences du RGIE pour une gestion des installations durable et conforme.
+By applying these best practices, you contribute to the **safety** and **reliability** of electrical installations, while meeting the requirements of the Belgian Electrical Regulations for sustainable and compliant management.
 :::
 
-
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---
