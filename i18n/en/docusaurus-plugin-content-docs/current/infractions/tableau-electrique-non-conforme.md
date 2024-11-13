@@ -1,115 +1,134 @@
 ---
-title: Tableaux Électriques Non Conformes
-sidebar_label: Tableaux Électriques
-description: Guide complet sur les tableaux électriques non conformes, les risques associés, et les solutions pour assurer la sécurité des installations électriques.
+title: Non-Compliant Electrical Panels
+sidebar_label: Electrical Panels
+description: Comprehensive guide on non-compliant electrical panels, associated risks, and solutions to ensure the safety of electrical installations.
 ---
 
-# Tableaux Électriques Non Conformes
+# Non-Compliant Electrical Panels
 
 ## Introduction
 
-Les tableaux électriques jouent un rôle crucial dans la sécurité des installations. Ils distribuent l'électricité dans les différents circuits de l'habitation ou du bâtiment et protègent les utilisateurs contre les surcharges et les courts-circuits. Toutefois, de nombreux tableaux en circulation ne sont pas conformes aux normes actuelles, créant des risques pour la sécurité.
+Electrical panels play a crucial role in the safety of installations. They distribute electricity to the various circuits in the home or building and protect users against overloads and short circuits. However, many panels in use today do not meet current standards, creating safety risks.
 
-> **⚠️ Avertissement :** Un tableau non conforme peut engendrer des risques d'incendie et compromettre la sécurité des utilisateurs. La mise en conformité est donc essentielle.
+> **⚠️ Warning:** A non-compliant panel can pose fire hazards and compromise user safety. Bringing it up to standard is essential.
 
-## 1. Importance des Tableaux Électriques
+---
 
-### 1.1. Distribution Électrique
+## 1. Importance of Electrical Panels
 
-Le tableau électrique est le point central de distribution de l'électricité dans une installation. Il dirige l’énergie vers les différents circuits (éclairage, prises de courant, appareils électroménagers) et assure une alimentation efficace.
+### 1.1. Electrical Distribution
+
+The electrical panel is the central distribution point for electricity in an installation. It directs power to various circuits (lighting, power outlets, appliances) and ensures efficient energy distribution.
 
 :::info
-**Astuce :** Une configuration bien structurée dans le tableau électrique facilite les interventions et améliore la gestion de l'énergie.
+**Tip:** A well-structured electrical panel configuration facilitates interventions and improves energy management.
 :::
 
-### 1.2. Protection des Circuits
+### 1.2. Circuit Protection
 
-Les tableaux doivent être équipés de **disjoncteurs** et de **fusibles** pour couper l’électricité en cas de surcharge ou de court-circuit. Ces dispositifs sont essentiels pour prévenir les incendies et protéger les occupants.
+Panels must be equipped with **circuit breakers** and **fuses** to cut off electricity in case of overload or short circuit. These devices are essential to prevent fires and protect occupants.
 
-> **💡 Note :** Les disjoncteurs modernes permettent une remise en service rapide après un incident, contrairement aux fusibles qui nécessitent un remplacement complet.
+> **💡 Note:** Modern circuit breakers allow for quick reset after an incident, unlike fuses which require complete replacement.
 
-## 2. Disjoncteurs vs Anciens Fusibles
+---
 
-### 2.1. Disjoncteurs
+## 2. Circuit Breakers vs. Old Fuses
 
-Les disjoncteurs modernes sont conçus pour interrompre automatiquement le courant en cas de surcharge ou de court-circuit. Ils sont plus fiables que les fusibles, car ils peuvent être réenclenchés après un déclenchement.
+### 2.1. Circuit Breakers
 
-#### 2.1.1. Types de Disjoncteurs
+Modern circuit breakers are designed to automatically interrupt the current in case of overload or short circuit. They are more reliable than fuses as they can be reset after tripping.
 
-- **Disjoncteurs Thermomagnétiques** : Protègent contre les surcharges et les courts-circuits.
-- **Disjoncteurs Différentiels** : Protègent contre les fuites de courant à la terre, réduisant le risque d'électrocution.
+#### 2.1.1. Types of Circuit Breakers
 
-> **💡 Conseil :** Assurez-vous de bien distinguer les types de disjoncteurs, car chacun a un rôle spécifique dans la sécurité de l'installation.
+- **Thermomagnetic Circuit Breakers**: Protect against overloads and short circuits.
+- **Residual Current Circuit Breakers**: Protect against earth leakage currents, reducing the risk of electrocution.
 
-### 2.2. Anciens Fusibles
+> **💡 Advice:** Make sure to distinguish between the types of circuit breakers, as each has a specific role in the safety of the installation.
 
-Les anciens fusibles, courants dans les installations plus anciennes, ne garantissent pas le même niveau de protection que les disjoncteurs modernes. Lorsqu'un fusible fond en cas de surcharge, il doit être remplacé, ce qui prend du temps.
+### 2.2. Old Fuses
+
+Old fuses, commonly found in older installations, do not provide the same level of protection as modern circuit breakers. When a fuse blows due to an overload, it must be replaced, which can be time-consuming.
 
 :::caution
-**Attention :** Il est recommandé de remplacer les anciens fusibles par des disjoncteurs modernes pour améliorer la sécurité de l’installation et la remettre aux normes.
+**Warning:** It is recommended to replace old fuses with modern circuit breakers to improve installation safety and bring it up to standard.
 :::
 
-## 3. Risques Associés à un Tableau Électrique Non Conforme
+---
 
-### 3.1. Risque d'Incendie
+## 3. Risks of a Non-Compliant Electrical Panel
 
-Un tableau électrique non conforme augmente le risque d’incendie. Les installations obsolètes avec des fusibles usés ou des disjoncteurs défectueux peuvent surchauffer et provoquer des départs de feu.
+### 3.1. Fire Risk
 
-> **⚠️ Avertissement :** Des câbles mal dimensionnés ou dégradés dans un tableau non conforme amplifient les risques d'incendie. Une inspection régulière est cruciale pour éviter ces dangers.
+A non-compliant electrical panel increases the risk of fire. Outdated installations with worn-out fuses or faulty circuit breakers can overheat and cause fires.
 
-### 3.2. Non Coupure des Phases
+> **⚠️ Warning:** Undersized or deteriorated cables in a non-compliant panel amplify the risk of fire. Regular inspections are crucial to prevent such dangers.
 
-Dans certains tableaux, les phases ne se coupent pas simultanément en cas de dysfonctionnement. Cela peut provoquer des déséquilibres et des surchauffes, menaçant la sécurité des équipements et des utilisateurs.
+### 3.2. Failure to Cut All Phases
 
-### 3.3. Surtensions
+In some panels, the phases do not cut simultaneously in case of malfunction. This can cause imbalances and overheating, endangering both the equipment and users.
 
-Les tableaux électriques doivent pouvoir gérer les surtensions. Sans protection adéquate, comme un parafoudre, les équipements branchés risquent d’être endommagés.
+### 3.3. Power Surges
+
+Electrical panels must handle power surges. Without adequate protection, such as a surge protector, connected equipment is at risk of damage.
 
 :::tip
-**Astuce Sécurité :** Installez un parafoudre pour protéger votre équipement contre les surtensions. Cela est particulièrement utile dans les régions sujettes aux orages.
+**Safety Tip:** Install a surge protector to safeguard your equipment against power surges. This is particularly useful in regions prone to thunderstorms.
 :::
 
-### 3.4. Non-Conformité Réglementaire
+### 3.4. Regulatory Non-Compliance
 
-Selon l'article **4.2.4** du RGIE, toutes les installations électriques doivent être équipées de dispositifs de protection conformes aux normes en vigueur. Un tableau non conforme expose à des sanctions lors des contrôles de conformité.
+According to Article **4.2.4** of the Belgian Electrical Regulations, all electrical installations must be equipped with protective devices that meet current standards. A non-compliant panel may result in penalties during compliance inspections.
 
-> **Note :** La mise en conformité de votre tableau est une obligation légale et un gage de sécurité pour vous et vos proches.
+> **Note:** Bringing your panel into compliance is a legal obligation and ensures safety for you and your loved ones.
 
-## 4. Équipements et Matériel à Prévoir
+---
 
-### 4.1. Disjoncteurs
+## 4. Required Equipment and Materials
 
-La mise en conformité d'un tableau électrique nécessite des disjoncteurs modernes, incluant des disjoncteurs thermiques et différentiels adaptés aux besoins de l'installation.
+### 4.1. Circuit Breakers
+
+Bringing an electrical panel into compliance requires modern circuit breakers, including thermal and residual current breakers tailored to the installation's needs.
 
 :::info
-**Exemple :** Un disjoncteur différentiel protège contre les fuites de courant et est particulièrement recommandé dans les pièces humides.  
+**Example:** A residual current circuit breaker protects against earth leakage currents and is particularly recommended in wet areas.
 :::
 
-![Exemple de Disjoncteurs](/img/bativolt-exemple-disjoncteurs.jpg)
+![Example of Circuit Breakers](/img/bativolt-exemple-disjoncteurs.jpg)
 
+### 4.2. Surge Protectors
 
-### 4.2. Parafoudres
+Surge protectors safeguard devices against voltage spikes. For optimal protection, they should be installed close to the electrical panel.
 
-Les parafoudres protègent les appareils contre les surtensions. Pour une protection optimale, ils doivent être installés à proximité du tableau.
+> **Advice:** A quality surge protector reduces the risk of equipment damage during a power surge, thus extending the lifespan of your devices.
 
-> **Conseil :** Un parafoudre de qualité réduit les risques de dommages aux équipements en cas de surtension, augmentant ainsi leur durée de vie.
+### 4.3. Cost of Materials
 
-### 4.3. Coût des Matériaux
+The cost of replacing a non-compliant electrical panel varies based on the type of equipment needed and the complexity of the installation. Here is an estimate:
 
-Le coût de remplacement d’un tableau électrique non conforme varie selon le type de matériel nécessaire et la complexité de l’installation. Voici une estimation :
-
-- **Disjoncteurs** : Entre 15 et 50 € par unité, selon le type et la capacité.
-- **Parafoudres** : Entre 100 et 200 €, en fonction de l’installation.
-- **Installation Complète du Tableau** : Entre 500 et 1500 €, selon les besoins spécifiques.
+- **Circuit Breakers**: Between €15 and €50 per unit, depending on type and capacity.
+- **Surge Protectors**: Between €100 and €200, depending on the installation.
+- **Complete Panel Installation**: Between €500 and €1500, depending on specific requirements.
 
 :::tip
-**Budget Prévisionnel :** Demandez des devis auprès de professionnels pour une estimation précise des coûts liés à la mise en conformité de votre tableau.
+**Budget Planning:** Request quotes from professionals for an accurate estimate of the costs involved in bringing your panel into compliance.
 :::
+
+---
 
 ## Conclusion
 
-Assurer la conformité des tableaux électriques est essentiel pour garantir la sécurité des utilisateurs. Les risques associés aux tableaux non conformes, comme les incendies et les surtensions, peuvent avoir des conséquences graves. Il est fortement recommandé de faire inspecter et, si nécessaire, de remplacer les tableaux par des professionnels qualifiés. 
+Ensuring the compliance of electrical panels is crucial for user safety. The risks associated with non-compliant panels, such as fires and power surges, can have severe consequences. It is highly recommended to have panels inspected and, if necessary, replaced by qualified professionals.
 
-> **Rappel :** Un tableau conforme est non seulement une obligation légale, mais aussi un élément essentiel pour la sécurité et la durabilité de votre installation électrique.
+> **Reminder:** A compliant panel is not only a legal requirement but also an essential component for the safety and durability of your electrical installation.
 
-En résumé, la mise en conformité des tableaux électriques protège non seulement vos biens, mais surtout la sécurité des personnes. En cas de doute, consultez un professionnel qualifié pour évaluer et mettre à jour votre installation.
+In summary, bringing electrical panels up to standard protects both your property and, most importantly, the safety of individuals. If in doubt, consult a qualified professional to assess and update your installation.
+
+---
+
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
+
+---

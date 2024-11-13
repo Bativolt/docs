@@ -1,97 +1,98 @@
 ---
-title: "Accès Installation - Checklist de Conformité Électrique RGIE"
-sidebar_label: "Accès Installation"
-description: "Guide complet pour garantir un accès sécurisé et conforme à votre installation électrique. Suivez notre checklist de conformité aux normes RGIE pour optimiser la sécurité et l’accessibilité de vos installations en Belgique."
+title: "Access to Installation - Electrical Compliance Checklist for Belgian Regulations"
+sidebar_label: "Access to Installation"
+description: "Comprehensive guide to ensure secure and compliant access to your electrical installation. Follow our compliance checklist for Belgian Electrical Regulations to optimize the safety and accessibility of your installations in Belgium."
 ---
 
-# Accès à l'Installation Électrique - RGIE
+# Access to Electrical Installation - Belgian Electrical Regulations
 
-Garantir un accès sécurisé et conforme à une installation électrique est une obligation primordiale, non seulement pour la sécurité des utilisateurs mais aussi pour la maintenance et les contrôles de conformité. Cette section de la checklist explique les vérifications à effectuer pour que l'installation soit accessible et en conformité avec les exigences du **Règlement Général sur les Installations Électriques (RGIE)**.
+Ensuring secure and compliant access to an electrical installation is a fundamental obligation, not only for user safety but also for maintenance and compliance checks. This section of the checklist details the inspections needed to ensure that the installation is accessible and in compliance with the requirements of the **Belgian Electrical Regulations**.
 
-> **🔍 Pourquoi c'est important ?** Selon l'article **123.4** du RGIE, un accès libre et sécurisé aux installations électriques est exigé pour permettre une intervention rapide en cas d'incident ou de maintenance. Un accès inadéquat augmente le risque d'accidents et peut compromettre la sécurité des occupants.
-
----
-
-## 1. Préparer l'Accès aux Composants Clés de l'Installation
-
-Tous les composants de l'installation électrique doivent être accessibles pour des interventions de maintenance et des contrôles de conformité.
-
-| **Composants**            | **Exigence selon le RGIE**                         | **Conseils** |
-|---------------------------|----------------------------------------------------|--------------|
-| **Tableau Électrique**     | Accessible en tout temps (RGIE Art. 123.5)         | Assurez-vous qu’il n’est pas obstrué par des meubles ou autres objets. |
-| **Prises de Courant**      | Doivent figurer sur les schémas et être accessibles pour inspection (RGIE Art. 250.2) | Assurez-vous que toutes les prises importantes sont visibles et figurent sur le schéma. Une prise temporairement inaccessibles (ex. derrière un meuble) est tolérée, mais doit être représentée. |
-| **Disjoncteurs et Fusibles** | Accès direct et dégagé (RGIE Art. 131.2)         | Identifiez chaque disjoncteur pour une intervention rapide en cas de panne. |
-| **Compteur / Salle des Compteurs** | Accessible en tout temps, surtout dans les immeubles (RGIE Art. 124.3) | Veillez à ce que le compteur soit accessible pour les relevés, l'entretien et les interventions en cas de panne. |
-| **Interrupteurs**          | Doivent être placés de manière visible et accessible (RGIE Art. 251.3) | Évitez de placer des interrupteurs derrière des portes ou des meubles. Ils doivent être bien positionnés pour un accès rapide et sûr. |
-| **Luminaires**             | Doivent être installés de manière sécurisée et accessibles pour maintenance (RGIE Art. 252.1) | Assurez-vous que les luminaires sont fixés solidement et peuvent être facilement entretenus ou remplacés. |
-| **Boîtes de Dérivation**   | Considérées comme tableaux électriques, elles doivent être accessibles et répertoriées sur les schémas (RGIE Art. 123.7) | Positionnez les boîtes de dérivation dans des lieux accessibles (pas derrière un mur scellé), permettant des interventions futures sans difficultés. |
-
-> **💡 Astuce :** Étiquetez chaque disjoncteur dans le tableau pour indiquer les zones qu’il protège. Une identification claire facilite la gestion des circuits et aide en cas d'urgence.
+> **🔍 Why is it important?** According to **Article 123.4** of the Belgian Electrical Regulations, unrestricted and secure access to electrical installations is required to allow quick intervention in case of an incident or maintenance. Inadequate access increases the risk of accidents and can compromise the safety of occupants.
 
 ---
 
-## 2. Respect des Distances de Sécurité
+## 1. Preparing Access to Key Components of the Installation
 
-Le RGIE impose des distances de sécurité minimales autour des composants électriques pour éviter tout danger. Ces règles doivent être respectées pour garantir la sécurité des utilisateurs et des techniciens.
+All components of the electrical installation must be accessible for maintenance interventions and compliance checks.
 
-### 2.1. Dégagement Minimum autour du Tableau Électrique
+| **Components**            | **Requirement under Belgian Regulations**           | **Advice** |
+|---------------------------|-----------------------------------------------------|------------|
+| **Electrical Panel**      | Must be accessible at all times (Art. 123.5)        | Ensure it is not obstructed by furniture or other objects. |
+| **Power Outlets**         | Must appear on schematics and be accessible for inspection (Art. 250.2) | Ensure that all key outlets are visible and listed on the schematic. Temporarily inaccessible outlets (e.g., behind furniture) are tolerated but must be documented. |
+| **Circuit Breakers and Fuses** | Direct and unobstructed access required (Art. 131.2) | Label each circuit breaker for quick identification in case of an outage. |
+| **Meter / Meter Room**    | Must be accessible at all times, especially in buildings (Art. 124.3) | Ensure the meter is easily accessible for readings, maintenance, and interventions during outages. |
+| **Switches**              | Must be visibly placed and easily accessible (Art. 251.3) | Avoid placing switches behind doors or furniture. They should be positioned for quick and safe access. |
+| **Lighting Fixtures**     | Must be securely installed and accessible for maintenance (Art. 252.1) | Ensure that fixtures are securely mounted and easily serviceable or replaceable. |
+| **Junction Boxes**        | Considered as part of the electrical panel, must be accessible and listed on schematics (Art. 123.7) | Place junction boxes in accessible areas (not behind sealed walls) to allow future interventions without difficulty. |
 
-Le tableau électrique doit disposer d’un espace libre d’au moins **60 cm** autour, conformément à l’article **133.1** du RGIE. Cet espace permet une intervention sécurisée sans obstacle.
+> **💡 Tip:** Label each circuit breaker in the panel to indicate the areas it protects. Clear identification simplifies circuit management and aids in emergencies.
+
+---
+
+## 2. Compliance with Safety Distances
+
+The Belgian Electrical Regulations mandate minimum safety distances around electrical components to prevent hazards. These rules must be observed to ensure the safety of users and technicians.
+
+### 2.1. Minimum Clearance around the Electrical Panel
+
+The electrical panel must have a clear space of at least **60 cm** around it, in accordance with **Article 133.1** of the regulations. This space allows for safe intervention without obstructions.
 
 :::warning
-**Attention :** Un espace encombré autour du tableau électrique rend les opérations de maintenance dangereuses et peut compliquer les interventions d’urgence. Le non-respect de cette exigence est une infraction aux normes RGIE.
+**Warning:** A cluttered area around the electrical panel makes maintenance operations dangerous and can hinder emergency interventions. Non-compliance with this requirement is a violation of the regulations.
 :::
 
-### 2.2. Emplacement du Tableau et Conditions Environnementales
+### 2.2. Location of the Panel and Environmental Conditions
 
-Conformément à l'article **134.2** du RGIE, le tableau électrique ne doit pas être situé dans des endroits humides ou à proximité d'une source d'eau. Assurez-vous que le tableau est installé dans un espace sec et bien ventilé pour éviter les risques de court-circuit.
+According to **Article 134.2**, the electrical panel must not be installed in damp areas or near a water source. Ensure the panel is placed in a dry, well-ventilated area to reduce the risk of short circuits.
 
-> **Conseil Sécurité :** Installez un éclairage permanent à proximité du tableau électrique pour faciliter les interventions, même en cas de coupure de courant.
-
----
-
-## 3. Sécurisation de l'Accès aux Installations
-
-### 3.1. Protection contre l'Accès Non Autorisé
-
-Les installations électriques doivent être protégées contre l'accès de personnes non autorisées, en particulier les enfants. Utilisez des dispositifs de verrouillage et des panneaux de signalisation conformément aux exigences de l'article **126.7** du RGIE.
-
-> **💡 Bon à Savoir :** Les tableaux électriques installés dans des lieux publics ou accessibles doivent être verrouillés ou installés dans une armoire fermée. Cela limite les risques de manipulation accidentelle par des personnes non habilitées.
-
-### 3.2. Signalisation des Dangers
-
-Selon l'article **125.3** du RGIE, il est impératif d'ajouter des panneaux de signalisation pour indiquer les dangers électriques et informer les occupants des risques. Les panneaux d’avertissement doivent être visibles et respectueux des normes pour limiter les risques d’électrocution.
-
-> **📢 Attention** : Un tableau électrique sans signalisation adéquate augmente le risque d’accidents. Installez des panneaux clairs pour prévenir toute manipulation non autorisée.
+> **Safety Advice:** Install permanent lighting near the electrical panel to facilitate interventions, even during power outages.
 
 ---
 
-## 4. Maintenance et Vérification Régulière de l'Accès
+## 3. Securing Access to Installations
 
-Pour garantir un accès toujours conforme et sécurisé, effectuez des vérifications régulières. Les installations évoluent avec le temps, il est donc important de s'assurer que l'accès reste dégagé et que les équipements sont en bon état.
+### 3.1. Protection against Unauthorized Access
 
-| **Action**                          | **Fréquence Recommandée**   | **Conseil** |
-|-------------------------------------|-----------------------------|-------------|
-| Vérification des accès dégagés       | Tous les 3 mois             | Assurez-vous qu’aucun obstacle ne gêne l’accès au tableau. |
-| Inspection des panneaux de signalisation | Tous les 6 mois             | Remplacez les panneaux usés ou endommagés pour une visibilité optimale. |
-| Contrôle de l’éclairage près du tableau | Annuellement                | Assurez-vous que l’éclairage est fonctionnel et accessible. |
+Electrical installations must be secured against unauthorized access, particularly from children. Use locking devices and warning signs as required by **Article 126.7** of the regulations.
 
-> **📅 Planifiez votre Maintenance** : Un calendrier de vérification peut aider à garder les installations en conformité avec le RGIE et à prévenir les risques liés à un accès inadéquat. Utilisez une application de gestion de maintenance pour planifier ces vérifications.
+> **💡 Good to Know:** Electrical panels installed in public or accessible areas must be locked or placed in a closed cabinet. This reduces the risk of accidental handling by unauthorized persons.
+
+### 3.2. Danger Signage
+
+According to **Article 125.3**, it is mandatory to add warning signs to indicate electrical hazards and inform occupants of the risks. Warning signs must be visible and comply with standards to minimize the risk of electrocution.
+
+> **📢 Attention:** An electrical panel without proper signage increases the risk of accidents. Install clear warning signs to prevent unauthorized handling.
+
+---
+
+## 4. Regular Maintenance and Access Checks
+
+To ensure continuous secure and compliant access, perform regular inspections. Installations evolve over time, so it is crucial to check that access remains clear and equipment is in good condition.
+
+| **Action**                          | **Recommended Frequency**   | **Advice** |
+|-------------------------------------|-----------------------------|------------|
+| Check for unobstructed access       | Every 3 months              | Ensure that no objects block access to the panel. |
+| Inspect warning signs               | Every 6 months              | Replace worn or damaged signs for optimal visibility. |
+| Verify lighting near the panel      | Annually                    | Ensure that lighting is functional and easily accessible. |
+
+> **📅 Plan Your Maintenance:** A maintenance schedule can help keep installations compliant with regulations and prevent risks related to inadequate access. Use a maintenance management app to plan these inspections.
 
 ---
 
 ## Conclusion
 
-Assurer un accès adéquat et sécurisé aux installations électriques est non seulement une obligation réglementaire selon le RGIE, mais aussi une mesure essentielle pour protéger les utilisateurs et les techniciens. En suivant cette checklist et en prenant des précautions simples, vous garantissez la conformité et la sécurité de votre installation.
+Ensuring adequate and secure access to electrical installations is not only a regulatory obligation under the Belgian Electrical Regulations but also a key measure to protect users and technicians. By following this checklist and taking simple precautions, you can guarantee compliance and safety for your installation.
 
-> **📞 Besoin d’aide ?** Pour toute question sur la conformité de votre accès à l’installation électrique, contactez un électricien agréé ou un organisme de contrôle. Vous pouvez également consulter notre guide sur les [normes RGIE](https://docs.bativolt.com/docs/checklist/introduction) pour plus de détails.
+> **📞 Need help?** For any questions about compliance with your electrical installation access, contact a licensed electrician or a control agency. You can also check our guide on [Belgian Electrical Regulations](https://docs.bativolt.com/en/checklist/introduction) for more details.
+
+---
+
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
-
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
-
----

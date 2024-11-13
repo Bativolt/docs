@@ -1,90 +1,89 @@
 ---
-title: Introduction à la Checklist de Conformité Électrique
+title: "Introduction to the Electrical Compliance Checklist"
 sidebar_label: Introduction
-description: "Découvrez la checklist complète pour assurer la conformité et la sécurité des installations électriques en Belgique selon le RGIE. Un guide essentiel pour particuliers, entreprises, et professionnels du secteur électrique."
+description: "Discover the complete checklist to ensure compliance and safety of electrical installations in Belgium according to the Belgian Electrical Regulations. An essential guide for homeowners, businesses, and industry professionals."
 ---
 
-# Introduction à la Checklist de Conformité Électrique
+# Introduction to the Electrical Compliance Checklist
 
-Bienvenue dans la **Checklist de Conformité Électrique**, un guide exhaustif conçu pour vous aider à vérifier que chaque installation électrique respecte les normes de sécurité et de conformité établies par le **Règlement Général sur les Installations Électriques (RGIE)**. 
+Welcome to the **Electrical Compliance Checklist**, a comprehensive guide designed to help you verify that every electrical installation meets the safety and compliance standards set by the **Belgian Electrical Regulations**.
 
-Le RGIE est un cadre de normes rigoureux, mis en place pour protéger les utilisateurs contre les dangers liés à l'électricité, notamment les risques d'**incendie**, d'**électrocution** et d'autres accidents graves. Suivre ces normes est non seulement une obligation légale, mais aussi une responsabilité pour garantir la sécurité de tous.
+The Belgian regulations provide a stringent framework of standards aimed at protecting users from electrical hazards, including risks of **fire**, **electrocution**, and other serious accidents. Adhering to these standards is not only a legal requirement but also a responsibility to ensure everyone’s safety.
 
-:::warning À Savoir
-La non-conformité aux normes du RGIE peut entraîner des sanctions légales et des risques pour la sécurité des occupants. Respecter ces normes est essentiel pour éviter les incidents et garantir des installations sûres et pérennes.
+:::warning Important
+Non-compliance with the Belgian Electrical Regulations can result in legal penalties and pose serious safety risks to occupants. Following these standards is crucial to prevent incidents and ensure safe and durable installations.
 :::
 
 ---
 
-## Objectifs de la Checklist
+## Objectives of the Checklist
 
-Cette checklist a été conçue avec des objectifs clairs pour accompagner tous les acteurs — particuliers, professionnels, techniciens, et contrôleurs — dans leurs démarches de sécurité et de conformité.
+This checklist has been designed with clear objectives to assist all stakeholders — homeowners, professionals, technicians, and inspectors — in their safety and compliance efforts.
 
-- **Évaluer la Sécurité** : Identifier et corriger les vulnérabilités de l'installation électrique avant qu'elles ne causent des incidents.
-- **Faciliter les Interventions** : Fournir une référence claire et accessible pour les inspections, les maintenances, et les dépannages.
-- **Assurer la Conformité** : Garantir que chaque installation respecte les exigences du RGIE, essentielles pour obtenir des validations et des assurances.
+- **Assess Safety**: Identify and address vulnerabilities in the electrical installation before they cause incidents.
+- **Facilitate Interventions**: Provide a clear and accessible reference for inspections, maintenance, and troubleshooting.
+- **Ensure Compliance**: Guarantee that every installation adheres to the requirements of the Belgian Electrical Regulations, essential for approvals and insurance.
 
-:::tip 💡 Astuce Pratique
-Gardez cette checklist accessible lors des inspections et des modifications d'installation. Elle facilitera le suivi de la conformité et optimisera les interventions des techniciens.
+:::tip 💡 Practical Tip
+Keep this checklist handy during inspections and installation modifications. It will help track compliance and optimize technician interventions.
 :::
 
 ---
 
-## Aperçu des Sections de la Checklist
+## Overview of Checklist Sections
 
-Voici un aperçu des différentes sections abordées dans cette checklist, avec un lien direct vers chaque étape pour faciliter la navigation :
+Below is an overview of the different sections covered in this checklist, with direct links to each step for easy navigation:
 
-1. [**Accès à l'Installation Électrique**](https://docs.bativolt.com/docs/checklist/acces-installation)  
-   Assurez-vous que l'installation est facilement accessible pour les contrôles et les interventions d'urgence, conformément à l'**Article 206.5 du RGIE**.
+1. [**Access to Electrical Installation**](https://docs.bativolt.com/en/docs/checklist/acces-installation)  
+   Ensure the installation is easily accessible for inspections and emergency interventions, in accordance with **Article 206.5** of the regulations.
 
-2. [**Identification des Compteurs**](https://docs.bativolt.com/docs/checklist/identification-compteurs)  
-   Garantissez l'identification claire et l'accessibilité des compteurs pour une gestion efficace de la consommation et des vérifications régulières (**Article 211.2**).
+2. [**Meter Identification**](https://docs.bativolt.com/en/docs/checklist/identification-compteurs)  
+   Ensure clear identification and accessibility of meters for efficient consumption management and regular checks (**Article 211.2**).
 
-3. [**Rapport de Conformité**](https://docs.bativolt.com/docs/checklist/rapport-conformite)  
-   Vérifiez la présence d'un rapport de conformité récent et sa validité, en s'assurant qu'il reflète les modifications apportées à l'installation, tel qu'exigé par le RGIE.
+3. [**Compliance Report**](https://docs.bativolt.com/en/docs/checklist/rapport-conformite)  
+   Verify the presence of a recent compliance report and its validity, ensuring it reflects any modifications made to the installation, as required by the regulations.
 
-4. [**Plans et Schémas Électriques**](https://docs.bativolt.com/docs/checklist/plans-schemas-electriques)  
-   Assurez-vous de disposer de schémas unifilaires et de position clairs et à jour, indispensables pour la sécurité et la compréhension des installations (**Article 178.3**).
+4. [**Electrical Schematics**](https://docs.bativolt.com/en/docs/checklist/plans-schemas-electriques)  
+   Ensure clear and up-to-date single-line and layout diagrams, essential for the safety and understanding of the installations (**Article 178.3**).
 
-5. [**Analyse des Facteurs de Risques**](https://docs.bativolt.com/docs/checklist/analyse-risques)  
-   Évaluez les dangers potentiels de l'installation, en particulier dans les environnements professionnels, pour anticiper les risques et prévenir les accidents (**Article 105.4**).
+5. [**Risk Factor Analysis**](https://docs.bativolt.com/en/docs/checklist/analyse-risques)  
+   Assess potential hazards of the installation, especially in professional environments, to anticipate risks and prevent accidents (**Article 105.4**).
 
-6. [**Luminaires de Secours**](https://docs.bativolt.com/docs/checklist/luminaires-secours)  
-   Installez et entretenez les luminaires de secours pour garantir un éclairage minimal en cas d'évacuation d'urgence, conformément à l'**Article 104.1**.
+6. [**Emergency Lighting**](https://docs.bativolt.com/en/docs/checklist/luminaires-secours)  
+   Install and maintain emergency lighting to provide minimal illumination during evacuations, in compliance with **Article 104.1**.
 
-7. [**Documentation des Machines**](https://docs.bativolt.com/docs/checklist/documentation-machines)  
-   Réunissez les manuels, fiches techniques et certificats de conformité pour les machines utilisées dans l'installation, particulièrement pour les équipements à risque, bien que cela ne soit pas toujours obligatoire selon le RGIE.
+7. [**Machine Documentation**](https://docs.bativolt.com/en/docs/checklist/documentation-machines)  
+   Collect user manuals, technical data sheets, and compliance certificates for the machines used in the installation, especially for high-risk equipment, even though this may not always be mandatory under the regulations.
 
-8. [**Dossier Électrique**](https://docs.bativolt.com/docs/checklist/dossier-electrique)  
-   Conservez un dossier électrique complet et à jour regroupant tous les documents nécessaires (schémas, rapports, analyses) pour une conformité totale et des interventions facilitées.
+8. [**Electrical Dossier**](https://docs.bativolt.com/en/docs/checklist/dossier-electrique)  
+   Maintain a complete and up-to-date electrical dossier containing all necessary documents (schematics, reports, analyses) for full compliance and facilitated interventions.
 
-:::info 📝 Remarque Importante
-Pour chaque section, nous avons inclus des références directes aux articles du RGIE pour clarifier les exigences légales et techniques. Ces informations sont cruciales pour les contrôleurs, les électriciens, et les propriétaires.
+:::info 📝 Important Note
+For each section, we have included direct references to the relevant articles of the Belgian Electrical Regulations to clarify legal and technical requirements. These details are crucial for inspectors, electricians, and property owners.
 :::
 
 ---
 
-## Utilisation de cette Checklist
+## Using This Checklist
 
-En suivant cette checklist, vous vous assurez non seulement de la **conformité réglementaire** de votre installation, mais aussi de la **sécurité des usagers** et de la **fiabilité des équipements**. Cette checklist s’adresse à un large public, allant des particuliers aux professionnels du secteur électrique, et peut être utilisée comme une ressource de référence pour garantir des installations conformes aux exigences les plus strictes.
+By following this checklist, you not only ensure the **regulatory compliance** of your installation but also guarantee the **safety of users** and the **reliability of equipment**. This checklist is designed for a broad audience, from homeowners to industry professionals, and can be used as a reference resource to guarantee installations that meet the highest standards.
 
-Chaque point est conçu pour prévenir les accidents, sécuriser les installations et répondre aux attentes des assureurs, techniciens, et contrôleurs. Nous vous invitons à parcourir chaque section avec attention afin de garantir que votre installation électrique est en parfait accord avec les normes du RGIE.
+Each point is crafted to prevent accidents, secure installations, and meet the expectations of insurers, technicians, and inspectors. We invite you to carefully review each section to ensure your electrical installation fully complies with the Belgian regulations.
 
 :::tip 📢 Conclusion
-Cette checklist représente votre guide de référence pour une conformité électrique optimale en Belgique. En respectant chaque section, vous contribuez à un environnement plus sûr et à la tranquillité d’esprit pour vous et vos utilisateurs.
+This checklist is your go-to guide for optimal electrical compliance in Belgium. By adhering to each section, you contribute to a safer environment and peace of mind for you and your users.
 :::
 
+---
+
+We hope this comprehensive guide provides you with all the necessary support to ensure the safety and compliance of your installations. Feel free to consult each section and refer to the relevant articles of the Belgian Electrical Regulations for a deeper understanding of the current requirements.
 
 ---
 
-Nous espérons que ce guide complet vous apportera toute l’aide nécessaire pour assurer la sécurité et la conformité de vos installations. N’hésitez pas à consulter chaque section et à vous référer aux articles du RGIE pour approfondir votre compréhension des exigences en vigueur.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
----
-
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
-
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

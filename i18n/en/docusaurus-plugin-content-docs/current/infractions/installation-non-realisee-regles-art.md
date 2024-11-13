@@ -1,130 +1,130 @@
 ---
-title: "Installation Pas Réalisée Selon les Règles de l'Art - Sécurité et Conformité"
-sidebar_label: Installation Non Conforme
-description: "Analyse approfondie des risques liés aux installations non conformes aux règles de l'art, les raisons, exemples, et méthodes de mise en conformité selon le RGIE."
+title: "Installation Not Carried Out According to Best Practices - Safety and Compliance"
+sidebar_label: Non-Compliant Installation
+description: "In-depth analysis of the risks associated with installations not following best practices, including reasons, examples, and methods for compliance according to the Belgian Electrical Regulations."
 ---
 
-# Installation Pas Réalisée Selon les Règles de l'Art
+# Installation Not Carried Out According to Best Practices
 
 ## Introduction
 
-Une **installation électrique non conforme aux règles de l'art** représente une infraction fréquente, souvent issue d'un manque de formation, de choix de matériaux inappropriés, ou de pratiques hâtives. Ces installations non conformes présentent des risques importants pour la sécurité des personnes et des biens. Comprendre les raisons de cette non-conformité, les dangers encourus, et les solutions adaptées est essentiel pour garantir une sécurité maximale.
+A **non-compliant electrical installation** is a common infraction, often resulting from a lack of training, inappropriate material choices, or rushed practices. These non-compliant installations pose significant risks to the safety of people and property. Understanding the reasons for non-compliance, the dangers involved, and the appropriate solutions is essential for ensuring maximum safety.
 
-:::danger Avertissement ⚠️
-Une installation défectueuse augmente le risque de chocs électriques, d'incendies, et peut entraîner des poursuites juridiques. **La sécurité ne doit jamais être compromise.**
+:::danger Warning ⚠️
+A faulty installation increases the risk of electric shocks, fires, and can lead to legal actions. **Safety should never be compromised.**
 :::
 
-## 1. Qu'est-ce que cela signifie ?
+## 1. What Does This Mean?
 
-### 1.1. Définition
+### 1.1. Definition
 
-Une installation conforme respecte les normes en vigueur, en particulier le **Règlement Général sur les Installations Électriques (RGIE)**. Cela implique :
-- L'utilisation de matériaux certifiés
-- L'application de techniques d'installation appropriées
-- Le respect des spécificités de l'environnement
+A compliant installation adheres to current standards, particularly the **Belgian Electrical Regulations**. This includes:
+- The use of certified materials
+- The application of appropriate installation techniques
+- Respect for environmental specifications
 
-:::tip Info Technique
-Les installations conformes respectent des articles spécifiques du RGIE, comme **l’article 104** qui précise l'obligation de réaliser les installations selon les bonnes pratiques.
+:::tip Technical Info
+Compliant installations follow specific articles of the Belgian Electrical Regulations, such as **Article 104**, which specifies the obligation to carry out installations according to best practices.
 :::
 
-### 1.2. Importance de la Conformité
+### 1.2. Importance of Compliance
 
-Les installations non conformes exposent à des risques de chocs électriques, d'incendies et de dysfonctionnements des équipements. En cas d'accident, la responsabilité du propriétaire peut être engagée avec des implications juridiques et financières.
+Non-compliant installations expose users to risks of electric shocks, fires, and equipment malfunctions. In case of an accident, the owner may be held liable, with legal and financial implications.
 
-## 2. Raisons des Installations Non Conformes
+## 2. Reasons for Non-Compliant Installations
 
-### 2.1. Manque de Connaissances Techniques
+### 2.1. Lack of Technical Knowledge
 
-Certains installateurs peuvent être insuffisamment formés ou peu informés des normes actuelles, ce qui entraîne des erreurs d'installation.
+Some installers may lack sufficient training or be unaware of current standards, leading to installation errors.
 
-:::info Conseil 💡
-Les installateurs doivent suivre des formations continues pour se tenir informés des mises à jour du RGIE et des bonnes pratiques.
+:::info Tip 💡
+Installers should attend continuous training to stay informed of updates to the Belgian Electrical Regulations and best practices.
 :::
 
-### 2.2. Pratiques Économiques
+### 2.2. Cost-Cutting Practices
 
-La réduction des coûts peut amener certains propriétaires à opter pour des matériaux de moindre qualité ou à renoncer à certaines protections, compromettant ainsi la sécurité.
+Cost reduction may lead some property owners to opt for lower-quality materials or skip certain protections, compromising safety.
 
-### 2.3. Pression Temporelle
+### 2.3. Time Pressure
 
-Dans un contexte de délais serrés, certains détails essentiels peuvent être négligés, compromettant la sécurité de l'installation.
+Under tight deadlines, some essential details may be overlooked, compromising the safety of the installation.
 
-:::warning Risque 📉
-Des économies de temps et d’argent dans l'installation électrique peuvent coûter beaucoup plus cher en cas de sinistre !
+:::warning Risk 📉
+Saving time and money on an electrical installation can be much more costly in the event of a disaster!
 :::
 
-## 3. Exemples d'Installations Non Conformes
+## 3. Examples of Non-Compliant Installations
 
-### 3.1. Câblage Mal Réalisé
+### 3.1. Poorly Executed Wiring
 
-Des câbles mal isolés, des connexions lâches ou des câbles sous-dimensionnés peuvent provoquer des courts-circuits et des surchauffes, augmentant ainsi le risque d'incendie.
+Poorly insulated cables, loose connections, or undersized cables can cause short circuits and overheating, increasing the risk of fire.
 
-### 3.2. Utilisation de Matériaux Non Conformes
+### 3.2. Use of Non-Compliant Materials
 
-L'emploi de matériaux inadaptés, comme des câbles non protégés dans des environnements humides, compromet la sécurité.
+Using inappropriate materials, such as unprotected cables in damp environments, compromises safety.
 
-:::info Image d'Exemple 📸
+:::info Example Image 📸
 
-Une photo illustrative sera ajoutée ici prochainement. Vu l'ampleur de la documentation, il peut y avoir des sections en attente de visuels.
+An illustrative photo will be added here soon. Given the extent of the documentation, some sections may be awaiting visuals.
 
-Si vous souhaitez aider la communauté, vous pouvez contribuer avec une photo personnelle en lien avec cette section ! Envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com), et nous l'intégrerons en mentionnant votre nom en tant que contributeur. Ensemble, enrichissons l’expérience éducative de Bativolt !
+If you would like to help the community, you can contribute with a personal photo relevant to this section! Send it to [docs@bativolt.com](mailto:docs@bativolt.com), and we will include your name as a contributor. Together, let's enhance the educational experience of Bativolt!
 
 :::
 
-### 3.3. Absence de Protection
+### 3.3. Lack of Protection
 
-L'absence de disjoncteurs ou de fusibles expose l'installation aux courts-circuits et aux surcharges, ce qui peut être particulièrement dangereux dans les zones à forte consommation électrique.
+The absence of circuit breakers or fuses leaves the installation vulnerable to short circuits and overloads, which can be particularly dangerous in high-consumption areas.
 
-## 4. Résolutions Possibles
+## 4. Possible Resolutions
 
-### 4.1. Évaluation Professionnelle
+### 4.1. Professional Evaluation
 
-Il est impératif de faire évaluer les installations suspectes par un électricien qualifié. Cette évaluation permet de détecter les non-conformités et de proposer des solutions.
+It is crucial to have suspect installations evaluated by a qualified electrician. This assessment helps identify non-compliances and propose solutions.
 
-:::info Pourquoi faire appel à un professionnel ?
-Les électriciens agréés sont familiarisés avec les normes RGIE et peuvent garantir une mise en conformité selon les règles en vigueur.
+:::info Why Consult a Professional?
+Licensed electricians are familiar with the Belgian Electrical Regulations and can ensure compliance according to the current standards.
 :::
 
-### 4.2. Mise à Niveau des Installations
+### 4.2. Upgrading the Installations
 
-La mise à niveau consiste à remplacer les éléments non conformes, ajouter des protections manquantes et réorganiser les installations si nécessaire.
+Upgrading involves replacing non-compliant elements, adding missing protections, and reorganizing installations if necessary.
 
-### 4.3. Formation et Sensibilisation
+### 4.3. Training and Awareness
 
-La sensibilisation aux règles du RGIE et aux pratiques correctes réduit les infractions futures et améliore la sécurité des installations.
+Raising awareness about the Belgian Electrical Regulations and proper practices reduces future violations and enhances the safety of installations.
 
-## 5. Coûts Associés à la Mise en Conformité
+## 5. Costs Associated with Compliance
 
-### 5.1. Évaluation et Inspection
+### 5.1. Evaluation and Inspection
 
-Une inspection approfondie coûte entre **100 € et 300 €** en fonction de la taille de l'installation et de la complexité des travaux.
+A thorough inspection costs between **€100 and €300**, depending on the size of the installation and the complexity of the work.
 
-### 5.2. Réparations et Mises à Niveau
+### 5.2. Repairs and Upgrades
 
-Les coûts de mise en conformité varient selon la nature des travaux, allant de **quelques centaines à plusieurs milliers d'euros**.
+The costs of bringing an installation up to compliance vary depending on the nature of the work, ranging from **a few hundred to several thousand euros**.
 
-### 5.3. Importance de l'Investissement
+### 5.3. Importance of the Investment
 
-Un investissement dans la conformité est un gage de sécurité. En cas de sinistre, les économies réalisées sur la sécurité peuvent avoir des conséquences bien plus coûteuses.
+Investing in compliance is a commitment to safety. In the event of an incident, the savings made on safety measures can lead to much higher costs.
 
-:::tip Pourquoi investir dans la mise en conformité ?
-Assurer la conformité de votre installation est un acte de responsabilité envers les utilisateurs et les biens. Le coût initial est une prévention contre des dépenses futures.
+:::tip Why Invest in Compliance?
+Ensuring the compliance of your installation is an act of responsibility towards users and property. The initial cost is a preventive measure against future expenses.
 :::
 
 ## Conclusion
 
-Une installation non réalisée selon les règles de l'art est un risque majeur pour la sécurité. En identifiant les causes de non-conformité, en effectuant des inspections régulières, et en mettant à niveau les installations, il est possible de garantir une sécurité optimale. La sensibilisation aux bonnes pratiques et aux exigences réglementaires est essentielle pour prévenir les défauts d'installation à l'avenir.
+An installation not carried out according to best practices poses a major risk to safety. By identifying the causes of non-compliance, conducting regular inspections, and upgrading installations, optimal safety can be ensured. Awareness of best practices and regulatory requirements is essential to prevent installation defects in the future.
 
 :::info
-**Sécurité et Conformité :** Respecter les normes n'est pas une option ; c'est une obligation pour protéger la vie et les biens.
+**Safety and Compliance:** Adhering to standards is not optional; it is a requirement to protect lives and property.
 :::
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

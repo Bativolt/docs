@@ -69,7 +69,7 @@ Si vous avez des photos de tests ou de procédures de mise en conformité, n'hé
 
 ## 5. Contact pour Ajouter des Infractions
 
-Nous sommes ouverts à l’ajout de nouvelles pages pour couvrir des infractions non listées ici. Si vous identifiez une infraction spécifique qui n'est pas abordée, contactez-nous via [docs.bativolt.com](https://docs.bativolt.com). Nous nous ferons un plaisir d'inclure des solutions et des conseils pour toute infraction supplémentaire afin de soutenir la communauté.
+Nous sommes ouverts à l’ajout de nouvelles pages pour couvrir des infractions non listées ici. Si vous identifiez une infraction spécifique qui n'est pas abordée, contactez-nous via [docs.bativolt.com](mailto:docs@bativolt.com). Nous nous ferons un plaisir d'inclure des solutions et des conseils pour toute infraction supplémentaire afin de soutenir la communauté.
 
 
 ---

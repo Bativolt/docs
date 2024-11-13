@@ -1,163 +1,162 @@
 ---
-title: Degrés de Protection Non Respectés - Risques et Solutions pour une Sécurité Maximale
-sidebar_label: Degrés de Protection
-description: Découvrez les dangers et solutions associés au non-respect des degrés de protection dans les installations électriques, incluant conseils pratiques, coûts de mise à niveau et implications pour la conformité.
+title: Non-Compliance with Protection Degrees - Risks and Solutions for Maximum Safety
+sidebar_label: Protection Degrees
+description: Discover the dangers and solutions related to non-compliance with protection degrees in electrical installations, including practical tips, upgrade costs, and compliance implications.
 ---
 
-# Degrés de Protection Non Respectés
+# Non-Compliance with Protection Degrees
 
 ## Introduction
 
-Le respect des **degrés de protection** est fondamental pour la sécurité des installations électriques. Une protection inadéquate expose les utilisateurs à des risques graves, tels que **chocs électriques** et **incendies**. Cette page explore les causes de non-conformité des degrés de protection, les différentes infractions possibles, les risques associés et les solutions pour maintenir une installation sécurisée.
+Adhering to **protection degrees** is fundamental for the safety of electrical installations. Inadequate protection exposes users to serious risks such as **electric shocks** and **fires**. This page explores the causes of non-compliance with protection degrees, potential violations, associated risks, and solutions to maintain a secure installation.
 
 ---
 
-## 1. Qu'est-ce que le Degré de Protection ?
+## 1. What is a Protection Degree?
 
-### 1.1. Définition et Importance
+### 1.1. Definition and Importance
 
-Le degré de protection est désigné par un code **IP (Ingress Protection)**, indiquant la résistance d'un équipement aux solides et liquides (par exemple, IP54). Le premier chiffre indique la protection contre la poussière, et le second la protection contre l'eau. Un degré de protection adéquat empêche les accidents en assurant la durabilité des installations électriques.
+The protection degree is indicated by an **IP (Ingress Protection)** code, representing the resistance of equipment against solids and liquids (e.g., IP54). The first digit shows protection against dust, and the second digit shows protection against water. An adequate protection degree prevents accidents and ensures the durability of electrical installations.
 
-> **Note :** Le respect du code IP est crucial dans les zones exposées à la poussière ou à l'humidité, comme les salles de bains, cuisines et garages.
+> **Note:** Adherence to the IP code is crucial in areas exposed to dust or moisture, such as bathrooms, kitchens, and garages.
 
 ---
 
-## 2. Cas de Non-Respect des Degrés de Protection
+## 2. Cases of Non-Compliance with Protection Degrees
 
-### 2.1. Obturateurs Manquants
+### 2.1. Missing Shutters
 
-Les **obturateurs** sont essentiels pour éviter le contact avec des éléments sous tension, en particulier dans les prises murales et les interrupteurs. Leur absence expose les utilisateurs à des **risques d’électrocution**, en particulier dans les environnements humides.
+**Shutters** are essential for preventing contact with live parts, especially in wall sockets and switches. Their absence exposes users to **electrocution risks**, particularly in damp environments.
 
 :::warning
-**Danger :** Les obturateurs manquants dans les prises peuvent entraîner des accidents, notamment pour les enfants ou dans des pièces comme les cuisines.
+**Danger:** Missing shutters in sockets can lead to accidents, especially for children or in rooms like kitchens.
 :::
 
 ---
 
-### 2.2. Installation Incorrecte de Lampes et Armatures
+### 2.2. Incorrect Installation of Light Fixtures
 
-Une mauvaise installation d’**armatures de lampe** ou de luminaires peut nuire au degré de protection, surtout si les connexions sont mal sécurisées ou exposées.
+Poor installation of **light fixtures** or luminaires can compromise the protection degree, especially if connections are unsecured or exposed.
 
-> **💡 Conseil :** Assurez-vous que les luminaires sont installés en suivant les instructions du fabricant pour une protection optimale contre les courts-circuits et les contacts accidentels.
+> **💡 Tip:** Ensure that light fixtures are installed according to the manufacturer's instructions for optimal protection against short circuits and accidental contact.
 
 ---
 
-### 2.3. Tableau Électrique Sans Couvercle
+### 2.3. Electrical Panel Without a Cover
 
-L'absence de **couvercle** sur un tableau électrique est une infraction grave. Cela expose directement les utilisateurs aux composants sous tension et augmente considérablement les risques d'accidents.
+A missing **cover** on an electrical panel is a severe violation. It directly exposes users to live components, significantly increasing the risk of accidents.
 
-> **Exemple d'image :** Un tableau électrique sans couvercle montre un risque d’accès direct aux parties sous tension, surtout dans les lieux fréquentés. 
+> **Image Example:** An uncovered electrical panel shows a direct risk of access to live parts, especially in frequently visited areas.
 
-:::info Image d'Exemple 📸
+:::info Example Image 📸
 
-Une photo illustrative sera ajoutée ici prochainement. Si vous souhaitez contribuer avec une photo en lien avec cette section, envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com). Nous intégrerons votre nom en tant que contributeur.
+An illustrative photo will be added here soon. If you wish to contribute with a relevant photo for this section, please send it to [docs@bativolt.com](mailto:docs@bativolt.com). Your name will be included as a contributor.
 
 :::
 
 ---
 
-### 2.4. Utilisation de Sucres Non Conformes
+### 2.4. Use of Non-Compliant Connectors (Sugar Connectors)
 
-Les **sucres** (connecteurs) de qualité inférieure ou inappropriés peuvent entraîner des **surcharges** et augmenter le risque d’incendie. Les sucres non conformes sont particulièrement dangereux dans les foyers avec des enfants.
+Low-quality or inappropriate **connectors** (sugar connectors) can lead to **overloads** and increase the risk of fire. Non-compliant connectors are particularly hazardous in homes with children.
 
-> **💡 Astuce :** Vérifiez que les sucres utilisés sont conformes aux normes CE pour éviter les risques de court-circuit.
-
----
-
-### 2.5. Câbles Mal Protégés
-
-Les câbles doivent être correctement **protégés avec des gaines** et des conduits. Les câbles exposés sont susceptibles de se détériorer, augmentant le risque de court-circuit.
-
-> **💡 Bon à savoir :** Dans les environnements extérieurs ou humides, l’utilisation de gaines spéciales est requise pour maintenir un niveau de protection adéquat.
+> **💡 Tip:** Check that the connectors used are CE-compliant to avoid the risk of short circuits.
 
 ---
 
-### 2.6. Installation de Matériel Non Conforme
+### 2.5. Poorly Protected Cables
 
-Tout matériel utilisé doit être **conforme aux normes** pour assurer une protection adéquate. L’installation de matériel de mauvaise qualité ou non conforme augmente les risques de défaillance.
+Cables must be properly **protected with conduits** and sheathing. Exposed cables are prone to deterioration, increasing the risk of short circuits.
 
-> **Attention :** L'utilisation de matériel non conforme peut entraîner une invalidation des assurances en cas d'accident lié à l'installation.
+> **💡 Good to Know:** In outdoor or damp environments, special sheathing is required to maintain an adequate protection level.
 
 ---
 
-## 3. Conséquences du Non-Respect des Degrés de Protection
+### 2.6. Installation of Non-Compliant Equipment
 
-### 3.1. Risques d'Électrocution
+All equipment used must be **standards-compliant** to ensure adequate protection. Installing low-quality or non-compliant equipment increases the risk of failure.
 
-Le non-respect des degrés de protection expose les utilisateurs à un risque d’électrocution en cas de contact avec des éléments sous tension.
+> **Warning:** Using non-compliant equipment can invalidate insurance coverage in the event of an accident related to the installation.
+
+---
+
+## 3. Consequences of Non-Compliance with Protection Degrees
+
+### 3.1. Risk of Electrocution
+
+Failure to comply with protection degrees exposes users to electrocution risks if they come into contact with live components.
 
 :::danger
-**Danger de Mort :** Un tableau non protégé, par exemple, peut être extrêmement dangereux pour les enfants et les animaux domestiques.
+**Life-Threatening Danger:** An unprotected electrical panel, for example, can be extremely dangerous for children and pets.
 :::
 
 ---
+### 3.2. Fire Risks
 
-### 3.2. Risques d'Incendie
+Short circuits caused by unprotected cables or faulty connectors are common causes of household fires.
 
-Les courts-circuits causés par des câbles non protégés ou des connecteurs défaillants sont souvent à l'origine d'incendies domestiques.
-
-> **Exemple d'image :** Illustration d’une prise non protégée provoquant un court-circuit.
-
----
-
-### 3.3. Conformité Réglementaire et Sanctions
-
-Le **RGIE** exige un respect strict des degrés de protection. En cas de contrôle ou d’accident, une non-conformité peut entraîner des sanctions, et la responsabilité des propriétaires peut être engagée.
+> **Image Example:** Illustration of an unprotected socket causing a short circuit.
 
 ---
 
-## 4. Résolutions Possibles
+### 3.3. Regulatory Compliance and Penalties
 
-### 4.1. Évaluation par un Électricien Qualifié
-
-Un professionnel peut identifier les non-conformités et recommander des solutions pour mettre l’installation en sécurité.
-
-> **💡 Conseil :** Programmez des contrôles réguliers avec un électricien pour anticiper les problèmes de protection.
+The **Belgian Electrical Regulations** require strict adherence to protection degrees. In the event of an inspection or accident, non-compliance can lead to penalties, and the property owners may be held liable.
 
 ---
 
-### 4.2. Mise à Niveau des Installations
+## 4. Possible Resolutions
 
-En fonction des besoins, il peut être nécessaire de remplacer le matériel non conforme ou de réinstaller certains éléments.
+### 4.1. Evaluation by a Qualified Electrician
 
-| **Type de mise à niveau**               | **Coût estimé**   |
-|-----------------------------------------|--------------------|
-| Remplacement des obturateurs             | 10 € à 20 € par prise |
-| Ajout de couvercles de tableau          | 50 € à 100 €      |
-| Installation de gaines de protection    | Variable, selon longueur et type |
+A professional can identify non-compliances and recommend solutions to secure the installation.
 
-> **Investissement dans la sécurité** : Bien que coûteuse, la mise à niveau garantit la protection des utilisateurs et des biens.
+> **💡 Tip:** Schedule regular inspections with an electrician to anticipate protection issues.
 
 ---
 
-## 5. Coûts Associés à la Mise en Conformité
+### 4.2. Upgrading the Installations
 
-### 5.1. Évaluation et Vérifications Professionnelles
+Depending on the needs, it may be necessary to replace non-compliant equipment or reinstall certain elements.
 
-Le coût d'une évaluation varie entre **100 € et 300 €**, selon la taille et la complexité de l'installation.
+| **Type of Upgrade**                     | **Estimated Cost**  |
+|-----------------------------------------|---------------------|
+| Replacement of shutters                 | €10 to €20 per socket |
+| Addition of panel covers                | €50 to €100         |
+| Installation of protective conduits     | Varies, based on length and type |
 
-### 5.2. Remplacement et Améliorations Nécessaires
+> **Investment in Safety:** Although costly, upgrading ensures the protection of users and property.
 
-Les coûts de mise à niveau peuvent aller de quelques centaines à plusieurs milliers d'euros, selon l’ampleur des modifications.
+---
 
-> **Investissement dans la Sécurité :** Bien que coûteux, cet investissement est crucial pour la protection des utilisateurs et le respect des normes.
+## 5. Costs Associated with Compliance
+
+### 5.1. Professional Evaluation and Inspections
+
+The cost of an evaluation ranges from **€100 to €300**, depending on the size and complexity of the installation.
+
+### 5.2. Necessary Replacements and Improvements
+
+Upgrade costs can range from a few hundred to several thousand euros, depending on the extent of the modifications.
+
+> **Investment in Safety:** Although expensive, this investment is crucial for user protection and regulatory compliance.
 
 ---
 
 ## Conclusion
 
-Le respect des degrés de protection est une exigence essentielle pour garantir la sécurité des installations électriques. Un manque de protection peut entraîner des risques importants, y compris des électrocutions et des incendies. En cas de doute sur la conformité de votre installation, faites appel à un professionnel pour évaluer et corriger les problèmes. Respecter les normes de protection est indispensable pour assurer un environnement électrique sûr et conforme.
+Adhering to protection degrees is essential for ensuring the safety of electrical installations. Lack of protection can lead to significant risks, including electrocution and fires. If you have any doubts about the compliance of your installation, consult a professional to assess and resolve the issues. Following protection standards is key to maintaining a safe and compliant electrical environment.
 
 :::tip
-**Rappel de Sécurité :** Pensez à vérifier régulièrement les éléments de protection et à faire appel à un électricien pour les contrôles de sécurité !
+**Safety Reminder:** Regularly check protection elements and consult an electrician for safety inspections!
 :::
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

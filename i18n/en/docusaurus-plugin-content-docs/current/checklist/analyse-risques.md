@@ -1,109 +1,109 @@
 ---
-title: "Analyse des Facteurs de Risques - Conformité RGIE"
-sidebar_label: Analyse des Facteurs de Risques
-description: "Découvrez comment réaliser une analyse des facteurs de risques pour garantir la sécurité des installations électriques selon le RGIE. Guide complet pour les particuliers et les professionnels."
+title: "Risk Factor Analysis - Compliance with Belgian Electrical Regulations"
+sidebar_label: "Risk Factor Analysis"
+description: "Learn how to conduct a risk factor analysis to ensure the safety of electrical installations according to Belgian Electrical Regulations. Comprehensive guide for homeowners and professionals."
 ---
 
-# Analyse des Facteurs de Risques
+# Risk Factor Analysis
 
-L'analyse des facteurs de risques est une étape essentielle pour la conformité des installations électriques selon le **Règlement Général sur les Installations Électriques (RGIE)**. Elle permet d’identifier et d’évaluer les dangers associés aux installations, garantissant ainsi la sécurité des utilisateurs et la conformité aux normes en vigueur.
+Risk factor analysis is an essential step for ensuring compliance of electrical installations according to the **Belgian Electrical Regulations**. It helps identify and assess potential hazards, ensuring user safety and compliance with current standards.
 
 ---
 
-## 1. Qu'est-ce que l'Analyse des Facteurs de Risques ?
+## 1. What is Risk Factor Analysis?
 
-L'analyse des facteurs de risques examine tous les aspects d'une installation pour identifier les dangers potentiels pour les personnes et les biens. Elle englobe divers éléments de l’installation :
+Risk factor analysis examines all aspects of an installation to identify potential dangers for people and property. It covers various elements of the installation:
 
-- **Risques Électriques** : Prise en compte des risques d'électrocution, de court-circuit, et d'incendie.
-- **Environnement de Travail** : Évaluation des conditions comme l'humidité, la chaleur, et la poussière pouvant influencer la sécurité.
-- **Charge Électrique** : Analyse de la charge sur chaque circuit pour éviter les surcharges.
-- **Accessibilité** : Vérification de l'accès aux équipements pour les interventions et la maintenance.
+- **Electrical Risks**: Considers risks of electrocution, short circuits, and fire.
+- **Work Environment**: Evaluates conditions such as humidity, heat, and dust that may affect safety.
+- **Electrical Load**: Analyzes the load on each circuit to prevent overloads.
+- **Accessibility**: Checks access to equipment for interventions and maintenance.
 
 :::caution Warning
-Une installation non conforme aux exigences du RGIE peut représenter un danger grave pour les occupants et les travailleurs, exposant les responsables à des sanctions légales.
+An installation that does not meet the requirements of the Belgian Electrical Regulations may pose serious risks to occupants and workers, exposing responsible parties to legal sanctions.
 :::
 
 ---
 
-## 2. Importance de l'Analyse des Facteurs de Risques
+## 2. Importance of Risk Factor Analysis
 
-### 2.1. Sécurité des Utilisateurs
+### 2.1. User Safety
 
-L'analyse vise à **assurer la sécurité des utilisateurs** et à prévenir les accidents :
+The analysis aims to **ensure user safety** and prevent accidents:
 
-- **Prévention des Accidents** : Identification proactive des risques, réduisant ainsi les incidents d’électrocution ou d'incendie.
-- **Conformité Légale** : Le **RGIE (Article 45.3)** exige une analyse complète des risques pour toute inspection. Un contrôle sans cette analyse est incomplet et peut entraîner des implications légales.
-
-:::tip Astuce
-Conservez une copie de votre rapport de conformité près du tableau électrique principal pour une accessibilité optimale lors des contrôles.
-:::
-
-### 2.2. Complétude du Contrôle de Conformité
-
-L'analyse des risques est indispensable pour un contrôle de conformité exhaustif :
-
-- **Évaluation Globale** : Sans une analyse approfondie, le contrôleur ne peut pas garantir que l'installation respecte toutes les normes.
-- **Détection des Non-Conformités** : Cette étape aide à identifier les défauts nécessitant des réparations pour la mise en conformité de l'installation.
-
-:::info Info
-Toute non-conformité doit être documentée avec des délais de rectification pour garantir la sécurité des installations.
-:::
-
----
-
-## 3. Processus d'Analyse des Facteurs de Risques
-
-### 3.1. Étapes Clés
-
-L’analyse des risques comporte plusieurs étapes essentielles :
-
-| **Étapes**                | **Détails**                                                                                             |
-|---------------------------|---------------------------------------------------------------------------------------------------------|
-| **Collecte d'Informations** | Recueillir tous les schémas électriques, rapports précédents, et données sur les équipements.            |
-| **Inspection Visuelle**   | Observer les installations pour détecter les points faibles.                                             |
-| **Évaluation des Risques** | Utiliser des outils d'évaluation pour quantifier les dangers et établir des priorités de correction.     |
-| **Recommandations**       | Proposer des mesures correctives pour toute non-conformité identifiée.                                   |
-
-:::tip Conseil
-Assurez-vous d’avoir des schémas à jour lors de l’inspection visuelle, car des modifications non documentées peuvent entraîner des erreurs coûteuses.
-:::
-
-### 3.2. Documentation de l’Analyse
-
-La documentation de l'analyse des risques est cruciale pour le suivi des installations :
-
-- **Rapport d'Analyse** : Résume les conclusions, les risques identifiés, et les actions correctives recommandées.
-- **Mise à Jour des Schémas** : Les schémas doivent être actualisés pour refléter toute modification apportée à l’installation suite aux recommandations.
+- **Accident Prevention**: Proactively identifies risks, reducing the likelihood of incidents such as electrocution or fire.
+- **Legal Compliance**: The **Belgian Electrical Regulations (Article 45.3)** require a comprehensive risk analysis for every inspection. An inspection without this analysis is incomplete and may result in legal implications.
 
 :::tip Tip
-Assurez-vous que le rapport et les schémas actualisés sont archivés près du tableau principal pour un accès rapide lors des contrôles ultérieurs.
+Keep a copy of your compliance report near the main electrical panel for easy access during inspections.
+:::
+
+### 2.2. Completeness of Compliance Check
+
+Risk analysis is crucial for a thorough compliance check:
+
+- **Comprehensive Assessment**: Without an in-depth analysis, the inspector cannot guarantee that the installation meets all standards.
+- **Detection of Non-Compliance**: This step helps identify defects that need repairs to bring the installation into compliance.
+
+:::info Info
+Any non-compliance must be documented with deadlines for corrective action to ensure the safety of the installation.
+:::
+
+---
+
+## 3. Risk Factor Analysis Process
+
+### 3.1. Key Steps
+
+The risk analysis process includes several essential steps:
+
+| **Steps**                  | **Details**                                                                                             |
+|----------------------------|---------------------------------------------------------------------------------------------------------|
+| **Information Gathering**  | Collect all electrical schematics, previous reports, and equipment data.                                |
+| **Visual Inspection**      | Observe the installation to identify weak points.                                                       |
+| **Risk Assessment**        | Use evaluation tools to quantify hazards and establish priorities for correction.                       |
+| **Recommendations**        | Provide corrective measures for any identified non-compliance.                                          |
+
+:::tip Advice
+Ensure you have up-to-date schematics during the visual inspection, as undocumented changes can lead to costly errors.
+:::
+
+### 3.2. Documenting the Analysis
+
+Documenting the risk analysis is critical for tracking the installation:
+
+- **Analysis Report**: Summarizes findings, identified risks, and recommended corrective actions.
+- **Updating Schematics**: Schematics must be updated to reflect any changes made to the installation following the recommendations.
+
+:::tip Tip
+Store the report and updated schematics near the main panel for quick access during future inspections.
 :::
 
 ---
 
 ## 4. Conclusion
 
-L'analyse des facteurs de risques est indispensable pour assurer la sécurité et la conformité des installations électriques. Sans cette analyse, le contrôle de conformité reste incomplet, mettant potentiellement en danger les utilisateurs.
+Risk factor analysis is indispensable for ensuring the safety and compliance of electrical installations. Without this analysis, compliance checks are incomplete, potentially putting users at risk.
 
-Après avoir finalisé l’analyse et appliqué les recommandations, n'oubliez pas de vérifier l'installation des luminaires de secours, surtout pour les bâtiments publics et commerciaux. Ces dispositifs jouent un rôle fondamental en cas de coupure d’électricité.
+After completing the analysis and implementing the recommendations, do not forget to verify the installation of emergency lighting, especially in public and commercial buildings. These devices play a crucial role in the event of a power outage.
 
-:::important Prochaine Étape
-Consultez notre section sur les [Luminaires de Secours et leur Importance](https://docs.bativolt.com/docs/checklist/luminaires-secours) pour un complément de sécurité dans votre installation.
+:::important Next Step
+Check out our section on [Emergency Lighting and Its Importance](https://docs.bativolt.com/en/checklist/luminaires-secours) for an added layer of safety in your installation.
 :::
 
 ---
 
-:::note Rappel Sécurité
-Conservez toujours une copie des schémas électriques et du rapport d’analyse de risques dans un endroit facilement accessible pour faciliter les futures inspections et garantir la conformité continue.
+:::note Safety Reminder
+Always keep a copy of the electrical schematics and risk analysis report in an easily accessible place to facilitate future inspections and ensure ongoing compliance.
 :::
 
+---
+
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
-
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
-
----

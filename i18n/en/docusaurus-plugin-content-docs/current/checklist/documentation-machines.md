@@ -1,126 +1,126 @@
 ---
-title: "Documentation des Machines - Sécurité et Conformité RGIE"
-sidebar_label: Documentation des Machines
-description: "Guide complet sur la documentation des machines pour garantir la sécurité et la conformité RGIE dans les installations industrielles et commerciales. Apprenez les exigences, les obligations et les bonnes pratiques."
+title: "Machine Documentation - Safety and Compliance with Belgian Electrical Regulations"
+sidebar_label: Machine Documentation
+description: "Comprehensive guide on machine documentation to ensure safety and compliance with Belgian Electrical Regulations in industrial and commercial installations. Learn about the requirements, obligations, and best practices."
 ---
 
-# Documentation des Machines
+# Machine Documentation
 
-La **documentation des machines** est cruciale pour assurer la sécurité et la conformité dans les installations électriques, particulièrement dans les environnements industriels et commerciaux. Bien que le **Règlement Général sur les Installations Électriques (RGIE)** n’exige pas systématiquement une documentation pour toutes les machines, il impose certaines prescriptions dans des cas spécifiques.
+**Machine documentation** is crucial for ensuring safety and compliance in electrical installations, especially in industrial and commercial environments. Although the **Belgian Electrical Regulations** do not systematically require documentation for all machines, specific cases have mandatory requirements.
 
 ---
 
-## 1. Importance de la Documentation des Machines
+## 1. Importance of Machine Documentation
 
-### 1.1. Sécurité et Conformité
+### 1.1. Safety and Compliance
 
-La documentation des machines inclut les **manuels d'utilisation**, **fiches techniques**, **certificats de conformité** et **plans d'installation**. Elle joue un rôle essentiel pour :
+Machine documentation includes **user manuals**, **technical data sheets**, **certificates of compliance**, and **installation plans**. It plays a key role in:
 
-- **Assurer la Sécurité des Utilisateurs** : Les informations permettent aux opérateurs de connaître les meilleures pratiques pour utiliser les machines en toute sécurité.
-- **Garantir la Conformité aux Normes** : La documentation sert de preuve que les machines respectent les normes en vigueur, ce qui est essentiel lors des contrôles de conformité, particulièrement pour les installations présentant des risques élevés.
+- **Ensuring User Safety**: The information allows operators to follow best practices for safe machine use.
+- **Guaranteeing Compliance with Standards**: The documentation serves as proof that the machines comply with current standards, which is essential during compliance checks, especially for high-risk installations.
 
-:::tip 💡 Conseil Pratique
-Conservez la documentation des machines dans un endroit sécurisé et facilement accessible, idéalement près de la machine elle-même. Cette accessibilité facilite les contrôles et les interventions d’urgence.
+:::tip 💡 Practical Tip
+Store machine documentation in a secure and easily accessible location, ideally near the machine itself. This accessibility facilitates inspections and emergency interventions.
 :::
 
-### 1.2. Exemples de Machines Nécessitant une Documentation
+### 1.2. Examples of Machines Requiring Documentation
 
-Certaines machines, en raison de leur complexité et des risques associés, nécessitent souvent une documentation détaillée :
+Certain machines, due to their complexity and associated risks, often require detailed documentation:
 
-| **Type de Machine**                 | **Exemples**                                   |
-|-------------------------------------|------------------------------------------------|
-| **Presses**                         | Presses hydrauliques, presses mécaniques       |
-| **Équipements de Levage**           | Grues, chariots élévateurs                     |
-| **Machines-Outils**                 | Tours, fraises                                 |
-| **Équipements de Traitement des Matériaux** | Concasseurs, mélangeurs industriels     |
-| **Machines Agricoles**              | Tracteurs, moissonneuses-batteuses             |
-| **Équipements de Production Alimentaire** | Lignes d'emballage, fours industriels    |
-| **Équipements Électriques**         | Transformateurs, générateurs                   |
-| **Équipements de Climatisation**    | Systèmes de CVC, chambres froides              |
+| **Type of Machine**                | **Examples**                                   |
+|-----------------------------------|------------------------------------------------|
+| **Presses**                       | Hydraulic presses, mechanical presses          |
+| **Lifting Equipment**             | Cranes, forklifts                              |
+| **Machine Tools**                 | Lathes, milling machines                       |
+| **Material Processing Equipment** | Crushers, industrial mixers                    |
+| **Agricultural Machinery**        | Tractors, combine harvesters                   |
+| **Food Production Equipment**     | Packaging lines, industrial ovens              |
+| **Electrical Equipment**          | Transformers, generators                       |
+| **HVAC Equipment**                | HVAC systems, cold storage units               |
 
-> **À Savoir** : Certaines machines peuvent être soumises à des réglementations européennes supplémentaires, telles que la **directive sur la sécurité des machines**.
+> **Note**: Some machines may be subject to additional European regulations, such as the **Machinery Safety Directive**.
 
 ---
 
-## 2. Obligations selon le RGIE
+## 2. Obligations Under Belgian Electrical Regulations
 
-### 2.1. Machines Soumises à des Règlements Spécifiques
+### 2.1. Machines Subject to Specific Regulations
 
-Le **RGIE** impose une documentation pour les machines dans des situations particulières, telles que :
+The **Belgian Electrical Regulations** require documentation for machines in specific situations, such as:
 
-- **Machines à Risques Élevés** : Les machines utilisées dans des environnements industriels avec un risque accru (explosions, incendies) doivent disposer d'une documentation conforme, comme spécifié dans **l'Article 105.2 du RGIE**.
-- **Installations avec Réglementations Spécifiques** : Les équipements soumis à des directives de sécurité spécifiques, comme celles liées à la santé et à la sécurité au travail, doivent disposer de documents certifiant leur conformité.
+- **High-Risk Machines**: Machines used in industrial environments with increased risk (explosions, fires) must have compliant documentation, as specified in **Article 105.2 of the regulations**.
+- **Installations with Specific Safety Requirements**: Equipment subject to specific safety directives, such as those related to occupational health and safety, must have documents certifying their compliance.
 
-> **Important** : Si une machine présente un potentiel de risque élevé, une **analyse des risques** doit être incluse dans sa documentation pour identifier les dangers potentiels et les mesures de prévention.
+> **Important**: If a machine has a high-risk potential, a **risk analysis** should be included in its documentation to identify potential hazards and preventive measures.
 
-### 2.2. Installations à Risque Élevé
+### 2.2. High-Risk Installations
 
-Dans les installations présentant un risque élevé (ex. : industries chimiques ou usines de traitement de matériaux), la documentation doit être plus exhaustive pour répondre aux exigences de sécurité accrues. Cette exigence est conforme aux **Articles 108.3 et 108.4 du RGIE**.
+In installations with high risk (e.g., chemical industries or material processing plants), documentation must be more comprehensive to meet enhanced safety requirements. This requirement aligns with **Articles 108.3 and 108.4 of the regulations**.
 
 :::warning ⚠️ Note
-Pour les installations à risque, toute documentation manquante ou incomplète peut entraîner des sanctions ou des obligations de mise en conformité coûteuses.
+For high-risk installations, any missing or incomplete documentation can result in penalties or costly compliance obligations.
 :::
 
 ---
 
-## 3. Exigences de la Documentation
+## 3. Documentation Requirements
 
-### 3.1. Contenu Obligatoire
+### 3.1. Mandatory Content
 
-La documentation des machines doit inclure plusieurs éléments pour être conforme aux normes du RGIE :
+Machine documentation must include several elements to comply with the standards of the Belgian Electrical Regulations:
 
-| **Élément**              | **Description**                                                                                       |
-|--------------------------|-------------------------------------------------------------------------------------------------------|
-| **Manuels d'Utilisation** | Fournissent des instructions détaillées sur l'utilisation et la maintenance de la machine.           |
-| **Certificats de Conformité** | Attestent que la machine a été testée et est conforme aux normes de sécurité en vigueur.    |
-| **Plans d'Installation**  | Spécifient la manière dont la machine doit être installée et connectée aux réseaux électriques.     |
+| **Element**                  | **Description**                                                                                      |
+|------------------------------|------------------------------------------------------------------------------------------------------|
+| **User Manuals**             | Provide detailed instructions on the use and maintenance of the machine.                            |
+| **Certificates of Compliance** | Certify that the machine has been tested and meets the current safety standards.               |
+| **Installation Plans**       | Specify how the machine should be installed and connected to electrical networks.                  |
 
-> **💼 Astuce** : La documentation doit être mise à jour à chaque modification de la machine ou de l'installation pour éviter toute non-conformité.
+> **💼 Tip**: The documentation must be updated whenever the machine or installation is modified to avoid non-compliance issues.
 
-### 3.2. Accessibilité de la Documentation
+### 3.2. Accessibility of Documentation
 
-L'accessibilité de la documentation est cruciale pour garantir la sécurité des utilisateurs :
+Accessibility of the documentation is crucial for ensuring user safety:
 
-- **Disponibilité sur le Site** : Elle doit être conservée à proximité de la machine ou dans un lieu désigné pour être facilement consultée, conformément aux **Articles 112.2 et 113.4 du RGIE**.
-- **Formation des Utilisateurs** : Les utilisateurs doivent être formés à consulter et à comprendre la documentation pour minimiser les risques d'accidents, comme précisé dans **l'Article 114 du RGIE**.
+- **On-Site Availability**: It must be stored near the machine or in a designated area for easy consultation, in accordance with **Articles 112.2 and 113.4 of the regulations**.
+- **User Training**: Users must be trained to consult and understand the documentation to minimize the risk of accidents, as specified in **Article 114 of the regulations**.
 
 ---
 
-## 4. Cas Particuliers
+## 4. Special Cases
 
-### 4.1. Machines à Risque
+### 4.1. High-Risk Machines
 
-Pour les machines considérées comme présentant des risques élevés, la documentation doit inclure une **évaluation des risques détaillée** :
+For machines considered to have high risks, the documentation must include a **detailed risk assessment**:
 
-- **Analyse des Risques** : Une analyse spécifique est requise pour ces machines afin de consigner les mesures de sécurité adoptées.
-- **Suivi et Maintenance** : La documentation doit inclure un programme de maintenance régulière pour assurer la sécurité des équipements.
+- **Risk Analysis**: A specific analysis is required for these machines to record the safety measures adopted.
+- **Maintenance and Monitoring**: The documentation must include a regular maintenance schedule to ensure the safety of the equipment.
 
-:::info Exemple
-Pour les machines de levage, un plan de maintenance incluant des inspections régulières est nécessaire pour garantir la sécurité et le bon fonctionnement, conformément au RGIE.
+:::info Example
+For lifting machines, a maintenance plan including regular inspections is necessary to ensure safety and proper functioning, in accordance with Belgian Electrical Regulations.
 :::
 
-### 4.2. Normes Spécifiques et Directives Européennes
+### 4.2. Specific Standards and European Directives
 
-Les machines doivent également se conformer aux directives européennes, en particulier pour les équipements mobiles et les machines de traitement des matériaux, comme le stipule la **directive européenne 2006/42/CE** sur les machines.
+Machines must also comply with European directives, particularly for mobile equipment and material processing machines, as stipulated by the **European Directive 2006/42/EC** on machinery.
 
-> **Bon à Savoir** : Cette directive impose des exigences de sécurité supplémentaires pour les machines importées ou fabriquées en Europe, renforçant ainsi la conformité et la sécurité.
+> **Good to Know**: This directive imposes additional safety requirements for machines imported or manufactured in Europe, enhancing compliance and safety.
 
 ---
 
 ## 5. Conclusion
 
-Bien que le **RGIE** ne rende pas systématiquement obligatoire la documentation pour toutes les machines, il impose certaines prescriptions pour les équipements à risques et dans les environnements industriels. Disposer d’une documentation complète permet non seulement de garantir la conformité, mais aussi d’assurer la sécurité des utilisateurs et des opérateurs.
+Although the **Belgian Electrical Regulations** do not systematically mandate documentation for all machines, specific requirements apply to high-risk equipment and industrial environments. Having comprehensive documentation not only ensures compliance but also guarantees the safety of users and operators.
 
-La prochaine étape de notre checklist de conformité se concentre sur le **dossier électrique**, qui récapitulera l'ensemble des éléments nécessaires pour assurer la conformité des installations électriques.
+The next step in our compliance checklist focuses on the **electrical dossier**, which will summarize all the necessary elements to ensure the conformity of electrical installations.
 
-> **Rappel Sécurité** : La documentation est une base essentielle pour toute installation industrielle. Conservez-la à jour et accessible pour faciliter les inspections et garantir une sécurité optimale.
+> **Safety Reminder**: Documentation is an essential foundation for any industrial installation. Keep it up to date and easily accessible to facilitate inspections and ensure optimal safety.
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

@@ -1,124 +1,124 @@
 ---
-title: "Luminaires de Secours - Sécurité et Conformité RGIE"
-sidebar_label: Luminaires de Secours
-description: "Guide complet sur les luminaires de secours pour la sécurité et la conformité RGIE en Belgique. Découvrez les exigences d'installation, d'entretien, et les types de luminaires pour assurer une évacuation sécurisée."
+title: "Emergency Lighting - Safety and Compliance with Belgian Electrical Regulations"
+sidebar_label: Emergency Lighting
+description: "Comprehensive guide on emergency lighting for safety and compliance with Belgian Electrical Regulations. Learn about installation requirements, maintenance, and types of lights to ensure a secure evacuation."
 ---
 
-# Luminaires de Secours et Conformité RGIE
+# Emergency Lighting and Compliance with Belgian Electrical Regulations
 
-Les luminaires de secours sont des dispositifs essentiels pour assurer la sécurité des occupants dans les bâtiments, notamment dans les entreprises et les espaces publics. Ils sont conçus pour s’allumer automatiquement en cas de panne de courant, permettant ainsi une évacuation sécurisée. Leur installation et entretien doivent respecter les normes du **Règlement Général sur les Installations Électriques (RGIE)**, notamment **l’Article 104** qui impose des exigences strictes pour les éclairages de sécurité.
+Emergency lighting is essential for ensuring the safety of occupants in buildings, particularly in businesses and public spaces. These lights are designed to automatically turn on during a power outage, allowing for a safe evacuation. Their installation and maintenance must comply with the **Belgian Electrical Regulations**, specifically **Article 104**, which sets strict requirements for safety lighting.
 
 ---
 
-## 1. Importance des Luminaires de Secours
+## 1. Importance of Emergency Lighting
 
-### 1.1. Sécurité des Occupants
+### 1.1. Occupant Safety
 
-L’objectif principal des luminaires de secours est d’assurer la sécurité des personnes présentes en cas d’urgence :
+The primary purpose of emergency lighting is to ensure the safety of people present in case of an emergency:
 
-- **Éclairage d'Urgence** : Fournir un éclairage suffisant pour guider les occupants vers les sorties de secours, conformément à **l’Article 104.2** du RGIE, qui impose un niveau d’éclairage minimal dans les chemins d’évacuation.
-- **Visibilité des Issues** : Les luminaires de secours doivent être installés près des sorties et le long des chemins d’évacuation pour que ces zones restent visibles dans l'obscurité, comme spécifié dans **l’Article 104.4**.
+- **Emergency Illumination**: Provides sufficient lighting to guide occupants towards emergency exits, in accordance with **Article 104.2**, which mandates a minimum level of lighting in evacuation paths.
+- **Visibility of Exits**: Emergency lights must be installed near exits and along evacuation routes to keep these areas visible in darkness, as specified in **Article 104.4**.
 
-:::tip 💡 Astuce Sécurité
-Installez des luminaires de secours supplémentaires dans les zones complexes, comme les escaliers et les couloirs longs, pour garantir une visibilité optimale des issues de secours.
+:::tip 💡 Safety Tip
+Install additional emergency lights in complex areas, such as staircases and long corridors, to ensure optimal visibility of emergency exits.
 :::
 
-### 1.2. Conformité Légale
+### 1.2. Legal Compliance
 
-L’installation de luminaires de secours est souvent une obligation légale, et le **RGIE** impose des exigences strictes :
+The installation of emergency lighting is often a legal requirement, and the **Belgian Electrical Regulations** impose strict standards:
 
-- **Exigences du RGIE (Article 104.1)** : Tous les bâtiments publics et commerciaux doivent être équipés de luminaires de secours fonctionnels. Les propriétaires et gestionnaires sont responsables de leur conformité et de leur entretien.
-- **Inspection Régulière (Article 106)** : Des inspections périodiques sont nécessaires pour s'assurer que les luminaires de secours sont en bon état de fonctionnement et respectent les normes en vigueur.
+- **Regulatory Requirements (Article 104.1)**: All public and commercial buildings must be equipped with functional emergency lighting. Building owners and managers are responsible for compliance and maintenance.
+- **Regular Inspections (Article 106)**: Periodic inspections are necessary to ensure that emergency lights are operational and meet current standards.
 
-> **🔍 À Savoir** : Selon le RGIE, les luminaires de secours doivent être vérifiés à des intervalles réguliers pour garantir leur efficacité en cas d'urgence.
+> **🔍 Important**: According to the regulations, emergency lights must be tested at regular intervals to guarantee their effectiveness during emergencies.
 
 ---
 
-## 2. Types de Luminaires de Secours
+## 2. Types of Emergency Lighting
 
-### 2.1. Luminaires de Secours Autonomes
+### 2.1. Standalone Emergency Lights
 
-Ces dispositifs fonctionnent sur batteries internes et s’activent automatiquement en cas de coupure de courant :
+These devices operate on internal batteries and automatically activate during a power outage:
 
-- **Installation Facile** : Ne nécessitent pas de câblage complexe, ce qui les rend parfaits pour les zones nécessitant un éclairage minimal.
-- **Applications** : Idéaux pour les petits espaces ou les bâtiments où l’installation électrique est limitée.
+- **Easy Installation**: Do not require complex wiring, making them ideal for areas needing minimal lighting.
+- **Applications**: Suitable for small spaces or buildings with limited electrical installations.
 
-### 2.2. Luminaires de Secours Reliés au Réseau
+### 2.2. Networked Emergency Lights
 
-Ces luminaires sont connectés à l’alimentation principale et possèdent un système de secours intégré :
+These lights are connected to the main power supply and have an integrated backup system:
 
-- **Fiabilité** : Offrent une source de lumière plus stable, utilisée dans les bâtiments commerciaux de grande taille.
-- **Système de Surveillance** : Certains modèles peuvent être intégrés à un système de gestion du bâtiment, permettant une surveillance en temps réel.
+- **Reliability**: Provide a more stable source of light, used in large commercial buildings.
+- **Monitoring System**: Some models can be integrated into a building management system for real-time monitoring.
 
-### 2.3. Luminaires de Signalisation
+### 2.3. Exit Sign Lighting
 
-Ces luminaires indiquent la direction à suivre en cas d'urgence avec des pictogrammes de sortie :
+These lights indicate the direction to follow during an emergency with exit pictograms:
 
-- **Signalisation Clé** : Essentiels pour guider les occupants vers les issues, surtout dans les environnements complexes comme les bureaux et centres commerciaux.
-- **Visibilité Permanente** : Les pictogrammes doivent être éclairés ou luminescents pour être visibles même en cas de coupure.
+- **Key Signage**: Essential for guiding occupants to exits, especially in complex environments like offices and shopping centers.
+- **Permanent Visibility**: Pictograms must be illuminated or luminescent to remain visible even during a power outage.
 
-:::example 📘 Exemple
-Les luminaires de secours avec pictogrammes sont particulièrement utiles dans les grands espaces commerciaux pour indiquer les directions vers les issues.
+:::example 📘 Example
+Exit sign lighting with pictograms is particularly useful in large commercial spaces to indicate directions to emergency exits.
 :::
 
 ---
 
-## 3. Exigences d'Installation selon le RGIE
+## 3. Installation Requirements According to Belgian Regulations
 
-### 3.1. Emplacement des Luminaires
+### 3.1. Placement of Emergency Lights
 
-Le RGIE impose que les luminaires de secours soient placés à des emplacements stratégiques :
+The regulations require emergency lights to be placed in strategic locations:
 
-- **Sorties de Secours (Article 104.3)** : Chaque sortie doit être clairement éclairée par un luminaire de secours, pour une visibilité immédiate.
-- **Chemins d’Évacuation (Article 104.5)** : Des luminaires doivent être disposés le long des chemins d’évacuation, garantissant une visibilité suffisante.
+- **Emergency Exits (Article 104.3)**: Each exit must be clearly illuminated by an emergency light for immediate visibility.
+- **Evacuation Routes (Article 104.5)**: Lights must be installed along evacuation routes to ensure adequate visibility.
 
-> **💼 Pour les entreprises** : Assurez-vous que tous les chemins d'évacuation sont bien éclairés, y compris les couloirs, les escaliers, et les portes de sortie.
+> **💼 For Businesses**: Ensure that all evacuation routes are well-lit, including hallways, staircases, and exit doors.
 
-### 3.2. Niveaux d'Éclairement
+### 3.2. Illumination Levels
 
-Les niveaux d'éclairement fournis par les luminaires de secours doivent respecter les exigences du RGIE pour garantir la sécurité :
+The illumination levels provided by emergency lights must comply with the regulations to ensure safety:
 
-- **Nombre de Lumens (Article 104.6)** : Les luminaires doivent fournir un minimum de **1 lux au sol** dans les zones d'évacuation, assurant une visibilité adéquate.
-- **Visibilité des Sorties de Secours** : Chaque occupant doit pouvoir repérer une issue de secours éclairée depuis n'importe quel point dans une pièce.
+- **Minimum Lumen Output (Article 104.6)**: Emergency lights must provide at least **1 lux on the ground** in evacuation areas, ensuring adequate visibility.
+- **Visibility of Emergency Exits**: Every occupant should be able to see an illuminated exit sign from any point in the room.
 
-> **⚠️ Attention** : Un éclairage inadéquat dans les chemins d’évacuation peut entraîner des non-conformités et des risques accrus en cas d'évacuation.
+> **⚠️ Caution**: Inadequate lighting in evacuation routes can result in non-compliance and increased risks during an evacuation.
 
-### 3.3. Pictogrammes de Sortie
+### 3.3. Exit Pictograms
 
-En complément des luminaires, des pictogrammes indiquant les sorties doivent être installés de manière visible et conformes aux normes RGIE :
+In addition to emergency lights, exit pictograms must be installed visibly and comply with the regulations:
 
-- **Éclairage (Article 104.7)** : Les pictogrammes doivent être éclairés ou luminescents pour rester visibles en cas de coupure de courant.
-- **Positionnement** : Placez les pictogrammes de façon à ce qu'ils soient visibles à hauteur des yeux et à chaque intersection de couloirs.
+- **Illumination (Article 104.7)**: Pictograms must be illuminated or luminescent to remain visible during a power outage.
+- **Positioning**: Place exit pictograms at eye level and at every corridor intersection.
 
 ---
 
-## 4. Vérifications et Entretien des Luminaires de Secours
+## 4. Emergency Lighting Checks and Maintenance
 
-L'entretien régulier des luminaires de secours est essentiel pour assurer leur bon fonctionnement :
+Regular maintenance of emergency lights is essential to ensure their proper functioning:
 
-- **Tests de Fonctionnement (Article 106.2)** : Des tests doivent être effectués périodiquement pour vérifier que les luminaires s’allument correctement lors d’une coupure de courant. Ces tests peuvent inclure des vérifications mensuelles ou trimestrielles, selon les recommandations du fabricant.
-- **Remplacement des Batteries** : Les batteries des luminaires autonomes doivent être changées selon les directives du fabricant pour garantir une autonomie optimale.
+- **Functionality Tests (Article 106.2)**: Periodic tests must be conducted to verify that emergency lights activate correctly during a power outage. These tests may include monthly or quarterly checks, depending on the manufacturer’s recommendations.
+- **Battery Replacement**: The batteries of standalone emergency lights should be replaced according to the manufacturer’s guidelines to ensure optimal autonomy.
 
-:::info 🛠️ Entretien
-Le RGIE impose que les luminaires de secours soient testés régulièrement pour assurer leur fiabilité. Consignez les résultats de chaque test pour faciliter les contrôles de conformité.
+:::info 🛠️ Maintenance
+The regulations require that emergency lights be tested regularly to ensure their reliability. Record the results of each test to facilitate compliance inspections.
 :::
 
 ---
 
 ## Conclusion
 
-Les luminaires de secours sont essentiels pour assurer la **sécurité** des occupants et la **conformité aux normes du RGIE**. Leur installation, leur entretien, et leur conformité aux exigences légales sont cruciaux pour garantir une évacuation sécurisée en cas d’urgence.
+Emergency lights are crucial for ensuring the **safety** of occupants and **compliance with Belgian Electrical Regulations**. Their installation, maintenance, and adherence to legal requirements are key to guaranteeing a safe evacuation during emergencies.
 
-Une fois l’installation des luminaires de secours en place, il est aussi important de documenter l’ensemble des machines et dispositifs de sécurité pour garantir une conformité totale. Pour plus d’informations, consultez la prochaine section de notre checklist sur la [Documentation des Machines](https://docs.bativolt.com/docs/checklist/documentation-machines).
+Once emergency lighting installation is complete, it is also important to document all machines and safety devices to ensure full compliance. For more information, refer to the next section of our checklist on [Machine Documentation](https://docs.bativolt.com/en/docs/checklist/documentation-machines).
 
-> **📢 Rappel Sécurité** : Assurez-vous que tous les luminaires de secours et les pictogrammes de sortie sont accessibles et visibles pour garantir une évacuation fluide en cas de besoin.
+> **📢 Safety Reminder**: Ensure that all emergency lights and exit pictograms are accessible and visible to guarantee a smooth evacuation when needed.
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

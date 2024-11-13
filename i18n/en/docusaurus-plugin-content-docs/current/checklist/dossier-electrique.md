@@ -1,98 +1,98 @@
 ---
-title: "Dossier Électrique - Conformité RGIE et Sécurité des Installations"
-sidebar_label: Dossier Électrique
-description: "Découvrez l'importance du dossier électrique pour la conformité RGIE en Belgique. Guide complet incluant les exigences, la checklist essentielle et les normes de sécurité pour les particuliers et entreprises."
+title: "Electrical Dossier - Compliance with Belgian Electrical Regulations and Installation Safety"
+sidebar_label: Electrical Dossier
+description: "Learn about the importance of the electrical dossier for compliance with Belgian Electrical Regulations. Comprehensive guide including requirements, essential checklist, and safety standards for homeowners and businesses."
 ---
 
-# Dossier Électrique
+# Electrical Dossier
 
-Le **dossier électrique** est le document de référence qui regroupe toutes les informations nécessaires à la conformité et à la sécurité d'une installation électrique en Belgique. Indispensable pour répondre aux normes du **Règlement Général sur les Installations Électriques (RGIE)**, il assure la transparence et facilite les interventions pour les techniciens, les assureurs, et les contrôleurs.
+The **electrical dossier** is the reference document that gathers all necessary information for the compliance and safety of an electrical installation in Belgium. Essential for meeting the standards of the **Belgian Electrical Regulations**, it ensures transparency and facilitates interventions for technicians, insurers, and inspectors.
 
 ---
 
-## 1. Importance du Dossier Électrique
+## 1. Importance of the Electrical Dossier
 
-### 1.1. Conformité et Sécurité
+### 1.1. Compliance and Safety
 
-Le dossier électrique est conçu pour garantir la **sécurité des utilisateurs** et la conformité aux normes RGIE. Voici ses principales fonctions :
+The electrical dossier is designed to guarantee **user safety** and compliance with Belgian regulations. Here are its main functions:
 
-- **Validation des Installations** : Le dossier prouve que toutes les parties de l’installation respectent les exigences de sécurité.
-- **Contrôle des Modifications** : En cas de modifications, un rapport de conformité mis à jour assure que les modifications sont réalisées selon les standards actuels.
+- **Installation Validation**: The dossier proves that all parts of the installation meet safety requirements.
+- **Modification Control**: In the event of changes, an updated compliance report ensures modifications are made according to current standards.
 
-:::tip Astuce pour Particuliers et Professionnels
-Conservez le dossier électrique près du tableau principal pour un accès rapide. Cette pratique simplifie les inspections et réduit les risques de non-conformité.
+:::tip Tip for Homeowners and Professionals
+Keep the electrical dossier near the main panel for quick access. This practice simplifies inspections and reduces the risk of non-compliance.
 :::
 
-### 1.2. Facilitation des Interventions
+### 1.2. Facilitating Interventions
 
-Un dossier complet et à jour permet aux électriciens et contrôleurs de **mieux comprendre l’installation** et de repérer rapidement les points critiques, facilitant ainsi :
+A complete and up-to-date dossier allows electricians and inspectors to **better understand the installation** and quickly identify critical points, thus facilitating:
 
-- **Les Interventions** : Les techniciens accèdent rapidement aux informations clés, comme les schémas et rapports de conformité.
-- **La Prévention des Risques** : Les contrôleurs peuvent facilement identifier les potentielles non-conformités et vérifier que les installations sont conformes aux articles du RGIE.
+- **Interventions**: Technicians can quickly access key information, such as schematics and compliance reports.
+- **Risk Prevention**: Inspectors can easily spot potential non-compliance issues and verify that the installation meets the requirements of the Belgian Electrical Regulations.
 
-> **À Savoir** : Un dossier complet est essentiel pour passer les inspections, réduire les risques et garantir la protection des biens et des personnes.
+> **Good to Know**: A complete dossier is essential to pass inspections, reduce risks, and ensure the protection of property and people.
 
 ---
 
-## 2. Exigences selon le RGIE
+## 2. Requirements Under Belgian Regulations
 
-### 2.1. Obligations pour les Particuliers
+### 2.1. Obligations for Homeowners
 
-Pour les habitations résidentielles, le **RGIE** impose certaines exigences spécifiques. Les éléments suivants sont essentiels dans le dossier électrique :
+For residential properties, the **Belgian Electrical Regulations** set specific requirements. The following elements are essential in the electrical dossier:
 
-- **Accès à l'Installation Électrique** : Conformément à **l'Article 206.5 du RGIE**, l'accès doit être clairement identifié et dégagé.
-- **Identification du Compteur** : Le compteur doit être identifiable et facilement accessible pour faciliter les contrôles, en accord avec **l'Article 211.2**.
-- **Schémas Électriques** : Ces schémas doivent être présents pour chaque circuit, selon **l'Article 178.3 du RGIE**.
+- **Access to the Electrical Installation**: In accordance with **Article 206.5**, access must be clearly marked and unobstructed.
+- **Meter Identification**: The meter must be identifiable and easily accessible for inspections, as per **Article 211.2**.
+- **Electrical Schematics**: Schematics must be provided for each circuit, as required by **Article 178.3**.
 
-:::info Exemple Pratique
-Les schémas électriques unifilaires et de position permettent aux contrôleurs de visualiser les installations et de vérifier rapidement la conformité.
+:::info Practical Example
+Single-line and layout diagrams help inspectors visualize the installations and quickly check for compliance.
 :::
 
-### 2.2. Obligations Supplémentaires pour les Entreprises et Espaces Communs
+### 2.2. Additional Obligations for Businesses and Shared Spaces
 
-Dans le cas des entreprises et des espaces communs, des exigences supplémentaires s’appliquent pour répondre aux risques spécifiques de ces environnements :
+For businesses and shared spaces, additional requirements apply to address the specific risks of these environments:
 
-- **Analyse des Risques** : Conformément à **l'Article 105.4 du RGIE**, une analyse des risques doit être effectuée pour identifier les dangers potentiels.
-- **Documentation des Machines** : Bien que non obligatoire selon le RGIE, elle est fortement recommandée pour les équipements présentant des risques élevés.
+- **Risk Analysis**: As stated in **Article 105.4**, a risk analysis must be conducted to identify potential hazards.
+- **Machine Documentation**: Although not mandatory under the regulations, it is strongly recommended for high-risk equipment.
 
-> **Attention** : Les installations industrielles et commerciales doivent disposer d'une documentation détaillée pour éviter les sanctions en cas de non-conformité.
+> **Warning**: Industrial and commercial installations must have detailed documentation to avoid penalties in case of non-compliance.
 
 ---
 
-## 3. Checklist du Dossier Électrique
+## 3. Electrical Dossier Checklist
 
-Voici une **checklist complète** pour s'assurer que le dossier électrique est conforme aux exigences RGIE, en distinguant les éléments obligatoires pour les particuliers et pour les entreprises :
+Here is a **comprehensive checklist** to ensure the electrical dossier complies with the Belgian regulations, distinguishing between mandatory elements for homeowners and businesses:
 
-| **Élément**                         | **Particuliers** | **Entreprises** | **Description**                                                                                          |
-|-------------------------------------|------------------|-----------------|----------------------------------------------------------------------------------------------------------|
-| **Accès à l'Installation**          | ✔️               | ✔️              | L'accès doit être clairement dégagé pour les inspections, selon l'**Article 206.5 du RGIE**.             |
-| **Identification du Compteur**      | ✔️               | ✔️              | Identification obligatoire pour faciliter les contrôles, en accord avec l'**Article 211.2**.             |
-| **Rapport de Conformité**           | Si disponible   | Si disponible   | Si des modifications ont été effectuées, un rapport de conformité récent est recommandé.                 |
-| **Schémas Électriques**             | ✔️               | ✔️              | Les schémas unifilaires et de position sont obligatoires, conformément à l'**Article 178.3**.           |
-| **Analyse des Risques**             | Non             | ✔️              | Obligatoire pour les entreprises, cette analyse identifie les risques liés à l'installation (**Article 105.4**). |
-| **Luminaires de Secours**           | Non             | ✔️              | Obligatoire pour les entreprises et espaces publics ; ils doivent être installés et entretenus selon l'**Article 104.1 du RGIE** pour assurer la sécurité des évacuations. |
-| **Documentation des Machines**      | Non             | Non (recommandé) | Recommandée pour les équipements à risque, mais non obligatoire selon le RGIE.                           |
+| **Element**                        | **Homeowners** | **Businesses** | **Description**                                                                                       |
+|------------------------------------|----------------|----------------|-------------------------------------------------------------------------------------------------------|
+| **Access to Installation**         | ✔️             | ✔️             | Access must be clearly unobstructed for inspections, as per **Article 206.5**.                         |
+| **Meter Identification**           | ✔️             | ✔️             | Identification is mandatory to facilitate inspections, according to **Article 211.2**.                |
+| **Compliance Report**              | If available   | If available   | If modifications have been made, a recent compliance report is recommended.                           |
+| **Electrical Schematics**          | ✔️             | ✔️             | Single-line and layout diagrams are mandatory, as required by **Article 178.3**.                      |
+| **Risk Analysis**                  | No             | ✔️             | Mandatory for businesses; this analysis identifies risks related to the installation (**Article 105.4**). |
+| **Emergency Lighting**             | No             | ✔️             | Mandatory for businesses and public spaces; must be installed and maintained per **Article 104.1** to ensure safe evacuations. |
+| **Machine Documentation**          | No             | No (recommended) | Recommended for high-risk equipment but not mandatory under the regulations.                          |
 
-> **Conseil pour les Entreprises** : Mettez à jour régulièrement votre analyse des risques pour garantir la sécurité et éviter les interruptions lors des inspections.
+> **Advice for Businesses**: Regularly update your risk analysis to ensure safety and prevent disruptions during inspections.
 
 ---
 
 ## 4. Conclusion
 
-Le dossier électrique est bien plus qu'un simple document de conformité. Il est le **pilier de la sécurité et de la transparence** pour toute installation électrique en Belgique. En maintenant un dossier complet, conforme et à jour, vous assurez non seulement la sécurité des occupants, mais vous facilitez également les inspections et interventions nécessaires pour toute modification ou mise à jour de l’installation.
+The electrical dossier is much more than a mere compliance document. It is the **cornerstone of safety and transparency** for any electrical installation in Belgium. By maintaining a complete, compliant, and up-to-date dossier, you not only ensure the safety of occupants but also simplify the inspections and interventions needed for any modification or upgrade of the installation.
 
-> **📢 Rappel Final** : Gardez tous les éléments du dossier électrique dans un lieu accessible, de préférence à proximité du tableau principal, et vérifiez que chaque document est à jour et conforme aux exigences du RGIE.
+> **📢 Final Reminder**: Keep all components of the electrical dossier in an easily accessible location, preferably near the main panel, and ensure that each document is up to date and compliant with the Belgian regulations.
 
-En suivant cette checklist et en respectant les articles pertinents du RGIE, votre installation répondra aux standards de conformité les plus élevés, assurant ainsi la sécurité de tous les usagers. Cela conclut notre guide complet de la **checklist de conformité électrique**.
+By following this checklist and adhering to the relevant articles of the regulations, your installation will meet the highest compliance standards, ensuring the safety of all users. This concludes our comprehensive guide on the **electrical compliance checklist**.
 
-> **Ressource Complémentaire** : Pour plus d'informations sur les infractions courantes en matière de conformité électrique, consultez notre page dédiée aux [Infractions et Résolutions RGIE](https://docs.bativolt.com/docs/infractions/).
+> **Additional Resource**: For more information on common compliance violations, check out our dedicated page on [Violations and Resolutions](https://doc
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

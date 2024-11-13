@@ -69,7 +69,7 @@ Als u foto’s heeft van tests of conformiteitsherstelprocedures, deel ze dan me
 
 ## 5. Contact voor Toevoeging van Inbreuken
 
-Wij staan open voor het toevoegen van nieuwe pagina’s om inbreuken te behandelen die hier niet worden vermeld. Als u een specifieke inbreuk identificeert die niet is besproken, neem dan contact met ons op via [docs.bativolt.com](https://docs.bativolt.com/nl/). We voegen graag oplossingen en advies toe voor extra inbreuken om de gemeenschap te ondersteunen.
+Wij staan open voor het toevoegen van nieuwe pagina’s om inbreuken te behandelen die hier niet worden vermeld. Als u een specifieke inbreuk identificeert die niet is besproken, neem dan contact met ons op via [docs.bativolt.com](mailto:docs@bativolt.com). We voegen graag oplossingen en advies toe voor extra inbreuken om de gemeenschap te ondersteunen.
 
 ---
 

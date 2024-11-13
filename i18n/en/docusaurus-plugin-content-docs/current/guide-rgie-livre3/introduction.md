@@ -1,62 +1,62 @@
 ---
-title: Introduction au Guide RGIE - Livre 3
-sidebar_label: Introduction au Livre 3
-description: Guide RGIE - Livre 3, dédié aux installations spéciales et à la conformité avancée pour les installations de haute exigence en Belgique. Actuellement en préparation pour répondre aux besoins des professionnels.
+title: Introduction to the Guide on Belgian Electrical Regulations - Book 3
+sidebar_label: Introduction to Book 3
+description: Guide on Belgian Electrical Regulations - Book 3, dedicated to special installations and advanced compliance for high-demand electrical installations in Belgium. Currently in preparation to meet the needs of professionals.
 ---
 
-# Introduction au Guide RGIE - Livre 3
+# Introduction to the Guide on Belgian Electrical Regulations - Book 3
 
-:::important Note Importante ⚠️
-Le **Livre 3 du Guide RGIE** est destiné à un niveau avancé de conformité électrique, spécialement conçu pour les installations **spéciales et de haute exigence**. Ce volume s'adresse aux installations critiques et à risque, telles que les hôpitaux, centres de données et infrastructures industrielles. **Ce guide ne s'applique pas aux installations domestiques ni aux environnements classiques de travail.**
+:::important Important Note ⚠️
+**Book 3 of the Guide on Belgian Electrical Regulations** is aimed at an advanced level of electrical compliance, specifically designed for **special and high-demand installations**. This volume is intended for critical and high-risk installations such as hospitals, data centers, and industrial infrastructure. **This guide does not apply to domestic installations or standard work environments.**
 :::
 
-Bienvenue dans le **Livre 3 du Guide RGIE**, une extension pour les professionnels travaillant avec des **installations électriques de haute complexité et haute exigence**. Suite aux retours positifs sur les **Livre 1 et Livre 2**, ce troisième volume se concentre sur les besoins de conformité pour les installations critiques, où la sécurité et la précision sont cruciales. 
+Welcome to **Book 3 of the Guide on Belgian Electrical Regulations**, an extension for professionals working with **high-complexity and high-demand electrical installations**. Following the positive feedback on **Book 1 and Book 2**, this third volume focuses on compliance needs for critical installations, where safety and precision are paramount.
 
-Chez **Bativolt**, nous avons conçu ce guide pour que les techniciens, ingénieurs et installateurs puissent accéder facilement aux informations et techniques spécifiques pour les installations de haute exigence, garantissant un standard élevé de sécurité.
+At **Bativolt**, we have developed this guide to provide technicians, engineers, and installers with easy access to specific information and techniques for high-demand installations, ensuring a high standard of safety.
 
-## Pourquoi un Livre 3 ? 🔍
+## Why a Book 3? 🔍
 
-Le **Livre 3** du Guide RGIE est en cours de développement en réponse à une forte demande de la part des professionnels spécialisés. En abordant les installations critiques, ce guide fournit des **outils avancés** pour gérer des infrastructures où la sécurité électrique ne peut tolérer aucun compromis.
+**Book 3** of the Guide on Belgian Electrical Regulations is currently under development in response to strong demand from specialized professionals. By addressing critical installations, this guide offers **advanced tools** to manage infrastructure where electrical safety cannot tolerate any compromise.
 
-:::tip Contenu à venir 🎯
-- **Installations en milieux critiques** : Exigences et normes spécifiques pour des environnements tels que les hôpitaux, laboratoires, et centres de données.
-- **Maintenance prédictive et préventive avancée** : Techniques pour garantir un fonctionnement continu et sécuritaire des équipements critiques.
-- **Exigences de sécurité renforcées** : Conseils pour la sécurité électrique dans des infrastructures sensibles.
+:::tip Upcoming Content 🎯
+- **Installations in critical environments**: Requirements and specific standards for environments such as hospitals, laboratories, and data centers.
+- **Advanced predictive and preventive maintenance**: Techniques to ensure continuous and safe operation of critical equipment.
+- **Enhanced safety requirements**: Advice on electrical safety in sensitive infrastructure.
 :::
 
-## Structure du Livre 3
+## Structure of Book 3
 
-Le **Livre 3** sera structuré en chapitres dédiés aux installations de haute exigence, incluant des conseils pratiques, des exemples avancés, et des avertissements spécifiques. Voici un aperçu des sections à venir :
+**Book 3** will be organized into chapters focused on high-demand installations, including practical advice, advanced examples, and specific warnings. Here is an overview of the upcoming sections:
 
-1. **Installations critiques et infrastructures sensibles** : Guide des exigences de conformité pour les installations en environnements critiques.
-2. **Sécurité électrique renforcée** : Normes pour la protection avancée des infrastructures sensibles.
-3. **Maintenance et surveillance** : Techniques de surveillance pour éviter les interruptions dans des environnements à haute exigence.
-4. **Nouveautés et mises à jour réglementaires** : Adaptations aux normes évolutives pour les installations critiques.
+1. **Critical Installations and Sensitive Infrastructure**: A guide on compliance requirements for installations in critical environments.
+2. **Enhanced Electrical Safety**: Standards for advanced protection of sensitive infrastructure.
+3. **Maintenance and Monitoring**: Surveillance techniques to prevent interruptions in high-demand environments.
+4. **New Regulations and Updates**: Adaptations to evolving standards for critical installations.
 
-Nous nous efforçons de publier ces sections dès que possible pour aider les professionnels à maintenir des installations sécurisées et conformes aux normes les plus strictes.
-
----
-
-### En cours de construction 🚧
-
-![Page en construction](/img/bativolt_under_construction.svg)
-
-Ce **Livre 3** est en cours de développement pour satisfaire les exigences des **professionnels du secteur électrique en milieux critiques**. Nous vous invitons à revenir bientôt pour découvrir un contenu rigoureux et complet sur les installations de haute exigence.
-
-:::warning Attention ⚠️
-Les informations de ce Livre 3 sont conçues pour servir de guide éducatif aux professionnels des installations critiques. Elles ne remplacent pas le RGIE officiel et sont orientées vers des environnements à haut risque ou haute criticité.
-:::
-
-## Participez à l'enrichissement de ce guide !
-
-Nous croyons en une démarche de co-construction avec les professionnels du secteur. Si vous avez des suggestions ou des besoins spécifiques pour ce **Livre 3**, n’hésitez pas à nous contacter via [docs@bativolt.com](mailto:docs@bativolt.com). Ensemble, nous pourrons adapter ce guide aux besoins uniques des installations critiques.
+We aim to publish these sections as soon as possible to help professionals maintain safe and compliant installations that meet the highest standards.
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+### Under Construction 🚧
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+![Page Under Construction](/img/bativolt_under_construction.svg)
+
+This **Book 3** is currently under development to meet the needs of **professionals in critical electrical environments**. We invite you to check back soon for thorough and comprehensive content on high-demand installations.
+
+:::warning Caution ⚠️
+The information in this Book 3 is intended as an educational guide for professionals dealing with critical installations. It does not replace the official Belgian Electrical Regulations and is tailored for high-risk or high-criticality environments.
+:::
+
+## Contribute to Enhancing this Guide!
+
+We believe in a co-creation approach with industry professionals. If you have suggestions or specific needs for this **Book 3**, please reach out to us at [docs@bativolt.com](mailto:docs@bativolt.com). Together, we can tailor this guide to the unique requirements of critical installations.
+
+---
+
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

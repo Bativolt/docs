@@ -1,115 +1,115 @@
 ---
-title: "Schémas Électriques et Conformité RGIE - Guide pour Particuliers et Entreprises"
-sidebar_label: Schémas Électriques
-description: "Découvrez l'importance des schémas électriques pour la conformité RGIE et la sécurité des installations en Belgique. Guide complet avec exemples pratiques et exigences réglementaires."
+title: "Electrical Schematics and Compliance with Belgian Electrical Regulations - Guide for Homeowners and Businesses"
+sidebar_label: Electrical Schematics
+description: "Discover the importance of electrical schematics for compliance and safety in Belgium. Complete guide with practical examples and regulatory requirements."
 ---
 
-# Schémas Électriques et Conformité RGIE
+# Electrical Schematics and Compliance with Belgian Electrical Regulations
 
-Les schémas électriques sont essentiels pour la documentation et la conformité des installations. Ils servent de **référence technique** pour les électriciens, les contrôleurs et les propriétaires, et sont requis pour passer les contrôles de conformité selon le **Règlement Général sur les Installations Électriques (RGIE)**. Ce guide explore leur importance, les types de schémas requis, les éléments obligatoires, et les spécificités pour les entreprises.
+Electrical schematics are essential for the documentation and compliance of installations. They serve as a **technical reference** for electricians, inspectors, and property owners and are required for passing compliance inspections according to the **Belgian Electrical Regulations**. This guide explores their importance, the types of required schematics, mandatory elements, and specific requirements for businesses.
 
 ---
 
-## 1. Importance des Schémas Électriques
+## 1. Importance of Electrical Schematics
 
-### 1.1. Outil de Communication Visuelle
+### 1.1. Visual Communication Tool
 
-Les schémas électriques facilitent la compréhension rapide de la configuration d'une installation pour tous les intervenants (électriciens, contrôleurs, propriétaires) :
+Electrical schematics help all parties (electricians, inspectors, property owners) quickly understand the layout of an installation:
 
-- **Clarté** : Ils permettent de visualiser les circuits, les points de connexion, les dispositifs de protection et la répartition des charges de manière claire et structurée.
-- **Réduction des Erreurs** : Des schémas bien conçus minimisent les risques d'erreurs humaines, permettant aux électriciens de suivre les instructions visuelles avec précision.
+- **Clarity**: They provide a clear, structured view of circuits, connection points, protective devices, and load distribution.
+- **Error Reduction**: Well-designed schematics minimize the risk of human error, allowing electricians to follow visual instructions accurately.
 
-:::tip 🔍 À Savoir
-La présence d'un schéma électrique complet permet de faciliter les interventions ultérieures et d'éviter des erreurs coûteuses. En cas d'absence de schémas, consultez notre page sur les [Infractions pour Schémas Électriques Absents](https://docs.bativolt.com/docs/infractions/schema-electriques-absents).
+:::tip 🔍 Good to Know
+A complete electrical schematic facilitates future interventions and avoids costly mistakes. In case of missing schematics, refer to our page on [Violations for Missing Electrical Schematics](https://docs.bativolt.com/en/docs/infractions/schema-electriques-absents).
 :::
 
-### 1.2. Obligation Légale selon le RGIE
+### 1.2. Legal Requirement Under the Regulations
 
-Le **RGIE** impose que les schémas soient fournis lors des contrôles de conformité, avec des exigences strictes pour garantir la sécurité de l'installation :
+The **Belgian Electrical Regulations** mandate that schematics be provided during compliance inspections, with strict requirements to ensure the safety of the installation:
 
-- **Accessibilité** : Les schémas doivent être conservés près du tableau principal et être facilement accessibles pour les contrôleurs et électriciens, en conformité avec l'**Article 206.8 du RGIE**.
-- **Mise à Jour** : Toute modification apportée à l’installation doit être reflétée dans les schémas pour maintenir une documentation exacte et utile.
+- **Accessibility**: Schematics must be kept near the main panel and be easily accessible for inspectors and electricians, in accordance with **Article 206.8**.
+- **Updates**: Any modification to the installation must be reflected in the schematics to maintain accurate and useful documentation.
 
-:::tip 💡 Astuce Pratique
-Mettez à jour vos schémas immédiatement après toute modification pour éviter des non-conformités lors des inspections.
+:::tip 💡 Practical Tip
+Update your schematics immediately after any modifications to avoid non-compliance during inspections.
 :::
 
 ---
 
-## 2. Exigences selon le RGIE
+## 2. Regulatory Requirements
 
-### 2.1. Types de Schémas à Fournir
+### 2.1. Types of Schematics to Provide
 
-Le RGIE spécifie différents types de schémas à fournir, chacun ayant un rôle unique pour décrire l'installation :
+The regulations specify different types of schematics, each serving a unique role in describing the installation:
 
-- **Schémas Unifilaires** : Représentent la disposition des circuits sous une forme simplifiée avec des symboles standards. Ils montrent les circuits principaux, les sous-tableaux et les connexions d'appareils, facilitant la compréhension générale de l'installation.
+- **Single-Line Diagrams**: Represent the layout of circuits in a simplified form using standard symbols. They show the main circuits, sub-panels, and device connections, helping to understand the overall setup.
   
-- **Schémas de Position** : Indiquent la position physique des prises, interrupteurs, luminaires et autres éléments dans le bâtiment. Ils sont particulièrement utiles pour visualiser les points de raccordement dans les espaces de vie et de travail.
+- **Layout Diagrams**: Indicate the physical location of outlets, switches, lighting fixtures, and other components in the building. These are particularly useful for visualizing connection points in living and working spaces.
 
-- **Plans de Répartition** : Nécessaires pour les installations plus complexes, comme dans l'industrie et le commerce. Ils montrent comment l'énergie est distribuée à travers l'installation, en identifiant les circuits et dispositifs de protection de manière détaillée.
+- **Distribution Plans**: Required for more complex installations, such as in industrial and commercial settings. They illustrate how power is distributed throughout the installation, detailing circuits and protective devices.
 
-:::example 📋 Exemples de Schémas
-- **Schéma Unifilaire** : Indique la répartition des circuits principaux et leur protection (ex. salon, cuisine, chambres).
-- **Schéma de Position** : Affiche l'emplacement des prises et interrupteurs dans une cuisine, facilitant les modifications futures.
-- **Plan de Répartition** : Montre la distribution de l’énergie dans une installation industrielle.
+:::example 📋 Example Schematics
+- **Single-Line Diagram**: Shows the layout of main circuits and their protection (e.g., living room, kitchen, bedrooms).
+- **Layout Diagram**: Displays the placement of outlets and switches in a kitchen, aiding in future modifications.
+- **Distribution Plan**: Illustrates the energy distribution in an industrial installation.
 :::
 
-### 2.2. Contenu Obligatoire des Schémas
+### 2.2. Mandatory Content for Schematics
 
-Pour être conformes, les schémas doivent inclure les éléments suivants :
+To be compliant, schematics must include the following elements:
 
-| **Élément**              | **Description**                                                                                         |
+| **Element**              | **Description**                                                                                         |
 |--------------------------|---------------------------------------------------------------------------------------------------------|
-| **Identifications Claires** | Les circuits, prises, interrupteurs et appareils doivent être étiquetés avec des symboles IEC standard. |
-| **Données Techniques**   | La section des câbles, le type de protection et la puissance des appareils doivent être spécifiés.       |
-| **Numéros de Circuits**  | Chaque circuit doit être numéroté pour faciliter l'identification lors des inspections.                   |
-| **Références Associées** | Les schémas doivent inclure des références aux rapports de conformité et autres documents pertinents.    |
+| **Clear Identifications** | Circuits, outlets, switches, and devices must be labeled using standard IEC symbols.                    |
+| **Technical Data**       | Cable sizes, types of protection, and power ratings of devices must be specified.                        |
+| **Circuit Numbers**      | Each circuit must be numbered for easy identification during inspections.                               |
+| **Associated References**| Schematics must include references to compliance reports and other relevant documents.                  |
 
-:::caution ⚠️ Attention
-Des schémas incomplets ou erronés peuvent entraîner une non-conformité, entraînant des délais et des coûts supplémentaires pour les corrections.
+:::caution ⚠️ Caution
+Incomplete or incorrect schematics can lead to non-compliance, resulting in delays and additional costs for corrections.
 :::
 
 ---
 
-## 3. Obligations pour les Entreprises
+## 3. Obligations for Businesses
 
-### 3.1. Exigences Spécifiques pour les Environnements Commerciaux et Industriels
+### 3.1. Specific Requirements for Commercial and Industrial Environments
 
-Les entreprises et espaces publics doivent se conformer à des règles spécifiques en raison de la complexité de leurs installations :
+Businesses and public spaces must comply with specific rules due to the complexity of their installations:
 
-- **Planification Rigoureuse** : Les installations dans ces environnements doivent être soigneusement planifiées et respecter les normes de sécurité plus strictes, car elles sont soumises à des inspections régulières.
+- **Thorough Planning**: Installations in these environments must be carefully planned and adhere to stricter safety standards, as they are subject to regular inspections.
   
-- **Inspection Fréquente** : Les installations doivent être vérifiées régulièrement pour détecter toute non-conformité et garantir la sécurité des utilisateurs.
+- **Frequent Inspections**: Installations must be checked regularly to detect any non-compliance and ensure user safety.
 
-### 3.2. Analyse des Risques
+### 3.2. Risk Analysis
 
-Les entreprises doivent également réaliser une **analyse des risques** pour identifier et prévenir les dangers potentiels :
+Businesses must also conduct a **risk analysis** to identify and mitigate potential hazards:
 
-- **Identification des Dangers** : L'analyse doit inclure une évaluation des risques liés à l'installation électrique et la prise de mesures correctives.
-- **Documentation des Mesures Préventives** : Les actions de prévention doivent être documentées pour assurer la conformité continue de l'installation.
+- **Hazard Identification**: The analysis should include an assessment of risks related to the electrical installation and implement corrective measures.
+- **Documentation of Preventive Measures**: Preventive actions must be documented to ensure ongoing compliance with the installation.
 
-:::info 💼 Pour les Entreprises
-Une documentation soignée, incluant schémas et analyses de risques, facilite les inspections RGIE et assure la sécurité des employés et du public.
+:::info 💼 For Businesses
+Well-documented schematics and risk analyses facilitate compliance inspections and ensure the safety of employees and the public.
 :::
 
 ---
 
 ## 4. Conclusion
 
-Les schémas électriques sont indispensables pour assurer la **conformité et la sécurité** des installations électriques. Ils servent de référence pour les contrôleurs et facilitent la gestion des installations en cas de modifications. Pour les particuliers, un schéma complet est essentiel pour passer les contrôles de conformité, tandis que pour les entreprises, une documentation exhaustive est nécessaire pour respecter les exigences de sécurité plus strictes.
+Electrical schematics are essential for ensuring the **compliance and safety** of electrical installations. They serve as a reference for inspectors and simplify the management of installations in case of modifications. For homeowners, a complete schematic is crucial for passing compliance inspections, while businesses require comprehensive documentation to meet stricter safety standards.
 
-Pour plus d'informations sur les schémas requis par le RGIE, consultez également notre page sur les [Infractions pour Schémas Électriques Absents](https://docs.bativolt.com/docs/infractions/schema-electriques-absents).
+For more information on schematics required by the regulations, also refer to our page on [Violations for Missing Electrical Schematics](https://docs.bativolt.com/en/docs/infractions/schema-electriques-absents).
 
-:::note 📘 Conseil Final
-Conservez les schémas à proximité du tableau principal pour permettre un accès rapide lors des contrôles. Assurez-vous que vos schémas sont à jour et conformes pour garantir la sécurité de vos installations électriques.
+:::note 📘 Final Tip
+Keep the schematics near the main panel to allow quick access during inspections. Ensure that your schematics are up to date and compliant to guarantee the safety of your electrical installations.
 :::
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

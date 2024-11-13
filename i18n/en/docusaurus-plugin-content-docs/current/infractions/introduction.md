@@ -1,85 +1,85 @@
 ---
-title: "Introduction aux Infractions Électriques - Guide RGIE et Conformité en Belgique"
+title: "Introduction to Electrical Infractions - RGIE Guide and Compliance in Belgium"
 sidebar_label: Introduction
-description: "Explorez l'introduction aux infractions électriques selon le RGIE. Comprenez les règles de conformité électrique en Belgique, les erreurs courantes, et comment assurer la sécurité des installations électriques."
+description: "Explore the introduction to electrical infractions according to Belgian Electrical Regulations. Understand compliance rules, common errors, and how to ensure electrical safety in installations."
 ---
 
-# Introduction aux Infractions Électriques
+# Introduction to Electrical Infractions
 
-La sécurité dans les installations électriques est une **priorité essentielle**, tant pour les utilisateurs que pour les professionnels responsables de leur conception, installation et maintenance. Respecter les normes de sécurité définies par le **Règlement Général sur les Installations Électriques (RGIE)** est crucial pour protéger les personnes, les biens et les équipements contre des risques graves, tels que les chocs électriques, les incendies, et les pannes coûteuses. Cependant, des **infractions électriques** peuvent se produire à divers stades : lors de l’installation, pendant la modification ou au cours de l’entretien d’un système. Même les infractions dites "mineures" peuvent avoir des conséquences graves en termes de sécurité et de coût.
+Safety in electrical installations is a **top priority**, both for users and for the professionals responsible for design, installation, and maintenance. Adhering to the safety standards set by the **Belgian Electrical Regulations** is crucial to protect people, property, and equipment from serious risks, such as electric shocks, fires, and costly failures. However, **electrical infractions** can occur at various stages: during installation, modifications, or maintenance. Even so-called "minor" infractions can have severe consequences for safety and cost.
 
-## 1. Objectifs du Guide
+## 1. Guide Objectives
 
-Ce guide vise à :
-- **Sensibiliser** aux infractions les plus courantes dans les installations électriques,
-- **Éduquer** sur les risques associés et les réglementations du RGIE,
-- **Proposer des solutions** pour la mise en conformité.
+This guide aims to:
+- **Raise awareness** of the most common infractions in electrical installations,
+- **Educate** about the associated risks and the regulations,
+- **Provide solutions** for achieving compliance.
 
-Nous explorerons **onze infractions électriques courantes**, chacune comportant des implications significatives pour la sécurité et la conformité. Voici les infractions traitées dans ce guide, avec un lien vers chaque page pour plus de détails :
+We will cover **eleven common electrical infractions**, each with significant implications for safety and compliance. Here are the infractions discussed in this guide, with a link to each page for more details:
 
-1. **[Schémas Électriques Absents ou Non Conformes](https://docs.bativolt.com/docs/infractions/schema-electriques-absents)** : L'importance de disposer de schémas à jour pour garantir une installation sécurisée.
-2. **[Résistance à l'Isolation](https://docs.bativolt.com/docs/infractions/perte-electricite-isolation)** : Prévenir les fuites de courant et minimiser les pertes d'électricité grâce à une isolation adéquate.
-3. **[Terre Non Conforme ou Absente](https://docs.bativolt.com/docs/infractions/absence-terre-sur-prises)** : Comprendre les dérogations pour les installations avant 1981 et les risques liés à une mise à la terre insuffisante.
-4. **[Tableaux Électriques Non Conformes](https://docs.bativolt.com/docs/infractions/tableau-electrique-non-conforme)** : Les dangers liés aux tableaux sans protections appropriées.
-5. **[Circuits Non Protégés par un Différentiel de 30mA](https://docs.bativolt.com/docs/infractions/circuits-non-proteges-differentiel)** : Les nouvelles exigences et la protection renforcée dans les zones humides.
-6. **[Différentiels Ne Fonctionnant Pas](https://docs.bativolt.com/docs/infractions/disjoncteur-differentiel-non-fonctionnel)** : La nécessité de tester régulièrement les dispositifs de protection.
-7. **[Liaisons Équipotentielles Non Réalisées](https://docs.bativolt.com/docs/infractions/liaisons-equipotentielles-non-realisees)** : Prévenir les différences de potentiel pour éviter les risques de chocs électriques.
-8. **[Circuits Mixtes avec Sections Différentes](https://docs.bativolt.com/docs/infractions/circuits-mixtes-non-conformes)** : Les dangers de mélanger des câbles de différentes sections.
-9. **[Absence de Terre sur les Prises](https://docs.bativolt.com/docs/infractions/absence-terre-sur-prises)** : Les règles et les exceptions pour les installations avant 1981.
-10. **[Installations Pas Réalisées Selon les Règles de l'Art](https://docs.bativolt.com/docs/infractions/installation-non-realisee-regles-art)** : Les pratiques non conformes et les risques associés.
-11. **[Degrés de Protection Non Respectés](https://docs.bativolt.com/docs/infractions/degres-protection-non-respectes)** : Les risques et les solutions en cas de non-respect des degrés de protection.
+1. **[Missing or Non-Compliant Electrical Schematics](https://docs.bativolt.com/en/docs/infractions/schema-electriques-absents)**: The importance of having up-to-date schematics to ensure a safe installation.
+2. **[Insulation Resistance](https://docs.bativolt.com/en/docs/infractions/perte-electricite-isolation)**: Preventing current leaks and minimizing electricity losses with adequate insulation.
+3. **[Non-Compliant or Missing Grounding](https://docs.bativolt.com/en/docs/infractions/absence-terre-sur-prises)**: Understanding exemptions for installations before 1981 and the risks of insufficient grounding.
+4. **[Non-Compliant Electrical Panels](https://docs.bativolt.com/en/docs/infractions/tableau-electrique-non-conforme)**: The dangers of panels without proper protection.
+5. **[Circuits Without 30mA Differential Protection](https://docs.bativolt.com/en/docs/infractions/circuits-non-proteges-differentiel)**: New requirements and enhanced protection in wet areas.
+6. **[Non-Functional Differential Breakers](https://docs.bativolt.com/en/docs/infractions/disjoncteur-differentiel-non-fonctionnel)**: The need for regular testing of protective devices.
+7. **[Missing Equipotential Bonding](https://docs.bativolt.com/en/docs/infractions/liaisons-equipotentielles-non-realisees)**: Preventing potential differences to avoid the risk of electric shocks.
+8. **[Mixed Circuits with Different Cable Sizes](https://docs.bativolt.com/en/docs/infractions/circuits-mixtes-non-conformes)**: The dangers of mixing cables of different sizes.
+9. **[Missing Grounding on Outlets](https://docs.bativolt.com/en/docs/infractions/absence-terre-sur-prises)**: Rules and exceptions for installations before 1981.
+10. **[Installations Not Done According to Best Practices](https://docs.bativolt.com/en/docs/infractions/installation-non-realisee-regles-art)**: Non-compliant practices and associated risks.
+11. **[Non-Compliance with Protection Ratings](https://docs.bativolt.com/en/docs/infractions/degres-protection-non-respectes)**: Risks and solutions for inadequate protection ratings.
 
-Chaque page fournit une **analyse détaillée** de l’infraction, des risques associés, des méthodes de détection, des solutions et des coûts estimés pour la mise en conformité.
+Each page provides a **detailed analysis** of the infraction, associated risks, detection methods, solutions, and estimated costs for compliance.
 
-:::info 💡 Astuce Visuelle
-Pour faciliter la compréhension, nous utiliserons des encadrés colorés pour afficher des **astuces pratiques**, des **mises en garde**, et des **informations techniques**.
+:::info 💡 Visual Tip
+For better understanding, we will use colored boxes to display **practical tips**, **warnings**, and **technical information**.
 :::
 
-## 2. Pourquoi la Conformité Électrique est-elle Cruciale ?
+## 2. Why Is Electrical Compliance Crucial?
 
-La conformité électrique, telle que définie par le RGIE, permet :
-- **D'assurer la sécurité** des utilisateurs en évitant les chocs électriques et les incendies,
-- **De protéger les biens** contre les dommages causés par des équipements défectueux,
-- **De garantir la fiabilité** de l’installation pour éviter les interruptions de service et les réparations coûteuses.
+Electrical compliance, as defined by the regulations, ensures:
+- **User safety** by preventing electric shocks and fires,
+- **Protection of property** from damage caused by defective equipment,
+- **Reliability of the installation** to avoid service interruptions and costly repairs.
 
-:::warning ⚠️ Avertissement
-Les infractions électriques non résolues peuvent entraîner des **sanctions lors des contrôles de conformité**. En cas de non-conformité, des réparations peuvent être exigées pour assurer la sécurité de tous.
+:::warning ⚠️ Warning
+Unresolved electrical infractions may result in **penalties during compliance inspections**. In cases of non-compliance, repairs may be required to ensure the safety of all occupants.
 :::
 
-## 3. Comment Détecter et Corriger les Infractions ?
+## 3. How to Detect and Correct Infractions
 
-### Méthodes de Détection
-- **Inspection Visuelle** : Certaines infractions, comme les câbles mal protégés, peuvent être identifiées visuellement.
-- **Tests Techniques** : Des appareils comme le **mégohmmètre** pour tester la résistance à l’isolation ou le **testeur de prise** pour vérifier la mise à la terre peuvent détecter des infractions invisibles à l’œil nu.
-- **Contrôles Professionnels** : Faire appel à un électricien qualifié est essentiel pour une évaluation complète et conforme.
+### Detection Methods
+- **Visual Inspection**: Some infractions, like improperly protected cables, can be identified visually.
+- **Technical Testing**: Tools such as a **megohmmeter** for insulation resistance testing or a **socket tester** for grounding checks can detect infractions not visible to the naked eye.
+- **Professional Inspections**: Hiring a qualified electrician is essential for a comprehensive and compliant evaluation.
 
-### Mise en Conformité
-Pour garantir la conformité, il est recommandé de :
-1. **Consulter un électricien agréé** pour une inspection approfondie.
-2. **Suivre les recommandations du RGIE** pour chaque type d’infraction.
-3. **Utiliser des matériaux de qualité** et conformes aux normes.
+### Achieving Compliance
+To ensure compliance, it is recommended to:
+1. **Consult a certified electrician** for a thorough inspection.
+2. **Follow the regulatory recommendations** for each type of infraction.
+3. **Use high-quality, compliant materials** in accordance with the standards.
 
-## 4. Contributions Communautaires et Photos
+## 4. Community Contributions and Photos
 
-Nous encourageons la **communauté Bativolt** à enrichir notre documentation. Si vous avez des photos, des exemples de cas ou des suggestions d’infractions supplémentaires à documenter, contactez-nous. 
+We encourage the **Bativolt community** to contribute to our documentation. If you have photos, case examples, or suggestions for additional infractions to document, please reach out.
 
-:::info 📸 Contribution Visuelle
-Si vous avez des photos de tests ou de procédures de mise en conformité, n'hésitez pas à les partager avec la communauté. Envoyez vos contributions à [docs@bativolt.com](mailto:docs@bativolt.com) pour aider à illustrer les concepts et améliorer l’expérience éducative.
+:::info 📸 Visual Contribution
+If you have photos of tests or compliance procedures, feel free to share them with the community. Send your contributions to [docs@bativolt.com](mailto:docs@bativolt.com) to help illustrate concepts and enhance the educational experience.
 :::
 
-## 5. Contact pour Ajouter des Infractions
+## 5. Contact Us to Add Infractions
 
-Nous sommes ouverts à l’ajout de nouvelles pages pour couvrir des infractions non listées ici. Si vous identifiez une infraction spécifique qui n'est pas abordée, contactez-nous via [docs.bativolt.com](https://docs.bativolt.com). Nous nous ferons un plaisir d'inclure des solutions et des conseils pour toute infraction supplémentaire afin de soutenir la communauté.
-
-
----
-
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
-
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+We are open to adding new pages to cover infractions not listed here. If you identify a specific infraction that is not addressed, please contact us via [docs.bativolt.com](mailto:docs@bativolt.com). We will be glad to include solutions and advice for any additional infraction to support the community.
 
 ---
 
-En suivant ce guide, nous espérons que chaque lecteur, qu'il soit professionnel ou particulier, pourra mieux comprendre les normes de sécurité et s’assurer que ses installations sont **conformes et sécurisées**.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
+
+---
+
+By following this guide, we hope that every reader, whether a professional or a homeowner, will gain a better understanding of safety standards and ensure that their installations are both **compliant and secure**.
+

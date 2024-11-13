@@ -1,73 +1,73 @@
 ---
-title: Introduction au Guide RGIE
-sidebar_label: Introduction au Livre 1
-description: Guide complet du RGIE pour électriciens, particuliers, notaires, et professionnels en Belgique. Découvrez les prescriptions générales, les définitions, et les étapes de conformité électrique en vue de la sécurité et de la conformité.
+title: Introduction to the Guide on Belgian Electrical Standards
+sidebar_label: Introduction to Book 1
+description: Comprehensive guide on Belgian Electrical Standards for electricians, homeowners, notaries, and industry professionals. Explore general requirements, definitions, and compliance steps for electrical safety and conformity.
 ---
 
-# Introduction au Guide RGIE
+# Introduction to the Guide on Belgian Electrical Standards
 
-Bienvenue dans le **Guide RGIE**, une ressource complète et pédagogique dédiée à tous ceux qui souhaitent maîtriser les règles et normes des installations électriques en Belgique. Que vous soyez un professionnel chevronné ou un particulier débutant, ce guide est conçu pour vous accompagner à chaque étape de votre compréhension du Règlement Général sur les Installations Électriques (RGIE).
+Welcome to the **Guide on Belgian Electrical Standards**, an extensive and educational resource designed to help everyone master the rules and standards of electrical installations in Belgium. Whether you are an experienced professional or just starting, this guide is crafted to assist you at every step in understanding the **Belgian Electrical Code**.
 
-## Pourquoi un guide RGIE ?
+## Why a Guide on Belgian Electrical Standards?
 
-Le RGIE est une réglementation complexe mais essentielle. Sa mission ? Assurer la sécurité et la conformité des installations électriques pour tous. Pourtant, pour beaucoup, parcourir les textes réglementaires peut être intimidant et difficile à interpréter. En constatant cela, **Bativolt** a décidé de créer ce guide : un site documentaire structuré et visuellement agréable pour simplifier le RGIE et en faire un outil accessible à tous.
+The Belgian Electrical Code is a complex yet essential set of regulations. Its main purpose? To ensure the safety and compliance of electrical installations throughout Belgium. However, navigating these legal texts can be daunting and difficult to interpret. In response, **Bativolt** has developed this guide: a well-structured and visually appealing documentation platform to simplify the regulations and make them accessible for everyone.
 
-:::tip Notre Mission 🎯
-Nous voulons devenir LA référence du RGIE en Belgique, en offrant un support éducatif qui rende les normes et exigences plus faciles à comprendre pour les électriciens, notaires, agents immobiliers, étudiants, et tous ceux qui ont besoin de naviguer dans cet univers réglementaire.
+:::tip Our Mission 🎯
+We aim to become THE go-to resource for understanding Belgian Electrical Standards by providing an educational tool that makes compliance requirements easier to grasp for electricians, notaries, real estate agents, students, and anyone needing to navigate this regulatory landscape.
 :::
 
-## Structure du Guide RGIE
+## Structure of the Guide
 
-Ce guide est divisé en neuf parties principales, qui couvrent chaque aspect du RGIE pour offrir une vision complète et didactique. Chaque partie comprend des explications détaillées, des exemples pratiques et, si nécessaire, des avertissements ou astuces spécifiques pour vous guider.
+This guide is divided into nine main sections, covering every aspect of the Belgian Electrical Code to provide a comprehensive and educational overview. Each section includes detailed explanations, practical examples, and, when necessary, specific warnings or helpful tips.
 
-1. **[Partie 1 - Prescriptions Générales](https://docs.bativolt.com/docs/guide-rgie/partie-1-prescriptions-generales)** : Les bases et principes fondamentaux des installations électriques, incluant les limites et prescriptions générales.
+1. **[Part 1 - General Requirements](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-1-general-requirements)**: Covers the fundamentals and basic principles of electrical installations, including general limits and requirements.
 
-2. **[Partie 2 - Termes et Définitions](https://docs.bativolt.com/docs/guide-rgie/partie-2-termes-definitions)** : Un glossaire des termes essentiels et des caractéristiques propres aux installations électriques.
+2. **[Part 2 - Terms and Definitions](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-2-terms-definitions)**: A glossary of essential terms and specific features of electrical installations.
 
-3. **[Partie 3 - Détermination des Caractéristiques](https://docs.bativolt.com/docs/guide-rgie/partie-3-determination-caracteristiques)** : Guide pour évaluer les caractéristiques techniques des installations.
+3. **[Part 3 - Determining Characteristics](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-3-determining-characteristics)**: A guide for assessing the technical features of installations.
 
-4. **[Partie 4 - Mesures de Protection](https://docs.bativolt.com/docs/guide-rgie/partie-4-mesures-protection)** : Une explication des protections nécessaires pour garantir la sécurité.
+4. **[Part 4 - Protection Measures](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-4-protection-measures)**: Explains the necessary safety measures to ensure compliance.
 
-5. **[Partie 5 - Choix et Mise en Œuvre](https://docs.bativolt.com/docs/guide-rgie/partie-5-choix-mise-en-oeuvre)** : Les meilleures pratiques pour choisir et installer le matériel électrique.
+5. **[Part 5 - Selection and Installation Practices](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-5-selection-installation)**: Best practices for selecting and installing electrical equipment.
 
-6. **[Partie 6 - Contrôles des Installations](https://docs.bativolt.com/docs/guide-rgie/partie-6-controles-installations)** : Les procédures de contrôle avant mise en service pour garantir la conformité.
+6. **[Part 6 - Inspection Procedures](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-6-inspection-procedures)**: Outlines the steps for pre-commissioning inspections to ensure regulatory compliance.
 
-7. **[Partie 7 - Règles pour les Installations et Emplacements Spéciaux](https://docs.bativolt.com/docs/guide-rgie/partie-7-regles-installations-emplacements)** : Les règles spécifiques pour les environnements particuliers.
+7. **[Part 7 - Rules for Special Installations](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-7-special-installations)**: Specific rules for specialized environments, such as industrial sites and high-risk areas.
 
-8. **[Partie 8 - Prescriptions pour Installations Existantes](https://docs.bativolt.com/docs/guide-rgie/partie-8-prescriptions-installations-existantes)** : Les directives pour les installations déjà en place.
+8. **[Part 8 - Standards for Existing Installations](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-8-existing-installations)**: Guidelines for ensuring compliance in already established installations.
 
-9. **[Partie 9 - Prescriptions Générales à Observer](https://docs.bativolt.com/docs/guide-rgie/partie-9-prescriptions-personnes)** : Les responsabilités générales des personnes en charge des installations.
+9. **[Part 9 - Responsibilities of Stakeholders](https://docs.bativolt.com/en/docs/guide-electrical-standards/part-9-stakeholder-responsibilities)**: Outlines the general responsibilities of individuals overseeing electrical installations.
 
-**[Conclusion](https://docs.bativolt.com/docs/guide-rgie/conclusion)** : Un récapitulatif final avec des conseils pratiques.
+**[Conclusion](https://docs.bativolt.com/en/docs/guide-electrical-standards/conclusion)**: A final summary with practical advice for maintaining compliance.
 
-:::warning Attention 🛑
-Ce guide ne remplace pas le RGIE officiel. Il est conçu comme un support éducatif pour vous aider à mieux comprendre et appliquer les normes. Pour des informations juridiques officielles, référez-vous toujours au texte du RGIE disponible via le SPF Économie.
+:::warning Caution 🛑
+This guide does not replace the official Belgian Electrical Code. It is intended as an educational support to help you better understand and apply the standards. For official legal references, please consult the texts provided by the Belgian Federal Public Service (FPS Economy).
 :::
 
-## Comment utiliser ce guide ?
+## How to Use This Guide?
 
-Nous vous recommandons d’utiliser ce guide comme un compagnon du **livre 1 du RGIE**. Nos explications sont complètes et pratiques, tout en évitant le plagiat : chaque texte est interprété dans nos propres mots pour simplifier l’apprentissage.
+We recommend using this guide as a companion to the **Belgian Electrical Code**. Our explanations are comprehensive and practical, rewritten in our own words to simplify understanding while avoiding plagiarism.
 
-- **Pour les électriciens** : Consultez les sections détaillées pour des instructions claires et des astuces pratiques.
-- **Pour les étudiants et stagiaires** : Ce guide est structuré pour vous aider à assimiler les bases et à progresser dans votre apprentissage.
-- **Pour les notaires et agents immobiliers** : Nous décryptons les articles du RGIE pour faciliter la conformité des biens immobiliers.
+- **For Electricians**: Consult the detailed sections for clear guidelines and practical tips.
+- **For Students and Trainees**: This guide is structured to help you understand the basics and advance in your studies.
+- **For Notaries and Real Estate Agents**: We break down the articles of the Belgian Electrical Code to make it easier for you to ensure property compliance.
 
-## Contribuez à l'expérience éducative
+## Contribute to the Learning Experience
 
-:::info Contribuez et enrichissez ce guide !
-Nous croyons en l’apprentissage collaboratif. Si vous avez des suggestions, des photos pratiques ou des retours, n’hésitez pas à nous contacter via [docs@bativolt.com](mailto:docs@bativolt.com). Ensemble, faisons du RGIE un sujet plus accessible !
+:::info Contribute and Enhance This Guide!
+We believe in collaborative learning. If you have suggestions, practical photos, or feedback, please contact us at [docs@bativolt.com](mailto:docs@bativolt.com). Together, we can make understanding the Belgian Electrical Standards easier for everyone!
 :::
 
-Chez **Bativolt**, notre ambition est d’aider la communauté en fournissant un support éducatif solide et en participant activement à l’amélioration de la sécurité électrique en Belgique. Ce guide n’est qu’une étape ; ensemble, nous pouvons faire de la compréhension du RGIE un outil de sécurité et de conformité pour tous.
+At **Bativolt**, our goal is to support the community by providing strong educational resources and actively contributing to the improvement of electrical safety in Belgium. This guide is just the beginning; together, we can make understanding the Belgian Electrical Regulations a powerful tool for safety and compliance.
 
-Nous espérons que ce guide deviendra votre ressource de référence pour maîtriser le RGIE et garantir la sécurité dans chaque installation électrique.
+We hope this 
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

@@ -1,151 +1,151 @@
 ---
-title: Disjoncteurs Différentiels Non Fonctionnels - Causes et Solutions
-sidebar_label: Différentiels Non Fonctionnels
-description: Guide sur le dysfonctionnement des disjoncteurs différentiels, incluant les causes, méthodes de test, et conseils pour leur remplacement afin de garantir la sécurité des installations électriques.
+title: Non-Functional Residual Current Devices (RCDs) - Causes and Solutions
+sidebar_label: Non-Functional RCDs
+description: A guide on the malfunction of residual current devices, including causes, testing methods, and tips for replacement to ensure the safety of electrical installations.
 ---
 
-# Disjoncteurs Différentiels Non Fonctionnels
+# Non-Functional Residual Current Devices (RCDs)
 
 ## Introduction
 
-Les disjoncteurs différentiels sont cruciaux pour la sécurité des installations électriques. Ils protègent les utilisateurs contre les chocs électriques en interrompant immédiatement le courant en cas de fuite. Cependant, il arrive que des disjoncteurs, qu'ils soient de **30mA** ou **300mA**, cessent de fonctionner correctement. Cette page explique les causes possibles de dysfonctionnement, les méthodes de test, les conséquences de non-fonctionnalité, et les coûts liés à leur remplacement.
+Residual current devices (RCDs) are crucial for the safety of electrical installations. They protect users from electric shocks by immediately cutting off the current in the event of a fault. However, RCDs, whether **30mA** or **300mA**, may sometimes stop working properly. This page explains the possible causes of malfunction, testing methods, consequences of non-functionality, and the costs related to their replacement.
 
 ---
 
-## 1. Pourquoi un Disjoncteur Différentiel Peut Ne Pas Fonctionner ?
+## 1. Why Might an RCD Fail to Function?
 
-### 1.1. Mauvaise Configuration ou Pontage Incorrect
+### 1.1. Incorrect Configuration or Faulty Bridging
 
-Une mauvaise configuration, en particulier dans des cas complexes comme les installations **3x230V avec un différentiel tettra**, peut empêcher un disjoncteur de détecter les fuites de courant. Un mauvais pontage ou un branchement incorrect rend l’appareil inefficace, compromettant la sécurité de l’installation.
+Incorrect configuration, especially in complex cases like **3x230V installations with a four-pole RCD**, can prevent an RCD from detecting current leaks. A faulty bridging or incorrect wiring renders the device ineffective, compromising the safety of the installation.
 
 :::warning
-**Attention :** Un disjoncteur mal configuré peut donner une fausse impression de sécurité alors qu’il ne protège pas réellement contre les fuites de courant.
+**Warning:** An improperly configured RCD can give a false sense of security while not actually protecting against current leaks.
 :::
 
 ---
 
-### 1.2. Usure et Dégradation des Composants Internes
+### 1.2. Wear and Tear of Internal Components
 
-Avec le temps et les déclenchements répétés, le mécanisme interne du disjoncteur peut s'user, compromettant sa capacité à se déclencher correctement.
+Over time and with repeated tripping, the internal mechanism of the RCD can wear out, affecting its ability to trip properly.
 
-> **💡 Saviez-vous ?** Un disjoncteur qui a été déclenché de nombreuses fois devient susceptible de ne plus réagir aux fuites, nécessitant un remplacement pour assurer la sécurité.
+> **💡 Did You Know?** An RCD that has tripped multiple times may become less responsive to faults, requiring replacement to ensure safety.
 
 ---
 
-### 1.3. Défaillances Électriques et Surtensions
+### 1.3. Electrical Failures and Surges
 
-Des surtensions dues à des orages ou à des fluctuations électriques peuvent endommager un disjoncteur différentiel, rendant son mécanisme de détection de fuites de courant inefficace.
+Surges caused by lightning or electrical fluctuations can damage an RCD, impairing its ability to detect current leaks.
 
-:::info Image d'Exemple 📸
+:::info Example Image 📸
 
-Une photo illustrative sera ajoutée ici prochainement. Vu l'ampleur de la documentation, il peut y avoir des sections en attente de visuels.
+An illustrative photo will be added here soon. Given the extent of the documentation, some sections may be awaiting visuals.
 
-Si vous souhaitez aider la communauté, vous pouvez contribuer avec une photo personnelle en lien avec cette section ! Envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com), et nous l'intégrerons en mentionnant votre nom en tant que contributeur. Ensemble, enrichissons l’expérience éducative de Bativolt !
+If you would like to help the community, you can contribute with a personal photo relevant to this section! Send it to [docs@bativolt.com](mailto:docs@bativolt.com), and we will include your name as a contributor. Together, let's enhance the educational experience of Bativolt!
 
 :::
 
 ---
 
-## 2. Méthodes de Test et Entretien des Disjoncteurs Différentiels
+## 2. Testing Methods and Maintenance of RCDs
 
-### 2.1. Fréquence des Tests et Bonnes Pratiques
+### 2.1. Testing Frequency and Best Practices
 
-Le RGIE recommande de tester les disjoncteurs différentiels au moins une fois par mois pour s’assurer de leur bon fonctionnement. Ce test est simple : appuyez sur le bouton de test situé sur le disjoncteur. Si le disjoncteur se déclenche, cela confirme qu'il fonctionne correctement. Sinon, il peut être défectueux.
+The Belgian Electrical Regulations recommend testing RCDs at least once a month to ensure proper functionality. The test is simple: press the test button on the RCD. If the RCD trips, it confirms that it is working correctly. If not, it may be faulty.
 
-> **💡 Astuce :** Testez les disjoncteurs après chaque changement important dans l'installation (comme l'ajout d'appareils) pour garantir une protection continue.
-
----
-
-### 2.2. Remplacement Professionnel des Disjoncteurs
-
-Le remplacement d’un disjoncteur doit être confié à un électricien qualifié. Une installation correcte assure la conformité avec les normes **RGIE** et une protection optimale.
-
-| **Type de disjoncteur** | **Coût estimé**     | **Installation professionnelle** |
-|--------------------------|---------------------|----------------------------------|
-| Disjoncteur 30mA         | 30 € à 100 €       | Fortement recommandé            |
-| Disjoncteur 300mA        | 50 € à 150 €       | Obligatoire pour les grandes installations |
-
-> **Remarque :** Un électricien pourra également conseiller sur le modèle de disjoncteur le mieux adapté à l'installation.
+> **💡 Tip:** Test the RCDs after any major changes in the installation (such as adding new appliances) to ensure continuous protection.
 
 ---
 
-## 3. Conséquences d'un Disjoncteur Non Fonctionnel
+### 2.2. Professional Replacement of RCDs
 
-### 3.1. Risques pour la Sécurité des Occupants
+The replacement of an RCD should be handled by a qualified electrician. Proper installation ensures compliance with **Belgian Electrical Regulations** and optimal protection.
 
-Un disjoncteur différentiel non fonctionnel laisse les utilisateurs exposés à des fuites de courant potentielles, augmentant le risque de chocs électriques, de blessures graves, et même de risques d'incendie.
+| **Type of RCD**         | **Estimated Cost**  | **Professional Installation**   |
+|-------------------------|---------------------|---------------------------------|
+| 30mA RCD                | €30 to €100         | Highly recommended             |
+| 300mA RCD               | €50 to €150         | Mandatory for large installations |
+
+> **Note:** An electrician can also advise on the most suitable RCD model for the installation.
+
+---
+
+## 3. Consequences of a Non-Functional RCD
+
+### 3.1. Risks to the Safety of Occupants
+
+A non-functional RCD leaves users exposed to potential current leaks, increasing the risk of electric shocks, severe injuries, and even fire hazards.
 
 :::danger
-**Dangers des Disjoncteurs Non Fonctionnels :** Sans protection, les occupants risquent des électrocutions en cas de fuite de courant non détectée. Toujours vérifier et remplacer les disjoncteurs défectueux.
+**Dangers of Non-Functional RCDs:** Without protection, occupants face the risk of electrocution in the event of an undetected current leak. Always check and replace faulty RCDs.
 :::
 
 ---
 
-### 3.2. Non-Conformité aux Normes du RGIE
+### 3.2. Non-Compliance with Belgian Electrical Regulations
 
-Le RGIE impose des exigences strictes concernant les dispositifs de protection. En cas de contrôle ou d’accident, un disjoncteur défectueux peut entraîner des amendes ou des sanctions pour non-conformité. Les propriétaires sont donc tenus de s’assurer que tous les disjoncteurs fonctionnent correctement.
+The Belgian Electrical Regulations impose strict requirements on protective devices. In the event of an inspection or accident, a faulty RCD can result in fines or penalties for non-compliance. Property owners are therefore required to ensure that all RCDs are functioning correctly.
 
-> **💡 Bon à savoir :** Les disjoncteurs défectueux peuvent invalider une assurance en cas d'accident lié à une fuite de courant non détectée.
-
----
-
-## 4. Coûts Associés au Remplacement d'un Disjoncteur Différentiel
-
-### 4.1. Coût d'Achat des Disjoncteurs Différentiels
-
-Les disjoncteurs différentiels sont disponibles à des prix variables selon la capacité et le modèle. Pour une protection efficace, il est essentiel de choisir un disjoncteur adapté aux caractéristiques de l'installation.
-
-| **Type de disjoncteur** | **Capacité** | **Fourchette de prix** |
-|--------------------------|--------------|-------------------------|
-| Disjoncteur 30mA         | Usage domestique | 30 € à 100 €           |
-| Disjoncteur 300mA        | Usage industriel | 50 € à 150 €           |
-
-> **Note :** Choisir un disjoncteur de qualité est un investissement dans la sécurité à long terme.
+> **💡 Good to Know:** Faulty RCDs can invalidate insurance coverage in the case of an accident related to an undetected current leak.
 
 ---
 
-### 4.2. Coûts Supplémentaires en Cas d'Urgence
+## 4. Costs Associated with Replacing an RCD
 
-Les interventions d’urgence, comme les remplacements en dehors des heures ouvrées, peuvent générer des coûts supplémentaires. Certains fournisseurs appliquent des tarifs plus élevés pour une intervention rapide en cas de panne critique.
+### 4.1. Purchase Cost of Residual Current Devices
+
+Residual current devices (RCDs) are available at varying prices depending on capacity and model. For effective protection, it is essential to choose an RCD suited to the characteristics of the installation.
+
+| **Type of RCD**         | **Capacity**       | **Price Range**       |
+|-------------------------|--------------------|-----------------------|
+| 30mA RCD                | Domestic use       | €30 to €100           |
+| 300mA RCD               | Industrial use     | €50 to €150           |
+
+> **Note:** Choosing a quality RCD is an investment in long-term safety.
+
+---
+
+### 4.2. Additional Costs for Emergency Replacements
+
+Emergency interventions, such as replacements outside of business hours, may incur additional costs. Some providers charge higher rates for quick interventions during critical breakdowns.
 
 :::warning
-**Coût des Urgences :** Les réparations urgentes peuvent coûter jusqu'à 50 % de plus en raison de la demande immédiate et de la disponibilité limitée des techniciens.
+**Emergency Costs:** Urgent repairs can be up to 50% more expensive due to immediate demand and limited availability of technicians.
 :::
 
 ---
 
-## 5. Procédure de Maintenance et Tests des Disjoncteurs
+## 5. Maintenance Procedures and Testing of RCDs
 
-### 5.1. Procédures de Test
+### 5.1. Testing Procedures
 
-Le test mensuel du disjoncteur est rapide et essentiel. Suivez ces étapes :
+The monthly test of the RCD is quick and essential. Follow these steps:
 
-1. **Couper les appareils sensibles** : Éteignez les appareils connectés pour éviter tout dommage.
-2. **Appuyer sur le bouton de test** : Le disjoncteur doit se déclencher immédiatement.
-3. **Réarmer le disjoncteur** : Remettez le disjoncteur en marche et vérifiez son bon fonctionnement.
+1. **Disconnect sensitive devices:** Turn off connected devices to prevent potential damage.
+2. **Press the test button:** The RCD should trip immediately.
+3. **Reset the RCD:** Switch the RCD back on and check that it functions correctly.
 
-> **💡 Rappel :** Si le disjoncteur ne se déclenche pas, contactez un professionnel pour un diagnostic et un éventuel remplacement.
+> **💡 Reminder:** If the RCD does not trip, contact a professional for diagnosis and possible replacement.
 
 ---
 
 ## Conclusion
 
-Les disjoncteurs différentiels sont des équipements de sécurité essentiels dans toute installation électrique. En surveillant leur état de fonctionnement et en réalisant des tests réguliers, les utilisateurs peuvent prévenir les risques de chocs électriques et d’incendie. Lorsqu'un disjoncteur différentiel montre des signes de faiblesse ou ne se déclenche pas au test, il est crucial de le remplacer par un professionnel qualifié pour garantir la sécurité de tous.
+Residual current devices (RCDs) are essential safety components in any electrical installation. By monitoring their functionality and performing regular tests, users can prevent risks of electric shocks and fires. When an RCD shows signs of weakness or does not trip during testing, it is crucial to have it replaced by a qualified professional to ensure everyone's safety.
 
 :::info
-**Résumé des Bonnes Pratiques :** 
-- **Tester mensuellement** chaque disjoncteur.
-- **Remplacer les disjoncteurs défectueux** immédiatement.
-- **Faire appel à un professionnel** pour toute intervention sur le système de disjoncteurs.
+**Summary of Best Practices:** 
+- **Test each RCD monthly.**
+- **Replace faulty RCDs** immediately.
+- **Consult a professional** for any interventions on the RCD system.
 
 :::
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

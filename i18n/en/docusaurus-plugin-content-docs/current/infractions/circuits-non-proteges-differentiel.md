@@ -1,157 +1,157 @@
 ---
-title: "Circuits Non Protégés par un Disjoncteur Différentiel de 30mA - Sécurité RGIE"
-sidebar_label: Circuits Non Protégés
-description: "Comprendre l'importance des disjoncteurs différentiels de 30mA dans les circuits électriques pour garantir la sécurité selon le RGIE. Guide sur les normes, les exceptions et la prévention des infractions."
+title: "Circuits Not Protected by a 30mA Residual Current Circuit Breaker - Safety Compliance Guide"
+sidebar_label: Unprotected Circuits
+description: "Understand the importance of 30mA residual current circuit breakers in electrical circuits to ensure safety according to Belgian regulations. A guide on standards, exceptions, and how to avoid violations."
 ---
 
-# Circuits Non Protégés par un Disjoncteur Différentiel de 30mA
+# Circuits Not Protected by a 30mA Residual Current Circuit Breaker
 
 ## Introduction
 
-Les **disjoncteurs différentiels de 30mA** sont des dispositifs de sécurité essentiels qui protègent les utilisateurs contre les risques d'électrocution en détectant les fuites de courant. Depuis les mises à jour réglementaires de juillet 2023, ces disjoncteurs sont requis pour tous les circuits, avec quelques exceptions. Cette page explore en détail le rôle de ces dispositifs, les nouvelles exigences, les exceptions et les implications de leur non-conformité.
+**30mA residual current circuit breakers** are essential safety devices that protect users against the risk of electrocution by detecting current leaks. Since the regulatory updates of July 2023, these breakers are required for all circuits, with some exceptions. This page provides an in-depth look at the role of these devices, new requirements, exceptions, and the implications of non-compliance.
 
 ---
 
-## 1. Importance de la Protection par Disjoncteur Différentiel
+## 1. Importance of Protection by Residual Current Circuit Breakers
 
-### 1.1. Rôle des Disjoncteurs Différentiels
+### 1.1. Role of Residual Current Circuit Breakers
 
-Un **disjoncteur différentiel de 30mA** détecte les fuites de courant supérieures à 30mA et coupe immédiatement le courant, réduisant ainsi le risque d’électrocution. Ce dispositif est particulièrement crucial dans les zones humides ou dans les environnements où le risque de contact avec l'eau est élevé.
+A **30mA residual current circuit breaker** detects current leaks exceeding 30mA and immediately cuts off the power, reducing the risk of electrocution. This device is particularly crucial in wet areas or environments where the risk of contact with water is high.
 
-> **Saviez-vous ?** La plupart des accidents d'électrocution surviennent lorsque l'isolation est défectueuse. Les disjoncteurs différentiels de 30mA offrent une couche de protection supplémentaire en interrompant le circuit dès qu’une fuite de courant est détectée.
+> **Did You Know?** Most electrocution accidents occur when insulation is faulty. 30mA residual current circuit breakers provide an additional layer of protection by interrupting the circuit as soon as a current leak is detected.
 
-### 1.2. Sécurité des Circuits
+### 1.2. Circuit Safety
 
-La protection des circuits par disjoncteurs différentiels est cruciale dans les zones comme les salles de bains, cuisines et locaux techniques, où l'humidité accroît les risques de chocs électriques.
+Protecting circuits with residual current breakers is critical in areas like bathrooms, kitchens, and technical rooms, where humidity increases the risk of electric shock.
 
-:::info Image d'Exemple 📸
+:::info Example Image 📸
 
-Une photo illustrative sera ajoutée ici prochainement. Si vous souhaitez contribuer avec une photo en lien avec cette section, envoyez-la à [docs@bativolt.com](mailto:docs@bativolt.com). Votre nom sera mentionné en tant que contributeur.
+An illustrative photo will be added here soon. If you wish to contribute a relevant photo for this section, please send it to [docs@bativolt.com](mailto:docs@bativolt.com). Your name will be credited as a contributor.
 
 :::
 
 ---
 
-## 2. Changements Réglementaires en Juillet 2023
+## 2. Regulatory Changes in July 2023
 
-### 2.1. Nouvelle Réglementation RGIE
+### 2.1. New RGIE Regulation
 
-Depuis juillet 2023, le **Règlement Général sur les Installations Électriques (RGIE)** impose la présence de disjoncteurs différentiels de 30mA pour tous les circuits, hormis quelques exceptions. Ce changement vise à augmenter la sécurité des installations électriques, en réduisant le nombre d'accidents liés aux défauts d'isolement.
+Since July 2023, the **General Regulations on Electrical Installations (RGIE)** require the presence of 30mA residual current circuit breakers for all circuits, except for a few specific exemptions. This change aims to enhance the safety of electrical installations by reducing the number of accidents caused by insulation faults.
 
-> **Astuce RGIE :** Les disjoncteurs différentiels doivent être placés dans des endroits facilement accessibles pour permettre des tests réguliers.
+> **RGIE Tip:** Residual current circuit breakers should be installed in easily accessible locations to allow for regular testing.
 
-### 2.2. Obligations Préalables
+### 2.2. Previous Obligations
 
-Avant cette réglementation, certains circuits étaient exemptés, à l'exception des locaux humides qui ont toujours exigé une protection de 30mA pour éviter les risques d’électrocution en cas de contact avec l'eau.
+Before this regulation, certain circuits were exempt, except for wet areas, which have always required 30mA protection to prevent the risk of electrocution in the event of contact with water.
 
 ---
 
-## 3. Exceptions à la Réglementation
+## 3. Exceptions to the Regulation
 
-### 3.1. Circuits Électriques Non Protégés
+### 3.1. Unprotected Electrical Circuits
 
-Malgré les nouvelles règles, certains circuits peuvent ne pas nécessiter de disjoncteur différentiel de 30mA, tels que :
+Despite the new rules, some circuits may not require a 30mA residual current circuit breaker, such as:
+
+- **External Lighting Circuits**: Under specific conditions, like compliance with safety standards, these circuits may be exempt.
   
-- **Circuits d'Éclairage Externes** : Sous conditions spécifiques, comme la conformité aux normes de sécurité, ces circuits peuvent être exemptés.
-  
-- **Circuits pour Appareils Électriques Non Sensibles** : Certains circuits d’appareils externes, rarement manipulés, peuvent être dispensés.
+- **Circuits for Non-Sensitive Electrical Devices**: Certain circuits for external appliances, rarely handled, may be exempt.
 
-> **💡 Astuce :** En cas de doute, consultez un professionnel pour confirmer si votre installation nécessite une protection par différentiel de 30mA.
+> **💡 Tip:** If in doubt, consult a professional to confirm whether your installation requires 30mA differential protection.
 
-### 3.2. Exigences pour les Locaux Humides
+### 3.2. Requirements for Wet Areas
 
-Les salles de bains, cuisines, et autres zones humides nécessitent absolument une protection par disjoncteur de 30mA pour se conformer aux normes de sécurité RGIE.
+Bathrooms, kitchens, and other wet zones absolutely require protection by a 30mA residual current circuit breaker to comply with RGIE safety standards.
 
 ---
 
-## 4. Obligations Réglementaires et Responsabilités
+## 4. Regulatory Obligations and Responsibilities
 
-### 4.1. Conformité aux Normes RGIE
+### 4.1. Compliance with RGIE Standards
 
-Le non-respect des exigences de protection peut entraîner des sanctions et met en danger les utilisateurs. Il est donc essentiel que toutes les installations soient vérifiées pour conformité au RGIE.
+Failure to meet the protection requirements may lead to penalties and endanger users. Therefore, it is essential that all installations are checked for RGIE compliance.
 
-### 4.2. Responsabilité des Électriciens
+### 4.2. Electricians' Responsibility
 
-Les électriciens sont tenus de s'assurer que toutes les installations sont sécurisées et conformes. Les nouvelles installations et rénovations doivent inclure les dispositifs de protection requis pour éviter tout risque d’accident.
+Electricians must ensure that all installations are secure and compliant. New installations and renovations must include the required protection devices to avoid any risk of accidents.
 
 ---
 
-## 5. Matériel de Protection : Choix et Installation
+## 5. Protective Equipment: Selection and Installation
 
-### 5.1. Disjoncteurs Différentiels 30mA : Choix et Coût
+### 5.1. 30mA Residual Current Circuit Breakers: Choice and Cost
 
-Les disjoncteurs de 30mA se trouvent facilement dans le commerce. Ils coûtent généralement entre 30 € et 100 € selon le modèle et la capacité.
+30mA circuit breakers are widely available in stores and typically cost between €30 and €100, depending on the model and capacity.
 
-| **Modèle**                | **Prix Estimé**     | **Utilisation Courante**                         |
-|---------------------------|---------------------|--------------------------------------------------|
-| Standard 30mA             | 30 € - 50 €        | Salles de bains, cuisines                       |
-| Haute capacité 30mA       | 60 € - 100 €       | Locaux techniques, installations commerciales    |
+| **Model**                | **Estimated Price**  | **Common Usage**                            |
+|--------------------------|----------------------|---------------------------------------------|
+| Standard 30mA            | €30 - €50            | Bathrooms, kitchens                         |
+| High-capacity 30mA       | €60 - €100           | Technical rooms, commercial installations   |
 
-> **Info :** Les disjoncteurs de haute capacité sont idéaux pour les installations à forte consommation ou exposées à des conditions rigoureuses.
+> **Info:** High-capacity circuit breakers are ideal for installations with high consumption or those exposed to harsh conditions.
 
-### 5.2. Installation et Maintenance
+### 5.2. Installation and Maintenance
 
-Pour garantir un bon fonctionnement, il est recommandé de faire installer les disjoncteurs différentiels par un électricien qualifié. Une vérification mensuelle est conseillée : appuyez sur le bouton de test pour vérifier le déclenchement.
+To ensure proper functionality, it is recommended to have residual current circuit breakers installed by a qualified electrician. Monthly testing is advised: press the test button to verify the circuit breaker’s response.
 
-:::info Image d'Exemple 📸
+:::info Example Image 📸
 
-Un exemple d'installation correcte d'un disjoncteur différentiel. Contactez [docs@bativolt.com](mailto:docs@bativolt.com) pour contribuer avec une image éducative.
+An example of a correct installation of a residual current circuit breaker. Contact [docs@bativolt.com](mailto:docs@bativolt.com) to contribute an educational image.
 
 :::
 
 ---
 
-## 6. Conséquences d'une Absence de Protection par Disjoncteur Différentiel
+## 6. Consequences of Not Using Residual Current Circuit Breakers
 
-### 6.1. Risques d'Électrocution
+### 6.1. Risk of Electrocution
 
-Les circuits non protégés augmentent les risques d’électrocution, notamment dans les zones à risque. En cas de défaut d’isolement, l’absence de disjoncteur différentiel empêche la coupure de courant, ce qui met en danger les utilisateurs.
+Unprotected circuits increase the risk of electrocution, especially in high-risk areas. In the event of insulation failure, the absence of a residual current circuit breaker prevents the power from being cut, putting users in danger.
 
 :::danger
-**Avertissement de sécurité :** Un disjoncteur différentiel de 30mA peut sauver des vies en cas de fuite de courant. Assurez-vous que votre installation est correctement protégée !
+**Safety Warning:** A 30mA residual current circuit breaker can save lives by detecting current leaks. Ensure your installation is properly protected!
 :::
 
 ---
 
-### 6.2. Risques d'Incendie
+### 6.2. Risk of Fire
 
-Les circuits non protégés sont également plus sujets aux courts-circuits, qui peuvent provoquer des incendies. Le disjoncteur différentiel limite ce risque en détectant et en interrompant les fuites de courant.
+Unprotected circuits are also more prone to short circuits, which can lead to fires. The residual current circuit breaker reduces this risk by detecting and interrupting current leaks.
 
-> **Conseil de sécurité :** Les circuits non protégés exposés à l'humidité sont particulièrement vulnérables aux courts-circuits. Assurez-vous qu’ils sont couverts par un disjoncteur de 30mA.
+> **Safety Tip:** Unprotected circuits exposed to moisture are particularly vulnerable to short circuits. Make sure they are covered by a 30mA circuit breaker.
 
 ---
 
-## 7. Procédures de Test et Vérification
+## 7. Testing and Verification Procedures
 
-### 7.1. Test Mensuel Recommandé
+### 7.1. Recommended Monthly Test
 
-Il est recommandé de tester le disjoncteur différentiel de 30mA au moins une fois par mois en utilisant le bouton de test intégré. Si le disjoncteur ne réagit pas, il peut nécessiter un entretien ou un remplacement.
+It is advised to test the 30mA residual current circuit breaker at least once a month using the integrated test button. If the circuit breaker does not respond, it may require maintenance or replacement.
 
-### 7.2. Vérification Professionnelle
+### 7.2. Professional Verification
 
-Faire appel à un professionnel pour une vérification annuelle permet d'assurer le bon fonctionnement des disjoncteurs et de prévenir toute défaillance potentielle.
+Hiring a professional for an annual check ensures that the circuit breakers are functioning correctly and helps prevent potential failures.
 
-| **Action**                 | **Fréquence**      | **Conseils**                                      |
-|----------------------------|--------------------|---------------------------------------------------|
-| Test manuel du disjoncteur | Mensuel           | Appuyer sur le bouton de test pour vérification   |
-| Vérification par électricien| Annuel           | Assure la conformité et la sécurité de l'installation|
+| **Action**                | **Frequency**       | **Tips**                                       |
+|---------------------------|---------------------|------------------------------------------------|
+| Manual test of the circuit breaker | Monthly            | Press the test button for verification         |
+| Professional check        | Annual             | Ensures compliance and installation safety     |
 
 ---
 
 ## Conclusion
 
-Les disjoncteurs différentiels de 30mA sont essentiels pour la sécurité des circuits électriques. Ils protègent les utilisateurs contre les chocs électriques en détectant les fuites de courant. Avec les nouvelles réglementations RGIE de 2023, il est indispensable de veiller à la conformité de toutes les installations et de procéder aux tests réguliers pour garantir leur bon fonctionnement. Assurez-vous de consulter un professionnel en cas de doute et de respecter les normes de sécurité pour une installation sûre et conforme.
+30mA residual current circuit breakers are essential for electrical circuit safety. They protect users against electric shocks by detecting current leaks. With the new RGIE regulations of 2023, it is crucial to ensure all installations are compliant and perform regular tests to guarantee proper functioning. Be sure to consult a professional if in doubt and adhere to safety standards for a secure and compliant installation.
 
 :::tip
-**Ensemble, garantissons la sécurité électrique !** Vérifiez vos disjoncteurs régulièrement et consultez un professionnel pour les installations et les entretiens.
+**Let’s Ensure Electrical Safety Together!** Regularly check your circuit breakers and consult a professional for installations and maintenance.
 :::
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

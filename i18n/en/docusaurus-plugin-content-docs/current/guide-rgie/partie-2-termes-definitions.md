@@ -1,602 +1,602 @@
 ---
-title: Partie 2 - Termes et Définitions
-sidebar_label: 2. Termes et Définitions
-description: Guide des termes et définitions essentiels pour comprendre les installations électriques en Belgique. Assurez-vous de la conformité avec le vocabulaire et les schémas de mise à la terre du RGIE.
+title: Part 2 - Terms and Definitions
+sidebar_label: 2. Terms and Definitions
+description: Guide to essential terms and definitions for understanding electrical installations in Belgium. Ensure compliance with vocabulary and earthing diagrams according to the Belgian Electrical Regulations.
 ---
 
-# Partie 2 - Termes et Définitions
+# Part 2 - Terms and Definitions
 
-## CHAPITRE 2.1. INTRODUCTION
+## CHAPTER 2.1. INTRODUCTION
 
-Dans le domaine des installations électriques, maîtriser les **termes et définitions** est crucial pour éviter les erreurs d’interprétation lors de la conception, de l’installation et de l’entretien. Ce chapitre établit un vocabulaire commun pour tous les acteurs, facilitant ainsi la compréhension des normes et prescriptions.
+In the field of electrical installations, mastering the **terms and definitions** is crucial to avoid misinterpretation during the design, installation, and maintenance processes. This chapter establishes a common vocabulary for all stakeholders, facilitating a clear understanding of standards and requirements.
 
-:::tip Pourquoi un vocabulaire commun ?
-Un langage technique clair réduit les risques d’erreurs, de malentendus et assure une meilleure communication entre les différents intervenants (électriciens, inspecteurs, propriétaires).
+:::tip Why a common vocabulary?
+Clear technical language reduces the risk of errors, misunderstandings, and ensures better communication between different parties (electricians, inspectors, property owners).
 :::
 
 ---
 
-## CHAPITRE 2.2. CARACTÉRISTIQUES DES INSTALLATIONS
+## CHAPTER 2.2. INSTALLATION CHARACTERISTICS
 
-Les **caractéristiques des installations électriques** incluent les matériaux, les types de schémas de mise à la terre et les grandeurs électriques. Une compréhension précise de ces termes est essentielle pour garantir la sécurité et la conformité des installations.
+The **characteristics of electrical installations** include materials, types of earthing systems, and electrical parameters. A precise understanding of these terms is essential to guarantee the safety and compliance of installations.
 
-### Section 2.2.1. Caractéristiques générales
+### Section 2.2.1. General Characteristics
 
-Cette section couvre les termes techniques de base et les schémas essentiels de mise à la terre.
+This section covers the basic technical terms and essential earthing diagrams.
 
-#### Sous-section 2.2.1.1. Termes généraux
+#### Subsection 2.2.1.1. General Terms
 
-La terminologie utilisée dans les installations électriques est primordiale pour une compréhension homogène des prescriptions du RGIE. Voici les termes principaux, y compris les mises à jour récentes du RGIE, pour différencier les installations domestiques des non-domestiques.
+The terminology used in electrical installations is critical for a consistent understanding of the requirements of the Belgian Electrical Regulations. Here are the main terms, including recent updates, to differentiate between domestic and non-domestic installations.
 
-| Terme                       | Description                                                                                                 |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Installation domestique**     | Installation dans une habitation privée, à usage privatif, non utilisée pour des activités d'entreprise. |
-| **Installation non-domestique** | Parties communes d'immeubles résidentiels, locaux techniques, installations à usage commercial.          |
+| Term                       | Description                                                                                                 |
+|----------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Domestic Installation**     | Installation in a private dwelling, used for personal purposes, not utilized for business activities.     |
+| **Non-Domestic Installation** | Common areas of residential buildings, technical rooms, installations for commercial use.                 |
 
-:::info Exemples Pratiques
-- **Installation domestique** : Une maison individuelle ou un appartement pour usage privé.
-- **Installation non-domestique** : Parties communes d’un immeuble résidentiel (couloirs, halls) ou locaux commerciaux.
+:::info Practical Examples
+- **Domestic Installation**: A single-family house or apartment for private use.
+- **Non-Domestic Installation**: Common areas of a residential building (hallways, lobbies) or commercial premises.
 :::
 
-> **Illustration de référence** : Une illustration dans le RGIE présente les distinctions entre installations domestiques et non-domestiques. Par exemple, un appartement est une installation domestique, tandis que les parties communes d’un immeuble sont classées comme non-domestiques.
+> **Reference Illustration**: An illustration in the Belgian Electrical Regulations shows the differences between domestic and non-domestic installations. For example, an apartment is a domestic installation, while common areas of a building are classified as non-domestic.
 
-**Note** : Une erreur fréquente dans cette section est de classifier incorrectement les installations. Les professionnels doivent veiller à respecter la catégorisation appropriée pour éviter des non-conformités et des sanctions.
+**Note**: A common error in this section is to incorrectly classify installations. Professionals must ensure proper categorization to avoid non-compliance and penalties.
 
-#### Sous-section 2.2.1.2. Schémas de mise à la terre
+#### Subsection 2.2.1.2. Earthing Diagrams
 
-La **mise à la terre** est essentielle pour canaliser les courants de fuite et prévenir les chocs électriques. Voici un aperçu des schémas courants :
+**Earthing** is essential to channel leakage currents and prevent electric shocks. Below is an overview of common earthing systems:
 
-| Schéma              | Description                                                                                     | Usage courant          |
-|---------------------|-------------------------------------------------------------------------------------------------|-------------------------|
-| **TT (Terre-Terre)** | Chaque installation a sa propre prise de terre indépendante.                                    | Résidentiel, domestique |
-| **TN (Terre-Neutre)** | Neutre du réseau relié directement à la terre.                                                  | Industriel, commercial  |
-| **IT (Isolation-Terre)** | Réseau isolé par rapport à la terre avec une mise à la terre indirecte.                      | Environnements sensibles (ex. hôpitaux) |
+| Diagram            | Description                                                                                     | Common Usage           |
+|--------------------|-------------------------------------------------------------------------------------------------|------------------------|
+| **TT (Earth-Earth)** | Each installation has its own independent earth electrode.                                     | Residential, domestic  |
+| **TN (Earth-Neutral)** | Network neutral directly connected to earth.                                                 | Industrial, commercial |
+| **IT (Insulated-Earth)** | Network isolated from earth with indirect earthing.                                        | Sensitive environments (e.g., hospitals) |
 
-:::info Importance de la Mise à la Terre
-Une bonne mise à la terre protège les occupants contre les risques électriques et permet d’évacuer les surcharges vers la terre. Chaque schéma a ses avantages et est choisi en fonction de l’usage et des contraintes de sécurité.
-:::
-
----
-
-### b. Descriptions des schémas de mise à la terre
-
-Les variantes de mise à la terre suivantes sont détaillées dans le RGIE, chacune ayant des applications spécifiques :
-
-- **Schéma TN-S** : Séparation complète du neutre et de la protection, idéal pour des installations modernes.
-- **Schéma TN-C-S** : Combinaison du neutre et de la protection dans une partie du circuit, puis séparation, offrant une flexibilité pour des environnements divers.
-- **Schéma TT** : Système avec prise de terre indépendante pour chaque installation, courant dans les habitations.
-- **Schéma IT** : Isolation de l'alimentation par rapport à la terre, adapté aux environnements sensibles comme les hôpitaux.
-
-#### b.1. Les variantes du schéma TN
-
-Le schéma **TN** relie un point de l'alimentation (souvent le neutre) à la terre. Trois variantes existent :
-
-- **Schéma TN-S** : Séparation entre le conducteur neutre (N) et le conducteur de protection (PE) sur toute l’installation. Cela minimise les risques de perturbations électriques.
-- **Schéma TN-C** : Le neutre et la protection sont combinés dans un seul conducteur (PEN), couramment utilisé dans les anciennes installations.
-- **Schéma TN-C-S** : Combinaison des deux systèmes pour une meilleure adaptation dans les infrastructures modernes.
-
-:::warning Attention !
-Les schémas TN-C peuvent présenter des risques supplémentaires dans des installations modernes, car ils n’offrent pas une séparation complète entre le neutre et la protection.
-:::
-
-#### b.2. Le schéma TT
-
-Le schéma **TT** diffère du TN en ayant une prise de terre indépendante pour chaque installation, offrant une sécurité accrue dans les environnements résidentiels.
-
-- **Avantage** : Chaque installation a une protection indépendante contre les défauts.
-- **Limite** : Demande une prise de terre spécifique pour chaque installation.
-
-#### b.3. Le schéma IT
-
-Dans le schéma **IT**, l’alimentation est isolée de la terre, ce qui réduit les risques de courts-circuits dans des environnements sensibles.
-
-- **Usage courant** : Hôpitaux, laboratoires, environnements nécessitant une haute continuité de service.
-- **Particularité** : En cas de défaut, les installations continuent de fonctionner, offrant un temps de réaction supplémentaire pour les interventions.
-
----
-
-### Section 2.2.2. Grandeurs et unités
-
-Les grandeurs et unités sont fondamentales pour dimensionner correctement les câbles, choisir la puissance des disjoncteurs, et vérifier la capacité des installations. Elles permettent d’assurer sécurité et performance dans chaque installation.
-
-:::tip Rappel
-Les grandeurs de base et avancées sont cruciales pour les calculs de sécurité et la bonne gestion de la consommation électrique.
-:::
-
-#### Grandeurs de base
-
-| Grandeur   | Symbole | Unité  | Description                                                       |
-|------------|---------|--------|-------------------------------------------------------------------|
-| Tension    | V       | Volt   | Différence de potentiel électrique                                |
-| Intensité  | I       | Ampère | Quantité de courant dans un circuit                               |
-| Résistance | R       | Ohm    | Opposition au passage du courant                                  |
-| Puissance  | P       | Watt   | Quantité d'énergie transférée par unité de temps                  |
-
-#### Grandeurs avancées
-
-Ces grandeurs sont essentielles pour l’analyse des composants dans les installations et incluent des concepts tels que la valeur nominale et l’intégrale de Joule.
-
-| Terme                   | Description                                                                                              | Formule / Unité                                     | Exemple pratique                                                                                          |
-|-------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| **Valeur nominale**     | Indique les capacités d'un matériel électrique.                                                          | V (tension), A (courant), etc.                      | Par exemple, un disjoncteur de 16 A pour un circuit d'éclairage.                                           |
-| **Valeur assignée**     | Valeur déterminée par le fabricant pour un usage optimal du matériel.                                    | Spécifiée par le constructeur                       | Un moteur assigné à une tension de 230 V pour des performances maximales.                                  |
-| **Valeur efficace**     | Racine carrée de la moyenne des carrés d'une grandeur sur une période.                                   | Ex. Veff pour la tension                            | Exprime l’équivalent en courant continu d’un courant alternatif.                                           |
-| **Taux d’ondulation**   | Rapport entre la composante périodique et la composante continue d’une alimentation.                     | Valeur RMS / Valeur continue                        | Mesure la stabilité d’une alimentation : un taux faible indique une plus grande stabilité.                 |
-| **Énergie dissipée**    | Énergie dissipée par un courant dans une résistance sur un intervalle de temps.                         | Intensité au carré x temps                          | Utilisée pour calculer l’énergie dissipée dans les dispositifs de protection thermique.                    |
-
----
-
-### Section 2.2.3. Installations diverses
-
-Les installations diverses couvrent des configurations spécifiques aux différents environnements.
-
-| Type d'installation   | Caractéristiques                               | Exemples d'équipements               |
-|-----------------------|-----------------------------------------------|--------------------------------------|
-| Résidentielle         | Basse tension, sécurité renforcée             | Éclairage, prises, électroménagers   |
-| Industrielle          | Haute puissance, besoin de protections accrues | Machines industrielles, compresseurs |
-| Sécurité              | Très basse tension, alimentation sécurisée     | Systèmes d’alarme, caméras, détecteurs de fumée |
-
-:::info Image d'Exemple 📸
-
-Une photo illustrative sera ajoutée ici prochainement. Si vous souhaitez contribuer, envoyez une photo à [docs@bativolt.com](mailto:docs@bativolt.com). Ensemble, enrichissons l’expérience éducative de Bativolt !
-
+:::info Importance of Earthing
+Proper earthing protects occupants from electrical hazards and helps to safely dissipate overloads to the ground. Each earthing system has its advantages and is chosen based on the application and safety requirements.
 :::
 
 ---
 
-## CHAPITRE 2.3. TENSIONS
+### b. Descriptions of Earthing Systems
 
-### Section 2.3.1. Termes généraux
+The following earthing variants are detailed in the Belgian Electrical Regulations, each with specific applications:
 
-Les tensions électriques représentent la différence de potentiel entre deux points d’un circuit. Chaque niveau impose des normes de sécurité spécifiques pour éviter les risques de non-conformité.
+- **TN-S System**: Full separation of the neutral and protective conductors, ideal for modern installations.
+- **TN-C-S System**: Combination of neutral and protective conductors in part of the circuit, then separation, offering flexibility for diverse environments.
+- **TT System**: Independent earthing for each installation, commonly used in residential properties.
+- **IT System**: Insulated supply from earth, suitable for sensitive environments like hospitals.
 
-:::warning Importance de la Tension
-Une mauvaise classification des tensions entraîne des risques d’accidents, il est donc crucial de bien comprendre chaque domaine de tension.
+#### b.1. TN System Variants
+
+The **TN system** connects a point of the supply (often the neutral) to earth. There are three variants:
+
+- **TN-S System**: Separation between the neutral conductor (N) and the protective conductor (PE) throughout the installation. This minimizes the risk of electrical interference.
+- **TN-C System**: The neutral and protective functions are combined in a single conductor (PEN), often found in older installations.
+- **TN-C-S System**: A combination of both systems, providing better adaptation in modern infrastructures.
+
+:::warning Warning!
+TN-C systems can present additional risks in modern installations, as they do not offer complete separation between neutral and protection.
 :::
 
-#### Classification des tensions
+#### b.2. TT System
 
-1. **Très basse tension (TBT)** : 
-   - **Description** : < 50 V en AC ou < 120 V en DC.
-   - **Applications typiques** : Systèmes de sécurité, éclairage extérieur, équipements d’espaces publics (aires de jeux, appareils portatifs).
-   - **Avantages et contraintes** : Offre une sécurité maximale mais limitée en puissance.
+The **TT system** differs from TN by having an independent earth electrode for each installation, providing enhanced safety in residential environments.
 
-2. **Basse tension (BT)** :
-   - **Description** : Entre 50 V et 1 000 V en AC ; idéale pour les habitations.
-   - **Applications typiques** : Prises électriques, appareils ménagers, éclairage.
-   - **Avantages et contraintes** : Adaptée à la plupart des équipements domestiques et industriels légers avec protection basique.
+- **Advantage**: Each installation has independent protection against faults.
+- **Limitation**: Requires a specific earth electrode for each installation.
 
-3. **Haute tension (HT)** :
-   - **Description** : > 1 000 V en AC, utilisée pour les installations industrielles.
-   - **Applications typiques** : Lignes de distribution, moteurs de grande puissance.
-   - **Avantages et contraintes** : Transport d’énergie sur de longues distances, nécessitant des mesures de sécurité avancées.
+#### b.3. IT System
 
-| Terme               | Description                                           | Utilisation courante                           |
-|---------------------|-------------------------------------------------------|------------------------------------------------|
-| Basse tension (BT)  | Tension < 1 000 V AC / 1 500 V DC                     | Résidentiel, industriel léger                  |
-| Très basse tension (TBT) | Tension < 50 V AC / 120 V DC                  | Éclairage extérieur, sécurité                  |
-| Haute tension (HT)  | Tension > 1 000 V AC / 1 500 V DC                     | Industriel, transport d’énergie, distribution  |
+In the **IT system**, the supply is isolated from earth, reducing the risk of short circuits in sensitive environments.
+
+- **Common Usage**: Hospitals, laboratories, environments requiring high service continuity.
+- **Feature**: In the event of a fault, installations continue to operate, allowing additional time for intervention.
 
 ---
 
-### Section 2.3.2. Domaines de tensions en courant alternatif
+### Section 2.2.2. Quantities and Units
 
-Les domaines de tension en courant alternatif (AC) sont classifiés pour des applications variées, selon des niveaux de sécurité stricts. Les spécifications pour chaque domaine sont détaillées dans le **tableau 2.1, page 15**.
+Quantities and units are fundamental for properly sizing cables, selecting the power of circuit breakers, and verifying the capacity of installations. They help ensure safety and performance in every installation.
 
-| Domaine de tension | Niveau de tension (AC)              | Exemples d’utilisation                                  | Référence au tableau |
-|--------------------|-------------------------------------|--------------------------------------------------------|-----------------------|
-| Très basse tension (TBT) | < 50 V                             | Éclairage extérieur, systèmes de sécurité               | Voir tableau 2.1, page 15 |
-| Basse tension (BT) | 50 V - 1 000 V                      | Résidentiel, commercial (éclairage, prises, appareils)  | Voir tableau 2.1, page 15 |
-| Haute tension (HT) | > 1 000 V                           | Distribution d’énergie, applications industrielles      | Voir tableau 2.1, page 15 |
+:::tip Reminder
+Basic and advanced quantities are crucial for safety calculations and effective management of electrical consumption.
+:::
 
-> **Explication du tableau 2.1** : 
-> - **Très basse tension (TBT)** : Utilisée pour des dispositifs de faible consommation d’énergie comme l’éclairage extérieur.
-> - **Basse tension (BT)** : Domaine courant dans les habitations, utilisé pour les prises et appareils domestiques.
-> - **Haute tension (HT)** : Réservée aux applications industrielles exigeant des protections avancées.
+#### Basic Quantities
 
----
+| Quantity   | Symbol | Unit  | Description                                                       |
+|------------|--------|-------|-------------------------------------------------------------------|
+| Voltage    | V      | Volt  | Electrical potential difference                                   |
+| Current    | I      | Ampere| Amount of current in a circuit                                    |
+| Resistance | R      | Ohm   | Opposition to the flow of current                                 |
+| Power      | P      | Watt  | Amount of energy transferred per unit of time                     |
 
-### Section 2.3.3. Domaines de tensions en courant continu
+#### Advanced Quantities
 
-Les domaines de tension en courant continu (DC) suivent également des classifications pour la sécurité des installations. Les spécifications pour chaque domaine sont décrites dans le **tableau 2.2, page 15**.
+These quantities are essential for component analysis in installations and include concepts such as nominal value and Joule integral.
 
-| Domaine de tension | Niveau de tension (DC)              | Exemples d’utilisation                                  | Référence au tableau |
-|--------------------|-------------------------------------|--------------------------------------------------------|-----------------------|
-| Très basse tension (TBT) | < 120 V                             | Télécommunications, éclairage, sécurité                 | Voir tableau 2.2, page 15 |
-| Basse tension (BT) | 120 V - 1 500 V                     | Systèmes solaires, équipements résidentiels             | Voir tableau 2.2, page 15 |
-| Haute tension (HT) | > 1 500 V                           | Transport d’énergie, applications industrielles         | Voir tableau 2.2, page 15 |
-
-> **Explication du tableau 2.2** : 
-> - **Très basse tension (TBT)** : Adaptée aux télécommunications et équipements de sécurité.
-> - **Basse tension (BT)** : Utilisée pour les installations de panneaux solaires et appareils résidentiels.
-> - **Haute tension (HT)** : Conçue pour le transport d’énergie, elle exige des protections renforcées.
+| Term                   | Description                                                                                              | Formula / Unit                                      | Practical Example                                                                                          |
+|------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Nominal Value**      | Indicates the capacity of electrical equipment.                                                         | V (voltage), A (current), etc.                      | For example, a 16 A circuit breaker for a lighting circuit.                                                |
+| **Rated Value**        | Value specified by the manufacturer for optimal equipment use.                                           | Specified by the manufacturer                       | A motor rated at 230 V for maximum performance.                                                            |
+| **Effective Value**    | Root mean square (RMS) of a quantity over a period.                                                      | Ex. RMS Voltage (Veff)                              | Represents the direct current equivalent of an alternating current.                                        |
+| **Ripple Factor**      | Ratio of the periodic component to the direct component of a power supply.                               | RMS Value / DC Value                                | Measures the stability of a power supply: a lower factor indicates greater stability.                      |
+| **Dissipated Energy**  | Energy dissipated by a current in a resistor over a time interval.                                       | Current squared × time                              | Used to calculate the dissipated energy in thermal protection devices.                                      |
 
 ---
 
-# CHAPITRE 2.4. PROTECTION CONTRE LES CHOCS ÉLECTRIQUES
+### Section 2.2.3. Various Installations
 
-La **protection contre les chocs électriques** est primordiale dans toute installation électrique pour garantir la sécurité des utilisateurs et éviter les infractions graves. Ce chapitre décrit les termes essentiels, les types d'isolation, et la classification des équipements pour une protection optimale.
+Various installations cover specific configurations adapted to different environments.
 
-### Section 2.4.1. Termes Généraux
+| Type of Installation  | Characteristics                              | Example Equipment                      |
+|-----------------------|-----------------------------------------------|----------------------------------------|
+| Residential           | Low voltage, enhanced safety                 | Lighting, sockets, household appliances|
+| Industrial            | High power, need for increased protection    | Industrial machines, compressors       |
+| Safety                | Very low voltage, secure power supply        | Alarm systems, cameras, smoke detectors|
 
-La sécurité électrique repose sur des concepts fondamentaux pour prévenir les **chocs électriques**. Cette section couvre les définitions et les notions clés, telles que les **contacts directs et indirects** et les caractéristiques des conducteurs dans un circuit.
+:::info Example Image 📸
 
-:::tip Pourquoi c'est important ?
-Les chocs électriques peuvent être mortels ou causer des blessures graves. Comprendre les concepts de base est essentiel pour toute personne impliquée dans la gestion des installations électriques.
+An illustrative photo will be added here soon. If you would like to contribute, please send a photo to [docs@bativolt.com](mailto:docs@bativolt.com). Let’s enhance the educational experience of Bativolt together!
+
 :::
 
 ---
 
-#### Définitions des Termes Clés
+## CHAPTER 2.3. VOLTAGES
 
-1. **Choc électrique** : 
-   - **Définition** : Réaction physiologique au passage d’un courant électrique dans le corps humain. La gravité varie en fonction de l'intensité, la durée, et le trajet du courant.
-   - **Importance** : Prévenir les situations à risque est essentiel pour assurer la sécurité dans toutes les installations.
+### Section 2.3.1. General Terms
 
-2. **Contacts directs et indirects** :
-   - **Contact direct** : Occurs when a person touches live parts like conductors, posing an immediate shock hazard.
-   - **Contact indirect** : Happens when a person touches exposed metal parts accidentally energized due to insulation failure.
+Electrical voltages represent the potential difference between two points in a circuit. Each level imposes specific safety standards to prevent risks of non-compliance.
 
-3. **Courant de choc** : 
-   - **Définition** : Courant traversant le corps humain lors d'un choc, potentiellement dangereux et pouvant causer la mort.
+:::warning Importance of Voltage
+Incorrect voltage classification can lead to accidents, so it is crucial to fully understand each voltage range.
+:::
 
-4. **Conducteurs dans un circuit** :
-   - **Conducteur actif** : Conduit le courant, incluant le neutre en courant alternatif.
-   - **Conducteur neutre** : Relié au point neutre, peut aussi jouer un rôle de protection.
-   - **Conducteur PEN** : Combine les fonctions de neutre et de protection dans un seul conducteur.
+#### Voltage Classification
+
+1. **Very Low Voltage (VLV)**:
+   - **Description**: < 50 V AC or < 120 V DC.
+   - **Typical Applications**: Safety systems, outdoor lighting, equipment in public spaces (playgrounds, portable devices).
+   - **Advantages and Constraints**: Offers maximum safety but is limited in power.
+
+2. **Low Voltage (LV)**:
+   - **Description**: Between 50 V and 1,000 V AC; ideal for residential use.
+   - **Typical Applications**: Electrical sockets, household appliances, lighting.
+   - **Advantages and Constraints**: Suitable for most domestic and light industrial equipment with basic protection.
+
+3. **High Voltage (HV)**:
+   - **Description**: > 1,000 V AC, used for industrial installations.
+   - **Typical Applications**: Power distribution lines, high-power motors.
+   - **Advantages and Constraints**: Allows energy transmission over long distances, requiring advanced safety measures.
+
+| Term                 | Description                                           | Common Use                                  |
+|----------------------|-------------------------------------------------------|---------------------------------------------|
+| Low Voltage (LV)     | Voltage < 1,000 V AC / 1,500 V DC                     | Residential, light industrial               |
+| Very Low Voltage (VLV)| Voltage < 50 V AC / 120 V DC                         | Outdoor lighting, safety systems            |
+| High Voltage (HV)    | Voltage > 1,000 V AC / 1,500 V DC                     | Industrial, energy transmission, distribution|
 
 ---
 
-#### Parties et Pièces dans une Installation Électrique
+### Section 2.3.2. Voltage Ranges in Alternating Current
 
-1. **Parties actives** : 
-   - **Définition** : Composants ou conducteurs sous tension pendant le fonctionnement normal. Le conducteur PEN, bien qu’il transporte de l’énergie, n’est pas classé comme partie active.
-   
-2. **Parties simultanément accessibles** : 
-   - Composants ou conducteurs nus qui peuvent être touchés simultanément. La **distance minimale** entre eux est définie par :
+Voltage ranges in alternating current (AC) are classified for various applications, based on strict safety standards. Specifications for each range are detailed in **Table 2.1, page 15**.
+
+| Voltage Range     | Voltage Level (AC)                | Typical Usage                                       | Reference to Table |
+|-------------------|----------------------------------|----------------------------------------------------|--------------------|
+| Very Low Voltage (VLV)| < 50 V                          | Outdoor lighting, safety systems                    | See Table 2.1, page 15 |
+| Low Voltage (LV)  | 50 V - 1,000 V                    | Residential, commercial (lighting, sockets, appliances)| See Table 2.1, page 15 |
+| High Voltage (HV) | > 1,000 V                         | Energy distribution, industrial applications        | See Table 2.1, page 15 |
+
+> **Explanation of Table 2.1**:
+> - **Very Low Voltage (VLV)**: Used for low-energy devices like outdoor lighting.
+> - **Low Voltage (LV)**: Common in homes, used for electrical sockets and household appliances.
+> - **High Voltage (HV)**: Reserved for industrial applications requiring advanced protection.
+
+---
+
+### Section 2.3.3. Direct Current Voltage Ranges
+
+Direct current (DC) voltage ranges also follow classifications for installation safety. The specifications for each range are detailed in **Table 2.2, page 15**.
+
+| Voltage Range     | Voltage Level (DC)                | Typical Usage                                       | Reference to Table |
+|-------------------|----------------------------------|----------------------------------------------------|--------------------|
+| Very Low Voltage (VLV)| < 120 V                          | Telecommunications, lighting, security systems      | See Table 2.2, page 15 |
+| Low Voltage (LV)  | 120 V - 1,500 V                    | Solar systems, residential equipment                | See Table 2.2, page 15 |
+| High Voltage (HV) | > 1,500 V                          | Energy transmission, industrial applications        | See Table 2.2, page 15 |
+
+> **Explanation of Table 2.2**:
+> - **Very Low Voltage (VLV)**: Suitable for telecommunications and safety equipment.
+> - **Low Voltage (LV)**: Used for solar panel installations and residential devices.
+> - **High Voltage (HV)**: Designed for energy transmission, requiring enhanced protection measures.
+
+---
+
+# CHAPTER 2.4. PROTECTION AGAINST ELECTRIC SHOCKS
+
+**Protection against electric shocks** is essential in any electrical installation to ensure user safety and prevent severe violations. This chapter outlines key terms, types of insulation, and equipment classification for optimal protection.
+
+### Section 2.4.1. General Terms
+
+Electrical safety relies on fundamental concepts to prevent **electric shocks**. This section covers definitions and key notions, such as **direct and indirect contacts** and the characteristics of conductors in a circuit.
+
+:::tip Why is this important?
+Electric shocks can be fatal or cause serious injuries. Understanding the basic concepts is crucial for anyone involved in managing electrical installations.
+:::
+
+---
+
+#### Key Term Definitions
+
+1. **Electric Shock**:
+   - **Definition**: Physiological reaction to the flow of electric current through the human body. Severity varies based on intensity, duration, and current path.
+   - **Importance**: Preventing hazardous situations is essential to ensure safety in all installations.
+
+2. **Direct and Indirect Contacts**:
+   - **Direct Contact**: Occurs when a person touches live parts like conductors, posing an immediate shock hazard.
+   - **Indirect Contact**: Happens when a person touches exposed metal parts accidentally energized due to insulation failure.
+
+3. **Shock Current**:
+   - **Definition**: Current flowing through the human body during an electric shock, potentially hazardous and life-threatening.
+
+4. **Circuit Conductors**:
+   - **Active Conductor**: Carries current, including the neutral in alternating current.
+   - **Neutral Conductor**: Connected to the neutral point, can also play a protective role.
+   - **PEN Conductor**: Combines the functions of both neutral and protective conductor in a single wire.
+
+---
+
+#### Parts and Components in an Electrical Installation
+
+1. **Live Parts**:
+   - **Definition**: Components or conductors that are energized during normal operation. Although the PEN conductor carries energy, it is not classified as a live part.
+
+2. **Simultaneously Accessible Parts**:
+   - Bare components or conductors that can be touched simultaneously. The **minimum distance** between them is defined by:
    \[
-   d = 2,50 + 0,01 \times (UN - 20)
+   d = 2.50 + 0.01 \times (UN - 20)
    \]
-   avec un minimum de 2,5 m, où \( UN \) est la tension nominale en kV.
+   with a minimum of 2.5 m, where \( UN \) is the nominal voltage in kV.
 
-#### Tensions Limites Conventionnelles et Courbes de Sécurité
+#### Conventional Voltage Limits and Safety Curves
 
-Les tensions limites sont des valeurs de sécurité strictement définies pour éviter les chocs. Le RGIE propose :
+The voltage limits are strictly defined safety values to prevent electric shocks. The Belgian Electrical Regulations provide:
 
-- **Tableau 2.3, page 19** : Tensions limites absolues (UL) selon l’état d'humidité de la peau.
-- **Tableau 2.4, page 19** : Tensions limites relatives (UL(t)) pour différentes durées d'exposition.
+- **Table 2.3, page 19**: Absolute voltage limits (UL) depending on the skin moisture condition.
+- **Table 2.4, page 19**: Relative voltage limits (UL(t)) for different exposure durations.
 
-| Code    | État du corps humain                         | UL en V (AC) | UL en V (DC) |
-|---------|---------------------------------------------|--------------|--------------|
-| BB1     | Peau sèche ou légèrement humide             | 50           | 120          |
-| BB2     | Peau mouillée                               | 25           | 60           |
-| BB3     | Peau immergée dans l'eau                    | 12           | 30           |
+| Code    | Condition of Human Body                   | UL in V (AC) | UL in V (DC) |
+|---------|-------------------------------------------|--------------|--------------|
+| BB1     | Dry or slightly moist skin                | 50           | 120          |
+| BB2     | Wet skin                                  | 25           | 60           |
+| BB3     | Skin immersed in water                    | 12           | 30           |
 
-**Tension relative (UL(t))** : Varie avec le temps d'exposition. Les **courbes de sécurité** du RGIE définissent ces valeurs, limitant les risques selon la durée.
+**Relative Voltage (UL(t))**: Varies with exposure time. The **safety curves** in the Belgian Electrical Regulations define these values, minimizing risks based on duration.
 
 ---
 
-### Section 2.4.2. Isolations
+### Section 2.4.2. Insulations
 
-L’isolation est une barrière cruciale contre les chocs électriques. Elle évite le contact direct avec les parties sous tension et utilise des matériaux non conducteurs pour protéger les utilisateurs.
+Insulation is a crucial barrier against electric shocks. It prevents direct contact with live parts by using non-conductive materials to protect users.
 
-| Type d'isolation         | Description                                                                                     | Usage typique                                |
-|--------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Isolation de base        | Protection minimale pour câbles et appareils standards                                         | Équipements domestiques, câblage             |
-| Double isolation         | Protection en deux couches, évitant la nécessité de mise à la terre                            | Appareils portatifs, Classe II               |
-| Isolation renforcée      | Protection accrue pour une sécurité optimale, souvent utilisée dans des environnements sensibles | Environnements industriels, zones humides    |
+| Type of Insulation       | Description                                                                                  | Typical Usage                              |
+|--------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------|
+| Basic Insulation         | Minimum protection for standard cables and equipment                                         | Domestic appliances, wiring                |
+| Double Insulation        | Two layers of protection, eliminating the need for earthing                                  | Portable devices, Class II equipment       |
+| Reinforced Insulation    | Enhanced protection for optimal safety, often used in sensitive environments                 | Industrial settings, wet areas             |
 
-:::warning Attention aux infractions !
-Une isolation inadéquate pour l'environnement (ex. absence de double isolation en milieu humide) constitue une infraction. Remplacez le matériel non conforme pour éviter des sanctions.
+:::warning Watch out for Violations!
+Inadequate insulation for the environment (e.g., absence of double insulation in wet conditions) constitutes a violation. Replace non-compliant materials to avoid penalties.
 :::
 
 ---
 
-### Section 2.4.3. Classification des Matériels Concernant la Protection contre les Chocs Électriques
+### Section 2.4.3. Classification of Equipment for Protection Against Electric Shocks
 
-Les matériels sont classés selon leur isolation et les protections contre les chocs qu’ils offrent. Cela détermine les mesures de sécurité requises pour chaque type de matériel :
+Equipment is classified based on its insulation and the protection it offers against electric shocks. This determines the required safety measures for each type of equipment:
 
-1. **Classe I** : 
-   - **Caractéristiques** : Matériel avec isolation de base nécessitant une mise à la terre pour la protection en cas de défaut.
-   - **Usage** : Appareils fixes comme les machines à laver et les radiateurs.
-   
-2. **Classe II** : 
-   - **Caractéristiques** : Matériel avec double isolation ou isolation renforcée, ne nécessitant pas de mise à la terre.
-   - **Usage** : Outils portables, équipements électroménagers.
+1. **Class I**:
+   - **Characteristics**: Equipment with basic insulation that requires earthing for protection in case of a fault.
+   - **Usage**: Fixed appliances like washing machines and heaters.
 
-3. **Classe III** : 
-   - **Caractéristiques** : Fonctionne en **très basse tension de sécurité (TBTS)**, minimisant le risque de choc.
-   - **Usage** : Jouets, éclairages basse tension, équipements électroniques.
+2. **Class II**:
+   - **Characteristics**: Equipment with double or reinforced insulation, not requiring earthing.
+   - **Usage**: Portable tools, household appliances.
 
-| Classe                  | Description                                                                                     | Exemples d’utilisation                        |
+3. **Class III**:
+   - **Characteristics**: Operates at **extra-low safety voltage (SELV)**, minimizing the risk of electric shock.
+   - **Usage**: Toys, low-voltage lighting, electronic devices.
+
+| Class                   | Description                                                                                     | Example Usage                                |
 |-------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Classe I                | Nécessite une mise à la terre ; isolation de base avec protection en cas de défaut              | Chauffage, gros électroménagers              |
-| Classe II               | Double isolation, sans besoin de mise à la terre                                                | Outillage portatif, petits électroménagers   |
-| Classe III              | Fonctionne en TBTS, réduit les risques de choc                                                  | Jouets, lampes basse tension                 |
+| Class I                 | Requires earthing; basic insulation with fault protection                                      | Heaters, large household appliances          |
+| Class II                | Double insulation, no need for earthing                                                        | Portable tools, small household appliances   |
+| Class III               | Operates at SELV, reduces shock risk                                                           | Toys, low-voltage lamps                      |
 
-:::tip Bonnes pratiques pour chaque classe
-- **Classe I** : Toujours vérifier la mise à la terre pour éviter les risques de défaut.
-- **Classe II** : Assurez-vous que la double isolation est intacte pour éviter toute défaillance.
-- **Classe III** : Vérifiez régulièrement les câbles et les connecteurs pour garantir une sécurité maximale en très basse tension.
+:::tip Best Practices for Each Class
+- **Class I**: Always check the earthing connection to prevent fault risks.
+- **Class II**: Ensure the double insulation is intact to avoid failures.
+- **Class III**: Regularly inspect cables and connectors to guarantee maximum safety in extra-low voltage conditions.
 :::
 
-**Infractions fréquentes** : L'usage incorrect des classes, par exemple l’absence de mise à la terre pour un appareil de Classe I, est une source fréquente de non-conformité. Assurez-vous que chaque appareil respecte les normes de sa classification pour garantir la sécurité des utilisateurs et éviter des sanctions.
+**Common Violations**: Misuse of equipment classes, such as lack of earthing for Class I appliances, is a frequent source of non-compliance. Ensure each device meets its classification standards to guarantee user safety and avoid penalties.
 
 ---
 
-### Volume d’Accessibilité au Toucher
+### Touch Accessibility Volume
 
-Le **volume d’accessibilité au toucher** est la zone dans laquelle une personne peut potentiellement toucher une partie sous tension. Ces volumes sont définis pour minimiser le risque de contact accidentel, et sont illustrés dans le RGIE :
+The **touch accessibility volume** defines the area where a person might accidentally touch live parts. These volumes are designed to minimize the risk of accidental contact and are illustrated in the Belgian Electrical Regulations:
 
-- **Figure 2.6, page 17** : Volume accessible avec une surface de circulation limitée.
-- **Figure 2.7, page 17** : Volume limité par un obstacle (ex. : un mur).
-- **Figures 2.8 et 2.9, page 18** : Volumes restreints par des ouvertures pour prévenir les contacts directs.
+- **Figure 2.6, page 17**: Accessible volume with limited circulation area.
+- **Figure 2.7, page 17**: Volume limited by an obstacle (e.g., a wall).
+- **Figures 2.8 and 2.9, page 18**: Restricted volumes with openings to prevent direct contact.
 
-Ces volumes sont calculés pour chaque installation en fonction de la **tension nominale**, définissant ainsi des distances minimales autour des installations électriques.
+These volumes are calculated for each installation based on the **nominal voltage**, defining minimum distances around electrical installations.
 
-> **Info pratique** : Les distances minimales assurent un espace sécurisé autour des installations en limitant le risque de contact. Assurez-vous de respecter ces valeurs dans tous les environnements de travail.
+> **Practical Info**: Minimum distances ensure a safe space around installations, reducing the risk of accidental contact. Make sure to respect these values in all work environments.
 
+# CHAPTER 2.5. EARTHING SYSTEMS
 
-# CHAPITRE 2.5. MISES À LA TERRE
+### Earthing Installation
 
-### Installation de mise à la terre
+An **earthing installation** is crucial for securing electrical installations. It redirects fault currents to the ground, reducing the risk of electric shock in the event of a failure. Here is a detailed explanation of the components shown in **Figure 2.10, pages 22-23**, to help both professionals and non-experts understand each part of this complex configuration.
 
-Une **installation de mise à la terre** est cruciale pour sécuriser les installations électriques. Elle permet de rediriger les courants de défaut vers le sol, minimisant ainsi les risques de choc électrique en cas de défaillance. Voici une explication détaillée des composants visibles dans la **Figure 2.10, pages 22-23**, pour aider les professionnels et les non-initiés à comprendre chaque partie de cette configuration complexe.
+#### Explanation of Earthing Components
 
-#### Explication des Composants de la Mise à la Terre
+1. **Main (1)** and **Supplementary (2) Equipotential Bonding**:
+   Equipotential bonding connects all conductive metal parts in the installation to maintain the same electrical potential. Main equipotential bonding connects key parts of the installation (e.g., metal structures), while supplementary bonding adds local connections to enhance safety in specific areas.
 
-1. **Équipotentielles principales (1)** et **supplémentaires (2)** :  
-   Les liaisons équipotentielles permettent de relier toutes les parties métalliques conductrices de l’installation afin de maintenir le même potentiel électrique. Les équipotentielles principales connectent les parties principales de l’installation (comme les masses métalliques), tandis que les équipotentielles supplémentaires ajoutent des connexions locales pour renforcer la sécurité dans des zones spécifiques.
+2. **Protective Conductor (3)**:
+   This conductor connects metal parts (e.g., machine frames) to the earth electrode. Its role is to direct fault currents to the ground in case of a short circuit, protecting users from electric shocks.
 
-2. **Conducteur de protection (3)** :  
-   Ce conducteur relie les masses métalliques (par exemple, les châssis de machines) à la prise de terre. Son rôle est de guider le courant de défaut vers la terre en cas de court-circuit, protégeant ainsi les utilisateurs contre les chocs électriques.
+3. **Distributor Earth (4)**:
+   An earth connection provided by the electricity distributor, creating a common ground reference for the entire electrical network, enhancing system safety.
 
-3. **Terre du distributeur (4)** :  
-   Connexion fournie par le distributeur d’électricité pour établir une référence de terre commune à l’ensemble du réseau électrique, renforçant ainsi la sécurité du système.
+4. **Main Protective Conductor (5)**:
+   This conductor connects all installation masses to the main earth terminal, ensuring that all equipment linked to the network is protected against insulation failures.
 
-4. **Conducteur principal de protection (5)** :  
-   Ce conducteur relie toutes les masses de l’installation à la borne principale de terre. Il s’assure que tout équipement relié au réseau dispose d’une protection contre les défaillances d’isolation.
+5. **Main Earth Terminal (6)**:
+   The central connection point for all earthing links in the installation. It serves as the primary node connecting the various protective conductors to the earthing network.
 
-5. **Borne principale de terre (6)** :  
-   Point de connexion central pour toutes les liaisons de terre de l’installation. Elle est le nœud principal reliant les différents conducteurs de protection au réseau de mise à la terre.
+6. **Earth Disconnecting Device (7)**:
+   A device that allows the earthing connection to be separated from the system, typically used for testing and maintenance. The disconnecting device can be activated to isolate the earth connection, facilitating earth resistance checks.
 
-6. **Sectionneur de terre (7)** :  
-   Dispositif qui permet de séparer la mise à la terre de l’installation du reste du système, souvent utilisé pour les tests et la maintenance. Le sectionneur de terre peut être activé pour isoler la connexion à la terre, facilitant ainsi les vérifications de la résistance de terre.
+7. **Earth Conductor (8)**:
+   This conductor connects the main earth terminal to the earth electrodes, ensuring an effective link between the installation network and the ground.
 
-7. **Conducteur de terre (8)** :  
-   Ce conducteur relie la borne principale de terre aux électrodes de terre, assurant une liaison efficace entre le réseau de l’installation et la terre.
+8. **User Earth Electrode (9)**:
+   The user’s own earth electrode, typically buried, allows fault currents to dissipate safely into the ground. It must be installed at a sufficient depth (below the frost line) to maintain optimal conductivity.
 
-8. **Prise de terre utilisateur (9)** :  
-   L’électrode de terre ou "prise de terre" propre à l’utilisateur, généralement enterrée, permet la dissipation des courants de défaut dans le sol. Elle doit être installée à une profondeur suffisante (au-delà de la limite de gel) pour maintenir une conductivité optimale.
+9. **Metal Masses (10)**:
+   All non-live metal parts of the installation, such as equipment casings, must be earthed. This ensures that in case of a fault, these surfaces do not become dangerously conductive.
 
-9. **Masses métalliques (10)** :  
-   Toutes les parties métalliques non actives de l’installation, comme les carcasses d’équipement, doivent être reliées à la terre. Cela garantit qu’en cas de défaut, ces surfaces ne deviennent pas dangereusement conductrices.
-
-10. **Charpente, chauffage, eau, gaz (11-15)** :  
-    Ces éléments structurels et fonctionnels (comme les canalisations d'eau, de gaz et de chauffage) sont également connectés au réseau de terre. Cela empêche la formation de différences de potentiel dangereuses entre ces éléments et les autres parties conductrices de l'installation, particulièrement important dans les zones humides ou les environnements où les utilisateurs peuvent entrer en contact avec plusieurs surfaces conductrices.
+10. **Structural Elements, Heating, Water, Gas (11-15)**:
+    These structural and functional elements (e.g., water, gas, and heating pipes) are also connected to the earthing network. This prevents hazardous potential differences between these elements and other conductive parts of the installation, especially important in wet environments or areas where users may contact multiple conductive surfaces.
 
 ---
 
-:::tip Rôle des composants de mise à la terre
-Les divers éléments du réseau de mise à la terre travaillent ensemble pour sécuriser l'installation en réduisant les risques de choc électrique. Maintenir ces connexions en bon état est essentiel pour la sécurité des installations.
+:::tip Role of Earthing Components
+The various parts of the earthing network work together to secure the installation by reducing the risk of electric shock. Maintaining these connections in good condition is essential for the safety of electrical installations.
 :::
 
 ---
 
-### Fonctionnement Global
+### Overall Operation
 
-Le schéma de la mise à la terre présenté dans la **Figure 2.10** montre comment les conducteurs et les prises de terre sont interconnectés pour créer un circuit de protection complet. Ce système assure qu'en cas de défaut dans un appareil ou une partie de l’installation, le courant de fuite est dirigé vers la terre, où il peut se dissiper en toute sécurité.
+The earthing diagram presented in **Figure 2.10** shows how conductors and earth electrodes are interconnected to form a complete protective circuit. This system ensures that in the event of a fault in a device or part of the installation, the leakage current is directed to the ground, where it can safely dissipate.
 
-### Importance de la Résistance de Terre
+### Importance of Earth Resistance
 
-La **résistance de terre** (RE) doit être inférieure ou égale à 30 ohms pour garantir une dissipation efficace du courant de défaut. Un RE trop élevé pourrait limiter la capacité de dissipation, augmentant ainsi le risque de choc.
+The **earth resistance** (RE) must be equal to or less than 30 ohms to guarantee effective fault current dissipation. A high RE could limit dissipation capacity, increasing the risk of electric shock.
 
-:::warning Mesures de sécurité
-Assurez-vous de vérifier la résistance de terre lors de l'installation initiale et à intervalles réguliers, notamment dans les environnements où l'humidité et la température peuvent influencer les propriétés du sol.
+:::warning Safety Measures
+Ensure to check earth resistance during initial installation and at regular intervals, especially in environments where humidity and temperature can affect soil properties.
 :::
 
-### Termes et Composants Clés de la Mise à la Terre
+### Key Terms and Components of Earthing
 
-- **Terre** : Le sol ou une matière conductrice utilisée pour dissiper les courants de défaut.
-- **Électrode de terre** : Élément conducteur enfoui qui assure une bonne liaison avec la terre.
-  - **Infraction courante** : Installation peu profonde ou dans un sol inadapté.
-  - **Solution** : Enterrer l’électrode sous la limite de gel (60 cm) et assurer une **résistance de terre (RE) ≤ 30 ohms**.
+- **Earth**: The ground or a conductive material used to dissipate fault currents.
+- **Earth Electrode**: A buried conductive element that ensures a good connection with the earth.
+  - **Common Violation**: Shallow installation or placement in unsuitable soil.
+  - **Solution**: Bury the electrode below the frost line (60 cm) and ensure an **earth resistance (RE) ≤ 30 ohms**.
 
-:::warning Attention aux mesures de mise à la terre
-Une résistance de terre excessive peut poser un risque. Assurez-vous de choisir un emplacement adéquat pour les électrodes.
+:::warning Earthing Measurement Caution
+Excessive earth resistance can be a risk. Ensure to select an appropriate location for the electrodes.
 :::
 
-- **Prise de terre auxiliaire et Sonde** :
-  - **Prise de terre auxiliaire** : Utilisée pour mesurer la résistance de dispersion.
-  - **Sonde** : Placée dans la zone neutre pour une mesure précise.
-  - **Infraction** : Absence de prise auxiliaire lors des tests.
-  - **Solution** : Utiliser des prises auxiliaires et sondes pour des mesures fiables.
+- **Auxiliary Earth and Probe**:
+  - **Auxiliary Earth**: Used to measure the dispersion resistance.
+  - **Probe**: Placed in the neutral zone for precise measurement.
+  - **Violation**: Lack of auxiliary earth during testing.
+  - **Solution**: Use auxiliary earths and probes for reliable measurements.
 
 ---
 
-### Conducteurs de Protection et de Terre
+### Protective and Earth Conductors
 
-| Type de Conducteur                  | Description                                                               | Infraction courante                                          | Solution                                               |
-|-------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------|
-| **Conducteur de protection**        | Relie les masses métalliques à la prise de terre                          | Absence de conducteur de protection                           | Assurer une connexion continue des masses au système de terre. |
-| **Conducteur principal de protection** | Connecte les masses et éléments conducteurs étrangers à la borne de terre | Connexion incomplète ou absente                               | Relier les masses et éléments conducteurs pour éviter les écarts de potentiel. |
-| **Conducteur de terre**             | Relie la borne principale de terre à la prise de terre                    | Conducteur non conforme ou mal raccordé                       | Vérifier le dimensionnement et la continuité du conducteur.    |
+| Type of Conductor                  | Description                                                               | Common Violation                                          | Solution                                               |
+|------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------|
+| **Protective Conductor**           | Connects metal masses to the earth electrode                              | Absence of protective conductor                           | Ensure continuous connection of metal masses to the earthing system. |
+| **Main Protective Conductor**      | Connects metal masses and foreign conductive parts to the earth terminal  | Incomplete or missing connection                          | Link metal masses and conductive parts to prevent potential differences. |
+| **Earth Conductor**                | Connects the main earth terminal to the earth electrode                   | Non-compliant or poorly connected conductor               | Verify the sizing and continuity of the conductor.      |
 
 ---
 
-### Zones de Protection, Liaison et Résistance de Terre
+### Protection Zones, Bonding, and Earth Resistance
 
-- **Zone équipotentielle et Liaison équipotentielle** :
-  - Espace sans différence de potentiel dangereuse, maintenu grâce aux liaisons.
-  - **Infraction courante** : Absence de liaison équipotentielle.
-  - **Solution** : Installer des liaisons pour maintenir les masses au même potentiel.
+- **Equipotential Zone and Bonding**:
+  - An area without dangerous potential differences, maintained through bonding.
+  - **Common Violation**: Missing equipotential bonding.
+  - **Solution**: Install bonding connections to keep metal masses at the same potential.
 
-:::tip Astuce de sécurité
-Les zones équipotentielles minimisent les risques d'écart de potentiel dangereux. Une bonne liaison est donc cruciale.
+:::tip Safety Tip
+Equipotential zones minimize the risk of dangerous potential differences. Proper bonding is crucial.
 :::
 
-- **Zone neutre** : Partie de la terre sans influence d’une prise de terre.
-  - **Infraction courante** : Prises de terre trop proches, compromettant la sécurité.
-  - **Solution** : Positionner les prises de terre à une distance suffisante.
+- **Neutral Zone**: Part of the ground unaffected by an earth electrode.
+  - **Common Violation**: Earth electrodes placed too close together, compromising safety.
+  - **Solution**: Position earth electrodes at a sufficient distance apart.
 
-| Mesure                          | Description                                                             |
-|---------------------------------|-------------------------------------------------------------------------|
-| **Résistance de terre (RE)**    | Doit être ≤ 30 ohms pour une bonne dissipation des courants            |
-| **Impédance de terre (ZE)**     | Mesure de la résistance globale entre la terre et l’installation       |
-| **Impédance de boucle de terre (ZEB)** | Mesure du circuit entre la prise de terre et les chemins de retour |
-
----
-
-# CHAPITRE 2.6. CIRCUITS ÉLECTRIQUES
-
-Les **circuits électriques** constituent le cœur des installations, reliant les appareils à la source d’alimentation. Bien comprendre les composants, la conception et les dispositifs de protection est crucial pour une installation sûre et conforme.
+| Measurement                         | Description                                                             |
+|------------------------------------|-------------------------------------------------------------------------|
+| **Earth Resistance (RE)**          | Must be ≤ 30 ohms for effective fault current dissipation               |
+| **Earth Impedance (ZE)**           | Measures the overall resistance between the earth and the installation  |
+| **Earth Loop Impedance (ZEB)**     | Measures the circuit between the earth electrode and return paths       |
 
 ---
 
-### Section 2.6.1. Termes Généraux
+# CHAPTER 2.6. ELECTRICAL CIRCUITS
 
-Les différents types de circuits et leurs fonctions assurent un fonctionnement sécurisé et adapté aux besoins de l'installation.
+**Electrical circuits** are the core of installations, connecting devices to the power source. Understanding the components, design, and protection devices is essential for a safe and compliant installation.
 
-- **Circuit élémentaire** : 
-  - **Définition** : Partie d’une installation située entre deux dispositifs de protection successifs contre les surintensités.
-  - **Exemple** : Circuit d’éclairage domestique avec un disjoncteur de protection.
+---
 
-- **Circuit exclusivement dédié** :
-  - **Définition** : Circuit alimentant uniquement un ou plusieurs appareils pour un usage spécifique.
-  - **Exemple** : Circuit pour le four et le réfrigérateur en cuisine pour éviter les surcharges.
+### Section 2.6.1. General Terms
 
-- **Circuit** :
-  - **Définition** : Ensemble de plusieurs circuits élémentaires interconnectés reliés à un tableau électrique principal.
-  
-- **Origine du circuit** :
-  - **Définition** : Point d’entrée de la canalisation dans l’installation ou lieu de changement de section ou constitution.
-  - **Exemple** : Tableau principal d’un appartement, d’où partent les circuits pour les différentes pièces.
+The various types of circuits and their functions ensure safe operation tailored to the needs of the installation.
 
-:::info Circuit de sécurité
-Les circuits de sécurité, reliés à une source de secours, garantissent le fonctionnement des équipements essentiels en cas de coupure de courant.
+- **Basic Circuit**:
+  - **Definition**: Part of an installation between two successive overcurrent protection devices.
+  - **Example**: Domestic lighting circuit with a protective circuit breaker.
+
+- **Dedicated Circuit**:
+  - **Definition**: Circuit supplying only one or several devices for a specific use.
+  - **Example**: Circuit for the oven and refrigerator in the kitchen to prevent overloading.
+
+- **Circuit**:
+  - **Definition**: A collection of several interconnected basic circuits linked to a main electrical panel.
+
+- **Circuit Origin**:
+  - **Definition**: The point where the wiring enters the installation or where there is a change in section or constitution.
+  - **Example**: Main panel of an apartment, where circuits branch out to different rooms.
+
+:::info Safety Circuit
+Safety circuits, connected to a backup power source, ensure the operation of essential equipment during a power outage.
 :::
 
-- **Circuit critique** :
-  - **Définition** : Circuit connecté à la source principale ou de secours pour les équipements critiques.
-  - **Exemple** : Circuits dans les data centers pour les systèmes informatiques sensibles.
+- **Critical Circuit**:
+  - **Definition**: Circuit connected to the main or backup source for critical equipment.
+  - **Example**: Circuits in data centers for sensitive IT systems.
 
 ---
 
-### Infractions Courantes et Solutions pour les Circuits Électriques
+### Common Violations and Solutions for Electrical Circuits
 
-| Infraction courante                                                                                 | Solution                                                                                             |
-|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Non-utilisation de circuits dédiés pour des appareils à forte puissance                             | Installer des circuits exclusivement dédiés pour les équipements énergivores, tels que les fours.    |
-| Absence de circuits de sécurité pour les équipements critiques dans les établissements publics      | Prévoir des circuits de sécurité reliés à des sources de secours pour garantir la continuité.       |
+| Common Violation                                                                                 | Solution                                                                                             |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Lack of dedicated circuits for high-power appliances                                             | Install dedicated circuits for high-energy devices, such as ovens.                                    |
+| Absence of safety circuits for critical equipment in public establishments                       | Provide safety circuits connected to backup power sources to ensure continuity.                       |
 
-**Bonnes pratiques pour les circuits :**
-- **Sécuriser les circuits critiques** en utilisant des dispositifs de protection supplémentaires.
-- **Vérifier la continuité des conducteurs** pour éviter les interruptions qui peuvent causer des dysfonctionnements ou des risques.
-
-
-### Section 2.6.2. Courants
-
-Cette section explique les différents types de courants, essentiels pour dimensionner correctement les circuits et assurer la sécurité des installations électriques. Les caractéristiques de chaque type de courant déterminent les choix en matière de câblage, de protection et de conformité aux normes.
+**Best Practices for Circuits:**
+- **Secure critical circuits** using additional protection devices.
+- **Verify the continuity of conductors** to avoid disruptions that could cause malfunctions or risks.
 
 ---
 
-- **Courant périodique** :  
-  Courant qui se reproduit identiquement à intervalles de temps réguliers, appelés périodes.
-  - **Exemple pratique** : Le courant alternatif utilisé dans les réseaux domestiques est périodique avec une fréquence de 50 Hz en Europe, se répétant toutes les 20 millisecondes.
+### Section 2.6.2. Currents
 
-- **Courant alternatif (AC)** :  
-  Courant périodique dont la moyenne est nulle, signifiant qu'il change de signe à chaque période.
-  - **Exemple pratique** : L’alimentation de la majorité des appareils domestiques, comme les prises murales, utilise du courant alternatif, permettant une transmission efficace sur de longues distances.
-  :::tip Application du courant AC
-  Le courant alternatif est privilégié pour les réseaux de distribution car il permet d’augmenter ou de réduire la tension avec des transformateurs, minimisant les pertes lors du transport de l’énergie.
+This section explains the different types of currents, essential for properly sizing circuits and ensuring the safety of electrical installations. The characteristics of each type of current determine the choices for wiring, protection, and compliance with standards.
+
+---
+
+- **Periodic Current**:  
+  A current that repeats identically at regular time intervals, called periods.
+  - **Practical Example**: The alternating current used in domestic networks is periodic with a frequency of 50 Hz in Europe, repeating every 20 milliseconds.
+
+- **Alternating Current (AC)**:  
+  A periodic current with an average value of zero, meaning it changes direction every period.
+  - **Practical Example**: The power supply for most household appliances, such as wall sockets, uses alternating current, allowing efficient transmission over long distances.
+  :::tip Application of AC
+  Alternating current is preferred for distribution networks because it allows voltage to be increased or decreased with transformers, minimizing energy losses during transmission.
   :::
 
-- **Courant continu (DC)** :  
-  Courant qui conserve la même direction, souvent utilisé dans les circuits nécessitant une alimentation stable.
-  - **Exemple pratique** : Les batteries et les panneaux solaires produisent du courant continu, adapté pour les équipements électroniques et les véhicules électriques.
+- **Direct Current (DC)**:  
+  A current that maintains the same direction, often used in circuits requiring a stable power supply.
+  - **Practical Example**: Batteries and solar panels produce direct current, suitable for electronic devices and electric vehicles.
 
-- **Courant nominal** :  
-  Valeur conventionnelle du courant pour laquelle un dispositif de protection est conçu (par exemple, un disjoncteur). Cette valeur doit être ajustée en fonction des besoins de l’installation.
-  - **Infraction courante** : Utiliser un disjoncteur avec un courant nominal trop élevé par rapport au circuit peut compromettre la sécurité.
-  - **Solution** : Respecter les recommandations des fabricants pour chaque circuit spécifique.
+- **Nominal Current**:  
+  The conventional current value for which a protective device is designed (e.g., a circuit breaker). This value should be adjusted according to the installation’s needs.
+  - **Common Violation**: Using a circuit breaker with a nominal current too high for the circuit may compromise safety.
+  - **Solution**: Follow manufacturer recommendations for each specific circuit.
 
-- **Courant admissible d’un conducteur** :  
-  Valeur maximale de courant qu’un conducteur peut supporter sans que sa température dépasse une limite de sécurité.
-  - **Exemple pratique** : Un câble de 2,5 mm² en cuivre peut généralement supporter un courant de 16 A dans des conditions normales.
-  :::warning Risque de surchauffe
-  Le dépassement du courant admissible peut entraîner une surchauffe du conducteur, provoquant des risques d'incendie. Assurez-vous que les câbles sont dimensionnés correctement pour chaque circuit.
+- **Permissible Current of a Conductor**:  
+  The maximum current a conductor can carry without exceeding a safe temperature limit.
+  - **Practical Example**: A 2.5 mm² copper cable can typically carry a current of 16 A under normal conditions.
+  :::warning Overheating Risk
+  Exceeding the permissible current may cause the conductor to overheat, leading to fire hazards. Ensure cables are properly sized for each circuit.
   :::
 
-- **Courant d’emploi d’un circuit** :  
-  Courant utilisé pour déterminer les caractéristiques du circuit en tenant compte des conditions d’utilisation.
-  - **Exemple pratique** : Les circuits en cuisine doivent supporter des courants d’emploi élevés pour des appareils comme les fours et les plaques de cuisson.
+- **Operating Current of a Circuit**:  
+  The current used to determine the circuit characteristics, considering usage conditions.
+  - **Practical Example**: Kitchen circuits must handle high operating currents for appliances like ovens and cooktops.
 
-- **Surintensité** :  
-  Courant excédant le courant nominal ou le courant admissible d’un conducteur.
-  - **Exemple pratique** : Un appareil de 10 A branché sur un circuit de 8 A entraînera une surintensité, risquant de déclencher le disjoncteur.
+- **Overcurrent**:  
+  A current exceeding the nominal or permissible current of a conductor.
+  - **Practical Example**: A 10 A device plugged into an 8 A circuit will cause an overcurrent, potentially tripping the circuit breaker.
 
-- **Court-circuit** :  
-  Défaut provoquant un passage de courant important entre deux points de potentiel différent, entraînant une surintensité rapide.
-  - **Infraction courante** : Absence de protection adéquate contre les courts-circuits peut causer des surchauffes dangereuses.
-  - **Solution** : Installer des disjoncteurs adaptés pour couper instantanément en cas de court-circuit.
+- **Short Circuit**:  
+  A fault causing a significant current flow between two points of different potential, resulting in a rapid overcurrent.
+  - **Common Violation**: Lack of adequate protection against short circuits can lead to dangerous overheating.
+  - **Solution**: Install appropriate circuit breakers that can instantly trip in case of a short circuit.
 
-- **Courant différentiel résiduel** :  
-  Somme des valeurs instantanées des courants dans un circuit. S'il est non nul, cela indique une fuite de courant potentiellement dangereuse vers la terre.
-  - **Exemple pratique** : Les dispositifs différentiels détectent ces courants résiduels pour prévenir les fuites qui peuvent provoquer des chocs électriques.
-  :::danger Protection différentielle
-  Les disjoncteurs différentiels de 30 mA sont essentiels pour protéger contre les fuites dangereuses dans les installations domestiques, offrant une première ligne de défense contre les chocs électriques.
-  :::
-
----
-
-### Section 2.6.3. Transformateurs
-
-Les transformateurs modifient les niveaux de tension en fonction des besoins de l’installation, assurant une sécurité et une adaptation aux circuits spécifiques.
-
-- **Transformateur à enroulements séparés** :  
-  Les enroulements primaire et secondaire sont isolés électriquement, éliminant le risque de contact accidentel.
-  - **Exemple pratique** : Utilisé pour alimenter des équipements médicaux pour protéger contre les décharges accidentelles.
-
-- **Transformateur de séparation des circuits** :  
-  Sépare les enroulements pour assurer une isolation renforcée entre les circuits.
-  - **Utilisation courante** : Utilisé dans les salles d'opération et les environnements à haute sécurité pour minimiser les risques de choc électrique.
-
-- **Transformateur de sécurité** :  
-  Alimentant des circuits à très basse tension (TBTS), il assure une alimentation sécurisée pour les utilisateurs.
-  - **Exemple pratique** : Employé pour l’éclairage extérieur des jardins ou les circuits de salles de bains.
-  - **Infraction courante** : Omission du transformateur de sécurité dans des environnements humides, exposant les utilisateurs à des risques de choc.
-  - **Solution** : Installer un transformateur de sécurité pour les circuits à risque d’exposition à l’eau.
-  :::tip Sécurité renforcée avec TBTS
-  Le TBTS garantit une sécurité maximale dans des environnements sensibles. Les transformateurs de sécurité sont incontournables pour les installations près de l'eau, où un contact accidentel est possible.
+- **Residual Differential Current**:  
+  The sum of the instantaneous values of currents in a circuit. If non-zero, it indicates a potentially dangerous current leakage to earth.
+  - **Practical Example**: Differential devices detect residual currents to prevent leaks that could cause electric shocks.
+  :::danger Differential Protection
+  30 mA differential circuit breakers are essential for protecting against dangerous leaks in domestic installations, providing a first line of defense against electric shocks.
   :::
 
 ---
 
-### Section 2.6.4. Caractéristiques des dispositifs de protection
+### Section 2.6.3. Transformers
 
-Les dispositifs de protection sont essentiels pour couper les circuits lors de courants indésirables, protégeant ainsi les installations et les utilisateurs contre les dangers électriques.
+Transformers modify voltage levels based on installation requirements, ensuring safety and adaptation to specific circuits.
 
-#### Courant différentiel résiduel de fonctionnement
-La valeur de courant différentiel résiduel déclenche le dispositif pour protéger l’installation.
-- **Exemple pratique** : Les dispositifs de 30 mA protègent les prises domestiques contre les chocs électriques.
+- **Transformer with Separate Windings**:  
+  The primary and secondary windings are electrically isolated, eliminating the risk of accidental contact.
+  - **Practical Example**: Used to power medical equipment to protect against accidental discharges.
 
-#### Courant conventionnel de fonctionnement
-Le courant auquel un dispositif de protection doit se déclencher dans un délai spécifique.
-- **Exemple** : Un disjoncteur de 16 A doit couper si le courant dépasse cette valeur pour éviter la surcharge du circuit.
+- **Isolation Transformer**:  
+  Separates the windings to ensure reinforced isolation between circuits.
+  - **Common Use**: Employed in operating rooms and high-security environments to minimize the risk of electric shock.
 
-#### Pouvoir de coupure
-Capacité du dispositif à interrompre un courant de court-circuit sans danger pour l’installation.
-- **Exemple pratique** : Les disjoncteurs résidentiels ont un pouvoir de coupure de 6 kA, suffisant pour les besoins domestiques.
+- **Safety Transformer**:  
+  Supplies circuits with extra-low voltage (SELV), providing a secure power supply for users.
+  - **Practical Example**: Used for outdoor garden lighting or bathroom circuits.
+  - **Common Violation**: Failing to install a safety transformer in wet environments exposes users to shock risks.
+  - **Solution**: Install a safety transformer for circuits at risk of water exposure.
+  :::tip Enhanced Safety with SELV
+  SELV ensures maximum safety in sensitive environments. Safety transformers are essential for installations near water, where accidental contact is possible.
+  :::
 
-#### Courant conventionnel de non-fonctionnement
-Courant que le dispositif peut supporter sur une longue durée sans déclencher.
-- **Exemple** : Un disjoncteur de 16 A peut fonctionner en sécurité juste en dessous de cette limite, même sur une période prolongée.
+---
 
-#### Intégrale de Joule
-Quantifie l’énergie dissipée par le dispositif de protection pendant son déclenchement.
-- **Exemple pratique** : Essentiel pour vérifier que les dispositifs résistent aux conditions de court-circuit sans dommages internes.
-  :::info Intégrale de Joule
-  L’intégrale de Joule mesure la résistance des disjoncteurs et fusibles face aux surcharges prolongées, garantissant qu’ils restent fonctionnels après un court-circuit.
+### Section 2.6.4. Characteristics of Protective Devices
+
+Protective devices are essential for interrupting circuits during unwanted currents, protecting installations and users from electrical hazards.
+
+#### Residual Differential Operating Current
+The value of residual differential current that triggers the device to protect the installation.
+- **Practical Example**: 30 mA devices protect household sockets against electric shocks.
+
+#### Conventional Operating Current
+The current at which a protective device must trip within a specific timeframe.
+- **Example**: A 16 A circuit breaker must trip if the current exceeds this value to prevent circuit overload.
+
+#### Breaking Capacity
+The ability of the device to safely interrupt a short-circuit current without damaging the installation.
+- **Practical Example**: Residential circuit breakers have a breaking capacity of 6 kA, sufficient for domestic needs.
+
+#### Conventional Non-Tripping Current
+The current that the device can withstand for an extended period without tripping.
+- **Example**: A 16 A circuit breaker can safely operate just below this limit, even for prolonged periods.
+
+#### Joule Integral
+Quantifies the energy dissipated by the protective device during tripping.
+- **Practical Example**: Essential for ensuring that devices can withstand short-circuit conditions without internal damage.
+  :::info Joule Integral
+  The Joule integral measures the endurance of circuit breakers and fuses against prolonged overloads, ensuring they remain functional after a short circuit.
   :::
 
 #### Courant d’intersection

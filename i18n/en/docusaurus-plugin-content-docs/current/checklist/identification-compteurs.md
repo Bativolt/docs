@@ -1,100 +1,100 @@
 ---
-title: "Identification du Compteur - Guide de Conformité RGIE"
-sidebar_label: Identification du Compteur
-description: "Apprenez comment identifier correctement le compteur électrique, son rôle essentiel dans la gestion de la consommation et la conformité RGIE. Guide pour les particuliers et les professionnels."
+title: "Meter Identification - Compliance Guide for Belgian Electrical Regulations"
+sidebar_label: Meter Identification
+description: "Learn how to correctly identify the electrical meter, its essential role in consumption management, and compliance with Belgian Electrical Regulations. Guide for homeowners and professionals."
 ---
 
-# Identification du Compteur
+# Meter Identification
 
-Une identification correcte du compteur électrique est essentielle pour garantir une gestion précise de la consommation d’électricité et assurer la conformité aux normes de sécurité en Belgique. Cette étape permet aux contrôleurs de vérifier les installations et d’évaluer leur conformité avec le **Règlement Général sur les Installations Électriques (RGIE)**.
+Proper identification of the electrical meter is crucial for ensuring accurate energy consumption management and compliance with safety standards in Belgium. This step allows inspectors to verify installations and assess their compliance with the **Belgian Electrical Regulations**.
 
 ---
 
-## 1. Importance de l'Identification du Compteur
+## 1. Importance of Meter Identification
 
-### 1.1. Accès aux Informations Requises
+### 1.1. Access to Required Information
 
-Avant l’arrivée du contrôleur, il est crucial que toutes les informations nécessaires soient facilement accessibles. Ces informations incluent :
+Before the arrival of the inspector, it is essential that all necessary information is easily accessible. This includes:
 
-- **Type de Compteur** : Le contrôleur doit pouvoir identifier rapidement le type de compteur installé, que ce soit un compteur standard, à tarification différenciée, ou intelligent. Chaque type a ses propres spécificités et méthodes de relevé.
-  
-- **Index de Consommation** : Les compteurs affichent souvent des index de consommation pour le jour et la nuit. Cette distinction est cruciale pour les contrats à tarifs différenciés.
+- **Meter Type**: The inspector must be able to quickly identify the type of meter installed, whether it is a standard, dual-rate, or smart meter. Each type has its own specific features and reading methods.
 
-:::tip Exemple  
-Les compteurs à double index permettent de bénéficier de tarifs réduits pendant les heures creuses, offrant des économies significatives pour les foyers consommant majoritairement la nuit.
+- **Consumption Index**: Meters often display consumption indexes for both day and night. This distinction is vital for dual-rate contracts.
+
+:::tip Example  
+Dual-rate meters allow users to benefit from reduced tariffs during off-peak hours, providing significant savings for households that consume primarily at night.
 :::
 
-### 1.2. Éléments à Vérifier sur le Compteur
+### 1.2. Key Elements to Verify on the Meter
 
-Certains éléments clés doivent être vérifiés sur le compteur pour s'assurer de la conformité RGIE :
+Certain key elements must be verified on the meter to ensure compliance with Belgian regulations:
 
-| **Élément**               | **Exigence RGIE**                                           | **Conseils Pratiques** |
-|---------------------------|-------------------------------------------------------------|-------------------------|
-| **Type d'Alimentation**   | Identification monophasée ou triphasée (RGIE Art. 152.4)    | Vérifiez l’adaptation de l’installation selon les besoins en puissance. |
-| **Section des Câbles**    | Respect des normes de section pour éviter surchauffe        | Confirmez que les câbles sont dimensionnés correctement selon le type d’installation. |
+| **Element**              | **Regulatory Requirement**                                    | **Practical Advice**               |
+|--------------------------|----------------------------------------------------------------|------------------------------------|
+| **Power Supply Type**    | Identification of single-phase or three-phase (Art. 152.4)    | Verify that the installation meets the required power needs. |
+| **Cable Section**        | Compliance with cable sizing standards to prevent overheating | Ensure that cables are properly sized according to the installation type. |
 
-:::warning Attention  
-L'utilisation de câbles inappropriés peut entraîner des surchauffes et des risques d’incendie. Vérifiez toujours que la section des câbles respecte les normes en vigueur.
+:::warning Warning  
+Using inappropriate cables can lead to overheating and fire risks. Always verify that the cable section complies with current standards.
 :::
 
 ---
 
-## 2. Types de Compteurs
+## 2. Types of Meters
 
-Les compteurs électriques varient selon leur fonction et leur technologie. Connaître le type de compteur installé aide à gérer efficacement la consommation d’énergie et facilite la maintenance.
+Electrical meters vary based on their function and technology. Knowing the type of meter installed helps in effective energy management and facilitates maintenance.
 
-| **Type de Compteur**             | **Caractéristiques**                                                                 |
-|----------------------------------|--------------------------------------------------------------------------------------|
-| **Compteurs Standards**          | Mesurent la consommation totale sans différenciation jour/nuit.                      |
-| **Compteurs à Tarification Différenciée** | Affichent un index pour les heures pleines et un autre pour les heures creuses, optimisant la facture d’électricité. |
-| **Compteurs Exclusifs Nuit**     | Mesurent uniquement la consommation nocturne, parfait pour les consommateurs de nuit. |
-| **Compteurs Intelligents**       | Relevés à distance, fournissent des données en temps réel et facilitent l’intégration des énergies renouvelables. |
-| **Anciens Compteurs**            | Numéro de compteur visible, souvent avec un **code EAN** pour identifier le fournisseur d’énergie. |
+| **Meter Type**                  | **Characteristics**                                                               |
+|---------------------------------|-----------------------------------------------------------------------------------|
+| **Standard Meters**             | Measure total consumption without day/night differentiation.                      |
+| **Dual-Rate Meters**            | Display separate indexes for peak and off-peak hours, optimizing electricity bills.|
+| **Night-Exclusive Meters**      | Measure only night-time consumption, ideal for night-time energy users.           |
+| **Smart Meters**                | Allow remote readings, provide real-time data, and facilitate renewable energy integration. |
+| **Old Meters**                  | Visible meter number, often with a **EAN code** to identify the energy provider.  |
 
-> **🔑 Code EAN** : Le **code EAN** est un identifiant unique associé à chaque compteur, utilisé pour lier le compteur à un fournisseur d’énergie spécifique.
+> **🔑 EAN Code**: The **EAN code** is a unique identifier associated with each meter, used to link the meter to a specific energy provider.
 
 ---
 
-## 3. Accessibilité du Compteur
+## 3. Meter Accessibility
 
-L’accessibilité au compteur est essentielle, particulièrement dans les immeubles où les compteurs sont souvent regroupés dans des salles communes.
+Accessibility to the meter is essential, particularly in buildings where meters are often grouped in shared utility rooms.
 
-### 3.1. Accessibilité et Visibilité
+### 3.1. Accessibility and Visibility
 
-- **Visibilité pour le Contrôleur** : Le contrôleur doit pouvoir accéder facilement au compteur pour réaliser les vérifications. Toute obstruction, comme des objets devant le compteur, peut ralentir l'inspection.
+- **Visibility for the Inspector**: The inspector must have easy access to the meter for verification. Any obstructions, such as objects placed in front of the meter, can delay the inspection.
 
 :::tip  
-Pour faciliter l’accès, maintenez la zone autour du compteur dégagée en permanence.
+To facilitate access, keep the area around the meter clear at all times.
 :::
 
-- **Problèmes d’Accessibilité en Immeuble** : Dans les immeubles, les compteurs sont souvent regroupés dans une salle spécifique. En l’absence de nom ou d’indication claire, identifier un compteur peut devenir un défi pour les contrôleurs.
+- **Accessibility Issues in Buildings**: In multi-unit buildings, meters are often grouped in a specific room. Without clear labeling or identification, finding the correct meter can be challenging for inspectors.
 
-### 3.2. Exigences Légales d'Accessibilité (RGIE)
+### 3.2. Legal Accessibility Requirements (Belgian Regulations)
 
-Selon les articles **RGIE Art. 123.8** et **124.3**, les compteurs doivent être accessibles en tout temps, surtout dans les immeubles collectifs. Le gestionnaire ou concierge doit pouvoir donner accès 24/7 aux propriétaires, autorités, ou toute personne autorisée.
+According to **Articles 123.8** and **124.3** of the Belgian regulations, meters must be accessible at all times, especially in shared buildings. The property manager or concierge must provide 24/7 access to owners, authorities, or any authorized persons.
 
-> **💼 Conseil pour les Gestionnaires d’Immeuble** : Assurez-vous que la salle des compteurs est étiquetée clairement et que chaque compteur est correctement identifié par appartement ou unité.
-
----
-
-## 4. Conclusion sur l'Identification du Compteur
-
-En résumé, une identification précise et une accessibilité optimale du compteur sont essentielles pour garantir la conformité et la sécurité des installations électriques :
-
-1. **Identification du Type de Compteur** : Connaître le type et les spécificités du compteur permet d’assurer une gestion efficace de l’énergie et une conformité réglementaire.
-2. **Importance du Code EAN** : Ce code unique permet de relier un compteur à un fournisseur, facilitant ainsi la gestion des contrats et des relevés.
-3. **Respect des Normes RGIE** : Assurez-vous que le compteur est facilement accessible et conforme aux exigences légales du RGIE.
-
-Pour plus d’informations, ou si vous avez des questions spécifiques sur la conformité de votre compteur, n’hésitez pas à consulter un **électricien agréé** ou à contacter votre **fournisseur d’énergie**.
-
-**Contactez-nous pour toute question sur l’identification du compteur** : [gc@bativolt.com](mailto:gc@bativolt.com)
+> **💼 Tip for Property Managers**: Ensure that the meter room is clearly labeled and that each meter is properly identified by apartment or unit.
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+## 4. Conclusion on Meter Identification
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+In summary, accurate identification and optimal accessibility of the meter are essential for ensuring compliance and the safety of electrical installations:
+
+1. **Identifying the Meter Type**: Knowing the type and specific features of the meter helps ensure effective energy management and regulatory compliance.
+2. **Importance of the EAN Code**: This unique code links the meter to a provider, simplifying contract management and readings.
+3. **Compliance with Belgian Regulations**: Ensure that the meter is easily accessible and meets the legal requirements outlined in the regulations.
+
+For more information or if you have specific questions about meter compliance, do not hesitate to consult a **licensed electrician** or contact your **energy provider**.
+
+**Contact us for any questions about meter identification**: [gc@bativolt.com](mailto:gc@bativolt.com)
+
+---
+
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
+
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---

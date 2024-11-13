@@ -1,87 +1,87 @@
 ---
-title: "Rapport de Conformité Électrique - RGIE et Sécurité des Installations"
-sidebar_label: Rapport de Conformité
-description: "Comprenez l'importance du rapport de conformité selon le RGIE pour la sécurité des installations électriques en Belgique. Découvrez pourquoi conserver et présenter l'attestation est essentiel pour les inspections et modifications électriques."
+title: "Electrical Compliance Report - Safety and Belgian Electrical Regulations"
+sidebar_label: Compliance Report
+description: "Understand the importance of the compliance report according to Belgian Electrical Regulations for the safety of electrical installations in Belgium. Learn why retaining and presenting the certificate is essential for inspections and electrical modifications."
 ---
 
-# Rapport de Conformité Électrique
+# Electrical Compliance Report
 
-Présenter l'ancienne **attestation de conformité** lors des inspections est essentiel pour garantir un contrôle optimal de l'installation électrique. Ce document, requis par le **Règlement Général sur les Installations Électriques (RGIE)**, atteste que votre installation répond aux normes de sécurité en vigueur, assurant ainsi la protection des occupants et la conformité réglementaire.
+Presenting the previous **compliance certificate** during inspections is crucial for ensuring an optimal review of the electrical installation. This document, required by the **Belgian Electrical Regulations**, certifies that your installation meets current safety standards, ensuring the protection of occupants and regulatory compliance.
 
 ---
 
-## 1. Pourquoi Présenter l'Ancienne Attestation de Conformité ?
+## 1. Why Present the Previous Compliance Certificate?
 
-### 1.1. Un Historique Précieux pour l’Inspection
+### 1.1. A Valuable Historical Record for Inspection
 
-Le rapport de conformité fournit une vue d'ensemble des installations au moment de la dernière inspection, incluant les correctifs effectués et les éléments nécessitant une vérification particulière. Il permet au contrôleur de :
+The compliance report provides an overview of the installation at the time of the last inspection, including corrections made and elements requiring specific attention. It allows the inspector to:
 
-- **Suivre les Correctifs Précédents** : Assurer que les **non-conformités antérieures** ont bien été corrigées.
-- **Évaluer les Modifications et Ajouts** : Faciliter le contrôle de nouvelles installations (ajout d’un circuit, borne de recharge, etc.).
+- **Review Previous Corrections**: Ensure that **previous non-compliances** have been addressed.
+- **Assess Modifications and Additions**: Simplify the inspection of new installations (e.g., added circuit, charging station).
 
-:::tip 💡 Conseil Pratique
-Gardez le rapport de conformité accessible dans un lieu sûr, idéalement près du tableau principal, conformément à l'**article 206.8 du RGIE**. Cela garantit son accès rapide pour tout contrôle ou modification.
+:::tip 💡 Practical Tip
+Keep the compliance report accessible in a secure place, ideally near the main panel, as required by **Article 206.8** of the regulations. This ensures quick access for any inspection or modification.
 :::
 
-### 1.2. Preuve de Conformité et Sécurité des Installations
+### 1.2. Proof of Compliance and Installation Safety
 
-Le rapport de conformité atteste de la sécurité de l'installation lors de la dernière inspection, ce qui est crucial pour :
+The compliance report certifies the safety of the installation during the last inspection, which is vital for:
 
-- **L’Assurance de Sécurité** : Un rapport valide réduit les risques d’infractions et prouve la conformité de votre installation.
-- **Assurances et Litiges** : Certaines assurances exigent un rapport de conformité pour couvrir les sinistres électriques. Un rapport valide peut ainsi faciliter les démarches en cas de problème.
+- **Safety Assurance**: A valid report reduces the risk of violations and demonstrates that your installation is compliant.
+- **Insurance and Legal Matters**: Some insurance providers require a compliance report to cover electrical incidents. A valid report can streamline the claims process in case of an issue.
 
-:::info 🔍 À Savoir
-En Belgique, un rapport de conformité est généralement valable **25 ans** pour les habitations résidentielles conformes, mais des contrôles plus fréquents peuvent être nécessaires en cas de non-conformité ou de modifications majeures.
+:::info 🔍 Good to Know
+In Belgium, a compliance report is generally valid for **25 years** for compliant residential properties, but more frequent inspections may be required in case of non-compliance or major modifications.
 :::
 
 ---
 
-## 2. Examen des Installations et Identification des Non-Conformités
+## 2. Installation Review and Identification of Non-Compliance
 
-Lors des inspections, les contrôleurs consultent le rapport de conformité pour vérifier la conformité de chaque composant de l’installation aux exigences du RGIE. Le tableau suivant présente les éléments clés examinés :
+During inspections, inspectors refer to the compliance report to verify that each component of the installation meets the requirements of the regulations. The table below outlines the key elements inspected:
 
-| **Élément Vérifié**               | **Vérification par le Contrôleur**                                                                                         |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Tableau Électrique**            | Conformité avec le RGIE **Art. 178.3** : protection des circuits, accessibilité et identification claire de chaque circuit. |
-| **Prises et Circuits Protégés**   | Vérification des disjoncteurs et fusibles, présence d'un différentiel adapté pour chaque circuit.                           |
-| **Mise à la Terre**               | Contrôle de la continuité de la mise à la terre selon le RGIE, **Art. 202.7** ; vérification de la sécurité contre les chocs électriques. |
-| **Modifications Récentes**        | Vérification que les ajouts récents (ex. bornes de recharge) respectent les normes RGIE, garantissant une installation sûre et conforme. |
+| **Checked Element**             | **Inspector's Verification**                                                                                                    |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Electrical Panel**            | Compliance with **Article 178.3**: circuit protection, accessibility, and clear identification of each circuit.                  |
+| **Protected Outlets and Circuits** | Verification of circuit breakers and fuses, presence of adequate differential protection for each circuit.                      |
+| **Grounding System**            | Continuity check of the grounding system according to the regulations, **Article 202.7**; verification of protection against electric shocks. |
+| **Recent Modifications**        | Verification that recent additions (e.g., charging stations) meet regulatory standards, ensuring a safe and compliant installation. |
 
-:::caution ⚠️ Attention
-Toute non-conformité relevée lors de l’inspection doit être soigneusement documentée et accompagnée d’un délai de mise en conformité. Un rapport clair facilite les interventions et les suivis, assurant ainsi la sécurité des installations.
+:::caution ⚠️ Caution
+Any non-compliance identified during the inspection must be thoroughly documented, along with a deadline for corrective action. A clear report facilitates interventions and follow-ups, ensuring the safety of the installations.
 :::
 
-### Importance de l’Ancienne Attestation en Cas de Modifications
+### Importance of the Previous Certificate for Modifications
 
-Bien que l’ancienne attestation ne soit pas nécessaire pour un nouveau contrôle complet (l'inspecteur doit revérifier l'intégralité de l'installation), elle peut être précieuse en cas de **modification partielle**. Par exemple, pour des travaux comme l’ajout d’une borne électrique, le rapport permet de vérifier rapidement la **conformité de l'installation de base**, facilitant ainsi l’évaluation de l’impact des nouvelles modifications.
+Although the previous certificate is not required for a complete new inspection (the inspector must recheck the entire installation), it can be valuable in case of **partial modifications**. For example, for work such as adding an electrical charging station, the report allows quick verification of the **compliance of the base installation**, simplifying the evaluation of the impact of new changes.
 
 ---
 
-## 3. Obligation de Conserver le Rapport Près du Tableau Principal
+## 3. Requirement to Keep the Report Near the Main Panel
 
-Selon l'**article 206.8 du RGIE**, le rapport de conformité doit être conservé à proximité immédiate du **tableau principal** de l'installation électrique. Cela assure son accessibilité immédiate pour les contrôleurs, électriciens et autres professionnels autorisés. Voici les bénéfices de cette obligation :
+According to **Article 206.8**, the compliance report must be kept in close proximity to the **main electrical panel**. This ensures immediate accessibility for inspectors, electricians, and other authorized professionals. Here are the benefits of this requirement:
 
-- **Accessibilité en Cas d'Urgence** : En cas d'urgence ou de panne, le rapport de conformité permet une intervention rapide et sécurisée.
-- **Transparence pour les Contrôleurs** : Les inspecteurs peuvent consulter directement les détails de l'installation pour éviter des tests redondants ou des erreurs lors de l’évaluation.
+- **Accessibility in Emergencies**: In case of an emergency or outage, the compliance report allows for quick and safe intervention.
+- **Transparency for Inspectors**: Inspectors can directly review installation details to avoid redundant tests or errors during evaluation.
 
-:::tip 💡 Astuce
-Si vous envisagez des modifications électriques futures, comme la rénovation de circuits ou l'ajout d'équipements, conservez soigneusement le rapport actuel. Il peut servir de référence précieuse pour les électriciens et simplifier les démarches administratives et réglementaires.
+:::tip 💡 Tip
+If you are planning future electrical modifications, such as circuit renovations or adding equipment, carefully retain the current report. It can serve as a valuable reference for electricians and simplify administrative and regulatory procedures.
 :::
 
 ---
 
 ## Conclusion
 
-Le **rapport de conformité** est plus qu'une simple attestation : c'est un document clé pour la sécurité, la transparence et la conformité des installations électriques. Garder ce rapport à jour et accessible est essentiel pour faciliter les inspections et garantir la protection des usagers. 
+The **compliance report** is more than just a certificate: it is a key document for the safety, transparency, and compliance of electrical installations. Keeping this report up to date and accessible is essential for facilitating inspections and ensuring user protection.
 
-Pour approfondir la compréhension des schémas et plans nécessaires à l'établissement du rapport de conformité, consultez notre page dédiée aux [Plans et Schémas Électriques](https://docs.bativolt.com/docs/checklist/plans-schemas-electriques).
+To further understand the required schematics and plans needed for the compliance report, visit our page on [Electrical Schematics and Plans](https://docs.bativolt.com/en/docs/checklist/plans-schemas-electriques).
 
 ---
 
-**Disclaimer :**  
-Les contenus de ce site, docs.bativolt.com, sont fournis par Bativolt, entreprise d'électricité agréée. Destinés à un usage éducatif, ils reposent sur notre interprétation et notre expérience avec le Règlement Général sur les Installations Électriques (RGIE). Bativolt ne peut être tenu responsable d'un mauvais usage ou d'une interprétation erronée du RGIE ou de notre documentation.
+**Disclaimer:**  
+The contents of this site, docs.bativolt.com, are provided by Bativolt, a licensed electrical company. Intended for educational purposes, they are based on our interpretation and experience with the Belgian Electrical Regulations. Bativolt cannot be held responsible for any misuse or misinterpretation of the regulations or our documentation.
 
-**Copyright © {new Date().getFullYear()} Bativolt. Tous droits réservés.**  
-La reproduction, même partielle, du contenu de ce site est interdite sans autorisation préalable.
+**Copyright © {new Date().getFullYear()} Bativolt. All rights reserved.**  
+Reproduction of the content on this site, even partially, is prohibited without prior authorization.
 
 ---
