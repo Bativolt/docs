@@ -56,7 +56,7 @@ To identify an ungrounded outlet, several tools and methods are available:
 
 1. **Basic Test with Outlet Tester**: Plug in the tester. If the lights indicate no grounding, further verification is needed.
 
-2. **Continuity Test with Multimeter**: Set the device to measure resistance. A low reading (<1 ohm) indicates a good ground connection.
+2. **Continuity Test with Multimeter**: Set the device to measure resistance. A low reading (&lt;1 ohm&gt;) indicates a good ground connection.
 
 > **Warning:** An outlet with a grounding pin but no actual ground connection is **non-compliant** and constitutes an RGIE violation. This situation is common in aesthetic renovations where the pin is present but the ground is absent.
 
