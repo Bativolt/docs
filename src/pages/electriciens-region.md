@@ -10,8 +10,8 @@ description: "Trouvez des électriciens agréés près de chez vous en Belgique.
 
 Bienvenue sur **docs.bativolt**, votre plateforme de référence pour trouver des **électriciens agréés en Belgique**. Que vous soyez un **particulier**, un **professionnel de l’immobilier**, un **notaire**, ou encore un **entrepreneur**, nous avons conçu cette page pour faciliter la recherche d'un électricien qualifié près de chez vous. Avec un système de recherche par **code postal** en cours de développement, notre objectif est de vous offrir un moyen rapide et fiable pour localiser les meilleurs électriciens dans votre région, tout en garantissant leur compétence et leur agrément.
 
-:::tips
-💡 **Astuce** : En choisissant un électricien agréé, vous assurez la conformité de votre installation électrique aux normes RGIE, minimisant ainsi les risques d'accidents et d'infractions.
+:::tip 
+En choisissant un électricien agréé, vous assurez la conformité de votre installation électrique aux normes RGIE, minimisant ainsi les risques d'accidents et d'infractions.
 :::
 
 ---

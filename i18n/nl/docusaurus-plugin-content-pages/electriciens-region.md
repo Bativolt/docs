@@ -10,8 +10,8 @@ description: "Zoek erkende elektriciens bij u in de buurt in België. Gebruik on
 
 Welkom op **docs.bativolt**, uw platform voor het vinden van **erkende elektriciens in België**. Of u nu een **particulier**, **vastgoedprofessional**, **notaris** of **ondernemer** bent, deze pagina is ontworpen om u te helpen bij het vinden van een gekwalificeerde elektricien in uw buurt. Met een postcodezoeksysteem in ontwikkeling, bieden wij u een snelle en betrouwbare manier om de beste elektriciens in uw regio te vinden, met garantie van hun expertise en erkenning.
 
-:::tips
-💡 **Tip**: Door te kiezen voor een erkende elektricien, zorgt u ervoor dat uw elektrische installatie voldoet aan de AREI-normen, waardoor de risico's op ongevallen en overtredingen worden geminimaliseerd.
+:::tip
+Door te kiezen voor een erkende elektricien, zorgt u ervoor dat uw elektrische installatie voldoet aan de AREI-normen, waardoor de risico's op ongevallen en overtredingen worden geminimaliseerd.
 :::
 
 ---

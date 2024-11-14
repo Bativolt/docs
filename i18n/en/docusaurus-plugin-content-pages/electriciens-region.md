@@ -10,8 +10,8 @@ description: "Locate certified electricians near you in Belgium. Use our postal 
 
 Welcome to **docs.bativolt**, your go-to platform for finding **certified electricians in Belgium**. Whether you are a **homeowner**, **real estate professional**, **notary**, or **contractor**, this page is designed to help you easily locate a qualified electrician nearby. With a **postal code search** feature in development, we aim to provide a fast and reliable way to connect with top electricians in your area, ensuring their competence and certification.
 
-:::tips
-💡 **Tip**: By choosing a certified electrician, you ensure that your electrical installation complies with the Belgian Electrical Regulations, minimizing the risks of accidents and violations.
+:::tip
+By choosing a certified electrician, you ensure that your electrical installation complies with the Belgian Electrical Regulations, minimizing the risks of accidents and violations.
 :::
 
 ---
@@ -45,11 +45,6 @@ Our future dynamic search feature will allow you to easily find a **qualified el
 | **Example Electrician B** | Namur             | 5000        | [0472 11 11 11](tel:0472111111) | example2@email.com        | [example2.com](https://www.example2.com) | ⭐⭐⭐☆☆ |
 | **Example Electrician C** | Liège             | 4000        | [0472 22 22 22](tel:0472222222) | example3@email.com        | [example3.com](https://www.example3.com) | ⭐⭐⭐⭐☆ |
 
-> **📸 Example Image**
->
-> :::info Example Image 📸
-> A dynamic table illustration will be added here once the feature goes live. If you’d like to contribute a photo, send it to [docs@bativolt.com](mailto:docs@bativolt.com).
-> :::
 
 ---
 
