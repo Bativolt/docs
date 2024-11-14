@@ -1,0 +1,112 @@
+/* src/components/ElectricianSearch.module.css */
+
+/* Le conteneur principal s'adapte aux modes clair et sombre */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem auto;
+    max-width: 850px;
+    padding: 2rem;
+    border-radius: 12px;
+    background-color: var(--ifm-color-content-background);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+/* Titre avec une couleur adaptative */
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    color: var(--ifm-color-primary);
+    text-align: center;
+}
+
+/* Barre de recherche responsive et centrée */
+.searchBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 700px;
+    margin-bottom: 2rem;
+    gap: 20px; /* Ajout de l'écart de 20 pixels entre l'input et le bouton */
+}
+
+/* Champ de recherche stylisé */
+.input {
+    flex: 1;
+    padding: 1rem;
+    font-size: 1.2rem;
+    border: 2px solid var(--ifm-color-primary);
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    background-color: var(--ifm-background-surface);
+    color: var(--ifm-color-text);
+}
+
+.input::placeholder {
+    color: var(--ifm-color-primary);
+    opacity: 0.7;
+}
+
+/* Effet de focus avec une ombre légère */
+.input:focus {
+    border-color: var(--ifm-color-primary-dark);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Bouton stylisé avec une animation */
+.button {
+    padding: 0.8rem 2rem;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: var(--ifm-color-primary);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.button:hover {
+    background-color: var(--ifm-color-primary-dark);
+    transform: scale(1.05);
+}
+
+/* Conteneur pour le logo et le nom de l'entreprise */
+.logoContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+/* Logo de l'électricien avec largeur et hauteur maximales */
+.logo {
+    max-height: 70px;
+    max-width: 100px;
+    width: auto;
+    height: auto;
+    border-radius: 8px;
+    object-fit: contain;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Nom de l'entreprise et informations supplémentaires */
+.companyName {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--ifm-color-primary);
+    align-self: center;
+}
+
+/* Informations de TVA et d'agrément */
+.tvaInfo {
+    margin-left: 20px;
+    font-size: 1rem;
+    color: var(--ifm-color-text);
+    margin-top: 5px;
+}
