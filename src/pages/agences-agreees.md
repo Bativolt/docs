@@ -21,7 +21,9 @@ Les agences agréées couvrent plusieurs domaines spécifiques de la sécurité 
 - **E** : Lignes aériennes à haute tension, sans contrôle par thermographie (Livre 3)
 - **F** : Contrôle par thermographie (Livre 3)
 
-> **💡 Astuce :** Pour des installations dans des zones humides ou avec des exigences de haute sécurité, privilégiez les agences couvrant les domaines **B**, **C**, et **F** pour une expertise adaptée.
+:::info
+💡 **Astuce** : Pour des installations dans des zones humides ou avec des exigences de haute sécurité, privilégiez les agences couvrant les domaines **B**, **C**, et **F** pour une expertise adaptée.
+:::
 
 ## 📜 Liste des Agences Agréées
 

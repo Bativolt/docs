@@ -10,7 +10,9 @@ description: "Locate certified electricians near you in Belgium. Use our postal 
 
 Welcome to **docs.bativolt**, your go-to platform for finding **certified electricians in Belgium**. Whether you are a **homeowner**, **real estate professional**, **notary**, or **contractor**, this page is designed to help you easily locate a qualified electrician nearby. With a **postal code search** feature in development, we aim to provide a fast and reliable way to connect with top electricians in your area, ensuring their competence and certification.
 
-> **💡 Tip:** Choosing a certified electrician guarantees compliance with Belgian electrical regulations, minimizing the risk of accidents and violations.
+:::tips
+💡 **Tip**: By choosing a certified electrician, you ensure that your electrical installation complies with the Belgian Electrical Regulations, minimizing the risks of accidents and violations.
+:::
 
 ---
 

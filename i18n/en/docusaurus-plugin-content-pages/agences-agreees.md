@@ -21,7 +21,9 @@ Certified agencies cover several specific electrical safety domains, indicated b
 - **E**: Overhead high-voltage lines without thermographic inspection (Book 3)
 - **F**: Thermographic inspection (Book 3)
 
-> **💡 Tip:** For installations in wet areas or with high-security requirements, choose agencies covering **B**, **C**, and **F** for specialized expertise.
+:::info
+💡 **Tip**: For installations in wet areas or those requiring high safety standards, choose agencies covering domains **B**, **C**, and **F** for the appropriate expertise.
+:::
 
 ## 📜 List of Certified Agencies
 

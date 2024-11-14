@@ -21,7 +21,10 @@ Erkende agentschappen dekken verschillende specifieke domeinen van elektrische v
 - **E**: Hoogspanningslijnen zonder thermografie-inspectie (Boek 3)
 - **F**: Thermografie-inspectie (Boek 3)
 
-> **💡 Tip:** Voor installaties in vochtige gebieden of met hoge veiligheidsvereisten, kies agentschappen die de domeinen **B**, **C**, en **F** dekken voor gespecialiseerde expertise.
+:::info
+💡 **Tip**: Voor installaties in vochtige gebieden of met hoge veiligheidsvereisten, kies agentschappen die de domeinen **B**, **C**, en **F** dekken voor de juiste expertise.
+:::
+
 
 ## 📜 Lijst van Erkende Agentschappen
 
