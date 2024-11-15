@@ -511,5 +511,41 @@
   },
   "feature.description.ameliorationContinue": {
     "message": "Our platform evolves constantly to meet user needs and adapt to new standards. Enjoy regular updates and new features for comprehensive support."
+  },
+  "search.title": {
+    "message": "Search for an Electrician by Postal Code (Beta Version)"
+  },
+  "search.placeholder": {
+    "message": "Enter postal code..."
+  },
+  "search.button": {
+    "message": "Search"
+  },
+  "search.hint": {
+    "message": "🕵️‍♂️ Enter the postal code of your area and press \"Search\" to find certified electricians serving there."
+  },
+  "search.tva": {
+    "message": "🔍 VAT Number"
+  },
+  "search.registeredSince": {
+    "message": "📅 Registered Since"
+  },
+  "search.serviceArea": {
+    "message": "Service Area"
+  },
+  "search.openingHours": {
+    "message": "Opening Hours"
+  },
+  "search.phone": {
+    "message": "Phone"
+  },
+  "search.email": {
+    "message": "Email"
+  },
+  "search.website": {
+    "message": "Website"
+  },
+  "search.contactUs": {
+    "message": "📩 Contact us now at docs@bativolt.com to be added to our list and become one of the best certified electricians in the area. 🌟"
   }
 }

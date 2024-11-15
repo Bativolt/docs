@@ -5,8 +5,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 2rem auto;
-    max-width: 850px;
+    margin: 0;
+    max-width: 100%; /* Aligner la largeur maximale avec les résultats */
     padding: 2rem;
     border-radius: 12px;
     background-color: var(--ifm-color-content-background);
@@ -31,7 +31,8 @@
     width: 100%;
     max-width: 700px;
     margin-bottom: 2rem;
-    gap: 20px; /* Ajout de l'écart de 20 pixels entre l'input et le bouton */
+    gap: 20px;
+    flex-wrap: wrap; /* Permet à l'input et au bouton de passer à la ligne sur mobile */
 }
 
 /* Champ de recherche stylisé */
@@ -68,6 +69,8 @@
     border-radius: 8px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
+    width: 100%; /* Prend toute la largeur disponible sur mobile */
+    max-width: 200px; /* Limite la taille sur grand écran */
 }
 
 .button:hover {
@@ -79,34 +82,185 @@
 .logoContainer {
     display: flex;
     align-items: center;
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
 }
 
-/* Logo de l'électricien avec largeur et hauteur maximales */
+/* Nom de l'entreprise */
+.companyName {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--ifm-color-primary);
+    word-wrap: break-word;
+    margin: 0;
+    text-align: left;
+}
+
+/* Informations TVA et agréation */
+.tvaInfo {
+    font-size: 0.9rem; /* Taille légèrement réduite pour compacter */
+    margin-top: 2px; /* Réduction de la marge supérieure */
+    line-height: 1; /* Réduction de l'interligne */
+    word-wrap: break-word;
+}
+
+
+/* Logo */
 .logo {
-    max-height: 70px;
+    max-height: 75px;
     max-width: 100px;
     width: auto;
     height: auto;
     border-radius: 8px;
     object-fit: contain;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-
-
-/* Nom de l'entreprise et informations supplémentaires */
-.companyName {
-    margin-left: 20px;
-    font-size: 1.5rem;
-    font-weight: bold;
+/* Indication sous la barre de recherche */
+.searchHint {
+    font-size: 1.1rem;
     color: var(--ifm-color-primary);
-    align-self: center;
+    text-align: center;
+    margin-bottom: 1.5rem;
 }
 
-/* Informations de TVA et d'agrément */
-.tvaInfo {
-    margin-left: 20px;
-    font-size: 1rem;
+/* Conteneur pour le message d'absence de résultats */
+.noResultsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+/* Boîte d'avertissement stylisée */
+.warningBox {
+    padding: 1.5rem;
+    border-radius: 8px;
+    background-color: #fff3cd;
+    color: #856404;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ffeeba;
+    text-align: center;
+    max-width: 800px;
+    width: 100%;
+}
+
+/* Élément de la liste (résultat de l'électricien) */
+.listItem {
+    position: relative;
+    display: block; /* Force un comportement de bloc pour s'assurer que les marges fonctionnent */
+    padding: 1.5rem; /* Espacement interne */
+    background-color: var(--ifm-background-surface);
+    border-radius: 8px;
+    margin-bottom: 2rem; /* Marge entre chaque élément */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     color: var(--ifm-color-text);
-    margin-top: 5px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    line-height: 1.0; /* L'interligne reste inchangé */
+    border-bottom: 1px solid #ddd; /* Ligne de séparation */
+}
+
+/* Supprimer la ligne de séparation pour le dernier élément */
+.listItem:last-child {
+    border-bottom: none;
+}
+
+
+/* Numéro d'index en haut à droite */
+.index {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #c8c8c8;
+    opacity: 0.8;
+}
+
+/* Conteneur des résultats */
+.results {
+    display: flex;
+    flex-direction: column; /* Assure un affichage vertical */
+    gap: 2rem; /* Espacement entre les éléments */
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    justify-content: flex-start;
+}
+
+.contentContainer {
+    display: flex;
+    align-items: center; /* Centre le contenu verticalement */
+    justify-content: flex-start; /* Garde tout aligné à gauche */
+    gap: 20px; /* Plus d'espace entre le logo et le texte */
+}
+
+/* Conteneur des informations */
+.infoContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centre verticalement le texte */
+    gap: 8px; /* Espacement entre le nom de l'entreprise et les autres infos */
+    text-align: left;
+    line-height: 1.1; /* Réduction de l'interligne */
+}
+
+.starContainer {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+/* Style pour les étoiles pleines (couleur dorée) */
+.filledStar {
+    color: #FFD700; /* Couleur dorée */
+    font-size: 1.5rem; /* Taille ajustée des étoiles */
+}
+
+/* Style pour les demi-étoiles (couleur dorée mais un peu plus claire) */
+.halfStar {
+    color: #FFB74D; /* Couleur dorée mais un peu plus claire pour les demi-étoiles */
+    font-size: 1.5rem; /* Taille ajustée des étoiles */
+}
+
+/* Style pour les étoiles vides (gris clair) */
+.emptyStar {
+    color: #D3D3D3; /* Gris clair pour les étoiles vides */
+    font-size: 1.5rem; /* Taille ajustée des étoiles */
+}
+
+/* Ligne de séparation entre le logo et le texte */
+.separator {
+    border: none;
+    border-top: 2px solid #ddd; /* Crée une ligne horizontale de 2px */
+    margin: 1rem 0; /* Ajoute de l'espacement autour de la ligne */
+    width: 100%; /* S'étend sur toute la largeur */
+}
+
+/* Liste des résultats */
+.list {
+    display: flex;
+    flex-direction: column; /* Assure l'affichage en colonne */
+    gap: 1rem; /* Espacement entre les éléments de la liste */
+    margin: 0;
+    padding: 0;
+}
+
+/* Effet hover sur les éléments de la liste */
+.listItem:hover {
+    transform: scale(1.05); /* Légère augmentation de la taille */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0); /* Ombre plus forte */
+    background-color: var(--ifm-background-hover); /* Changement de fond au survol (peut être personnalisé) */
+    cursor: pointer; /* Change le curseur en pointeur pour indiquer que l'élément est cliquable */
+}
+
+/* Optionnel : Appliquer un fond plus clair au survol */
+.listItem:hover {
+    background-color: rgba(0, 0, 0, 0); /* Changer la couleur du fond au survol */
+}
+
+/* Modification de la bordure pour un effet plus visible */
+.listItem:hover {
+    border: 1px solid var(--ifm-color-primary); /* Appliquer une bordure colorée lors du survol */
 }

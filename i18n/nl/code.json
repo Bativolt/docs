@@ -511,5 +511,41 @@
   },
   "feature.description.ameliorationContinue": {
     "message": "Ons platform evolueert voortdurend om te voldoen aan de behoeften van gebruikers en zich aan te passen aan nieuwe normen. Geniet van regelmatige updates en nieuwe functies voor een steeds completere ondersteuning."
+  },
+  "search.title": {
+    "message": "Zoek een Elektricien op Postcode (Beta Versie)"
+  },
+  "search.placeholder": {
+    "message": "Voer postcode in..."
+  },
+  "search.button": {
+    "message": "Zoeken"
+  },
+  "search.hint": {
+    "message": "🕵️‍♂️ Voer de postcode van uw regio in en druk op \"Zoeken\" om gecertificeerde elektriciens te vinden die daar werken."
+  },
+  "search.tva": {
+    "message": "🔍 BTW-Nummer"
+  },
+  "search.registeredSince": {
+    "message": "📅 Geregistreerd Sinds"
+  },
+  "search.serviceArea": {
+    "message": "Werkgebied"
+  },
+  "search.openingHours": {
+    "message": "Openingstijden"
+  },
+  "search.phone": {
+    "message": "Telefoon"
+  },
+  "search.email": {
+    "message": "Email"
+  },
+  "search.website": {
+    "message": "Website"
+  },
+  "search.contactUs": {
+    "message": "📩 Neem nu contact met ons op via docs@bativolt.com om aan onze lijst te worden toegevoegd en een van de beste gecertificeerde elektriciens in de regio te worden. 🌟"
   }
 }
