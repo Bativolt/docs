@@ -298,6 +298,8 @@
     .searchBox {
         flex-direction: column;
         gap: 10px;
+        max-width: 80%;
+        width: 80%;
     }
 
     .input {
@@ -309,8 +311,8 @@
     .button {
         padding: 0.6rem 1.5rem;
         font-size: 1rem;
-        max-width: 100%;
-        width: 100%;
+        max-width: 80%;
+        width: 80%;
     }
 
     .listItem {
