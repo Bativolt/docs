@@ -290,6 +290,7 @@ const ElectricianSearch = () => {
                                 <p>📞 <strong>{translate({ id: 'search.phone', message: 'Téléphone' })}</strong> <a href={`tel:${electrician.phone}`}>{electrician.phone}</a></p>
                                 <p>✉️ <strong>{translate({ id: 'search.email', message: 'Email' })}</strong> <a href={`mailto:${electrician.email}`}>{electrician.email}</a></p>
                                 <p>🌐 <strong>{translate({ id: 'search.website', message: 'Site Internet' })}</strong> <a href={electrician.website} target="_blank" rel="noopener noreferrer">{electrician.website}</a></p>
+                                <p>⭐ <strong>Note :</strong> {renderStars(electrician.rating)} ({electrician.rating}/5)</p>
                             </li>
                         ))}
                     </ul>

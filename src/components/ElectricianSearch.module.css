@@ -157,7 +157,7 @@
     max-width: 100%;
     width: 100%;
     margin: 0 auto;
-    line-height: 1.0; /* L'interligne reste inchangé */
+    line-height: 1.5; /* L'interligne reste inchangé */
     border-bottom: 1px solid #ddd; /* Ligne de séparation */
 }
 
@@ -166,6 +166,10 @@
     border-bottom: none;
 }
 
+
+.listItem p {
+    margin-bottom: 0.8rem; /* Ajoute de l'espace entre les paragraphes */
+}
 
 /* Numéro d'index en haut à droite */
 .index {
