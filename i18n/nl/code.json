@@ -513,7 +513,7 @@
     "message": "Ons platform evolueert voortdurend om te voldoen aan de behoeften van gebruikers en zich aan te passen aan nieuwe normen. Geniet van regelmatige updates en nieuwe functies voor een steeds completere ondersteuning."
   },
   "search.title": {
-    "message": "Zoek een Elektricien op Postcode (Beta Versie)"
+    "message": "Zoek een Elektricien op Postcode"
   },
   "search.placeholder": {
     "message": "Voer postcode in..."
@@ -525,7 +525,7 @@
     "message": "🕵️‍♂️ Voer de postcode van uw regio in en druk op \"Zoeken\" om gecertificeerde elektriciens te vinden die daar werken."
   },
   "search.tva": {
-    "message": "🔍 BTW-n°"
+    "message": "🔍 BTW-"
   },
   "search.registeredSince": {
     "message": "📅 Geregistreerd Sinds"
