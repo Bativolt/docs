@@ -547,5 +547,8 @@
   },
   "search.contactUs": {
     "message": "📩 Contact us now at docs@bativolt.com to be added to our list and become one of the best certified electricians in the area. 🌟"
+  },
+  "search.invalidPostalCode": {
+      "message": "The postal code entered is not recognized. Please check the postal code you entered."
   }
 }

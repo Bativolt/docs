@@ -264,3 +264,92 @@
 .listItem:hover {
     border: 1px solid var(--ifm-color-primary); /* Appliquer une bordure colorée lors du survol */
 }
+
+.warningContainer {
+    background-color: #f8d7da;
+    border: 1px solid #f5c2c7;
+    color: #842029;
+    padding: 16px;
+    border-radius: 8px;
+    margin: 16px 0;
+    font-size: 0.95em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.warningIcon {
+    font-size: 1.5em;
+    color: #842029;
+}
+
+/* Media query pour les écrans de 600px et moins (mobile) */
+@media (max-width: 600px) {
+    .container {
+        padding: 1rem;
+        max-width: 100%;
+    }
+
+    .title {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .searchBox {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .input {
+        padding: 0.8rem;
+        font-size: 1rem;
+        border-radius: 6px;
+    }
+
+    .button {
+        padding: 0.6rem 1.5rem;
+        font-size: 1rem;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .listItem {
+        padding: 1rem;
+        margin-bottom: 1rem;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 6px;
+    }
+
+    .logo {
+        max-height: 50px;
+        max-width: 70px;
+    }
+
+    .companyName {
+        font-size: 1.2rem;
+    }
+
+    .tvaInfo {
+        font-size: 0.85rem;
+    }
+
+    .warningContainer {
+        padding: 1rem;
+        font-size: 0.9rem;
+        gap: 8px;
+        border-radius: 6px;
+    }
+
+    .warningIcon {
+        font-size: 1.2em;
+    }
+
+    .noResultsContainer {
+        padding: 0.5rem;
+    }
+
+    .separator {
+        margin: 0.5rem 0;
+        border-top: 1px solid #ddd;
+    }
+}

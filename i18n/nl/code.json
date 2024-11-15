@@ -547,5 +547,8 @@
   },
   "search.contactUs": {
     "message": "📩 Neem nu contact met ons op via docs@bativolt.com om aan onze lijst te worden toegevoegd en een van de beste gecertificeerde elektriciens in de regio te worden. 🌟"
+  },
+  "search.invalidPostalCode": {
+    "message": "De ingevoerde postcode wordt niet herkend. Controleer de ingevoerde postcode."
   }
 }
