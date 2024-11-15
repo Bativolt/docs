@@ -97,9 +97,9 @@
 
 /* Informations TVA et agréation */
 .tvaInfo {
-    font-size: 0.9rem; /* Taille légèrement réduite pour compacter */
-    margin-top: 2px; /* Réduction de la marge supérieure */
-    line-height: 1; /* Réduction de l'interligne */
+    font-size: 0.9rem;
+    margin-top: 2px;
+    line-height: 1.5; /* Augmenter la valeur pour plus d'espace */
     word-wrap: break-word;
 }
 

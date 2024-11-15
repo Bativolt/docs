@@ -63,7 +63,7 @@ const postalCodeMap = {
             '1400': 'Monstreux | Nivelles', '1401': 'Baulers', '1402': 'Thines', '1404': 'Bornival', '1410': 'Waterloo', '1414': 'Promo-Control', '1420': 'Braine-l\'Alleud', '1421': 'Ophain-Bois-Seigneur-Isaac', '1428': 'Lillois-Witterzée', '1430': 'Rebecq, Bierghes, Quenast, Rebecq-Rognon', '1435': 'Corbais, Hévillers, Mont-Saint-Guibert', '1440': 'Braine-le-Château, Wauthier-Braine', '1450': 'Chastre, Chastre-Villeroux-Blanmont, Cortil-Noirmont, Gentinnes, Saint-Géry', '1457': 'Walhain, Nil-Saint-Vincent-Saint-Martin, Tourinnes-Saint-Lambert, Walhain-Saint-Paul', '1460': 'Ittre, Virginal-Samme', '1461': 'Haut-Ittre', '1470': 'Baisy-Thy, Bousval, Genappe', '1471': 'Loupoigne', '1472': 'Vieux-Genappe', '1473': 'Glabais', '1474': 'Ways', '1476': 'Houtain-le-Val', '1480': 'Clabecq, Oisquercq, Saintes, Tubize', '1490': 'Court-Saint-Étienne', '1495': 'Marbais, Mellery, Sart-Dames-Avelines, Tilly, Villers-la-Ville',
             '1500': 'Halle | Hal', '1501': 'Buizingen', '1502': 'Lembeek', '1540': 'Herfelingen | Herne (Hérinnes)', '1541': 'Sint-Pieters-Kapelle | Saint-Pierre-Capelle', '1547': 'Biévène | Bever', '1560': 'Hoeilaart', '1570': 'Galmaarden (Gammerages), Tollembeek, Vollezele',
             '1600': 'Oudenaken, Sint-Laureins-Berchem, Sint-Pieters-Leeuw (Leeuw-Saint-Pierre)', '1601': 'Ruisbroek', '1602': 'Vlezenbeek', '1620': 'Drogenbos', '1630': 'Linkebeek', '1640': 'Sint-Genesius-Rode (Rhode-Saint-Genèse)', '1650': 'Beersel', '1651': 'Lot', '1652': 'Alsemberg', '1653': 'Dworp (Tourneppe)', '1654': 'Huizingen', '1670': 'Bogaarden, Heikruis (Haute-Croix), Pepingen', '1671': 'Elingen', '1673': 'Brages', '1674': 'Bellingen',
-            '1700': 'Dilbeek, Sint-Martens-Bodegem (Bodeghem-Saint-Martin), Chapelle-Saint-Ulric', '1701': 'Itterbeek', '1702': 'Groot-Bijgaarden (Grand-Bigard)', '1703': 'Schepdaal', '1730': 'Asse, Bekkerzeel, Kobbegem (Kobbegem), Mollem', '1731': 'Relegem (Releghem), Zellik', '1740': 'Ternat', '1741': 'Wambeek', '1742': 'Sint-Katherina-Lombeek (Lombeek-Sainte-Catherine)', '1745': 'Mazenzele', '1745': 'Opwijk', '1750': 'Gaasbeek, Lennik, Sint-Kwintens-Lennik, Sint-Martens-Lennik', '1755': 'Gooik, Kester, Leerbeek, Oetingen', '1760': 'Onze-Lieve-Vrouw-Lombeek (Lombeek-Notre-Dame), Pamel, Roosdaal, Strijtem', '1761': 'Borchtlombeek', '1770': 'Liedekerke', '1780': 'Wemmel', '1785': 'Brussegem, Hamme, Merchtem', '1790': 'Affligem, Essene, Hekelgem, Teralfene',
+            '1700': 'Dilbeek, Sint-Martens-Bodegem, Sint-Ulriks-Kapelle', '1701': 'Itterbeek', '1702': 'Groot-Bijgaarden (Grand-Bigard)', '1703': 'Schepdaal', '1730': 'Asse, Bekkerzeel, Kobbegem, Mollem', '1731': 'Relegem, Zellik', '1740': 'Ternat', '1741': 'Wambeek', '1742': 'Sint-Katherina-Lombeek', '1745': 'Mazenzele', '1745': 'Opwijk', '1750': 'Gaasbeek, Lennik, Sint-Kwintens-Lennik, Sint-Martens-Lennik', '1755': 'Gooik, Kester, Leerbeek, Oetingen', '1760': 'Onze-Lieve-Vrouw-Lombeek, Pamel, Roosdaal, Strijtem', '1761': 'Borchtlombeek', '1770': 'Liedekerke', '1780': 'Wemmel', '1785': 'Brussegem, Hamme, Merchtem', '1790': 'Affligem, Essene, Hekelgem, Teralfene',
             '1800': 'Peutie, Vilvoorde (Vilvorde)', '1804': 'Cargovil', '1818': 'Vlaamse Televisie Maatschappij (VTM, télévision privée flamande)', '1820': 'Melsbroek, Perk, Steenokkerzeel', '1830': 'Machelen', '1831': 'Diegem', '1840': 'Londerzeel, Malderen, Steenhuffel', '1850': 'Grimbergen', '1851': 'Humbeek', '1852': 'Beigem', '1853': 'Strombeek-Bever', '1860': 'Meise', '1861': 'Wolvertem', '1880': 'Capelle-au-Bois, Nieuwenrode, Ramsdonk',
             '1910': 'Berg, Buken, Kampenhout, Nederokkerzeel', '1930': 'Nossegem, Zaventem', '1931': 'Brucargo', '1932': 'Sint-Stevens-Woluwe (Woluwe-Saint-Étienne)', '1933': 'Sterrebeek', '1934': 'Bruxelles X-Aéroport Remailing', '1935': 'Corporate Village', '1950': 'Kraainem', '1970': 'Wezembeek-Oppem', '1980': 'Eppegem, Zemst', '1981': 'Hofstade', '1982': 'Elewijt, Weerde',
             // 2000
@@ -192,9 +192,6 @@ const ElectricianSearch = () => {
             resultsContainer.style.gap = '2rem'; // Applique un écart de 2rem entre chaque élément
         }
     };
-    
-    
-
 
     // Détecter l'appui sur la touche "Enter" pour lancer la recherche
     const handleKeyDown = (event) => {
@@ -281,7 +278,8 @@ const ElectricianSearch = () => {
                                     <div className={styles.infoContainer}>
                                         <h3 className={styles.companyName}>{electrician.company}</h3>
                                         <p className={styles.tvaInfo}>
-                                            {translate({ id: 'search.tva', message: '🔍 N° TVA' })} : {electrician.tva} ✅ | {translate({ id: 'search.registeredSince', message: '📅 Agréé depuis' })} : {electrician.registeredSince}
+                                            {translate({ id: 'search.tva', message: '🔍 n° TVA' })} : {electrician.tva} ✅ <br />
+                                            {translate({ id: 'search.registeredSince', message: '📅 Agréé depuis' })} : {electrician.registeredSince}
                                         </p>
                                     </div>
                                 </div>
@@ -297,7 +295,7 @@ const ElectricianSearch = () => {
                 ) : (
                     isSearched && (
                         <div className={styles.noResultsContainer}>
-                            {!isValidPostalCode(commune) ? (
+                            {!isValidPostalCode(query) ? (
                                 <div className={styles.warningContainer}>
                                 <span className={styles.warningIcon}>⚠️</span>
                                 {translate({
@@ -305,7 +303,7 @@ const ElectricianSearch = () => {
                                     message: `Le code postal introduit n'est pas reconnu. Veuillez vérifier le code postal saisi.`,
                                 })}
                                 </div>
-                            ) : (
+                                ) : (
                                 <div className={styles.warningBox}>
                                     {translate({
                                         id: 'search.noResults',
