@@ -32,7 +32,7 @@ const electricians = [
         company: 'ABC ELEC',
         logo: 'ABCelec-logo.jpeg',
         address: 'Ninoofsesteenweg 115A, 1700 Dilbeek, Belgique',
-        tva: 'BE 0833 751 325',
+        tva: 'BE0833.751.325',
         verified: true,
         registeredSince: '1982',
         postalCodes: Array.from(new Set([
@@ -238,9 +238,10 @@ const ElectricianSearch = () => {
     
     return (
         <div className={styles.container}>
-            <h2 className={styles.title}>
-                {translate({ id: 'search.title', message: 'Recherchez un Électricien par Code Postal (Beta Version)' })}
-            </h2>
+        <h2 className={styles.title}>
+            {translate({ id: 'search.title', message: 'Recherchez un Électricien par Code Postal' })} <br />
+            (Beta Version)
+        </h2>
             <div className={styles.searchBox}>
                 <input
                     type="text"

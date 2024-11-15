@@ -46,6 +46,7 @@
     transition: border-color 0.3s, box-shadow 0.3s;
     background-color: var(--ifm-background-surface);
     color: var(--ifm-color-text);
+    text-align: center; /* Centre le texte dans l'input */
 }
 
 .input::placeholder {
@@ -298,21 +299,22 @@
     .searchBox {
         flex-direction: column;
         gap: 10px;
-        max-width: 80%;
-        width: 80%;
+        max-width: 100%;
+        width: 100%;
     }
 
     .input {
         padding: 0.8rem;
         font-size: 1rem;
         border-radius: 6px;
+        text-align: center; /* Centre le texte dans l'input */
     }
 
     .button {
         padding: 0.6rem 1.5rem;
         font-size: 1rem;
-        max-width: 80%;
-        width: 80%;
+        max-width: 1000%;
+        width: 100%;
     }
 
     .listItem {
@@ -359,4 +361,9 @@
         margin: 0.5rem 0;
         border-top: 1px solid #ddd;
     }
+}
+
+.inputError {
+    border: 2px solid red;
+    transition: border-color 0.3s ease;
 }
