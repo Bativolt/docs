@@ -318,6 +318,11 @@
         margin-bottom: 1rem;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
         border-radius: 6px;
+        line-height: 1.5; /* Augmente l'espacement entre les lignes */
+    }
+    
+    .listItem p {
+        margin-bottom: 0.8rem; /* Ajoute de l'espace entre les paragraphes */
     }
 
     .logo {
