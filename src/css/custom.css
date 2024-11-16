@@ -1,7 +1,5 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Custom CSS pour Docusaurus, avec des tailles flexibles pour le titre, le sous-titre et le bouton.
  */
 
 /* Couleurs principales pour les deux modes */
@@ -15,73 +13,68 @@
   --ifm-color-primary-lightest: #ffc34d;
 }
 
-/* Mode sombre : appliquer le fond sombre et adapter les couleurs */
+/* Mode sombre */
 [data-theme='dark'] {
-  --ifm-background-color: #1e1e1e; /* Fond sombre */
-  --ifm-color-primary: #ffaa00; /* Couleur primaire orange */
-  --ifm-navbar-background-color: #1e1e1e; /* Couleur du fond de la navbar */
-  --ifm-color-text: #ffffff; /* Texte blanc pour meilleure lisibilité */
-  --ifm-code-color: #ffaa00; /* Texte du code en orange */
+  --ifm-background-color: #1e1e1e;
+  --ifm-color-primary: #ffaa00;
+  --ifm-navbar-background-color: #1e1e1e;
+  --ifm-color-text: #ffffff;
+  --ifm-code-color: #ffaa00;
+}
+
+/* Style de la navbar */
+.navbar {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+/* Titre principal (H1) avec taille flexible, max 2rem */
+.hero__title {
+  font-size: clamp(1.2rem, 3vw, 2rem);
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* Sous-titre avec taille flexible, max 1rem */
+.hero__subtitle {
+  font-size: clamp(0.8rem, 2vw, 1rem);
+  line-height: 1.3;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+/* Bouton avec taille flexible */
+.button {
+  font-size: clamp(0.8rem, 2.5vw, 1.2rem);
+  padding: clamp(0.5rem, 1vw, 1rem) clamp(1rem, 2vw, 2rem);
+  border-radius: 8px;
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-text);
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+/* Effet au survol du bouton */
+.button:hover {
+  background-color: var(--ifm-color-primary-dark);
+}
+
+/* Ajustement pour le padding de la bannière sur petits écrans */
+.heroBanner {
+  padding: clamp(2rem, 5vw, 4rem);
 }
 
 /* Empêcher le retour à la ligne des éléments du menu */
 .navbar__item {
-  white-space: nowrap; /* Empêche le retour à la ligne */
-  overflow: hidden; /* Cache le texte qui dépasse */
-  text-overflow: ellipsis; /* Ajoute des points de suspension (...) pour le texte tronqué */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-/* Ajustez le style de la navbar */
+/* Permettre le wrapping dans la navbar si nécessaire */
 .navbar {
-  display: flex; /* Assure que les éléments sont alignés horizontalement */
-  flex-wrap: nowrap; /* Empêche les éléments de se déplacer à la ligne suivante */
-}
-
-.banner {
-  padding: 4rem;
-}
-/** In mobile view, reduce the padding */
-@media screen and (max-width: 1700px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
-/* Désactiver temporairement les effets de wrap et overflow pour tester */
-.navbar__item {
-  white-space: normal; /* Permettre le retour à la ligne pour tester */
-  overflow: visible; /* Affiche tout le contenu */
-  text-overflow: clip; /* Retire les points de suspension */
-}
-
-/* Permettre le wrapping dans la navbar pour tester */
-.navbar {
-  display: flex;
-  flex-wrap: wrap; /* Permet aux éléments de passer à la ligne suivante */
-  align-items: center;
-}
-
-/* Ajuster la taille du titre et du sous-titre en version mobile */
-@media only screen and (max-width: 768px) {
-  .hero__title {
-    font-size: 24px; /* Taille du titre pour les tablettes et mobiles */
-    line-height: 1.2;
-  }
-
-  .hero__subtitle {
-    font-size: 18px; /* Taille du sous-titre pour les tablettes et mobiles */
-    line-height: 1.3;
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  .hero__title {
-    font-size: 24px; /* Taille du titre pour les petits écrans */
-    line-height: 1.1;
-  }
-
-  .hero__subtitle {
-    font-size: 18px; /* Taille du sous-titre pour les petits écrans */
-    line-height: 1.2;
-  }
+  flex-wrap: wrap;
 }

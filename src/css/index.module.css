@@ -27,26 +27,4 @@
     text-decoration: none;
     color: black; /* Couleur des liens */
 }
-
-/* Forcer le mode mobile en dessous de 1600px */
-@media screen and (max-width: 1600px) {
-    .navbar__items,
-    .navbar__brand {
-      display: none;
-    }
-  
-    .navbar__toggle {
-      display: block;
-    }
-  
-    .menu__list {
-      display: flex;
-      flex-direction: column;
-    }
-  
-    .footer__links {
-      flex-direction: column;
-      text-align: center;
-    }
-  }
   

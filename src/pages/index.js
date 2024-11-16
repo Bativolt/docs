@@ -105,14 +105,20 @@ function HomepageHeader() {
       <div id="particles-js" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: -1 }}></div>
       
       <div className="container" style={{ position: 'relative', zIndex: 1 }}>
-        <h1 className="hero__title">
-          <Translate>docs.bativolt.com - Le Guide RGIE et la Référence en Documentation de Conformité Électrique en Belgique</Translate>
-        </h1>
-        <p className="hero__subtitle">
-          <Translate>
-            Accédez à des ressources complètes pour la conformité électrique : guide RGIE, conseils pratiques, et mise en relation avec des agences de conformité et électriciens agréés, gratuitement.
-          </Translate>
-        </p>
+      <h1 className="hero__title">
+            <div>
+              <Translate>Bienvenue sur le Guide RGIE de Bativolt</Translate>
+              <br />
+              <Translate>Votre Référence en Conformité Électrique et Documentation des Installations en Belgique</Translate>
+              <br />
+              <Translate>Accédez à des Ressources pour Particuliers, Professionnels, et Électriciens Agréés</Translate>
+            </div>
+          </h1>
+          <p className="hero__subtitle">
+            <Translate>
+              Explorez notre Guide Complet du RGIE : Schémas Électriques, Conseils de Conformité, Assistance Gratuite pour la Sécurité et la Mise aux Normes des Installations, et Accès Direct aux Électriciens et Agences Agréées.
+            </Translate>
+          </p>
         <div className={styles.buttons}>
           <Link
             className={clsx(styles.ctaButton)}
