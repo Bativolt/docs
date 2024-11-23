@@ -16,7 +16,7 @@ const FeatureList = [
     }),
     description: translate({
       id: 'feature.description.accessSimple',
-      message: 'Découvrez un accès facile aux ressources du Règlement Général sur les Installations Électriques (RGIE), structurées de manière claire et accessible. Notre interface est conçue pour vous permettre de naviguer efficacement dans les exigences de conformité électrique, que vous soyez novice ou professionnel.',
+      message: 'Découvrez un accès facile aux ressources du Règlement Général sur les Installations Électriques, structurées de manière claire et accessible. Notre interface est conçue pour vous permettre de naviguer efficacement dans les exigences de conformité électrique, que vous soyez novice ou professionnel.',
     }),
   },
   {

@@ -242,20 +242,42 @@ const ElectricianSearch = () => {
             {translate({ id: 'search.title', message: 'Recherchez un Électricien par Code Postal' })} <br />
             (Beta Version)
         </h2>
-            <div className={styles.searchBox}>
-                <input
-                    type="text"
-                    className={styles.input}
-                    placeholder={translate({ id: 'search.placeholder', message: 'Entrez le code postal...' })}
-                    value={query}
-                    onChange={(e) => setQuery(e.target.value)}
-                    onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
-                />
-                <button className={styles.button} onClick={handleSearch}>
+        <div className={styles.searchBox}>
+    <input
+        type="text"
+        className={styles.input}
+        placeholder={translate({ id: 'search.placeholder', message: 'Entrez le code postal...' })}
+        value={query}
+            onChange={(e) => {
+                // Filtrer les caractères non numériques et limiter à 4 chiffres
+                const value = e.target.value;
+                if (/^\d{0,4}$/.test(value)) {
+                    setQuery(value);
+                }
+                    }}
+                    onKeyDown={(e) => {
+                        if (e.key === 'Enter') {
+                            if (/^\d{4}$/.test(query)) {
+                                handleSearch();
+                            } else {
+                                setIsSearched(false);
+                            }
+                        }
+                    }}
+            />
+                <button
+                    className={styles.button}
+                    onClick={() => {
+                        if (/^\d{4}$/.test(query)) {
+                            handleSearch();
+                        } else {
+                            setIsSearched(false);
+                        }
+                    }}
+                >
                     {translate({ id: 'search.button', message: 'Rechercher' })}
                 </button>
             </div>
-
             <div className={styles.results}>
                 {!isSearched && (
                     <p className={styles.searchHint}>
