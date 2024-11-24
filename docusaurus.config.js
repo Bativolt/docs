@@ -65,7 +65,13 @@ const config = {
       src: '/analytics.js',
       type: 'text/javascript',
     },
+    // Script pour le menu hamburger
+    {
+      src: '/customNavbar.js',
+      type: 'text/javascript',
+    },
   ],
+  
   
   
 

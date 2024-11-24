@@ -1,35 +1,112 @@
-/**
- * Custom CSS pour Docusaurus, avec des tailles flexibles pour le titre, le sous-titre et le bouton.
- */
-
-/* Couleurs principales pour les deux modes */
+/* Couleurs principales */
 :root {
   --ifm-color-primary: #ffaa00;
   --ifm-color-primary-dark: #e69900;
-  --ifm-color-primary-darker: #d99000;
-  --ifm-color-primary-darkest: #b37700;
-  --ifm-color-primary-light: #ffb31a;
-  --ifm-color-primary-lighter: #ffb726;
-  --ifm-color-primary-lightest: #ffc34d;
+  --ifm-color-primary-light: #ffb726;
+  --ifm-background-color: #ffffff;
+  --ifm-color-text: #000000;
 }
 
 /* Mode sombre */
 [data-theme='dark'] {
   --ifm-background-color: #1e1e1e;
-  --ifm-color-primary: #ffaa00;
-  --ifm-navbar-background-color: #1e1e1e;
   --ifm-color-text: #ffffff;
-  --ifm-code-color: #ffaa00;
+  --ifm-color-primary: #ffaa00;
 }
 
-/* Style de la navbar */
+/* Navbar générale */
 .navbar {
   display: flex;
-  flex-wrap: nowrap;
+  justify-content: space-between;
   align-items: center;
+  padding: 10px 20px;
+  background-color: var(--ifm-background-color);
+  border-bottom: 1px solid #ddd;
+  flex-wrap: nowrap;
 }
 
-/* Titre principal (H1) avec taille flexible, max 2rem */
+/* Navigation items */
+.navLinks {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  margin: 0;
+}
+
+/* Lien du menu */
+.navLinks a {
+  text-decoration: none;
+  color: var(--ifm-color-text);
+  transition: color 0.3s ease-in-out;
+}
+
+.navLinks a:hover {
+  color: var(--ifm-color-primary);
+}
+
+/* Bouton hamburger pour les petits écrans */
+.navbarToggle {
+  display: none;
+  cursor: pointer;
+}
+
+.navbarToggle span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px 0;
+  background-color: var(--ifm-color-text);
+  transition: background-color 0.3s ease-in-out;
+}
+
+/* Comportement responsive pour la navbar */
+@media (max-width: 1300px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbarToggle {
+    display: block; /* Affiche le bouton hamburger */
+  }
+
+  .navLinks {
+    display: none; /* Masque les liens par défaut */
+    flex-direction: column; /* Passe les liens en colonne */
+    width: 100%; /* Prend toute la largeur */
+    padding: 10px 0;
+    background-color: var(--ifm-background-color);
+    border-top: 1px solid #ddd;
+  }
+
+  .navLinks.active {
+    display: flex; /* Affiche les liens lorsqu’ils sont activés */
+  }
+}
+
+
+/* Footer */
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-color-text);
+  text-align: center;
+}
+
+.footer a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: var(--ifm-color-primary-dark);
+}
+
+/* Héros */
 .hero__title {
   font-size: clamp(1.2rem, 3vw, 2rem);
   line-height: 1.2;
@@ -37,7 +114,6 @@
   margin-bottom: 1rem;
 }
 
-/* Sous-titre avec taille flexible, max 1rem */
 .hero__subtitle {
   font-size: clamp(0.8rem, 2vw, 1rem);
   line-height: 1.3;
@@ -45,7 +121,6 @@
   margin-bottom: 1.5rem;
 }
 
-/* Bouton avec taille flexible */
 .button {
   font-size: clamp(0.8rem, 2.5vw, 1.2rem);
   padding: clamp(0.5rem, 1vw, 1rem) clamp(1rem, 2vw, 2rem);
@@ -57,24 +132,10 @@
   transition: background-color 0.2s ease-in-out;
 }
 
-/* Effet au survol du bouton */
 .button:hover {
   background-color: var(--ifm-color-primary-dark);
 }
 
-/* Ajustement pour le padding de la bannière sur petits écrans */
 .heroBanner {
   padding: clamp(2rem, 5vw, 4rem);
-}
-
-/* Empêcher le retour à la ligne des éléments du menu */
-.navbar__item {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-/* Permettre le wrapping dans la navbar si nécessaire */
-.navbar {
-  flex-wrap: wrap;
 }
